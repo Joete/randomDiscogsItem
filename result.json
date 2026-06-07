@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-07T11:50:49.618877+00:00",
+  "generated_at": "2026-06-07T17:09:11.139844+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 28537558,
-    "discogs_id": 28537558,
-    "title": "AM",
-    "artist": "Arctic Monkeys",
-    "year": 2023,
-    "cover_image": "https://i.discogs.com/dza6e8PlfwP5-BZeZTKfl5SRpUJIWYNiZvIZ1lhwpOg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTM3/NTU4LTE2OTY4MDA3/NTAtMjQyOC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/a6czlqP3-6EuRGYnpVSHZiWdcw9lSsN6G6Vp2W6dZMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTM3/NTU4LTE2OTY4MDA3/NTAtMjQyOC5qcGVn.jpeg",
+    "id": 7132351,
+    "discogs_id": 7132351,
+    "title": "Substance",
+    "artist": "Joy Division",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/De9jXNLkJcjlCxQ1sHCR3jdS4cLhWNCnEWTyCKt8jrM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzIz/NTEtMTc0Mjc1Mzg1/MS03MDUyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/0Mj7gliyy_3dC1Rk8xEw_laMRUs3O3DozAR4mAbWG4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzIz/NTEtMTc0Mjc1Mzg1/MS03MDUyLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock"
+      "New Wave",
+      "Post-Punk",
+      "Punk"
     ],
-    "label": "Domino",
-    "discogs_url": "https://www.discogs.com/release/28537558"
+    "label": "Factory",
+    "discogs_url": "https://www.discogs.com/release/7132351"
   }
 }
