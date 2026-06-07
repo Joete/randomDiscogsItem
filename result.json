@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-06-01T06:00:00+00:00",
+  "total_in_collection": 0,
+  "result": {
+    "id": null,
+    "discogs_id": null,
+    "title": "Wird beim ersten Workflow-Run befüllt",
+    "artist": "—",
+    "year": null,
+    "cover_image": "",
+    "thumb": "",
+    "genres": [],
+    "styles": [],
+    "label": "",
+    "discogs_url": ""
+  }
+}
