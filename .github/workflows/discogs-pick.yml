@@ -1,0 +1,43 @@
+name: Discogs Random Pick
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 06:00 Berliner Zeit (UTC+2/CEST)
+    - cron: "0 10 * * *"  # 12:00 Berliner Zeit (UTC+2/CEST)
+    - cron: "0 16 * * *"  # 18:00 Berliner Zeit (UTC+2/CEST)
+
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zufälliges Album wählen
+        env:
+          DISCOGS_CONSUMER_KEY:    ${{ secrets.DISCOGS_CONSUMER_KEY }}
+          DISCOGS_CONSUMER_SECRET: ${{ secrets.DISCOGS_CONSUMER_SECRET }}
+          DISCOGS_USERNAME:        ${{ secrets.DISCOGS_USERNAME }}
+        run: python scripts/pick_random.py
+
+      - name: result.json committen & pushen
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add result.json
+          git diff --cached --quiet || git commit -m "chore: discogs random pick [skip ci]"
+          git push
