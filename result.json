@@ -1,17 +1,22 @@
 {
-  "generated_at": "2026-06-01T06:00:00+00:00",
-  "total_in_collection": 0,
+  "generated_at": "2026-06-07T11:50:49.618877+00:00",
+  "total_in_collection": 1154,
   "result": {
-    "id": null,
-    "discogs_id": null,
-    "title": "Wird beim ersten Workflow-Run befüllt",
-    "artist": "—",
-    "year": null,
-    "cover_image": "",
-    "thumb": "",
-    "genres": [],
-    "styles": [],
-    "label": "",
-    "discogs_url": ""
+    "id": 28537558,
+    "discogs_id": 28537558,
+    "title": "AM",
+    "artist": "Arctic Monkeys",
+    "year": 2023,
+    "cover_image": "https://i.discogs.com/dza6e8PlfwP5-BZeZTKfl5SRpUJIWYNiZvIZ1lhwpOg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTM3/NTU4LTE2OTY4MDA3/NTAtMjQyOC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/a6czlqP3-6EuRGYnpVSHZiWdcw9lSsN6G6Vp2W6dZMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTM3/NTU4LTE2OTY4MDA3/NTAtMjQyOC5qcGVn.jpeg",
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "label": "Domino",
+    "discogs_url": "https://www.discogs.com/release/28537558"
   }
 }
