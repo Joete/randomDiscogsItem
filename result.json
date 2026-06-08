@@ -1,25 +1,22 @@
 {
-  "generated_at": "2026-06-08T14:01:31.689837+00:00",
+  "generated_at": "2026-06-08T18:21:54.006109+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 15958192,
-    "discogs_id": 15958192,
-    "title": "Automatic",
-    "artist": "Mildlife",
-    "year": 2020,
-    "cover_image": "https://i.discogs.com/kVICbKRSpPP_LRBQIbNzS5RwkwG_BkUq7i61Fko2xoI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU4/MTkyLTE2MTg5NTc1/MzAtNDIyMi5wbmc.jpeg",
-    "thumb": "https://i.discogs.com/vwL8z8R4WRysaLURveij5IG7-Uh5qKxMptF3FwWssp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU4/MTkyLTE2MTg5NTc1/MzAtNDIyMi5wbmc.jpeg",
+    "id": 4651028,
+    "discogs_id": 4651028,
+    "title": "Howlin",
+    "artist": "Jagwar Ma",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/5OjtVDuHX_3cHGM0nj_rCkzB5n_mYmKR-GQRfdUlsWY/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTEw/MjgtMTM3MTA5NDA3/OC0zODUyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/fqhgbGcTicQ3Sm0vawzI0FExnOSJytxzxFwQz1k-NSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTEw/MjgtMTM3MTA5NDA3/OC0zODUyLmpwZWc.jpeg",
     "genres": [
       "Electronic",
-      "Jazz",
       "Rock"
     ],
     "styles": [
-      "Krautrock",
-      "Jazz-Funk",
-      "Disco"
+      "Indie Rock"
     ],
-    "label": "Heavenly",
-    "discogs_url": "https://www.discogs.com/release/15958192"
+    "label": "Marathon Artists",
+    "discogs_url": "https://www.discogs.com/release/4651028"
   }
 }
