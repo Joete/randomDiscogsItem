@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-07T17:09:11.139844+00:00",
+  "generated_at": "2026-06-08T08:58:18.972975+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 7132351,
-    "discogs_id": 7132351,
-    "title": "Substance",
-    "artist": "Joy Division",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/De9jXNLkJcjlCxQ1sHCR3jdS4cLhWNCnEWTyCKt8jrM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzIz/NTEtMTc0Mjc1Mzg1/MS03MDUyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/0Mj7gliyy_3dC1Rk8xEw_laMRUs3O3DozAR4mAbWG4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzIz/NTEtMTc0Mjc1Mzg1/MS03MDUyLmpwZWc.jpeg",
+    "id": 13888965,
+    "discogs_id": 13888965,
+    "title": "Anima",
+    "artist": "Thom Yorke",
+    "year": 2019,
+    "cover_image": "https://i.discogs.com/4c-xSQ-o6Gllx60-eCdB_5OZui7fWn1smPeSRgYOePc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM1NjQy/ODktNzk3MC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/YO0FB1FT2_2qNgJhQ9pKOLOvVEJp6fLgCn2usZmZQJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM1NjQy/ODktNzk3MC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "New Wave",
-      "Post-Punk",
-      "Punk"
+      "Ambient",
+      "Experimental",
+      "IDM"
     ],
-    "label": "Factory",
-    "discogs_url": "https://www.discogs.com/release/7132351"
+    "label": "XL Recordings",
+    "discogs_url": "https://www.discogs.com/release/13888965"
   }
 }
