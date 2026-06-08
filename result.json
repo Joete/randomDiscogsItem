@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-06-08T08:58:18.972975+00:00",
+  "generated_at": "2026-06-08T14:01:31.689837+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 13888965,
-    "discogs_id": 13888965,
-    "title": "Anima",
-    "artist": "Thom Yorke",
-    "year": 2019,
-    "cover_image": "https://i.discogs.com/4c-xSQ-o6Gllx60-eCdB_5OZui7fWn1smPeSRgYOePc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM1NjQy/ODktNzk3MC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/YO0FB1FT2_2qNgJhQ9pKOLOvVEJp6fLgCn2usZmZQJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg4/OTY1LTE1NjM1NjQy/ODktNzk3MC5qcGVn.jpeg",
+    "id": 15958192,
+    "discogs_id": 15958192,
+    "title": "Automatic",
+    "artist": "Mildlife",
+    "year": 2020,
+    "cover_image": "https://i.discogs.com/kVICbKRSpPP_LRBQIbNzS5RwkwG_BkUq7i61Fko2xoI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU4/MTkyLTE2MTg5NTc1/MzAtNDIyMi5wbmc.jpeg",
+    "thumb": "https://i.discogs.com/vwL8z8R4WRysaLURveij5IG7-Uh5qKxMptF3FwWssp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU4/MTkyLTE2MTg5NTc1/MzAtNDIyMi5wbmc.jpeg",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Jazz",
+      "Rock"
     ],
     "styles": [
-      "Ambient",
-      "Experimental",
-      "IDM"
+      "Krautrock",
+      "Jazz-Funk",
+      "Disco"
     ],
-    "label": "XL Recordings",
-    "discogs_url": "https://www.discogs.com/release/13888965"
+    "label": "Heavenly",
+    "discogs_url": "https://www.discogs.com/release/15958192"
   }
 }
