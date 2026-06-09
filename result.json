@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-06-08T18:21:54.006109+00:00",
+  "generated_at": "2026-06-09T07:55:37.790810+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 4651028,
-    "discogs_id": 4651028,
-    "title": "Howlin",
-    "artist": "Jagwar Ma",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/5OjtVDuHX_3cHGM0nj_rCkzB5n_mYmKR-GQRfdUlsWY/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTEw/MjgtMTM3MTA5NDA3/OC0zODUyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/fqhgbGcTicQ3Sm0vawzI0FExnOSJytxzxFwQz1k-NSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTEw/MjgtMTM3MTA5NDA3/OC0zODUyLmpwZWc.jpeg",
+    "id": 3598687,
+    "discogs_id": 3598687,
+    "title": "A Young Person's Guide To Superpunk",
+    "artist": "Superpunk",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/v0XIaeX1T72aIerATvx8xPfnADrm6M0Jt0bzsm2IlPs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTg2/ODctMTMzNjgzODE2/Ni0zODM0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Buqly2PVHcJm1zremHD9Dj8cRY6su0e6FLszXBW1Euk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTg2/ODctMTMzNjgzODE2/Ni0zODM0LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
       "Indie Rock"
     ],
-    "label": "Marathon Artists",
-    "discogs_url": "https://www.discogs.com/release/4651028"
+    "label": "Tapete Records",
+    "discogs_url": "https://www.discogs.com/release/3598687"
   }
 }
