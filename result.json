@@ -1,23 +1,31 @@
 {
-  "generated_at": "2026-06-09T17:56:18.019139+00:00",
+  "generated_at": "2026-06-10T08:11:59.015536+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1080266,
-    "discogs_id": 1080266,
-    "title": "Survival Sickness",
-    "artist": "The International Noise Conspiracy",
-    "year": 2000,
-    "cover_image": "https://i.discogs.com/EqGByZQQEx6Nse_ZZ5nOh954CUsodGC5LWg-gmLgDa8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAy/NjYtMTMyMTM4NTQ3/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/wR2Nt4bA3QuFXGtVoBjDxbq97wNoAg416KQp_UZz7Yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAy/NjYtMTMyMTM4NTQ3/Ni5qcGVn.jpeg",
+    "id": 1438925,
+    "discogs_id": 1438925,
+    "title": "Trainspotting (Music From The Motion Picture)",
+    "artist": "Various",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/jRmTDK8aPLNrbgN30Q8vraXTbtvN9uJ4KS7rcyKcpts/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzg5/MjUtMTI3MzYwMzQ5/NC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/awNEagoZCf9xVoAunAzg4ShOIXm2BXtqLCymATkOLGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzg5/MjUtMTI3MzYwMzQ5/NC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Rock",
+      "Pop",
+      "Stage & Screen"
     ],
     "styles": [
-      "Garage Rock",
-      "Punk",
-      "Indie Rock"
+      "Alternative Rock",
+      "Indie Rock",
+      "Soundtrack",
+      "Techno",
+      "Ambient",
+      "Breakbeat",
+      "Pop Rock",
+      "Britpop"
     ],
-    "label": "Burning Heart Records",
-    "discogs_url": "https://www.discogs.com/release/1080266"
+    "label": "EMI Premier",
+    "discogs_url": "https://www.discogs.com/release/1438925"
   }
 }
