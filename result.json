@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-10T18:27:15.917178+00:00",
+  "generated_at": "2026-06-11T08:49:28.697504+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1959920,
-    "discogs_id": 1959920,
-    "title": "Gudbuy T'Jane",
-    "artist": "Slade",
-    "year": 1972,
-    "cover_image": "https://i.discogs.com/pFjjRrnQFtmTut0W_gnVn1DfQwBiE7lSW4rDAX4BMEU/rs:fit/g:sm/q:90/h:580/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/MjAtMTI3MjQ5NjE2/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/rvvfIaKe90yosJQ0SLdGN7GGfMdmzSQ-GaEinW9wSd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/MjAtMTI3MjQ5NjE2/Ni5qcGVn.jpeg",
+    "id": 1178632,
+    "discogs_id": 1178632,
+    "title": "Sky Blue Sky",
+    "artist": "Wilco",
+    "year": 2007,
+    "cover_image": "https://i.discogs.com/Jssz8Srig7VC4KaEJ64Di66qmzRhJ1Fa3JjfuKRkTns/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg2/MzItMTc0MzE3ODc5/Mi05MTk3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/AkDBXnSocW5_qaqX6rNSlk8x8-m7ofZnbeZjp1ul-DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg2/MzItMTc0MzE3ODc5/Mi05MTk3LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Glam"
+      "Alternative Rock"
     ],
-    "label": "Polydor",
-    "discogs_url": "https://www.discogs.com/release/1959920"
+    "label": "Nonesuch",
+    "discogs_url": "https://www.discogs.com/release/1178632"
   }
 }
