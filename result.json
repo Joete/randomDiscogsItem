@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-06-12T08:37:08.779752+00:00",
+  "generated_at": "2026-06-12T12:50:37.201310+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 2360404,
-    "discogs_id": 2360404,
-    "title": "Boys Don't Cry",
-    "artist": "The Cure",
-    "year": 1990,
-    "cover_image": "https://i.discogs.com/N7bbb_aKip6l9cFQQXljzvXCUo6wPtQ2BwUBv44wc5c/rs:fit/g:sm/q:90/h:434/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA0/MDQtMTI3OTk3MTcz/OC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/UZrDWH-sTzEtvt4-UDBhUQdwk3ZXSb5liG2UAfp-YJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA0/MDQtMTI3OTk3MTcz/OC5qcGVn.jpeg",
+    "id": 4157190,
+    "discogs_id": 4157190,
+    "title": "4 Way Street",
+    "artist": "Crosby, Stills, Nash & Young",
+    "year": 1973,
+    "cover_image": "https://i.discogs.com/3LW4yfvj7AMIMpBZkAN3_PKB9LgJW3EQ6o3rXYZenGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTcx/OTAtMTUwOTgzODUx/NS0xNTcxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/KdedwIw5KSb9UydWU3VshdJzpesvjSuTWLKTwPH5318/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTcx/OTAtMTUwOTgzODUx/NS0xNTcxLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "New Wave",
-      "Synth-pop"
+      "Folk Rock"
     ],
-    "label": "Fiction Records",
-    "discogs_url": "https://www.discogs.com/release/2360404"
+    "label": "Atlantic",
+    "discogs_url": "https://www.discogs.com/release/4157190"
   }
 }
