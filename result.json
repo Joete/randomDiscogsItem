@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-06-11T18:43:48.793312+00:00",
+  "generated_at": "2026-06-12T08:37:08.779752+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 7951429,
-    "discogs_id": 7951429,
-    "title": "Kodiak Deathbeds",
-    "artist": "Kodiak Deathbeds",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/rv7Py_SP6byt3wYgS7abne6iv24EsM1DOc9ynFmTdiI/rs:fit/g:sm/q:90/h:380/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTE0/MjktMTQ1MjI5MzI3/MC00NjU2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/CEGeTtAHvN7OKG9EwYH_Syc_-zJZER8NCwAWiBRgSs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTE0/MjktMTQ1MjI5MzI3/MC00NjU2LmpwZWc.jpeg",
+    "id": 2360404,
+    "discogs_id": 2360404,
+    "title": "Boys Don't Cry",
+    "artist": "The Cure",
+    "year": 1990,
+    "cover_image": "https://i.discogs.com/N7bbb_aKip6l9cFQQXljzvXCUo6wPtQ2BwUBv44wc5c/rs:fit/g:sm/q:90/h:434/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA0/MDQtMTI3OTk3MTcz/OC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/UZrDWH-sTzEtvt4-UDBhUQdwk3ZXSb5liG2UAfp-YJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA0/MDQtMTI3OTk3MTcz/OC5qcGVn.jpeg",
     "genres": [
-      "Folk, World, & Country"
+      "Electronic",
+      "Rock"
     ],
     "styles": [
-      "Folk"
+      "New Wave",
+      "Synth-pop"
     ],
-    "label": "Affairs Of The Heart",
-    "discogs_url": "https://www.discogs.com/release/7951429"
+    "label": "Fiction Records",
+    "discogs_url": "https://www.discogs.com/release/2360404"
   }
 }
