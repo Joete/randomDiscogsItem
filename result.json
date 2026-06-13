@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-13T11:49:30.281357+00:00",
+  "generated_at": "2026-06-13T17:16:51.136288+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 484540,
-    "discogs_id": 484540,
-    "title": "The Best Of The Velvet Underground (Words And Music Of Lou Reed)",
-    "artist": "The Velvet Underground",
-    "year": 1989,
-    "cover_image": "https://i.discogs.com/2QnqV-ZLpnDd27nvRWwUl1YSuprSN6Ung9liqOjw_NU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDU0/MC0xMTUyNjI2OTcz/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/-YplaROEyBFcBOjfLGffTRy0sfBni1UrKPHTCMfQxLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDU0/MC0xMTUyNjI2OTcz/LmpwZWc.jpeg",
+    "id": 4415837,
+    "discogs_id": 4415837,
+    "title": "The Next Day",
+    "artist": "David Bowie",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/k_6FCxGqDZLlwGFhhQbh_1mC0XRnqi2OQZr16GMWW0o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTU4/MzctMTM2NDI5ODk5/MS02MjQ4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/LdNnMFSzsZinAKTfsYQJvkpzcNkvqOxI5qAT4HVgSf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTU4/MzctMTM2NDI5ODk5/MS02MjQ4LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Art Rock",
-      "Avantgarde"
+      "Art Rock"
     ],
-    "label": "Verve Records",
-    "discogs_url": "https://www.discogs.com/release/484540"
+    "label": "ISO Records",
+    "discogs_url": "https://www.discogs.com/release/4415837"
   }
 }
