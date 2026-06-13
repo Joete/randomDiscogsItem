@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-06-13T07:52:20.580501+00:00",
+  "generated_at": "2026-06-13T11:49:30.281357+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1357738,
-    "discogs_id": 1357738,
-    "title": "Get Born",
-    "artist": "Jet (2)",
-    "year": 2003,
-    "cover_image": "https://i.discogs.com/og3iaakSTv8R9O6w395u5brTG8Y1xyAE4NnkJz1nydg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MzgtMTYxODQ2OTc4/OC0xMzEyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/5ecFK-4xESPEPMZuUpXrV1Ejhh0GnDAmhItC51b-V1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MzgtMTYxODQ2OTc4/OC0xMzEyLmpwZWc.jpeg",
+    "id": 484540,
+    "discogs_id": 484540,
+    "title": "The Best Of The Velvet Underground (Words And Music Of Lou Reed)",
+    "artist": "The Velvet Underground",
+    "year": 1989,
+    "cover_image": "https://i.discogs.com/2QnqV-ZLpnDd27nvRWwUl1YSuprSN6Ung9liqOjw_NU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDU0/MC0xMTUyNjI2OTcz/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/-YplaROEyBFcBOjfLGffTRy0sfBni1UrKPHTCMfQxLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDU0/MC0xMTUyNjI2OTcz/LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Hard Rock",
-      "Pop Rock"
+      "Art Rock",
+      "Avantgarde"
     ],
-    "label": "Elektra",
-    "discogs_url": "https://www.discogs.com/release/1357738"
+    "label": "Verve Records",
+    "discogs_url": "https://www.discogs.com/release/484540"
   }
 }
