@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-14T08:18:18.531114+00:00",
+  "generated_at": "2026-06-14T11:50:16.077877+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 8008960,
-    "discogs_id": 8008960,
-    "title": "Inside In / Inside Out",
-    "artist": "The Kooks",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/vR5VGptRoNGzciy0gDRa7VXySOugyza6tndN0eWpmfY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDg5/NjAtMTczOTM4ODA2/OC05MjIyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/VUzIDCccrCo6OAaToJ7KR4NpFBxau5SsIUH5-lG69fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDg5/NjAtMTczOTM4ODA2/OC05MjIyLmpwZWc.jpeg",
+    "id": 29812231,
+    "discogs_id": 29812231,
+    "title": "Tangk",
+    "artist": "Idles",
+    "year": 2024,
+    "cover_image": "https://i.discogs.com/90g_xEF5aNR62W8nKWk6D576ffKMOt06CAlseRRFL4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEy/MjMxLTE3MDgwMjcw/NDUtNjM2NS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/2cqvlD7PmuqPlNbVS7iyHigilgIWJHq-9713b9RoyLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEy/MjMxLTE3MDgwMjcw/NDUtNjM2NS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Post-Punk",
+      "Art Rock"
     ],
-    "label": "Virgin",
-    "discogs_url": "https://www.discogs.com/release/8008960"
+    "label": "Partisan Records",
+    "discogs_url": "https://www.discogs.com/release/29812231"
   }
 }
