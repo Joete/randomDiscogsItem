@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-14T17:14:24.825620+00:00",
+  "generated_at": "2026-06-15T10:28:06.330875+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1754498,
-    "discogs_id": 1754498,
-    "title": "Closer",
-    "artist": "Joy Division",
+    "id": 2149589,
+    "discogs_id": 2149589,
+    "title": "Celluloid",
+    "artist": "The Audience (2)",
     "year": 2007,
-    "cover_image": "https://i.discogs.com/FFh3gFVwRasw13wbHpMMTwhGPZnc727PE7bU3t5O1J8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ0/OTgtMTY0NDc5MDkx/Mi0zODE4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/BVkTJDhnxT2Qtr_TA7Fa7fSNTv07bDnxwRtwlM35T9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ0/OTgtMTY0NDc5MDkx/Mi0zODE4LmpwZWc.jpeg",
+    "cover_image": "https://i.discogs.com/v8qFnqtf_tqHAQysUVu67R0MJMG_2IiZpHTjso2PZIw/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk1/ODktMTYyNjQ2OTI2/NS0yMTcxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/4L6W5pK_ZKjb107V1J-CtT2kaTPMaB3_EnxwixYnZPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk1/ODktMTYyNjQ2OTI2/NS0yMTcxLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "New Wave",
-      "Post-Punk"
+      "Alternative Rock",
+      "Indie Rock"
     ],
-    "label": "London Records",
-    "discogs_url": "https://www.discogs.com/release/1754498"
+    "label": "Rewika Records",
+    "discogs_url": "https://www.discogs.com/release/2149589"
   }
 }
