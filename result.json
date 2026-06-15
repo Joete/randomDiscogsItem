@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-06-15T15:38:34.260680+00:00",
+  "generated_at": "2026-06-15T19:40:49.794839+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 690137,
-    "discogs_id": 690137,
-    "title": "1967-1970",
-    "artist": "The Beatles",
-    "year": 1978,
-    "cover_image": "https://i.discogs.com/O7BlX7azVawafUjxUbbHdFVT-KeQuXZezadr11cQ62Y/rs:fit/g:sm/q:90/h:387/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEz/Ny0xMzM2OTM4MzY5/LTQ2NDAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/5UhP6kDy8G2FfW5JMUQ63HQ7vz-CDkL4hFfLuTjcrNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEz/Ny0xMzM2OTM4MzY5/LTQ2NDAuanBlZw.jpeg",
+    "id": 11017846,
+    "discogs_id": 11017846,
+    "title": "Oracolo",
+    "artist": "Skinshape",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/bc1yvLgq50pAhmpg1GvMwG4XNiB7bmAlRE9EqJClr6U/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE3/ODQ2LTE1MDgzMjg3/ODAtODE3OC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/L-I0jxBOPgVohaP4GnIY73vMlXjIoJPYgRvUl6aGlI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE3/ODQ2LTE1MDgzMjg3/ODAtODE3OC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop",
+      "Rock",
+      "Funk / Soul"
     ],
     "styles": [
-      "Rock & Roll",
-      "Pop Rock",
-      "Psychedelic Rock"
+      "Psychedelic",
+      "Psychedelic Rock",
+      "Trip Hop"
     ],
-    "label": "Apple Records",
-    "discogs_url": "https://www.discogs.com/release/690137"
+    "label": "Beatnik Creative",
+    "discogs_url": "https://www.discogs.com/release/11017846"
   }
 }
