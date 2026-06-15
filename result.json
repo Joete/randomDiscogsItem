@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-15T10:28:06.330875+00:00",
+  "generated_at": "2026-06-15T15:38:34.260680+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 2149589,
-    "discogs_id": 2149589,
-    "title": "Celluloid",
-    "artist": "The Audience (2)",
-    "year": 2007,
-    "cover_image": "https://i.discogs.com/v8qFnqtf_tqHAQysUVu67R0MJMG_2IiZpHTjso2PZIw/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk1/ODktMTYyNjQ2OTI2/NS0yMTcxLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/4L6W5pK_ZKjb107V1J-CtT2kaTPMaB3_EnxwixYnZPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk1/ODktMTYyNjQ2OTI2/NS0yMTcxLmpwZWc.jpeg",
+    "id": 690137,
+    "discogs_id": 690137,
+    "title": "1967-1970",
+    "artist": "The Beatles",
+    "year": 1978,
+    "cover_image": "https://i.discogs.com/O7BlX7azVawafUjxUbbHdFVT-KeQuXZezadr11cQ62Y/rs:fit/g:sm/q:90/h:387/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEz/Ny0xMzM2OTM4MzY5/LTQ2NDAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/5UhP6kDy8G2FfW5JMUQ63HQ7vz-CDkL4hFfLuTjcrNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDEz/Ny0xMzM2OTM4MzY5/LTQ2NDAuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock"
+      "Rock & Roll",
+      "Pop Rock",
+      "Psychedelic Rock"
     ],
-    "label": "Rewika Records",
-    "discogs_url": "https://www.discogs.com/release/2149589"
+    "label": "Apple Records",
+    "discogs_url": "https://www.discogs.com/release/690137"
   }
 }
