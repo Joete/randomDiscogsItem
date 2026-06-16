@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-06-15T19:40:49.794839+00:00",
+  "generated_at": "2026-06-16T09:30:28.082168+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 11017846,
-    "discogs_id": 11017846,
-    "title": "Oracolo",
-    "artist": "Skinshape",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/bc1yvLgq50pAhmpg1GvMwG4XNiB7bmAlRE9EqJClr6U/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE3/ODQ2LTE1MDgzMjg3/ODAtODE3OC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/L-I0jxBOPgVohaP4GnIY73vMlXjIoJPYgRvUl6aGlI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE3/ODQ2LTE1MDgzMjg3/ODAtODE3OC5qcGVn.jpeg",
+    "id": 4998376,
+    "discogs_id": 4998376,
+    "title": "Hot Pop",
+    "artist": "Various",
+    "year": 1975,
+    "cover_image": "https://i.discogs.com/Qc8xvdLBM9mCQTuQUOzG-WulANQTpnv5rK7oX7TntbQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTgz/NzYtMTQzODgxMTEz/MS0zMzc3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/1HbvmU-KzELqhqE1wFsFYYfvAD5rDQCcUHvGn_Vk0Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTgz/NzYtMTQzODgxMTEz/MS0zMzc3LmpwZWc.jpeg",
     "genres": [
-      "Hip Hop",
       "Rock",
-      "Funk / Soul"
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Psychedelic",
+      "Pop Rock",
+      "Glam",
+      "Symphonic Rock",
+      "Rock & Roll",
+      "Folk Rock",
+      "Hard Rock",
+      "Prog Rock",
+      "Funk",
+      "Acid Rock",
       "Psychedelic Rock",
-      "Trip Hop"
+      "Soft Rock",
+      "Bubblegum"
     ],
-    "label": "Beatnik Creative",
-    "discogs_url": "https://www.discogs.com/release/11017846"
+    "label": "Mal Sondock Music Productions",
+    "discogs_url": "https://www.discogs.com/release/4998376"
   }
 }
