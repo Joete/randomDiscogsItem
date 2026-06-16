@@ -1,34 +1,21 @@
 {
-  "generated_at": "2026-06-16T09:30:28.082168+00:00",
+  "generated_at": "2026-06-16T14:55:25.107907+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 4998376,
-    "discogs_id": 4998376,
-    "title": "Hot Pop",
-    "artist": "Various",
-    "year": 1975,
-    "cover_image": "https://i.discogs.com/Qc8xvdLBM9mCQTuQUOzG-WulANQTpnv5rK7oX7TntbQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTgz/NzYtMTQzODgxMTEz/MS0zMzc3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/1HbvmU-KzELqhqE1wFsFYYfvAD5rDQCcUHvGn_Vk0Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTgz/NzYtMTQzODgxMTEz/MS0zMzc3LmpwZWc.jpeg",
+    "id": 620267,
+    "discogs_id": 620267,
+    "title": "The Best Of Bill Withers",
+    "artist": "Bill Withers",
+    "year": 1980,
+    "cover_image": "https://i.discogs.com/ZeOgiFgRTT68FbfHYKo_nv0-7AX3_A0Iy5NqmMq0F6w/rs:fit/g:sm/q:90/h:591/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDI2/Ny0xMjczNDE1NjAx/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/BaayOTz2lroGRRxBOOOage-87ohBPbI7okHeT7XyFwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDI2/Ny0xMjczNDE1NjAx/LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Funk / Soul",
-      "Pop"
+      "Funk / Soul"
     ],
     "styles": [
-      "Pop Rock",
-      "Glam",
-      "Symphonic Rock",
-      "Rock & Roll",
-      "Folk Rock",
-      "Hard Rock",
-      "Prog Rock",
-      "Funk",
-      "Acid Rock",
-      "Psychedelic Rock",
-      "Soft Rock",
-      "Bubblegum"
+      "Soul"
     ],
-    "label": "Mal Sondock Music Productions",
-    "discogs_url": "https://www.discogs.com/release/4998376"
+    "label": "CBS",
+    "discogs_url": "https://www.discogs.com/release/620267"
   }
 }
