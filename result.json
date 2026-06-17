@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-16T19:33:23.723895+00:00",
+  "generated_at": "2026-06-17T09:05:47.497306+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1524969,
-    "discogs_id": 1524969,
-    "title": "Unplugged",
-    "artist": "Arrested Development",
-    "year": 1993,
-    "cover_image": "https://i.discogs.com/iq0cXVx-Nn6JITEreYzAoDkB0HO4RydlQGxRhzeb3RM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ5/NjktMTIyNjA1NDA3/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/iQgc7VqfaHwtH7tw-y4P_WeYdmXc2BXlW8piGKvUOog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ5/NjktMTIyNjA1NDA3/OS5qcGVn.jpeg",
+    "id": 2652687,
+    "discogs_id": 2652687,
+    "title": "Goo",
+    "artist": "Sonic Youth",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/tWKlMRGsYARSmRJyBj24_6wybjU2iA-MBOQcG-NVaKM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTI2/ODctMTY3MDk2MDI1/My01NzM0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/07TDTu4b4rUnYzm9xB6pAMixnUKzjZn-jFzAGDHdICo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTI2/ODctMTY3MDk2MDI1/My01NzM0LmpwZWc.jpeg",
     "genres": [
-      "Hip Hop"
+      "Rock"
     ],
     "styles": [
-      "Jazzy Hip-Hop"
+      "Alternative Rock"
     ],
-    "label": "Chrysalis",
-    "discogs_url": "https://www.discogs.com/release/1524969"
+    "label": "DGC (2)",
+    "discogs_url": "https://www.discogs.com/release/2652687"
   }
 }
