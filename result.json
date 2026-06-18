@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-06-18T08:53:53.955566+00:00",
+  "generated_at": "2026-06-18T12:46:47.710898+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1056463,
-    "discogs_id": 1056463,
-    "title": "You Spin Me Round (Like A Record)",
-    "artist": "Dead Or Alive",
-    "year": 1984,
-    "cover_image": "https://i.discogs.com/FunJhnSmUGfly6VUCdLUGPeJ-dN_5CSydQcV6BH3NwI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY0/NjMtMTIyMjk1NjQy/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/4yc_XFVDZPrriZSwSS6MPpXLC0mZXK-dxwbksMMMMJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY0/NjMtMTIyMjk1NjQy/OS5qcGVn.jpeg",
+    "id": 1380292,
+    "discogs_id": 1380292,
+    "title": "Stroboscopica",
+    "artist": "Various",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/4X42iBrFCtu4Jjs7D9Ne_PcKYmQzbm9B6ypA0GUbjNU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAy/OTItMTQ3Mzg2NjI4/NS0xOTkwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/nAZiodDpoaJvy8f580iUSwVZEJxJLqoKmdSckguuSpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAy/OTItMTQ3Mzg2NjI4/NS0xOTkwLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Pop"
+      "Jazz",
+      "Rock",
+      "Stage & Screen"
     ],
     "styles": [
-      "Hi NRG",
-      "Synth-pop"
+      "Smooth Jazz",
+      "Jazz-Funk",
+      "Psychedelic Rock"
     ],
-    "label": "Epic",
-    "discogs_url": "https://www.discogs.com/release/1056463"
+    "label": "Plastic Records",
+    "discogs_url": "https://www.discogs.com/release/1380292"
   }
 }
