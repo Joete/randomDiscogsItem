@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-17T18:11:12.433645+00:00",
+  "generated_at": "2026-06-18T08:53:53.955566+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1791273,
-    "discogs_id": 1791273,
-    "title": "Songs For The Deaf",
-    "artist": "Queens Of The Stone Age",
-    "year": 2002,
-    "cover_image": "https://i.discogs.com/yTz1eTIh5JLJrDqE-aEckK14scCzc_GV_nEOhq-XBWk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEy/NzMtMTUyMzE2ODQ5/Mi02MTQ5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/D35nG_OyrAWc2QdMl2PvU2Vqf7x4ijFG0gx1Q98Q6Ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEy/NzMtMTUyMzE2ODQ5/Mi02MTQ5LmpwZWc.jpeg",
+    "id": 1056463,
+    "discogs_id": 1056463,
+    "title": "You Spin Me Round (Like A Record)",
+    "artist": "Dead Or Alive",
+    "year": 1984,
+    "cover_image": "https://i.discogs.com/FunJhnSmUGfly6VUCdLUGPeJ-dN_5CSydQcV6BH3NwI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY0/NjMtMTIyMjk1NjQy/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/4yc_XFVDZPrriZSwSS6MPpXLC0mZXK-dxwbksMMMMJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY0/NjMtMTIyMjk1NjQy/OS5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Pop"
     ],
     "styles": [
-      "Stoner Rock",
-      "Hard Rock"
+      "Hi NRG",
+      "Synth-pop"
     ],
-    "label": "Interscope Records",
-    "discogs_url": "https://www.discogs.com/release/1791273"
+    "label": "Epic",
+    "discogs_url": "https://www.discogs.com/release/1056463"
   }
 }
