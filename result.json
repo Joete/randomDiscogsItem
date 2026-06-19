@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-19T13:29:15.160456+00:00",
+  "generated_at": "2026-06-19T17:50:51.509629+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1290145,
-    "discogs_id": 1290145,
-    "title": "Pisces Iscariot",
-    "artist": "The Smashing Pumpkins",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/_gDfBZj67L7ALphC6rUmRRMwJICdZm6cMqDqIetG5Zg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAx/NDUtMTM5NzMxOTMx/MS05MTczLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/6lRyqrQhMr1sQl3I0GRdcAgibY7xM5WvqFT8fjLUZio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAx/NDUtMTM5NzMxOTMx/MS05MTczLmpwZWc.jpeg",
+    "id": 705051,
+    "discogs_id": 705051,
+    "title": "Film School",
+    "artist": "Film School",
+    "year": 2006,
+    "cover_image": "https://i.discogs.com/B0U8eGMJ8ngGV78eHP7dV6W4runa1mQuNDsmXFiuShE/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTA1/MS0xMTU5MjE1NTM0/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/e3-vkWTQ6LGXsiRnmqGNQsNrUPT5cK1lu_bdtm-X9hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTA1/MS0xMTU5MjE1NTM0/LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Indie Rock",
+      "Shoegaze"
     ],
-    "label": "Virgin",
-    "discogs_url": "https://www.discogs.com/release/1290145"
+    "label": "Beggars Banquet",
+    "discogs_url": "https://www.discogs.com/release/705051"
   }
 }
