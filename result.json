@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-06-18T18:23:22.129284+00:00",
+  "generated_at": "2026-06-19T09:08:15.144965+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 3439709,
-    "discogs_id": 3439709,
-    "title": "Someone Else's Deja Vu",
-    "artist": "Son, Ambulance",
-    "year": 2008,
-    "cover_image": "https://i.discogs.com/hAaCa3yp5mSFMkoaTrZz3JsIU_O1yDds_UGatZei1XI/rs:fit/g:sm/q:90/h:472/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzk3/MDktMTU1NjA5NzE0/OC0yODM2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/yinI6A6ZWyW2iV4RzznsypSl-yGktgy9n9kehHNcst8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzk3/MDktMTU1NjA5NzE0/OC0yODM2LmpwZWc.jpeg",
+    "id": 119126,
+    "discogs_id": 119126,
+    "title": "Fires",
+    "artist": "Uilab",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/dEnwClYldcXA1aTuIIsDzRxu2Dfgw8TPvbmK8QsPeAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/Ni0xNjM0MTMzOTMz/LTYwMjYuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/oN69_4kphPM2g0Gc6w1M2e0IV_4AJKUTXadgo5ySVs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/Ni0xNjM0MTMzOTMz/LTYwMjYuanBlZw.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Post Rock",
+      "Synth-pop",
+      "Indie Rock"
     ],
-    "label": "Saddle Creek Europe",
-    "discogs_url": "https://www.discogs.com/release/3439709"
+    "label": "Duophonic Super 45s",
+    "discogs_url": "https://www.discogs.com/release/119126"
   }
 }
