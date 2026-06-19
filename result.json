@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-06-19T09:08:15.144965+00:00",
+  "generated_at": "2026-06-19T13:29:15.160456+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 119126,
-    "discogs_id": 119126,
-    "title": "Fires",
-    "artist": "Uilab",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/dEnwClYldcXA1aTuIIsDzRxu2Dfgw8TPvbmK8QsPeAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/Ni0xNjM0MTMzOTMz/LTYwMjYuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/oN69_4kphPM2g0Gc6w1M2e0IV_4AJKUTXadgo5ySVs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/Ni0xNjM0MTMzOTMz/LTYwMjYuanBlZw.jpeg",
+    "id": 1290145,
+    "discogs_id": 1290145,
+    "title": "Pisces Iscariot",
+    "artist": "The Smashing Pumpkins",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/_gDfBZj67L7ALphC6rUmRRMwJICdZm6cMqDqIetG5Zg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAx/NDUtMTM5NzMxOTMx/MS05MTczLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/6lRyqrQhMr1sQl3I0GRdcAgibY7xM5WvqFT8fjLUZio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAx/NDUtMTM5NzMxOTMx/MS05MTczLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Post Rock",
-      "Synth-pop",
-      "Indie Rock"
+      "Alternative Rock"
     ],
-    "label": "Duophonic Super 45s",
-    "discogs_url": "https://www.discogs.com/release/119126"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/1290145"
   }
 }
