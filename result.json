@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-20T07:53:49.927677+00:00",
+  "generated_at": "2026-06-20T11:52:10.168331+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 6057905,
-    "discogs_id": 6057905,
-    "title": "Keep It Like A Secret",
-    "artist": "Built To Spill",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/Ftxd4zKGq2ORN0KmrRk9eV7rPh3yzvHRJu0FgLLJVyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc5/MDUtMTQ0MTEzMzg5/NC0zNDk4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/8gxqFfK-4o81RSCTfGnc3sDBEB9Ko96POcbQKghCcYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc5/MDUtMTQ0MTEzMzg5/NC0zNDk4LmpwZWc.jpeg",
+    "id": 3145366,
+    "discogs_id": 3145366,
+    "title": "Mark Hollis",
+    "artist": "Mark Hollis",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/x9J9ovsbSR0_U-mWnOmqnfzNQxkAAyu-AEP7pn-6dEQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/NjYtMTcxNDU0NTY5/NS0yMjIwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Wj0BBY3j3arfHNqoWYs6o6TpWf5XLVcCvki7F_LFpgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/NjYtMTcxNDU0NTY5/NS0yMjIwLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Acoustic",
+      "Post Rock"
     ],
-    "label": "Music On Vinyl",
-    "discogs_url": "https://www.discogs.com/release/6057905"
+    "label": "Ba Da Bing!",
+    "discogs_url": "https://www.discogs.com/release/3145366"
   }
 }
