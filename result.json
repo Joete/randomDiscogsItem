@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-20T11:52:10.168331+00:00",
+  "generated_at": "2026-06-20T17:19:56.797467+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 3145366,
-    "discogs_id": 3145366,
-    "title": "Mark Hollis",
-    "artist": "Mark Hollis",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/x9J9ovsbSR0_U-mWnOmqnfzNQxkAAyu-AEP7pn-6dEQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/NjYtMTcxNDU0NTY5/NS0yMjIwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Wj0BBY3j3arfHNqoWYs6o6TpWf5XLVcCvki7F_LFpgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/NjYtMTcxNDU0NTY5/NS0yMjIwLmpwZWc.jpeg",
+    "id": 7631392,
+    "discogs_id": 7631392,
+    "title": "Star Wars",
+    "artist": "Wilco",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/KRYNxRloXpVPG-aD0oTvz13qjeIzZl50_vNHdTqLwgo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzEz/OTItMTQ0NjMyNzAx/Mi01ODA1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/P29-K0W8lcy1-9ShCnq8UXLndAENnAmNT9RVOhyxRGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzEz/OTItMTQ0NjMyNzAx/Mi01ODA1LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
       "Acoustic",
-      "Post Rock"
+      "Alternative Rock",
+      "Indie Rock"
     ],
-    "label": "Ba Da Bing!",
-    "discogs_url": "https://www.discogs.com/release/3145366"
+    "label": "dBpm Records",
+    "discogs_url": "https://www.discogs.com/release/7631392"
   }
 }
