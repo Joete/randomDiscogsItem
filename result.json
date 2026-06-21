@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-21T12:06:52.802782+00:00",
+  "generated_at": "2026-06-21T17:22:58.824900+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 5448728,
-    "discogs_id": 5448728,
-    "title": "02 World Berlin, Germany Show 2 July 05, 2012",
-    "artist": "Pearl Jam",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/XCSiWNC8uIel-IkWQfGmweFXCTXjtmddESUlURKdPDo/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg3/MjgtMTY5OTEzMTA0/Mi05MTk4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/dZc_SGDiQiLcLg8UWBWZTvabiS4Td3ficv-BuaZpeCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg3/MjgtMTY5OTEzMTA0/Mi05MTk4LmpwZWc.jpeg",
+    "id": 604691,
+    "discogs_id": 604691,
+    "title": "Turn On The Bright Lights",
+    "artist": "Interpol",
+    "year": 2002,
+    "cover_image": "https://i.discogs.com/gzj7yVP4-r1RTGur7Fqf3v-JgT9UEc1F7OmuhSRLV_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY5/MS0xNDg0NTcwODYy/LTgyNDQuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/5uIWJYmprL3mzPLgsv1qhREQldzVvH1q7O4JMbmg8e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY5/MS0xNDg0NTcwODYy/LTgyNDQuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Grunge",
-      "Alternative Rock"
+      "Indie Rock",
+      "Alternative Rock",
+      "Post-Punk"
     ],
-    "label": "Not On Label (Pearl Jam Self-released)",
-    "discogs_url": "https://www.discogs.com/release/5448728"
+    "label": "Matador",
+    "discogs_url": "https://www.discogs.com/release/604691"
   }
 }
