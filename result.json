@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-06-20T17:19:56.797467+00:00",
+  "generated_at": "2026-06-21T08:37:44.733833+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 7631392,
-    "discogs_id": 7631392,
-    "title": "Star Wars",
-    "artist": "Wilco",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/KRYNxRloXpVPG-aD0oTvz13qjeIzZl50_vNHdTqLwgo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzEz/OTItMTQ0NjMyNzAx/Mi01ODA1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/P29-K0W8lcy1-9ShCnq8UXLndAENnAmNT9RVOhyxRGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzEz/OTItMTQ0NjMyNzAx/Mi01ODA1LmpwZWc.jpeg",
+    "id": 383036,
+    "discogs_id": 383036,
+    "title": "In A Bar, Under The Sea",
+    "artist": "dEUS",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/5cSqG-TMQ4o72u7a_kW5GgNKn3cWA2UYJGr7_iy1gHA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzAz/Ni0xMTY3ODY1MzAx/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/SZyKTFQ-rcfaAyWkbDrEfSwxY14qxEmqyYrOz6wk2KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzAz/Ni0xMTY3ODY1MzAx/LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Acoustic",
-      "Alternative Rock",
       "Indie Rock"
     ],
-    "label": "dBpm Records",
-    "discogs_url": "https://www.discogs.com/release/7631392"
+    "label": "Island Records",
+    "discogs_url": "https://www.discogs.com/release/383036"
   }
 }
