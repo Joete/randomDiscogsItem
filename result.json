@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-21T08:37:44.733833+00:00",
+  "generated_at": "2026-06-21T12:06:52.802782+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 383036,
-    "discogs_id": 383036,
-    "title": "In A Bar, Under The Sea",
-    "artist": "dEUS",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/5cSqG-TMQ4o72u7a_kW5GgNKn3cWA2UYJGr7_iy1gHA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzAz/Ni0xMTY3ODY1MzAx/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/SZyKTFQ-rcfaAyWkbDrEfSwxY14qxEmqyYrOz6wk2KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzAz/Ni0xMTY3ODY1MzAx/LmpwZWc.jpeg",
+    "id": 5448728,
+    "discogs_id": 5448728,
+    "title": "02 World Berlin, Germany Show 2 July 05, 2012",
+    "artist": "Pearl Jam",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/XCSiWNC8uIel-IkWQfGmweFXCTXjtmddESUlURKdPDo/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg3/MjgtMTY5OTEzMTA0/Mi05MTk4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/dZc_SGDiQiLcLg8UWBWZTvabiS4Td3ficv-BuaZpeCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg3/MjgtMTY5OTEzMTA0/Mi05MTk4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Grunge",
+      "Alternative Rock"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/383036"
+    "label": "Not On Label (Pearl Jam Self-released)",
+    "discogs_url": "https://www.discogs.com/release/5448728"
   }
 }
