@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-06-21T17:22:58.824900+00:00",
+  "generated_at": "2026-06-22T09:50:59.927865+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 604691,
-    "discogs_id": 604691,
-    "title": "Turn On The Bright Lights",
-    "artist": "Interpol",
-    "year": 2002,
-    "cover_image": "https://i.discogs.com/gzj7yVP4-r1RTGur7Fqf3v-JgT9UEc1F7OmuhSRLV_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY5/MS0xNDg0NTcwODYy/LTgyNDQuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/5uIWJYmprL3mzPLgsv1qhREQldzVvH1q7O4JMbmg8e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY5/MS0xNDg0NTcwODYy/LTgyNDQuanBlZw.jpeg",
+    "id": 4904467,
+    "discogs_id": 4904467,
+    "title": "Another Planet / A Million Ways ",
+    "artist": "Dead Fingers, Nik Freitas",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/G1RXDhzItlFE4cQJhvV0imRIqflva0XT-7LWK2kjEMQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQ0/NjctMTQwMjgzODIz/MS04MzczLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/gP8HPReKNNYjVWPvSx5K9DEnhv7mxS__V2rNsQCfHbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQ0/NjctMTQwMjgzODIz/MS04MzczLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock",
-      "Alternative Rock",
-      "Post-Punk"
+      "Indie Rock"
     ],
-    "label": "Matador",
-    "discogs_url": "https://www.discogs.com/release/604691"
+    "label": "Affairs Of The Heart",
+    "discogs_url": "https://www.discogs.com/release/4904467"
   }
 }
