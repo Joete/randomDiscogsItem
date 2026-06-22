@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-22T09:50:59.927865+00:00",
+  "generated_at": "2026-06-22T15:14:10.174460+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 4904467,
-    "discogs_id": 4904467,
-    "title": "Another Planet / A Million Ways ",
-    "artist": "Dead Fingers, Nik Freitas",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/G1RXDhzItlFE4cQJhvV0imRIqflva0XT-7LWK2kjEMQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQ0/NjctMTQwMjgzODIz/MS04MzczLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/gP8HPReKNNYjVWPvSx5K9DEnhv7mxS__V2rNsQCfHbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQ0/NjctMTQwMjgzODIz/MS04MzczLmpwZWc.jpeg",
+    "id": 2093841,
+    "discogs_id": 2093841,
+    "title": "Funeral",
+    "artist": "Arcade Fire",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/2QYKXTbSSX6I5ofBITStYgX-KwETaqQha5lRPy0Pdfc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQ4OTMzMTQ3/MC03Mzk0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/8MpEGb5pZln4GmNDdQF2g7fHB2oTBlD7mjf6F7Ex-3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQ4OTMzMTQ3/MC03Mzk0LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
+      "Alternative Rock",
       "Indie Rock"
     ],
-    "label": "Affairs Of The Heart",
-    "discogs_url": "https://www.discogs.com/release/4904467"
+    "label": "Merge Records",
+    "discogs_url": "https://www.discogs.com/release/2093841"
   }
 }
