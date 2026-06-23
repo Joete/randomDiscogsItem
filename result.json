@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-22T19:23:55.752865+00:00",
+  "generated_at": "2026-06-23T07:53:58.234699+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1235503,
-    "discogs_id": 1235503,
-    "title": "A New Morning, Changing Weather",
-    "artist": "The International Noise Conspiracy",
-    "year": 2001,
-    "cover_image": "https://i.discogs.com/GLafbRX2EvlDzMeNHyDAt-2gI8iTMb59q-Jk7tFd938/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU1/MDMtMTc1NDUxMjIy/NC01MzQ1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/8hDLuIXsxHc62iMquI8w8JGHcUjE-tfIzbzPPjoWzrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU1/MDMtMTc1NDUxMjIy/NC01MzQ1LmpwZWc.jpeg",
+    "id": 4634194,
+    "discogs_id": 4634194,
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "year": 1989,
+    "cover_image": "https://i.discogs.com/L8DwR-o9RW9gBXfKvMRA3XhXl5trHZ98B2_5E4PKu0U/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzQx/OTQtMTQ3OTQ5Mzky/OS01MjU0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/r3sQbw1q-kbPEwIJmFSsu11zJlmrA32kqbC1nERlUGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzQx/OTQtMTQ3OTQ5Mzky/OS01MjU0LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Garage Rock",
-      "Punk"
+      "Alternative Rock",
+      "New Wave",
+      "Goth Rock"
     ],
-    "label": "Burning Heart Records",
-    "discogs_url": "https://www.discogs.com/release/1235503"
+    "label": "Fiction Records",
+    "discogs_url": "https://www.discogs.com/release/4634194"
   }
 }
