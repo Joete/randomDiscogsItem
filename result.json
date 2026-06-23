@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-06-23T12:29:01.541487+00:00",
+  "generated_at": "2026-06-23T17:47:51.371080+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1855864,
-    "discogs_id": 1855864,
-    "title": "Hospice",
-    "artist": "The Antlers",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/wD9ig5cyhn3xRyuWMKZO7xk0rGWxKxU1n_FFTZ6l6PE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU4/NjQtMTI2NjY3Njg0/MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/pyDlkFQVdhxo7kvHA28SkqH2ygl2DKSv3Ac9Y95CPY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU4/NjQtMTI2NjY3Njg0/MS5qcGVn.jpeg",
+    "id": 599559,
+    "discogs_id": 599559,
+    "title": "The Heart Of Saturday Night",
+    "artist": "Tom Waits",
+    "year": 1976,
+    "cover_image": "https://i.discogs.com/fZNhhblJgfF_oeiPybBg8z-HseYE04m9qDyWExmHYYk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTU1/OS0xMzM0OTYyOTE3/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/03-UCEFLNFcP6SivvySfMCoBuGpRggqSvg2AluTLhxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTU1/OS0xMzM0OTYyOTE3/LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Jazz",
+      "Pop",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Indie Rock"
+      "Contemporary Jazz",
+      "Spoken Word"
     ],
-    "label": "Not On Label (The Antlers Self-released)",
-    "discogs_url": "https://www.discogs.com/release/1855864"
+    "label": "Asylum Records",
+    "discogs_url": "https://www.discogs.com/release/599559"
   }
 }
