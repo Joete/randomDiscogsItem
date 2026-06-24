@@ -1,24 +1,26 @@
 {
-  "generated_at": "2026-06-23T17:47:51.371080+00:00",
+  "generated_at": "2026-06-24T07:48:46.555443+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 599559,
-    "discogs_id": 599559,
-    "title": "The Heart Of Saturday Night",
-    "artist": "Tom Waits",
-    "year": 1976,
-    "cover_image": "https://i.discogs.com/fZNhhblJgfF_oeiPybBg8z-HseYE04m9qDyWExmHYYk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTU1/OS0xMzM0OTYyOTE3/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/03-UCEFLNFcP6SivvySfMCoBuGpRggqSvg2AluTLhxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTU1/OS0xMzM0OTYyOTE3/LmpwZWc.jpeg",
+    "id": 32119899,
+    "discogs_id": 32119899,
+    "title": "Amnesie Am Amazonas",
+    "artist": "Der Assistent",
+    "year": 2024,
+    "cover_image": "https://i.discogs.com/VNLHathrUllhdTdw-EgaVasGTqqFQbdd4J-jpd4xYm0/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTE5/ODk5LTE3MzAwMjk3/OTItNzMyNC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/MWAdpXmFpVbEBug6NibnU2lr0kB3Il_x80lKJ-mlLhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTE5/ODk5LTE3MzAwMjk3/OTItNzMyNC5qcGVn.jpeg",
     "genres": [
-      "Jazz",
-      "Pop",
-      "Folk, World, & Country"
+      "Electronic",
+      "Pop"
     ],
     "styles": [
-      "Contemporary Jazz",
-      "Spoken Word"
+      "Balearic",
+      "Chillwave",
+      "Downtempo",
+      "Latin",
+      "Synth-pop"
     ],
-    "label": "Asylum Records",
-    "discogs_url": "https://www.discogs.com/release/599559"
+    "label": "Papercup Records",
+    "discogs_url": "https://www.discogs.com/release/32119899"
   }
 }
