@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-24T17:49:13.866807+00:00",
+  "generated_at": "2026-06-25T07:50:26.851137+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 9337733,
-    "discogs_id": 9337733,
-    "title": "Temple Of The Dog",
-    "artist": "Temple Of The Dog",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/kgUm9CWJpbZ-6-TuDOpHWSzKjV6dKayKnHea3-98Aw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzc3/MzMtMTQ3ODg0Njc2/OC0yODU4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/fmHg8_dmyRuteaAKlNjJ44Vimjx1JOH0gInfOF1u3Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzc3/MzMtMTQ3ODg0Njc2/OC0yODU4LmpwZWc.jpeg",
+    "id": 489172,
+    "discogs_id": 489172,
+    "title": "The Lioness",
+    "artist": "Songs: Ohia",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/k1Brb803FN8W7uM_8PnQ7S_hRcMQpghWDdEWEW5ICQk/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTE3/Mi0xMTIyMTg3MTU2/LmpwZw.jpeg",
+    "thumb": "https://i.discogs.com/415rewlgHGCH3MZmT3TDnnC1rKuFVyB_rwDYdsE4HQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTE3/Mi0xMTIyMTg3MTU2/LmpwZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Grunge"
+      "Folk Rock",
+      "Indie Rock"
     ],
-    "label": "A&M Records",
-    "discogs_url": "https://www.discogs.com/release/9337733"
+    "label": "Secretly Canadian",
+    "discogs_url": "https://www.discogs.com/release/489172"
   }
 }
