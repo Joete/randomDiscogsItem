@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-06-25T12:12:47.390014+00:00",
+  "generated_at": "2026-06-25T18:05:27.726030+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 2289504,
-    "discogs_id": 2289504,
-    "title": "Disintegration",
-    "artist": "The Cure",
-    "year": 2010,
-    "cover_image": "https://i.discogs.com/_wvsjwaAxfcgsy6t3QXO5hU4vpUWi8_UUeGF8X4K7hk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTc2OTM0ODY3/My04OTAwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/MjqDkfxs3HeYsVRceBAYa8spE2ANO6BsIoJSB6SAYwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTc2OTM0ODY3/My04OTAwLmpwZWc.jpeg",
+    "id": 1310310,
+    "discogs_id": 1310310,
+    "title": "More Adventurous",
+    "artist": "Rilo Kiley",
+    "year": 2004,
+    "cover_image": "https://i.discogs.com/RA1JrlHTIbM5YmN3xlItZ_R7IRijEz-vUi4yltJ8sns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAz/MTAtMTU1MTMyMDI4/NC0zOTc5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/epHROSn30bhdQG4vnjxknWv9zhwTVYGOk_Fd1p92Nko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAz/MTAtMTU1MTMyMDI4/NC0zOTc5LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "New Wave"
+      "Indie Rock"
     ],
-    "label": "Fiction Records",
-    "discogs_url": "https://www.discogs.com/release/2289504"
+    "label": "Barsuk Records",
+    "discogs_url": "https://www.discogs.com/release/1310310"
   }
 }
