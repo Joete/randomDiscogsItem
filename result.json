@@ -1,26 +1,23 @@
 {
-  "generated_at": "2026-06-26T12:07:09.080408+00:00",
+  "generated_at": "2026-06-26T17:42:49.013920+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 4684865,
-    "discogs_id": 4684865,
-    "title": "Blackbird",
-    "artist": "Fat Freddy's Drop",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/MJMcyEiKuccuVgdjx7cedQP7XBrl4KKq7TCEE7rsO5U/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODQ4/NjUtMTM4MDg3MTg1/My0yNDcyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/FEoUzJ7tdmiKVHjKMc0EbKTEgjHO_oe84D5yQb31MvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODQ4/NjUtMTM4MDg3MTg1/My0yNDcyLmpwZWc.jpeg",
+    "id": 3092133,
+    "discogs_id": 3092133,
+    "title": "Boces",
+    "artist": "Mercury Rev",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/ByUUugtVqk3noN9iSS3bTyMA0dkr66zrvN4aUFWEwEw/rs:fit/g:sm/q:90/h:400/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIx/MzMtMTMxNTMzNzkx/Mi5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Z4W8hegC-s0xjqVN-5d6eVN4AwZ0g1SHDaiLLvZsIKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIx/MzMtMTMxNTMzNzkx/Mi5qcGVn.jpeg",
     "genres": [
-      "Electronic",
-      "Jazz",
-      "Reggae",
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Dub",
-      "Soul-Jazz",
-      "Neo Soul"
+      "Alternative Rock",
+      "Psychedelic Rock",
+      "Avantgarde"
     ],
-    "label": "The Drop",
-    "discogs_url": "https://www.discogs.com/release/4684865"
+    "label": "Music On Vinyl",
+    "discogs_url": "https://www.discogs.com/release/3092133"
   }
 }
