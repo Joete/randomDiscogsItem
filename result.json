@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-06-26T07:57:39.680190+00:00",
+  "generated_at": "2026-06-26T12:07:09.080408+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 5033685,
-    "discogs_id": 5033685,
-    "title": "More Songs About Buildings And Food",
-    "artist": "Talking Heads",
+    "id": 4684865,
+    "discogs_id": 4684865,
+    "title": "Blackbird",
+    "artist": "Fat Freddy's Drop",
     "year": 2013,
-    "cover_image": "https://i.discogs.com/QmbJEGgkcdaIEfXzqA_hygRCfKcatao7P6egUqSvsq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzM2/ODUtMTM4MjY5NDAy/Ny0yMDIyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/WMb_V88S_qZMHwN0QNTvYEWygYffDaCclBolVgewwc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzM2/ODUtMTM4MjY5NDAy/Ny0yMDIyLmpwZWc.jpeg",
+    "cover_image": "https://i.discogs.com/MJMcyEiKuccuVgdjx7cedQP7XBrl4KKq7TCEE7rsO5U/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODQ4/NjUtMTM4MDg3MTg1/My0yNDcyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/FEoUzJ7tdmiKVHjKMc0EbKTEgjHO_oe84D5yQb31MvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODQ4/NjUtMTM4MDg3MTg1/My0yNDcyLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Jazz",
+      "Reggae",
+      "Funk / Soul"
     ],
     "styles": [
-      "New Wave"
+      "Dub",
+      "Soul-Jazz",
+      "Neo Soul"
     ],
-    "label": "Sire",
-    "discogs_url": "https://www.discogs.com/release/5033685"
+    "label": "The Drop",
+    "discogs_url": "https://www.discogs.com/release/4684865"
   }
 }
