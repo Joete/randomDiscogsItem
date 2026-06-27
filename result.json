@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-06-27T11:22:25.903591+00:00",
+  "generated_at": "2026-06-27T17:03:14.418856+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 6007,
-    "discogs_id": 6007,
-    "title": "ISDN",
-    "artist": "The Future Sound Of London",
-    "year": 1995,
-    "cover_image": "https://i.discogs.com/99W1mNrgr8CKGMoTbncQqgszghRXWv9B7ysuxsDKZrU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDct/MTMyMzA2NDc2Ni5q/cGVn.jpeg",
-    "thumb": "https://i.discogs.com/xQ4iE2oe8e28LH-L-k56_kvDOTvedzaWngTrZ7mmoNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDct/MTMyMzA2NDc2Ni5q/cGVn.jpeg",
+    "id": 12864704,
+    "discogs_id": 12864704,
+    "title": "Total From Joy Division To New Order",
+    "artist": "New Order, Joy Division",
+    "year": 2018,
+    "cover_image": "https://i.discogs.com/CI2gLwW2J3IJeYUJQqDpEPsyMixHBZUh2r72JvQ17nE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY0/NzA0LTE3NTA3ODU2/NDEtNTk5OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/kv8KkvbD0j___YCeMq9BqVRbm7AZit_GmId2RzUZy6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY0/NzA0LTE3NTA3ODU2/NDEtNTk5OS5qcGVn.jpeg",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Leftfield",
-      "IDM",
-      "Experimental",
-      "Ambient"
+      "Post-Punk",
+      "New Wave",
+      "Alternative Rock"
     ],
-    "label": "Virgin",
-    "discogs_url": "https://www.discogs.com/release/6007"
+    "label": "Warner Music",
+    "discogs_url": "https://www.discogs.com/release/12864704"
   }
 }
