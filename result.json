@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-06-26T17:42:49.013920+00:00",
+  "generated_at": "2026-06-27T06:57:16.991160+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 3092133,
-    "discogs_id": 3092133,
-    "title": "Boces",
+    "id": 567361,
+    "discogs_id": 567361,
+    "title": "See You On The Other Side",
     "artist": "Mercury Rev",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/ByUUugtVqk3noN9iSS3bTyMA0dkr66zrvN4aUFWEwEw/rs:fit/g:sm/q:90/h:400/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIx/MzMtMTMxNTMzNzkx/Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/Z4W8hegC-s0xjqVN-5d6eVN4AwZ0g1SHDaiLLvZsIKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIx/MzMtMTMxNTMzNzkx/Mi5qcGVn.jpeg",
+    "year": 1995,
+    "cover_image": "https://i.discogs.com/DT3_PK7dcUlXLArm12OxASycwaQXTEzw0A4L7e-Oggc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzM2/MS0xNDA1NjgyNDI1/LTk2ODMuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/r9Ivhy52FKZnliQLkPx60QyePHZH5cZBQudA1tZ8pdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzM2/MS0xNDA1NjgyNDI1/LTk2ODMuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
       "Alternative Rock",
-      "Psychedelic Rock",
-      "Avantgarde"
+      "Psychedelic Rock"
     ],
-    "label": "Music On Vinyl",
-    "discogs_url": "https://www.discogs.com/release/3092133"
+    "label": "Beggars Banquet",
+    "discogs_url": "https://www.discogs.com/release/567361"
   }
 }
