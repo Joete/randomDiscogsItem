@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-28T11:43:46.048201+00:00",
+  "generated_at": "2026-06-28T17:02:47.503484+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1374457,
-    "discogs_id": 1374457,
-    "title": "Posen",
-    "artist": "Die Sterne",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/HBc_M7F2Ma_-mybuNM0X3JGX_Ku6tG9ZZ99mYbwHHOk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NTctMTQwOTg2Mzgx/MS05NTYxLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/hZz2RW0ola8Aq9f0KCr_tyxVpcYwBByMYTOcs-_MXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NTctMTQwOTg2Mzgx/MS05NTYxLmpwZWc.jpeg",
+    "id": 9026789,
+    "discogs_id": 9026789,
+    "title": "A Storm In Heaven",
+    "artist": "The Verve",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/EwrPV8l-tfM3tlY-xONnYSrWTUp8wlgTxrmuVNraZ8g/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjY3/ODktMTQ3MzUxMTEx/NS0xNDcyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/531nZB2ojsxDOWPb6w_3nuWyAs3LfTaDcPx2T838Noc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjY3/ODktMTQ3MzUxMTEx/NS0xNDcyLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Synth-pop",
+      "Alternative Rock",
+      "Psychedelic Rock",
       "Indie Rock"
     ],
-    "label": "Epic",
-    "discogs_url": "https://www.discogs.com/release/1374457"
+    "label": "Virgin EMI Records",
+    "discogs_url": "https://www.discogs.com/release/9026789"
   }
 }
