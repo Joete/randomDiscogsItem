@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-06-28T07:53:57.532175+00:00",
+  "generated_at": "2026-06-28T11:43:46.048201+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1349454,
-    "discogs_id": 1349454,
-    "title": "Friend And Foe",
-    "artist": "Menomena",
-    "year": 2007,
-    "cover_image": "https://i.discogs.com/W0gBwHC4Ql9KqkvGwZMKZX2KHnjgwPkGdvWLZrAP2K0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk0/NTQtMTU5NjU0NzU2/Ny02MzkzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/a_4iP6e04IKFXP7dI3NqHKxqijupaon-alRTR4GjpKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk0/NTQtMTU5NjU0NzU2/Ny02MzkzLmpwZWc.jpeg",
+    "id": 1374457,
+    "discogs_id": 1374457,
+    "title": "Posen",
+    "artist": "Die Sterne",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/HBc_M7F2Ma_-mybuNM0X3JGX_Ku6tG9ZZ99mYbwHHOk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NTctMTQwOTg2Mzgx/MS05NTYxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/hZz2RW0ola8Aq9f0KCr_tyxVpcYwBByMYTOcs-_MXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NTctMTQwOTg2Mzgx/MS05NTYxLmpwZWc.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
+      "Synth-pop",
       "Indie Rock"
     ],
-    "label": "FILMguerrero",
-    "discogs_url": "https://www.discogs.com/release/1349454"
+    "label": "Epic",
+    "discogs_url": "https://www.discogs.com/release/1374457"
   }
 }
