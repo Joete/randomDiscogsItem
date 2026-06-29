@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-29T13:59:13.475680+00:00",
+  "generated_at": "2026-06-29T18:05:08.850673+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 11055645,
-    "discogs_id": 11055645,
-    "title": "Warhaus",
-    "artist": "Warhaus",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/mR2vXx9SlMOIt1nGc0UXow-4_CgGxPN2ZyLDCJYPcY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU1/NjQ1LTE1MDkwMjcw/MjgtNjM4Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/qfGBrnGiM3mMozSq63J58wail6992vRxYqIMLTziGUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU1/NjQ1LTE1MDkwMjcw/MjgtNjM4Ni5qcGVn.jpeg",
+    "id": 820172,
+    "discogs_id": 820172,
+    "title": "Shove It",
+    "artist": "The Cross (3)",
+    "year": 1988,
+    "cover_image": "https://i.discogs.com/k5oOK6DvIphDhYQfoy1jDGT7VIPEpQTJvsaHC-AKjA8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDE3/Mi0xNzUxNzk3OTY2/LTE0ODYuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/wY11GwuAmOcdIdZhtbwA7AL4j8Ev6aiBeOhz7DHckyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDE3/Mi0xNzUxNzk3OTY2/LTE0ODYuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock"
+      "Pop Rock"
     ],
-    "label": "[PIAS]",
-    "discogs_url": "https://www.discogs.com/release/11055645"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/820172"
   }
 }
