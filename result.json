@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-06-28T17:02:47.503484+00:00",
+  "generated_at": "2026-06-29T09:02:03.579750+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 9026789,
-    "discogs_id": 9026789,
-    "title": "A Storm In Heaven",
-    "artist": "The Verve",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/EwrPV8l-tfM3tlY-xONnYSrWTUp8wlgTxrmuVNraZ8g/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjY3/ODktMTQ3MzUxMTEx/NS0xNDcyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/531nZB2ojsxDOWPb6w_3nuWyAs3LfTaDcPx2T838Noc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjY3/ODktMTQ3MzUxMTEx/NS0xNDcyLmpwZWc.jpeg",
+    "id": 882374,
+    "discogs_id": 882374,
+    "title": "Ein Bißchen Spaß Muß Sein",
+    "artist": "Roberto Blanco",
+    "year": 1972,
+    "cover_image": "https://i.discogs.com/8BZcD8MuEYyTTxMcmqrJTFg8l-pOVk_Dx811T0ig1U8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjM3/NC0xNTk0MjIwODMx/LTM1NDAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/huURUjkQI4TNIf-R3FDEFuI3jo224T6TS_DnlCLXBcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjM3/NC0xNTk0MjIwODMx/LTM1NDAuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock",
-      "Psychedelic Rock",
-      "Indie Rock"
+      "Schlager",
+      "Promotional"
     ],
-    "label": "Virgin EMI Records",
-    "discogs_url": "https://www.discogs.com/release/9026789"
+    "label": "CBS",
+    "discogs_url": "https://www.discogs.com/release/882374"
   }
 }
