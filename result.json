@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-06-29T09:02:03.579750+00:00",
+  "generated_at": "2026-06-29T13:59:13.475680+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 882374,
-    "discogs_id": 882374,
-    "title": "Ein Bißchen Spaß Muß Sein",
-    "artist": "Roberto Blanco",
-    "year": 1972,
-    "cover_image": "https://i.discogs.com/8BZcD8MuEYyTTxMcmqrJTFg8l-pOVk_Dx811T0ig1U8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjM3/NC0xNTk0MjIwODMx/LTM1NDAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/huURUjkQI4TNIf-R3FDEFuI3jo224T6TS_DnlCLXBcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjM3/NC0xNTk0MjIwODMx/LTM1NDAuanBlZw.jpeg",
+    "id": 11055645,
+    "discogs_id": 11055645,
+    "title": "Warhaus",
+    "artist": "Warhaus",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/mR2vXx9SlMOIt1nGc0UXow-4_CgGxPN2ZyLDCJYPcY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU1/NjQ1LTE1MDkwMjcw/MjgtNjM4Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/qfGBrnGiM3mMozSq63J58wail6992vRxYqIMLTziGUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU1/NjQ1LTE1MDkwMjcw/MjgtNjM4Ni5qcGVn.jpeg",
     "genres": [
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Schlager",
-      "Promotional"
+      "Alternative Rock"
     ],
-    "label": "CBS",
-    "discogs_url": "https://www.discogs.com/release/882374"
+    "label": "[PIAS]",
+    "discogs_url": "https://www.discogs.com/release/11055645"
   }
 }
