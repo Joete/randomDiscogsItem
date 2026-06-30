@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-30T07:57:16.458283+00:00",
+  "generated_at": "2026-06-30T12:05:16.847022+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 770516,
-    "discogs_id": 770516,
-    "title": "The House Of The Rising Sun + Quasimodo Suite",
-    "artist": "Santa Esmeralda, Jimmy Goings",
-    "year": 1977,
-    "cover_image": "https://i.discogs.com/gxAE2Q5ANkDfZpE1rhkQB31qXzWBTpxvgSLUx_EQ8mk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDUx/Ni0xNTkxNTI2MzMy/LTY3NjAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/fogJWtXN10ouNpG69OU8AIZB19HSbSjKkR4XLuS3JC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDUx/Ni0xNTkxNTI2MzMy/LTY3NjAuanBlZw.jpeg",
+    "id": 1357738,
+    "discogs_id": 1357738,
+    "title": "Get Born",
+    "artist": "Jet (2)",
+    "year": 2003,
+    "cover_image": "https://i.discogs.com/og3iaakSTv8R9O6w395u5brTG8Y1xyAE4NnkJz1nydg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MzgtMTYxODQ2OTc4/OC0xMzEyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/5ecFK-4xESPEPMZuUpXrV1Ejhh0GnDAmhItC51b-V1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MzgtMTYxODQ2OTc4/OC0xMzEyLmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Latin",
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Disco"
+      "Alternative Rock",
+      "Hard Rock",
+      "Pop Rock"
     ],
-    "label": "Philips",
-    "discogs_url": "https://www.discogs.com/release/770516"
+    "label": "Elektra",
+    "discogs_url": "https://www.discogs.com/release/1357738"
   }
 }
