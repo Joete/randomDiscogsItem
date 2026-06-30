@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-06-30T12:05:16.847022+00:00",
+  "generated_at": "2026-06-30T17:48:50.312193+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1357738,
-    "discogs_id": 1357738,
-    "title": "Get Born",
-    "artist": "Jet (2)",
-    "year": 2003,
-    "cover_image": "https://i.discogs.com/og3iaakSTv8R9O6w395u5brTG8Y1xyAE4NnkJz1nydg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MzgtMTYxODQ2OTc4/OC0xMzEyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/5ecFK-4xESPEPMZuUpXrV1Ejhh0GnDAmhItC51b-V1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MzgtMTYxODQ2OTc4/OC0xMzEyLmpwZWc.jpeg",
+    "id": 3693186,
+    "discogs_id": 3693186,
+    "title": "Street Life - 20 Great Hits",
+    "artist": "Roxy Music, Bryan Ferry",
+    "year": 1986,
+    "cover_image": "https://i.discogs.com/dlz9uJKzgUpliHvyqDnc7Sb9BVNqVkvuFp_5af0tKS8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMx/ODYtMTQ4MTI3Nzgy/MC01MDI0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Tm-oT9kQySFPMA1xfeDRJEuxglR3iY6PFUKaqJ3ctyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMx/ODYtMTQ4MTI3Nzgy/MC01MDI0LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Hard Rock",
+      "Glam",
       "Pop Rock"
     ],
-    "label": "Elektra",
-    "discogs_url": "https://www.discogs.com/release/1357738"
+    "label": "Polystar (3)",
+    "discogs_url": "https://www.discogs.com/release/3693186"
   }
 }
