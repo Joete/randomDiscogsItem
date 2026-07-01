@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-30T17:48:50.312193+00:00",
+  "generated_at": "2026-07-01T08:17:09.625933+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 3693186,
-    "discogs_id": 3693186,
-    "title": "Street Life - 20 Great Hits",
-    "artist": "Roxy Music, Bryan Ferry",
-    "year": 1986,
-    "cover_image": "https://i.discogs.com/dlz9uJKzgUpliHvyqDnc7Sb9BVNqVkvuFp_5af0tKS8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMx/ODYtMTQ4MTI3Nzgy/MC01MDI0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Tm-oT9kQySFPMA1xfeDRJEuxglR3iY6PFUKaqJ3ctyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMx/ODYtMTQ4MTI3Nzgy/MC01MDI0LmpwZWc.jpeg",
+    "id": 69857,
+    "discogs_id": 69857,
+    "title": "( )",
+    "artist": "Sigur Rós",
+    "year": 2002,
+    "cover_image": "https://i.discogs.com/xAQvns9Iguuj_h0tlVUiUaQqlFT3n8X2YwJVfZ9GKs8/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODU3/LTE1MDU4NjQ0NDct/NjM3NS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/XM0nnNj01G3NAwN2lF5nzTmqwyYzaqfefRrKr0r0NMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODU3/LTE1MDU4NjQ0NDct/NjM3NS5qcGVn.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Glam",
-      "Pop Rock"
+      "Post Rock",
+      "Ambient"
     ],
-    "label": "Polystar (3)",
-    "discogs_url": "https://www.discogs.com/release/3693186"
+    "label": "FatCat Records",
+    "discogs_url": "https://www.discogs.com/release/69857"
   }
 }
