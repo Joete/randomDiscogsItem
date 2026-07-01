@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-01T08:17:09.625933+00:00",
+  "generated_at": "2026-07-01T12:28:03.900447+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 69857,
-    "discogs_id": 69857,
-    "title": "( )",
-    "artist": "Sigur Rós",
-    "year": 2002,
-    "cover_image": "https://i.discogs.com/xAQvns9Iguuj_h0tlVUiUaQqlFT3n8X2YwJVfZ9GKs8/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODU3/LTE1MDU4NjQ0NDct/NjM3NS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/XM0nnNj01G3NAwN2lF5nzTmqwyYzaqfefRrKr0r0NMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODU3/LTE1MDU4NjQ0NDct/NjM3NS5qcGVn.jpeg",
+    "id": 1797038,
+    "discogs_id": 1797038,
+    "title": "Mother's Milk",
+    "artist": "Red Hot Chili Peppers",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/BYdu-R9aT7qzrcza5zOHOGycb9q-DWR9cQnRMBB7ow0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTcw/MzgtMTU5MDIzMjkx/OC04MzU2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/zRKMQgrpkNsHfkRy9Uza0oheoC4OUwBgnFLhSvRykSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTcw/MzgtMTU5MDIzMjkx/OC04MzU2LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Post Rock",
-      "Ambient"
+      "Alternative Rock",
+      "Funk Metal"
     ],
-    "label": "FatCat Records",
-    "discogs_url": "https://www.discogs.com/release/69857"
+    "label": "EMI USA",
+    "discogs_url": "https://www.discogs.com/release/1797038"
   }
 }
