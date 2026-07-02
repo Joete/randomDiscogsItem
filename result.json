@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-07-02T07:36:50.393130+00:00",
+  "generated_at": "2026-07-02T12:04:23.461483+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 6912407,
-    "discogs_id": 6912407,
-    "title": "Northern Soul: The Soundtrack",
-    "artist": "Various",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/5wKzar2bOgGNl-sgettnjhHy-BVskp4rWn5QO748tQI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTI0/MDctMTQyOTM3Mjc1/OC03NTc0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/0s4oq9zPQEitDzZ_GpFaAeO1YxdUXTqNEaGUWpinwJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTI0/MDctMTQyOTM3Mjc1/OC03NTc0LmpwZWc.jpeg",
+    "id": 12718150,
+    "discogs_id": 12718150,
+    "title": "Weezer",
+    "artist": "Weezer",
+    "year": 2018,
+    "cover_image": "https://i.discogs.com/pSMgUiw8vsHid15Hq3WLMqOH-eB5qJ2ZaJTBkt1TKXo/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE4/MTUwLTE1NjA5NjEy/MTUtMzkwNS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/OXWeWGHtxRXhST9tTvJWBxb8JIv565fm32BB6UvQaBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE4/MTUwLTE1NjA5NjEy/MTUtMzkwNS5qcGVn.jpeg",
     "genres": [
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Soul"
+      "Alternative Rock",
+      "Indie Rock"
     ],
-    "label": "Harmless",
-    "discogs_url": "https://www.discogs.com/release/6912407"
+    "label": "Geffen Records",
+    "discogs_url": "https://www.discogs.com/release/12718150"
   }
 }
