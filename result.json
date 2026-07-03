@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-07-03T12:02:39.365270+00:00",
+  "generated_at": "2026-07-03T17:17:53.469447+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 3807436,
-    "discogs_id": 3807436,
-    "title": "K.O.O.K.",
-    "artist": "Tocotronic",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/J7zm2B76JKtoSPof31_ZsR02MVBQeqYfHy5sF_8syJg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/MzYtMTQzNTYxNTA4/My04ODg4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/tnZZu_XvpzuPNV-uFZ6eozRko3EhB1EoGXmJ2qjErD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/MzYtMTQzNTYxNTA4/My04ODg4LmpwZWc.jpeg",
+    "id": 9979164,
+    "discogs_id": 9979164,
+    "title": "Spirit",
+    "artist": "Depeche Mode",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/rmircNX3HkdIj1-t-_YpC0KGH3_zFisbAX-gToSxGPc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Nzkx/NjQtMTQ4OTY4Mjkw/MS04NDI4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/kBM5WFFY0PrLMjfyYZy-spkowArg0AVH4yDr_NRYwBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Nzkx/NjQtMTQ4OTY4Mjkw/MS04NDI4LmpwZWc.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Synth-pop"
     ],
-    "label": "Buback",
-    "discogs_url": "https://www.discogs.com/release/3807436"
+    "label": "Columbia",
+    "discogs_url": "https://www.discogs.com/release/9979164"
   }
 }
