@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-02T17:39:55.221624+00:00",
+  "generated_at": "2026-07-03T07:27:10.996418+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 6301714,
-    "discogs_id": 6301714,
-    "title": "Nothing Has Changed",
-    "artist": "David Bowie",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/1YmljrAwh_xYzwymVm4t5Am4X0tbf0guc1jdxQueHRA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDE3/MTQtMTQxNTk3ODkz/OC0yOTg5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/baFIQfsl4vJ-o2k8NnezpY2cyGgRlxDBclGQDBXjwpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDE3/MTQtMTQxNTk3ODkz/OC0yOTg5LmpwZWc.jpeg",
+    "id": 8112998,
+    "discogs_id": 8112998,
+    "title": "Industrial Silence",
+    "artist": "Madrugada",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/N4IDJK1KPmJ7Mb2i3KwtNzqbcVKpoBigE_28bJgMulQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI5/OTgtMTQ2MDgwOTE2/NC05ODcxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/xuh65quI0-Uiaw8uqAfDb59_OZI6Z8g-micqaaWLRXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTI5/OTgtMTQ2MDgwOTE2/NC05ODcxLmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Pop Rock",
-      "Vocal"
+      "Indie Rock",
+      "Acoustic"
     ],
-    "label": "Parlophone",
-    "discogs_url": "https://www.discogs.com/release/6301714"
+    "label": "Music On Vinyl",
+    "discogs_url": "https://www.discogs.com/release/8112998"
   }
 }
