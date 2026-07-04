@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-07-04T06:51:06.667993+00:00",
+  "generated_at": "2026-07-04T11:19:39.794473+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1460942,
-    "discogs_id": 1460942,
-    "title": "Everyone Into Position",
-    "artist": "Oceansize",
+    "id": 795720,
+    "discogs_id": 795720,
+    "title": "No Balance Palace",
+    "artist": "Kashmir (2)",
     "year": 2005,
-    "cover_image": "https://i.discogs.com/PObKmqOUHBD-_4hABacbYFyHTS5WGwoTiGuO6sip2Q4/rs:fit/g:sm/q:90/h:500/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA5/NDItMTIyMTQyODU5/MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/f_lyDAq5tLKmmE8hn4nFGldB0GZ4-B88rdGhZqrCmGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA5/NDItMTIyMTQyODU5/MS5qcGVn.jpeg",
+    "cover_image": "https://i.discogs.com/VCLZdL4rerCahpg7NcgdbJ3jWSH-RrdAtqdZPVersR4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTcy/MC0xNTYxNDU4MDc1/LTc0NDUuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/aWoI64KrMqNAKWlywXNylgOlV2SQRxru7uvEZOhFaQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTcy/MC0xNTYxNDU4MDc1/LTc0NDUuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Post Rock",
-      "Indie Rock"
+      "Alternative Rock"
     ],
-    "label": "Beggars Banquet",
-    "discogs_url": "https://www.discogs.com/release/1460942"
+    "label": "Columbia",
+    "discogs_url": "https://www.discogs.com/release/795720"
   }
 }
