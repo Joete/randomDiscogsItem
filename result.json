@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-07-04T11:19:39.794473+00:00",
+  "generated_at": "2026-07-04T16:57:32.026650+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 795720,
-    "discogs_id": 795720,
-    "title": "No Balance Palace",
-    "artist": "Kashmir (2)",
-    "year": 2005,
-    "cover_image": "https://i.discogs.com/VCLZdL4rerCahpg7NcgdbJ3jWSH-RrdAtqdZPVersR4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTcy/MC0xNTYxNDU4MDc1/LTc0NDUuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/aWoI64KrMqNAKWlywXNylgOlV2SQRxru7uvEZOhFaQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTcy/MC0xNTYxNDU4MDc1/LTc0NDUuanBlZw.jpeg",
+    "id": 932679,
+    "discogs_id": 932679,
+    "title": "Phuturing The Poetry Of Lemn Sissay",
+    "artist": "Disjam",
+    "year": 1994,
+    "cover_image": "https://i.discogs.com/KWTxCpi8TUkwJj2_obaOPtsE57-WTLaR3jcLzj3Btrk/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjY3/OS0xNTM3MDAwMDk1/LTgxMjkuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/C_ZZupyFp9RMDdhwa4p8gAhRXy9-blnVStK0frYkzqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjY3/OS0xNTM3MDAwMDk1/LTgxMjkuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop",
+      "Funk / Soul"
     ],
     "styles": [
-      "Alternative Rock"
+      "Conscious",
+      "Funk",
+      "Acid Jazz",
+      "Trip Hop"
     ],
-    "label": "Columbia",
-    "discogs_url": "https://www.discogs.com/release/795720"
+    "label": "Yo Mama's Recording",
+    "discogs_url": "https://www.discogs.com/release/932679"
   }
 }
