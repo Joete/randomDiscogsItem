@@ -1,21 +1,19 @@
 {
-  "generated_at": "2026-07-05T07:32:02.988517+00:00",
+  "generated_at": "2026-07-05T11:24:42.377032+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 2817021,
-    "discogs_id": 2817021,
-    "title": "Countdown To Ecstasy",
-    "artist": "Steely Dan",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/e0Z5axzqzPxvLWKkaRoKsMxEsPLWEKKDQIzzq4t7rhY/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTcw/MjEtMTMwMjM2Mjkz/MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/7G0lEjN1Ika2whRWhb6kvXHAzvv2igikF2iLdnVT11g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTcw/MjEtMTMwMjM2Mjkz/MS5qcGVn.jpeg",
+    "id": 775267,
+    "discogs_id": 775267,
+    "title": "Best Of Arrestedevelopment",
+    "artist": "Arrested Development",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/hUcdrzFM92kWEQ1n47zNcgfazIC_vDaListFZ8K3oq4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTI2/Ny0xMjkyOTc4MTY2/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/VOWRFcRT_gFQOIHeXztlYx0HA0D-W2-vyhx32BhE-N0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTI2/Ny0xMjkyOTc4MTY2/LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop"
     ],
-    "styles": [
-      "Pop Rock"
-    ],
-    "label": "MCA Records",
-    "discogs_url": "https://www.discogs.com/release/2817021"
+    "styles": [],
+    "label": "Chrysalis",
+    "discogs_url": "https://www.discogs.com/release/775267"
   }
 }
