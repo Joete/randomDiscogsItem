@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-07-05T11:24:42.377032+00:00",
+  "generated_at": "2026-07-05T17:01:44.027488+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 775267,
-    "discogs_id": 775267,
-    "title": "Best Of Arrestedevelopment",
-    "artist": "Arrested Development",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/hUcdrzFM92kWEQ1n47zNcgfazIC_vDaListFZ8K3oq4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTI2/Ny0xMjkyOTc4MTY2/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/VOWRFcRT_gFQOIHeXztlYx0HA0D-W2-vyhx32BhE-N0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTI2/Ny0xMjkyOTc4MTY2/LmpwZWc.jpeg",
+    "id": 1991291,
+    "discogs_id": 1991291,
+    "title": "There Is No Enemy",
+    "artist": "Built To Spill",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/DHu8-AvYDMtEE8AyJNGEeJsXrFmR0Rpm5XYPKzOmaNk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEy/OTEtMTY3MDQxOTY5/MS01MDkxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/z2KmwfYyfcOEJ3USr3y8N3nuujWcByMemslF8F-wv_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEy/OTEtMTY3MDQxOTY5/MS01MDkxLmpwZWc.jpeg",
     "genres": [
-      "Hip Hop"
+      "Rock"
     ],
-    "styles": [],
-    "label": "Chrysalis",
-    "discogs_url": "https://www.discogs.com/release/775267"
+    "styles": [
+      "Indie Rock"
+    ],
+    "label": "Warner Bros. Records",
+    "discogs_url": "https://www.discogs.com/release/1991291"
   }
 }
