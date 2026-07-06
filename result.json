@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-07-06T08:25:49.170413+00:00",
+  "generated_at": "2026-07-06T13:38:59.414787+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 814331,
-    "discogs_id": 814331,
-    "title": "Fight For Your Mind",
-    "artist": "Ben Harper",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/mbgD6sxWkoRsTlirhc_MGa1UJRLdJUyZGeR0mkdkU6g/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDMz/MS0xNTQzNzU1MjE4/LTk5MjAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/tYp4hW7OGy9YLpH0V9yziwW8Nsm7m6ocRiOUAc2Z01s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDMz/MS0xNTQzNzU1MjE4/LTk5MjAuanBlZw.jpeg",
+    "id": 5589591,
+    "discogs_id": 5589591,
+    "title": "Love Letters",
+    "artist": "Metronomy",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/m1KTYI23OKZlVHfz7fIAMKouHJ47sxawTG6wKvxrZC4/rs:fit/g:sm/q:90/h:410/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODk1/OTEtMTM5NzM5NDQw/Ny02ODAzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/hI0ZDd8ZqS15MWaQdVqW_APN6kpxotDXm0C9gWbrorw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODk1/OTEtMTM5NzM5NDQw/Ny02ODAzLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Pop"
     ],
     "styles": [
-      "Folk Rock"
+      "Synth-pop"
     ],
-    "label": "Virgin",
-    "discogs_url": "https://www.discogs.com/release/814331"
+    "label": "Because Music",
+    "discogs_url": "https://www.discogs.com/release/5589591"
   }
 }
