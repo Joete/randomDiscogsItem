@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-07T12:22:47.599602+00:00",
+  "generated_at": "2026-07-07T17:54:09.160245+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 15533837,
-    "discogs_id": 15533837,
-    "title": "Mordechai",
-    "artist": "Khruangbin",
-    "year": 2020,
-    "cover_image": "https://i.discogs.com/hU5HbZ-dnXa-sAZMEJOt41O4R-GYvdGmVgRDPBhxyn4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/ODM3LTE2MDM3ODc5/NTctNDY2Ny5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/s3kI_V5VianGIDCd9fgnBCshHAnIKYULhFTWmxXL-XQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/ODM3LTE2MDM3ODc5/NTctNDY2Ny5qcGVn.jpeg",
+    "id": 7031086,
+    "discogs_id": 7031086,
+    "title": "Demon Days",
+    "artist": "Gorillaz",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/ruVdvE_zPfzsVJqWsveFZuT8LGyveCHjhf76qstrnZ8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzEw/ODYtMTQ1NjgxMjg4/Ni05Mzc4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/i5Y98lfnODelKCbpaz2E4xkjqihT5crvinqrunqzO_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzEw/ODYtMTQ1NjgxMjg4/Ni05Mzc4LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Funk / Soul"
+      "Electronic",
+      "Hip Hop",
+      "Rock"
     ],
     "styles": [
-      "Funk",
-      "Psychedelic",
-      "Disco",
-      "Rhythm & Blues"
+      "Leftfield",
+      "Trip Hop",
+      "Lo-Fi",
+      "Pop Rap",
+      "Downtempo"
     ],
-    "label": "Dead Oceans",
-    "discogs_url": "https://www.discogs.com/release/15533837"
+    "label": "Parlophone (2)",
+    "discogs_url": "https://www.discogs.com/release/7031086"
   }
 }
