@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-07-07T07:44:44.303295+00:00",
+  "generated_at": "2026-07-07T12:22:47.599602+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 29578063,
-    "discogs_id": 29578063,
-    "title": "Wall Of Eyes",
-    "artist": "The Smile (5)",
-    "year": 2024,
-    "cover_image": "https://i.discogs.com/J6Vv7JIgkROrg7tmU8wd01X4XrIQ8gp-mqeZ5MbMOgU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc4/MDYzLTE3MDY4Mjk0/NDgtOTI1Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/0a5air7Wyc49yHjH0GKJsOU6-dXrMkyo7kIQZRrQ-XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc4/MDYzLTE3MDY4Mjk0/NDgtOTI1Mi5qcGVn.jpeg",
+    "id": 15533837,
+    "discogs_id": 15533837,
+    "title": "Mordechai",
+    "artist": "Khruangbin",
+    "year": 2020,
+    "cover_image": "https://i.discogs.com/hU5HbZ-dnXa-sAZMEJOt41O4R-GYvdGmVgRDPBhxyn4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/ODM3LTE2MDM3ODc5/NTctNDY2Ny5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/s3kI_V5VianGIDCd9fgnBCshHAnIKYULhFTWmxXL-XQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/ODM3LTE2MDM3ODc5/NTctNDY2Ny5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Funk / Soul"
     ],
     "styles": [
-      "Alternative Rock",
-      "Art Rock",
-      "Experimental"
+      "Funk",
+      "Psychedelic",
+      "Disco",
+      "Rhythm & Blues"
     ],
-    "label": "XL Recordings",
-    "discogs_url": "https://www.discogs.com/release/29578063"
+    "label": "Dead Oceans",
+    "discogs_url": "https://www.discogs.com/release/15533837"
   }
 }
