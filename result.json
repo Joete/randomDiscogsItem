@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-07-06T18:06:43.270839+00:00",
+  "generated_at": "2026-07-07T07:44:44.303295+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 3598687,
-    "discogs_id": 3598687,
-    "title": "A Young Person's Guide To Superpunk",
-    "artist": "Superpunk",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/v0XIaeX1T72aIerATvx8xPfnADrm6M0Jt0bzsm2IlPs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTg2/ODctMTMzNjgzODE2/Ni0zODM0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Buqly2PVHcJm1zremHD9Dj8cRY6su0e6FLszXBW1Euk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTg2/ODctMTMzNjgzODE2/Ni0zODM0LmpwZWc.jpeg",
+    "id": 29578063,
+    "discogs_id": 29578063,
+    "title": "Wall Of Eyes",
+    "artist": "The Smile (5)",
+    "year": 2024,
+    "cover_image": "https://i.discogs.com/J6Vv7JIgkROrg7tmU8wd01X4XrIQ8gp-mqeZ5MbMOgU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc4/MDYzLTE3MDY4Mjk0/NDgtOTI1Mi5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/0a5air7Wyc49yHjH0GKJsOU6-dXrMkyo7kIQZRrQ-XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc4/MDYzLTE3MDY4Mjk0/NDgtOTI1Mi5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Alternative Rock",
+      "Art Rock",
+      "Experimental"
     ],
-    "label": "Tapete Records",
-    "discogs_url": "https://www.discogs.com/release/3598687"
+    "label": "XL Recordings",
+    "discogs_url": "https://www.discogs.com/release/29578063"
   }
 }
