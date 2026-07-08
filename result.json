@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-07-08T11:43:00.271483+00:00",
+  "generated_at": "2026-07-08T17:23:14.149133+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1346998,
-    "discogs_id": 1346998,
-    "title": "Flying Colours",
-    "artist": "Chris de Burgh",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/ZBATMIyxiZUuEZvsNT6Izj8jVRc9MUgOwRNKE9xg1vc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY5/OTgtMTMzNzk3MjIz/MS0yOTIyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/tBCylFHhLVhndltjn8yDkW8IN0ScAmpbV9mtAjyg104/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY5/OTgtMTMzNzk3MjIz/MS0yOTIyLmpwZWc.jpeg",
+    "id": 224445,
+    "discogs_id": 224445,
+    "title": "Mama's Gun",
+    "artist": "Erykah Badu",
+    "year": 2000,
+    "cover_image": "https://i.discogs.com/qeesM6nd7T9juGmmV88N-ElPNFzyX5LLUxV1GK8Hhfo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/NS0xNjk0NjIzMDEz/LTc1OTAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/X6OZ_Qd6h97Lk9SKRfnisFDxulUuT8bOpo6wi_uxMS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/NS0xNjk0NjIzMDEz/LTc1OTAuanBlZw.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Hip Hop",
+      "Funk / Soul"
     ],
     "styles": [
-      "Soft Rock",
-      "Pop Rock",
-      "Ballad"
+      "Contemporary R&B",
+      "Neo Soul"
     ],
-    "label": "A&M Records",
-    "discogs_url": "https://www.discogs.com/release/1346998"
+    "label": "Motown",
+    "discogs_url": "https://www.discogs.com/release/224445"
   }
 }
