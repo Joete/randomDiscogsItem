@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-07-08T06:32:30.450460+00:00",
+  "generated_at": "2026-07-08T11:43:00.271483+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 767408,
-    "discogs_id": 767408,
-    "title": "Outlandos D'Amour",
-    "artist": "The Police",
-    "year": 1985,
-    "cover_image": "https://i.discogs.com/BnMON6yamtg9AqdIXvicpmBQOBCub2Kls2qebbNfnyk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzQw/OC0xNzA3MTQ5NTI2/LTk4ODEuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/q-uv71G6xVCN9VIpo9f3oUy-FXj4qGD-kU8IneGS4o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzQw/OC0xNzA3MTQ5NTI2/LTk4ODEuanBlZw.jpeg",
+    "id": 1346998,
+    "discogs_id": 1346998,
+    "title": "Flying Colours",
+    "artist": "Chris de Burgh",
+    "year": 1988,
+    "cover_image": "https://i.discogs.com/ZBATMIyxiZUuEZvsNT6Izj8jVRc9MUgOwRNKE9xg1vc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY5/OTgtMTMzNzk3MjIz/MS0yOTIyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/tBCylFHhLVhndltjn8yDkW8IN0ScAmpbV9mtAjyg104/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY5/OTgtMTMzNzk3MjIz/MS0yOTIyLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "New Wave"
+      "Soft Rock",
+      "Pop Rock",
+      "Ballad"
     ],
     "label": "A&M Records",
-    "discogs_url": "https://www.discogs.com/release/767408"
+    "discogs_url": "https://www.discogs.com/release/1346998"
   }
 }
