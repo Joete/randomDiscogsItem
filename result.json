@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-09T07:41:15.312388+00:00",
+  "generated_at": "2026-07-09T13:45:47.774344+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 29812231,
-    "discogs_id": 29812231,
-    "title": "Tangk",
-    "artist": "Idles",
-    "year": 2024,
-    "cover_image": "https://i.discogs.com/90g_xEF5aNR62W8nKWk6D576ffKMOt06CAlseRRFL4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEy/MjMxLTE3MDgwMjcw/NDUtNjM2NS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/2cqvlD7PmuqPlNbVS7iyHigilgIWJHq-9713b9RoyLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEy/MjMxLTE3MDgwMjcw/NDUtNjM2NS5qcGVn.jpeg",
+    "id": 2174407,
+    "discogs_id": 2174407,
+    "title": "Philadelphonic",
+    "artist": "G. Love & Special Sauce",
+    "year": 1999,
+    "cover_image": "https://i.discogs.com/WnQ-USVL1fnC3I-WLhLZQPcDYMzoiZnVUyfFrNBy42Q/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQ0/MDctMTMwODUxMzk2/NS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/e6ooyCfeK6AXCMzZNJLGICWZX21bxSVvWzfUx4TccNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQ0/MDctMTMwODUxMzk2/NS5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Blues"
     ],
     "styles": [
-      "Post-Punk",
-      "Art Rock"
+      "Blues Rock",
+      "Electric Blues"
     ],
-    "label": "Partisan Records",
-    "discogs_url": "https://www.discogs.com/release/29812231"
+    "label": "Okeh",
+    "discogs_url": "https://www.discogs.com/release/2174407"
   }
 }
