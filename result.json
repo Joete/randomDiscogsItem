@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-08T17:23:14.149133+00:00",
+  "generated_at": "2026-07-09T07:41:15.312388+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 224445,
-    "discogs_id": 224445,
-    "title": "Mama's Gun",
-    "artist": "Erykah Badu",
-    "year": 2000,
-    "cover_image": "https://i.discogs.com/qeesM6nd7T9juGmmV88N-ElPNFzyX5LLUxV1GK8Hhfo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/NS0xNjk0NjIzMDEz/LTc1OTAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/X6OZ_Qd6h97Lk9SKRfnisFDxulUuT8bOpo6wi_uxMS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/NS0xNjk0NjIzMDEz/LTc1OTAuanBlZw.jpeg",
+    "id": 29812231,
+    "discogs_id": 29812231,
+    "title": "Tangk",
+    "artist": "Idles",
+    "year": 2024,
+    "cover_image": "https://i.discogs.com/90g_xEF5aNR62W8nKWk6D576ffKMOt06CAlseRRFL4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEy/MjMxLTE3MDgwMjcw/NDUtNjM2NS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/2cqvlD7PmuqPlNbVS7iyHigilgIWJHq-9713b9RoyLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEy/MjMxLTE3MDgwMjcw/NDUtNjM2NS5qcGVn.jpeg",
     "genres": [
-      "Hip Hop",
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Contemporary R&B",
-      "Neo Soul"
+      "Post-Punk",
+      "Art Rock"
     ],
-    "label": "Motown",
-    "discogs_url": "https://www.discogs.com/release/224445"
+    "label": "Partisan Records",
+    "discogs_url": "https://www.discogs.com/release/29812231"
   }
 }
