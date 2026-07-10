@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-10T07:40:55.970356+00:00",
+  "generated_at": "2026-07-10T12:21:04.973066+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 2138026,
-    "discogs_id": 2138026,
-    "title": "The Courage Of Others",
-    "artist": "Midlake",
-    "year": 2010,
-    "cover_image": "https://i.discogs.com/miFgwDE6tD9-oPLlnWLkMDZoaq66d8dT3Cb6-8Tzquw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgw/MjYtMTQzMjIyMjI5/Ny00MTM0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/lkpGMeFah7yF10s56WXATEsqxL_Vitm7L-SjLr8G7gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgw/MjYtMTQzMjIyMjI5/Ny00MTM0LmpwZWc.jpeg",
+    "id": 2851025,
+    "discogs_id": 2851025,
+    "title": "The King Of Limbs",
+    "artist": "Radiohead",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/K0gvirc78WvMQ7Lvl2199oVrblaWw-ziWho1f_r8lw0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MjUtMTMwMzkyNzU4/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/DFrP5lGfLiLPhHu9Or-Mxne_VI7H4bqu9Bqqlwh6KHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MjUtMTMwMzkyNzU4/OS5qcGVn.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Folk Rock"
+      "Experimental",
+      "Alternative Rock"
     ],
-    "label": "Bella Union",
-    "discogs_url": "https://www.discogs.com/release/2138026"
+    "label": "Ticker Tape Ltd.",
+    "discogs_url": "https://www.discogs.com/release/2851025"
   }
 }
