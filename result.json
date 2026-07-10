@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-07-09T17:50:23.822917+00:00",
+  "generated_at": "2026-07-10T07:40:55.970356+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 713998,
-    "discogs_id": 713998,
-    "title": "Trust Us",
-    "artist": "Motorpsycho",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/2cqlY9g5L1pbCZ9Dxq_MdW0Jn0JNk--4Ty5LmT4Zz6U/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzk5/OC0xNDU4ODE5NjIy/LTEzMzUuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/CfDBX5sYOGcZI-wgMZRR70oSw5gHW1vJLxy54X8I-Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzk5/OC0xNDU4ODE5NjIy/LTEzMzUuanBlZw.jpeg",
+    "id": 2138026,
+    "discogs_id": 2138026,
+    "title": "The Courage Of Others",
+    "artist": "Midlake",
+    "year": 2010,
+    "cover_image": "https://i.discogs.com/miFgwDE6tD9-oPLlnWLkMDZoaq66d8dT3Cb6-8Tzquw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgw/MjYtMTQzMjIyMjI5/Ny00MTM0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/lkpGMeFah7yF10s56WXATEsqxL_Vitm7L-SjLr8G7gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgw/MjYtMTQzMjIyMjI5/Ny00MTM0LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
       "Alternative Rock",
-      "Psychedelic Rock",
-      "Indie Rock",
-      "Hard Rock"
+      "Folk Rock"
     ],
-    "label": "Stickman Records (3)",
-    "discogs_url": "https://www.discogs.com/release/713998"
+    "label": "Bella Union",
+    "discogs_url": "https://www.discogs.com/release/2138026"
   }
 }
