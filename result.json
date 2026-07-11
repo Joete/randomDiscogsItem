@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-11T10:56:41.535064+00:00",
+  "generated_at": "2026-07-11T16:48:22.276404+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1132318,
-    "discogs_id": 1132318,
-    "title": "Live At The Grand Olympic Auditorium",
-    "artist": "Rage Against The Machine",
-    "year": 2003,
-    "cover_image": "https://i.discogs.com/kBUTeUl6Fudd9nudzamnx_Tvobj8ci4EzUrQ2UHbafc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/MTgtMTYyNzcxODA5/My00OTQ3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/lXMgeB5pmlDp4xbGSYjp-XNPE3YvaUT3IML84ZcaRNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/MTgtMTYyNzcxODA5/My00OTQ3LmpwZWc.jpeg",
+    "id": 6228104,
+    "discogs_id": 6228104,
+    "title": "West Ryder Pauper Lunatic Asylum",
+    "artist": "Kasabian",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/Eer63h5DfVjodYFG_TVzsNnHp73dCQt-Ggc9IWzpQNg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgx/MDQtMTUyNzc1MTc1/OC02MTUyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/XGpTMGSZ4sOKOEBHWrk21x_WeH51zWpDPlpAnZDAjHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgx/MDQtMTUyNzc1MTc1/OC02MTUyLmpwZWc.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Hard Rock",
-      "Funk Metal"
+      "Indie Rock"
     ],
-    "label": "Epic",
-    "discogs_url": "https://www.discogs.com/release/1132318"
+    "label": "Columbia",
+    "discogs_url": "https://www.discogs.com/release/6228104"
   }
 }
