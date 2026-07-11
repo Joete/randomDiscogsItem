@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-10T17:43:00.717839+00:00",
+  "generated_at": "2026-07-11T06:18:16.007924+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 9509711,
-    "discogs_id": 9509711,
-    "title": "Göteborg String Session",
-    "artist": "Kristofer Åström",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/VeAIkuX28wZRRxfzDq9wsBB9tPB1fn4LKoRopXZIoF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDk3/MTEtMTQ4MTgyMTY4/NS01NjkyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/YnASf7wxAKUSsCuy2wdvI1yLyXs3Ioy_Gp6R4kphojo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDk3/MTEtMTQ4MTgyMTY4/NS01NjkyLmpwZWc.jpeg",
+    "id": 446572,
+    "discogs_id": 446572,
+    "title": "Egyptian Reggae",
+    "artist": "Jonathan Richman & The Modern Lovers",
+    "year": 1977,
+    "cover_image": "https://i.discogs.com/ElLInmTZpNBimNtjH4OVVjnoXs8qUCwqUyO23Jnz7q8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU3/Mi0xMTQzNDg2MzMw/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/_XSen1rbNIk4LWFG4-RJD2xihtEtYNR9zn-8UkcKB68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU3/Mi0xMTQzNDg2MzMw/LmpwZWc.jpeg",
     "genres": [
       "Rock",
-      "Folk, World, & Country"
+      "Reggae"
     ],
     "styles": [
-      "Folk Rock",
-      "Indie Rock"
+      "Reggae-Pop",
+      "Rock & Roll"
     ],
-    "label": "Startracks",
-    "discogs_url": "https://www.discogs.com/release/9509711"
+    "label": "Beserkley",
+    "discogs_url": "https://www.discogs.com/release/446572"
   }
 }
