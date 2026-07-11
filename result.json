@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-11T06:18:16.007924+00:00",
+  "generated_at": "2026-07-11T10:56:41.535064+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 446572,
-    "discogs_id": 446572,
-    "title": "Egyptian Reggae",
-    "artist": "Jonathan Richman & The Modern Lovers",
-    "year": 1977,
-    "cover_image": "https://i.discogs.com/ElLInmTZpNBimNtjH4OVVjnoXs8qUCwqUyO23Jnz7q8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU3/Mi0xMTQzNDg2MzMw/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/_XSen1rbNIk4LWFG4-RJD2xihtEtYNR9zn-8UkcKB68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU3/Mi0xMTQzNDg2MzMw/LmpwZWc.jpeg",
+    "id": 1132318,
+    "discogs_id": 1132318,
+    "title": "Live At The Grand Olympic Auditorium",
+    "artist": "Rage Against The Machine",
+    "year": 2003,
+    "cover_image": "https://i.discogs.com/kBUTeUl6Fudd9nudzamnx_Tvobj8ci4EzUrQ2UHbafc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/MTgtMTYyNzcxODA5/My00OTQ3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/lXMgeB5pmlDp4xbGSYjp-XNPE3YvaUT3IML84ZcaRNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/MTgtMTYyNzcxODA5/My00OTQ3LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Reggae"
+      "Rock"
     ],
     "styles": [
-      "Reggae-Pop",
-      "Rock & Roll"
+      "Alternative Rock",
+      "Hard Rock",
+      "Funk Metal"
     ],
-    "label": "Beserkley",
-    "discogs_url": "https://www.discogs.com/release/446572"
+    "label": "Epic",
+    "discogs_url": "https://www.discogs.com/release/1132318"
   }
 }
