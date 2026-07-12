@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-07-11T16:48:22.276404+00:00",
+  "generated_at": "2026-07-12T06:38:41.988359+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 6228104,
-    "discogs_id": 6228104,
-    "title": "West Ryder Pauper Lunatic Asylum",
-    "artist": "Kasabian",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/Eer63h5DfVjodYFG_TVzsNnHp73dCQt-Ggc9IWzpQNg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgx/MDQtMTUyNzc1MTc1/OC02MTUyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/XGpTMGSZ4sOKOEBHWrk21x_WeH51zWpDPlpAnZDAjHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgx/MDQtMTUyNzc1MTc1/OC02MTUyLmpwZWc.jpeg",
+    "id": 1673544,
+    "discogs_id": 1673544,
+    "title": "Deserter's Songs",
+    "artist": "Mercury Rev",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/q3xHtU6sFeviCV52ZHtYnWYD5jQK4zPu0_wQ6J0ZCcc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM1/NDQtMTIzNjAyMTE2/Mi5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/_Yrf9Hf8c-7HJFCVJqioCgGoRoK7Ep5vDQe7fd5KA0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM1/NDQtMTIzNjAyMTE2/Mi5qcGVn.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Alternative Rock"
     ],
-    "label": "Columbia",
-    "discogs_url": "https://www.discogs.com/release/6228104"
+    "label": "V2",
+    "discogs_url": "https://www.discogs.com/release/1673544"
   }
 }
