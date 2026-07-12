@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-07-12T06:38:41.988359+00:00",
+  "generated_at": "2026-07-12T16:52:24.308897+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1673544,
-    "discogs_id": 1673544,
-    "title": "Deserter's Songs",
-    "artist": "Mercury Rev",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/q3xHtU6sFeviCV52ZHtYnWYD5jQK4zPu0_wQ6J0ZCcc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM1/NDQtMTIzNjAyMTE2/Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/_Yrf9Hf8c-7HJFCVJqioCgGoRoK7Ep5vDQe7fd5KA0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM1/NDQtMTIzNjAyMTE2/Mi5qcGVn.jpeg",
+    "id": 1012343,
+    "discogs_id": 1012343,
+    "title": "G. Love And Special Sauce",
+    "artist": "G. Love & Special Sauce",
+    "year": 1994,
+    "cover_image": "https://i.discogs.com/5Z_sQ_Z938fuK6IENR0Qz2KAq0reyYEcwIdyWC3AYu8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NDMtMTI3Mzg1OTY5/My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/fZo34ejCfFVm8QMm2zSMlTTwyVr_URF2xpdi7KuQJjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NDMtMTI3Mzg1OTY5/My5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop",
+      "Jazz",
+      "Rock",
+      "Blues"
     ],
     "styles": [
-      "Alternative Rock"
+      "Blues Rock",
+      "Acoustic"
     ],
-    "label": "V2",
-    "discogs_url": "https://www.discogs.com/release/1673544"
+    "label": "OKeh",
+    "discogs_url": "https://www.discogs.com/release/1012343"
   }
 }
