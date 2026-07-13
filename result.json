@@ -1,25 +1,21 @@
 {
-  "generated_at": "2026-07-12T16:52:24.308897+00:00",
+  "generated_at": "2026-07-13T07:26:01.908980+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 1012343,
-    "discogs_id": 1012343,
-    "title": "G. Love And Special Sauce",
-    "artist": "G. Love & Special Sauce",
-    "year": 1994,
-    "cover_image": "https://i.discogs.com/5Z_sQ_Z938fuK6IENR0Qz2KAq0reyYEcwIdyWC3AYu8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NDMtMTI3Mzg1OTY5/My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/fZo34ejCfFVm8QMm2zSMlTTwyVr_URF2xpdi7KuQJjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NDMtMTI3Mzg1OTY5/My5qcGVn.jpeg",
+    "id": 23621648,
+    "discogs_id": 23621648,
+    "title": "Familiar To Millions",
+    "artist": "Oasis (2)",
+    "year": 2022,
+    "cover_image": "https://i.discogs.com/MRrclhK04RjzgeBMfZ244egExsUYYASm-9ALLc02dwE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIx/NjQ4LTE2NTU2NDgw/NzQtNTk5NC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Xh2-m2bE3mNtPC9cq3s9pCdpMuvSX3fr4lODvHHMKmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIx/NjQ4LTE2NTU2NDgw/NzQtNTk5NC5qcGVn.jpeg",
     "genres": [
-      "Hip Hop",
-      "Jazz",
-      "Rock",
-      "Blues"
+      "Rock"
     ],
     "styles": [
-      "Blues Rock",
-      "Acoustic"
+      "Britpop"
     ],
-    "label": "OKeh",
-    "discogs_url": "https://www.discogs.com/release/1012343"
+    "label": "Big Brother (3)",
+    "discogs_url": "https://www.discogs.com/release/23621648"
   }
 }
