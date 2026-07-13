@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-07-13T07:26:01.908980+00:00",
+  "generated_at": "2026-07-13T12:26:51.791497+00:00",
   "total_in_collection": 1154,
   "result": {
-    "id": 23621648,
-    "discogs_id": 23621648,
-    "title": "Familiar To Millions",
-    "artist": "Oasis (2)",
-    "year": 2022,
-    "cover_image": "https://i.discogs.com/MRrclhK04RjzgeBMfZ244egExsUYYASm-9ALLc02dwE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIx/NjQ4LTE2NTU2NDgw/NzQtNTk5NC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/Xh2-m2bE3mNtPC9cq3s9pCdpMuvSX3fr4lODvHHMKmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIx/NjQ4LTE2NTU2NDgw/NzQtNTk5NC5qcGVn.jpeg",
+    "id": 2180086,
+    "discogs_id": 2180086,
+    "title": "1979 Radio Sessions",
+    "artist": "Joy Division",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/0VmlsjNoryECn8ZWUZrakuq5Rp80Tmjn4ZqqQo3lJ5M/rs:fit/g:sm/q:90/h:508/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAw/ODYtMTI2ODM4MTgz/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/BCg8ohP5IuYGPMqBWrOxjpLTF9JbG_DAkdb17UreSD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAw/ODYtMTI2ODM4MTgz/OS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Britpop"
+      "New Wave",
+      "Indie Rock"
     ],
-    "label": "Big Brother (3)",
-    "discogs_url": "https://www.discogs.com/release/23621648"
+    "label": "Fuel 2000 Records (2)",
+    "discogs_url": "https://www.discogs.com/release/2180086"
   }
 }
