@@ -1,22 +1,26 @@
 {
-  "generated_at": "2026-07-13T12:26:51.791497+00:00",
-  "total_in_collection": 1154,
+  "generated_at": "2026-07-13T17:50:31.235494+00:00",
+  "total_in_collection": 1155,
   "result": {
-    "id": 2180086,
-    "discogs_id": 2180086,
-    "title": "1979 Radio Sessions",
-    "artist": "Joy Division",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/0VmlsjNoryECn8ZWUZrakuq5Rp80Tmjn4ZqqQo3lJ5M/rs:fit/g:sm/q:90/h:508/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAw/ODYtMTI2ODM4MTgz/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/BCg8ohP5IuYGPMqBWrOxjpLTF9JbG_DAkdb17UreSD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAw/ODYtMTI2ODM4MTgz/OS5qcGVn.jpeg",
+    "id": 518507,
+    "discogs_id": 518507,
+    "title": "American IV: The Man Comes Around",
+    "artist": "Johnny Cash",
+    "year": 2002,
+    "cover_image": "https://i.discogs.com/C-5gI4Se1_an5PP8euAo_pqEAsrzDRFRaM_LPoZQVtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUw/Ny0xMjMxODc1MjU3/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/X1khKc6LxOOuJSS-Ip_hl6_xdWulXT3ai0uYtni-iEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUw/Ny0xMjMxODc1MjU3/LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "New Wave",
-      "Indie Rock"
+      "Country Rock",
+      "Acoustic",
+      "Folk Rock",
+      "Folk",
+      "Country"
     ],
-    "label": "Fuel 2000 Records (2)",
-    "discogs_url": "https://www.discogs.com/release/2180086"
+    "label": "American Recordings",
+    "discogs_url": "https://www.discogs.com/release/518507"
   }
 }
