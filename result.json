@@ -1,26 +1,25 @@
 {
-  "generated_at": "2026-07-13T17:50:31.235494+00:00",
+  "generated_at": "2026-07-14T06:15:53.366462+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 518507,
-    "discogs_id": 518507,
-    "title": "American IV: The Man Comes Around",
-    "artist": "Johnny Cash",
-    "year": 2002,
-    "cover_image": "https://i.discogs.com/C-5gI4Se1_an5PP8euAo_pqEAsrzDRFRaM_LPoZQVtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUw/Ny0xMjMxODc1MjU3/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/X1khKc6LxOOuJSS-Ip_hl6_xdWulXT3ai0uYtni-iEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUw/Ny0xMjMxODc1MjU3/LmpwZWc.jpeg",
+    "id": 1786499,
+    "discogs_id": 1786499,
+    "title": "Aloha From Hawaii Via Satellite",
+    "artist": "Elvis Presley",
+    "year": 1979,
+    "cover_image": "https://i.discogs.com/dsjM_5s10FDjnoGaFcUBEyiRkJK0uwNU_3oR4Wn9kbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/OTktMTYyMDgxMjIw/Ny0yNjE4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/gA9-1o6HRvzreM0kjoskH1whQTcuDeoxnMUuJuPiTqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/OTktMTYyMDgxMjIw/Ny0yNjE4LmpwZWc.jpeg",
     "genres": [
       "Rock",
+      "Pop",
       "Folk, World, & Country"
     ],
     "styles": [
       "Country Rock",
-      "Acoustic",
-      "Folk Rock",
-      "Folk",
-      "Country"
+      "Vocal",
+      "Rock & Roll"
     ],
-    "label": "American Recordings",
-    "discogs_url": "https://www.discogs.com/release/518507"
+    "label": "RCA Victor",
+    "discogs_url": "https://www.discogs.com/release/1786499"
   }
 }
