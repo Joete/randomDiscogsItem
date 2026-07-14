@@ -1,25 +1,21 @@
 {
-  "generated_at": "2026-07-14T11:19:38.921699+00:00",
+  "generated_at": "2026-07-14T17:07:16.347537+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3733372,
-    "discogs_id": 3733372,
-    "title": "G. Love & Special Sauce",
-    "artist": "G. Love & Special Sauce",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/nBEg7Md7szNAX4SWn19mQ8tYWrdYbMhqrNg9WYrDweA/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzMz/NzItMTM0MjE5Nzg5/MC00OTg4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/JhvFymCZUxbEZ3wxSofb_36d2hoTIo30PFW7k5EhOG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzMz/NzItMTM0MjE5Nzg5/MC00OTg4LmpwZWc.jpeg",
+    "id": 5745562,
+    "discogs_id": 5745562,
+    "title": "Sound Affects",
+    "artist": "The Jam",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/J05aCs5QGVnYEx4AsEgef_O1p95HJlkxrbSAjTJeBcY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDU1/NjItMTYxMTkzMTM5/MC05NjY2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/bFb7G1k8mTPCFX_iDbk0Axk_9oHMLI0WjcL3IUbGaoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDU1/NjItMTYxMTkzMTM5/MC05NjY2LmpwZWc.jpeg",
     "genres": [
-      "Hip Hop",
-      "Jazz",
-      "Rock",
-      "Blues"
+      "Rock"
     ],
     "styles": [
-      "Blues Rock",
-      "Acoustic"
+      "Mod"
     ],
-    "label": "Music On Vinyl",
-    "discogs_url": "https://www.discogs.com/release/3733372"
+    "label": "Polydor",
+    "discogs_url": "https://www.discogs.com/release/5745562"
   }
 }
