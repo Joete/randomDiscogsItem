@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-14T06:15:53.366462+00:00",
+  "generated_at": "2026-07-14T11:19:38.921699+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1786499,
-    "discogs_id": 1786499,
-    "title": "Aloha From Hawaii Via Satellite",
-    "artist": "Elvis Presley",
-    "year": 1979,
-    "cover_image": "https://i.discogs.com/dsjM_5s10FDjnoGaFcUBEyiRkJK0uwNU_3oR4Wn9kbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/OTktMTYyMDgxMjIw/Ny0yNjE4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/gA9-1o6HRvzreM0kjoskH1whQTcuDeoxnMUuJuPiTqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/OTktMTYyMDgxMjIw/Ny0yNjE4LmpwZWc.jpeg",
+    "id": 3733372,
+    "discogs_id": 3733372,
+    "title": "G. Love & Special Sauce",
+    "artist": "G. Love & Special Sauce",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/nBEg7Md7szNAX4SWn19mQ8tYWrdYbMhqrNg9WYrDweA/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzMz/NzItMTM0MjE5Nzg5/MC00OTg4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/JhvFymCZUxbEZ3wxSofb_36d2hoTIo30PFW7k5EhOG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzMz/NzItMTM0MjE5Nzg5/MC00OTg4LmpwZWc.jpeg",
     "genres": [
+      "Hip Hop",
+      "Jazz",
       "Rock",
-      "Pop",
-      "Folk, World, & Country"
+      "Blues"
     ],
     "styles": [
-      "Country Rock",
-      "Vocal",
-      "Rock & Roll"
+      "Blues Rock",
+      "Acoustic"
     ],
-    "label": "RCA Victor",
-    "discogs_url": "https://www.discogs.com/release/1786499"
+    "label": "Music On Vinyl",
+    "discogs_url": "https://www.discogs.com/release/3733372"
   }
 }
