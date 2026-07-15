@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-07-14T17:07:16.347537+00:00",
+  "generated_at": "2026-07-15T06:19:30.296502+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 5745562,
-    "discogs_id": 5745562,
-    "title": "Sound Affects",
-    "artist": "The Jam",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/J05aCs5QGVnYEx4AsEgef_O1p95HJlkxrbSAjTJeBcY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDU1/NjItMTYxMTkzMTM5/MC05NjY2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/bFb7G1k8mTPCFX_iDbk0Axk_9oHMLI0WjcL3IUbGaoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDU1/NjItMTYxMTkzMTM5/MC05NjY2LmpwZWc.jpeg",
+    "id": 1978385,
+    "discogs_id": 1978385,
+    "title": "Die Mensch•Maschine",
+    "artist": "Kraftwerk",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/hhehdsFz7awIBvyAOT8l8dZUBTCTkWdR06GhJVMbQik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzgz/ODUtMTM3MDA3Mzk5/NS03MTI4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/nSeZXhxVegDl2azT-lrtMGrN6ivNEhiYKZaDHcb6Umc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzgz/ODUtMTM3MDA3Mzk5/NS03MTI4LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "Mod"
+      "Electro",
+      "Synth-pop"
     ],
-    "label": "Polydor",
-    "discogs_url": "https://www.discogs.com/release/5745562"
+    "label": "Kling Klang",
+    "discogs_url": "https://www.discogs.com/release/1978385"
   }
 }
