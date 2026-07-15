@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-07-15T11:23:26.616112+00:00",
+  "generated_at": "2026-07-15T17:10:07.891496+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 5472243,
-    "discogs_id": 5472243,
-    "title": "Lamb",
-    "artist": "Lamb",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/m4aqCIX2fuC3M9Srp-L-si4X2878OawbLOIVLW07JcE/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzIy/NDMtMTQwNTQyMjE0/MS02OTg0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/p8E15muuxgUdcSr0nzLRZ9MQD3lT7z2SQFPk7i4QmbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzIy/NDMtMTQwNTQyMjE0/MS02OTg0LmpwZWc.jpeg",
+    "id": 1435251,
+    "discogs_id": 1435251,
+    "title": "20 Golden Greats",
+    "artist": "Nat King Cole",
+    "year": 1978,
+    "cover_image": "https://i.discogs.com/SokHSqLb37Mlk8qcZ4yGL4mXcx_KBsGSIO39htIB_Bw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NTEtMTI3ODE1ODU5/Ny5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/lBlJ5b8Gw_BYPUkFkVLz3TFOBaQ_BDck2zCgJvp2t4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NTEtMTI3ODE1ODU5/Ny5qcGVn.jpeg",
     "genres": [
-      "Electronic"
+      "Jazz"
     ],
     "styles": [
-      "Downtempo",
-      "Trip Hop",
-      "Drum n Bass",
-      "Experimental"
+      "Big Band",
+      "Swing"
     ],
-    "label": "Music On Vinyl",
-    "discogs_url": "https://www.discogs.com/release/5472243"
+    "label": "Capitol Records",
+    "discogs_url": "https://www.discogs.com/release/1435251"
   }
 }
