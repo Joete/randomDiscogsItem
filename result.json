@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-07-16T11:27:44.405157+00:00",
+  "generated_at": "2026-07-16T17:08:04.371528+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1043853,
-    "discogs_id": 1043853,
-    "title": "Expose Yourself To Lower Education",
-    "artist": "Finn.",
-    "year": 2003,
-    "cover_image": "https://i.discogs.com/URY8liP-VcQWgFyFguTt6QKlznIOEpLdY9LIhFil7c4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NTMtMTI1NjU5MTM5/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/a9ZmiCBpue7JfR1uyiM_Laq3KSb2_iyH85zdMYk67SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NTMtMTI1NjU5MTM5/OS5qcGVn.jpeg",
+    "id": 1199166,
+    "discogs_id": 1199166,
+    "title": "Daisies Of The Galaxy",
+    "artist": "Eels",
+    "year": 2000,
+    "cover_image": "https://i.discogs.com/_Tw_ae-zK5pe4duh-NwCRmhO8Z3XZmx38-s3cq0jd8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTkx/NjYtMTQ0MDM2MjEy/NC05ODQ4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/iwTUS-IL7oe6bOwBgiN1t8y-udyyl54xkIU3QRptffg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTkx/NjYtMTQ0MDM2MjEy/NC05ODQ4LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Lo-Fi",
-      "Synth-pop",
-      "Shoegaze"
+      "Alternative Rock"
     ],
-    "label": "Sunday Service (2)",
-    "discogs_url": "https://www.discogs.com/release/1043853"
+    "label": "Bong Load Records",
+    "discogs_url": "https://www.discogs.com/release/1199166"
   }
 }
