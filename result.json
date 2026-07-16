@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-07-15T17:10:07.891496+00:00",
+  "generated_at": "2026-07-16T06:22:34.968187+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1435251,
-    "discogs_id": 1435251,
-    "title": "20 Golden Greats",
-    "artist": "Nat King Cole",
-    "year": 1978,
-    "cover_image": "https://i.discogs.com/SokHSqLb37Mlk8qcZ4yGL4mXcx_KBsGSIO39htIB_Bw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NTEtMTI3ODE1ODU5/Ny5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/lBlJ5b8Gw_BYPUkFkVLz3TFOBaQ_BDck2zCgJvp2t4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NTEtMTI3ODE1ODU5/Ny5qcGVn.jpeg",
+    "id": 811972,
+    "discogs_id": 811972,
+    "title": "20 Grössten Hits",
+    "artist": "The Beach Boys",
+    "year": 1977,
+    "cover_image": "https://i.discogs.com/79soa3iX2Ia3SJlN8eWc2ZMWKYvIXtFK1C9ivvoZYCg/rs:fit/g:sm/q:90/h:300/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTk3/Mi0xMjA1NTc4ODMx/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/1I9eTGQU9MqjRbk1Eb4wGuL47YQse08R1v3JW8vhAUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTk3/Mi0xMjA1NTc4ODMx/LmpwZWc.jpeg",
     "genres": [
-      "Jazz"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Big Band",
-      "Swing"
+      "Pop Rock",
+      "Surf",
+      "Rock & Roll"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/1435251"
+    "label": "Arcade Records (3)",
+    "discogs_url": "https://www.discogs.com/release/811972"
   }
 }
