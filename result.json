@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-07-16T17:08:04.371528+00:00",
+  "generated_at": "2026-07-17T06:21:08.979558+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1199166,
-    "discogs_id": 1199166,
-    "title": "Daisies Of The Galaxy",
-    "artist": "Eels",
-    "year": 2000,
-    "cover_image": "https://i.discogs.com/_Tw_ae-zK5pe4duh-NwCRmhO8Z3XZmx38-s3cq0jd8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTkx/NjYtMTQ0MDM2MjEy/NC05ODQ4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/iwTUS-IL7oe6bOwBgiN1t8y-udyyl54xkIU3QRptffg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTkx/NjYtMTQ0MDM2MjEy/NC05ODQ4LmpwZWc.jpeg",
+    "id": 21019102,
+    "discogs_id": 21019102,
+    "title": "Wairunga",
+    "artist": "Fat Freddy's Drop",
+    "year": 2021,
+    "cover_image": "https://i.discogs.com/8dr5WpYh7-PKSrwAl02GExNkw-QYyWQvavttxgISlsQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE5/MTAyLTE2MzcxNzc3/NzktMjY4Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/sIeFIgfm2ScWs_JGkxL4NG_X9F5SDY7tS71O89BQHP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE5/MTAyLTE2MzcxNzc3/NzktMjY4Ni5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Jazz",
+      "Reggae",
+      "Funk / Soul"
     ],
     "styles": [
-      "Alternative Rock"
+      "Dub",
+      "Soul-Jazz"
     ],
-    "label": "Bong Load Records",
-    "discogs_url": "https://www.discogs.com/release/1199166"
+    "label": "The Drop",
+    "discogs_url": "https://www.discogs.com/release/21019102"
   }
 }
