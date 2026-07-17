@@ -1,25 +1,22 @@
 {
-  "generated_at": "2026-07-17T06:21:08.979558+00:00",
+  "generated_at": "2026-07-17T11:16:28.123483+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 21019102,
-    "discogs_id": 21019102,
-    "title": "Wairunga",
-    "artist": "Fat Freddy's Drop",
-    "year": 2021,
-    "cover_image": "https://i.discogs.com/8dr5WpYh7-PKSrwAl02GExNkw-QYyWQvavttxgISlsQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE5/MTAyLTE2MzcxNzc3/NzktMjY4Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/sIeFIgfm2ScWs_JGkxL4NG_X9F5SDY7tS71O89BQHP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE5/MTAyLTE2MzcxNzc3/NzktMjY4Ni5qcGVn.jpeg",
+    "id": 849545,
+    "discogs_id": 849545,
+    "title": "Psychocandy",
+    "artist": "The Jesus And Mary Chain",
+    "year": 1985,
+    "cover_image": "https://i.discogs.com/SqT8StbcjkKJ4PTaC-xpFevFVEP8OqnLrvg8Lh67ILc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTU0/NS0xMTk0MjU5OTk5/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/iymJS0zW-OBzl1RLHPK-4lF3tlHP4EOqVg9B7_eWmOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTU0/NS0xMTk0MjU5OTk5/LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Jazz",
-      "Reggae",
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Dub",
-      "Soul-Jazz"
+      "Indie Rock",
+      "Noise Rock"
     ],
-    "label": "The Drop",
-    "discogs_url": "https://www.discogs.com/release/21019102"
+    "label": "Blanco Y Negro",
+    "discogs_url": "https://www.discogs.com/release/849545"
   }
 }
