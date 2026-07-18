@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-07-17T17:05:49.084222+00:00",
+  "generated_at": "2026-07-18T06:08:39.761964+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 770516,
-    "discogs_id": 770516,
-    "title": "The House Of The Rising Sun + Quasimodo Suite",
-    "artist": "Santa Esmeralda, Jimmy Goings",
-    "year": 1977,
-    "cover_image": "https://i.discogs.com/gxAE2Q5ANkDfZpE1rhkQB31qXzWBTpxvgSLUx_EQ8mk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDUx/Ni0xNTkxNTI2MzMy/LTY3NjAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/fogJWtXN10ouNpG69OU8AIZB19HSbSjKkR4XLuS3JC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDUx/Ni0xNTkxNTI2MzMy/LTY3NjAuanBlZw.jpeg",
+    "id": 6919150,
+    "discogs_id": 6919150,
+    "title": "Untethered Moon",
+    "artist": "Built To Spill",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/EunkGO_3yKX4AFjts7Bs69YHCrg_N9EM_Uc4G-O3yDw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTkx/NTAtMTQyOTY1OTI4/OS02MTU1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/amzROr4NZQ4DDz9vs7mO0HL3xCMB_jcYdppf2Np1Jsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTkx/NTAtMTQyOTY1OTI4/OS02MTU1LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Latin",
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Disco"
+      "Indie Rock"
     ],
-    "label": "Philips",
-    "discogs_url": "https://www.discogs.com/release/770516"
+    "label": "Warner Bros. Records",
+    "discogs_url": "https://www.discogs.com/release/6919150"
   }
 }
