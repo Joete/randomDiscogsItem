@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-07-18T16:49:58.683727+00:00",
+  "generated_at": "2026-07-19T06:34:20.726136+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 390150,
-    "discogs_id": 390150,
-    "title": "In/Casino/Out",
-    "artist": "At The Drive-In",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/3dCU3wp-iIkqp6pvDeX1mOQfsbVxPB8c0i5J40zoRLA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDE1/MC0xNTA2MjAyMTMw/LTMwODMuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/Aiu2B8ye2OLWHyzqNtZwObsb6RN7-gkC8D--u6JpbzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDE1/MC0xNTA2MjAyMTMw/LTMwODMuanBlZw.jpeg",
+    "id": 16463064,
+    "discogs_id": 16463064,
+    "title": "Cast Of Thousands",
+    "artist": "Elbow",
+    "year": 2020,
+    "cover_image": "https://i.discogs.com/yBNj-qkadX5rkMCrJxPe6c7K89JuWxnSYpuqe8DoNbg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYz/MDY0LTE2MzgyMzE5/MTUtNDY3MS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/p4tfCNHiqHOHso1fWV54WCeVoV6BCHYhfftGDI7MZrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYz/MDY0LTE2MzgyMzE5/MTUtNDY3MS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Post-Hardcore",
-      "Punk",
-      "Emo"
+      "Indie Rock"
     ],
-    "label": "Fearless Records",
-    "discogs_url": "https://www.discogs.com/release/390150"
+    "label": "Polydor",
+    "discogs_url": "https://www.discogs.com/release/16463064"
   }
 }
