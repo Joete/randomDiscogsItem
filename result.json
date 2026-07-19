@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-07-19T11:05:41.330750+00:00",
+  "generated_at": "2026-07-19T16:51:03.688532+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2813648,
-    "discogs_id": 2813648,
-    "title": "Songs From A Room",
-    "artist": "Leonard Cohen",
-    "year": 1969,
-    "cover_image": "https://i.discogs.com/A5BFIpdU3QYsaLY_Wzv5cRdnENA5Hryw501wn4h6MN8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM2/NDgtMTQ5MjQ1MDc4/MC03NDI1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/qWAn-poWCz4rRp15c4excvd4z9ztwO0kRVMxDKw1mr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM2/NDgtMTQ5MjQ1MDc4/MC03NDI1LmpwZWc.jpeg",
+    "id": 1646123,
+    "discogs_id": 1646123,
+    "title": "The Presidents Of The United States Of America",
+    "artist": "The Presidents Of The United States Of America",
+    "year": 1995,
+    "cover_image": "https://i.discogs.com/jZzXvon_AUIOZA-1V7kjTw8DMx4kLIeQDRFtO7TZ_EI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYx/MjMtMTI3ODY4NzQz/NC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/oEPjf5hHnFNC54TYwFtrj3gMi-f15FsmJC2ha-579BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYx/MjMtMTI3ODY4NzQz/NC5qcGVn.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Folk Rock",
-      "Vocal",
-      "Ballad"
+      "Alternative Rock",
+      "Pop Rock"
     ],
-    "label": "CBS",
-    "discogs_url": "https://www.discogs.com/release/2813648"
+    "label": "Columbia",
+    "discogs_url": "https://www.discogs.com/release/1646123"
   }
 }
