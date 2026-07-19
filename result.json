@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-07-19T06:34:20.726136+00:00",
+  "generated_at": "2026-07-19T11:05:41.330750+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 16463064,
-    "discogs_id": 16463064,
-    "title": "Cast Of Thousands",
-    "artist": "Elbow",
-    "year": 2020,
-    "cover_image": "https://i.discogs.com/yBNj-qkadX5rkMCrJxPe6c7K89JuWxnSYpuqe8DoNbg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYz/MDY0LTE2MzgyMzE5/MTUtNDY3MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/p4tfCNHiqHOHso1fWV54WCeVoV6BCHYhfftGDI7MZrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYz/MDY0LTE2MzgyMzE5/MTUtNDY3MS5qcGVn.jpeg",
+    "id": 2813648,
+    "discogs_id": 2813648,
+    "title": "Songs From A Room",
+    "artist": "Leonard Cohen",
+    "year": 1969,
+    "cover_image": "https://i.discogs.com/A5BFIpdU3QYsaLY_Wzv5cRdnENA5Hryw501wn4h6MN8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM2/NDgtMTQ5MjQ1MDc4/MC03NDI1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/qWAn-poWCz4rRp15c4excvd4z9ztwO0kRVMxDKw1mr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM2/NDgtMTQ5MjQ1MDc4/MC03NDI1LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Indie Rock"
+      "Folk Rock",
+      "Vocal",
+      "Ballad"
     ],
-    "label": "Polydor",
-    "discogs_url": "https://www.discogs.com/release/16463064"
+    "label": "CBS",
+    "discogs_url": "https://www.discogs.com/release/2813648"
   }
 }
