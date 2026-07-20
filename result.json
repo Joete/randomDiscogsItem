@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-19T16:51:03.688532+00:00",
+  "generated_at": "2026-07-20T06:51:59.943948+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1646123,
-    "discogs_id": 1646123,
-    "title": "The Presidents Of The United States Of America",
-    "artist": "The Presidents Of The United States Of America",
-    "year": 1995,
-    "cover_image": "https://i.discogs.com/jZzXvon_AUIOZA-1V7kjTw8DMx4kLIeQDRFtO7TZ_EI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYx/MjMtMTI3ODY4NzQz/NC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/oEPjf5hHnFNC54TYwFtrj3gMi-f15FsmJC2ha-579BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDYx/MjMtMTI3ODY4NzQz/NC5qcGVn.jpeg",
+    "id": 1303555,
+    "discogs_id": 1303555,
+    "title": "Mama Said",
+    "artist": "Lenny Kravitz",
+    "year": 1991,
+    "cover_image": "https://i.discogs.com/YjP0Ng3xcv2TO_aHSVSygzALoJPfSZUd3G3EjPJFNpI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM1/NTUtMTU2ODUzNjg4/OS02NDkyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/nFaDPrznccJsGnhYPCC3Es-bfbjwyascNkv021xHFU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM1/NTUtMTU2ODUzNjg4/OS02NDkyLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Funk / Soul"
     ],
     "styles": [
-      "Alternative Rock",
-      "Pop Rock"
+      "Pop Rock",
+      "Soul"
     ],
-    "label": "Columbia",
-    "discogs_url": "https://www.discogs.com/release/1646123"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/1303555"
   }
 }
