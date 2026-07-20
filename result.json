@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-20T12:10:28.047185+00:00",
+  "generated_at": "2026-07-20T17:30:26.830871+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 11490795,
-    "discogs_id": 11490795,
-    "title": "Around The Corner",
-    "artist": "Keno (28)",
-    "year": 2018,
-    "cover_image": "https://i.discogs.com/lUcxz9q_bqsFeF5XVrKS56toDuUrtZvHSoE7XURt8mE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/Nzk1LTE1MTcyNjU2/NzctNDg4My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/jKuC4AndZm501P77l-dBiCcWfCYQOefr5d7zf77ZtPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/Nzk1LTE1MTcyNjU2/NzctNDg4My5qcGVn.jpeg",
+    "id": 2380004,
+    "discogs_id": 2380004,
+    "title": "The Suburbs",
+    "artist": "Arcade Fire",
+    "year": 2010,
+    "cover_image": "https://i.discogs.com/wkYwUOYrK-kiGRJF3FGwgN9UCiAIhSdbSxtiSla6o0o/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/MDQtMTU3OTQ3ODg0/Mi01NTAzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/w7tp8cPOB7b9AJ7BvnJqHatER5LW2ap1Qr34sKEck_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/MDQtMTU3OTQ3ODg0/Mi01NTAzLmpwZWc.jpeg",
     "genres": [
-      "Electronic"
+      "Rock"
     ],
     "styles": [
-      "Downtempo",
-      "Future Jazz",
-      "Breaks"
+      "Alternative Rock",
+      "Indie Rock"
     ],
-    "label": "Agogo Records",
-    "discogs_url": "https://www.discogs.com/release/11490795"
+    "label": "Merge Records",
+    "discogs_url": "https://www.discogs.com/release/2380004"
   }
 }
