@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-20T17:30:26.830871+00:00",
+  "generated_at": "2026-07-21T06:33:22.689753+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2380004,
-    "discogs_id": 2380004,
-    "title": "The Suburbs",
-    "artist": "Arcade Fire",
-    "year": 2010,
-    "cover_image": "https://i.discogs.com/wkYwUOYrK-kiGRJF3FGwgN9UCiAIhSdbSxtiSla6o0o/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/MDQtMTU3OTQ3ODg0/Mi01NTAzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/w7tp8cPOB7b9AJ7BvnJqHatER5LW2ap1Qr34sKEck_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/MDQtMTU3OTQ3ODg0/Mi01NTAzLmpwZWc.jpeg",
+    "id": 595342,
+    "discogs_id": 595342,
+    "title": "Fables Of The Reconstruction",
+    "artist": "R.E.M.",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/BpfN1p-eUdGXRPkU5g1PUz2OXPcSlMvkHC6AE8cSnJU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTM0/Mi0xMjk3NTIzNzg3/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Ydx7WkqzE9y4dTv9gljmh11nCQvEjjJ0SY3wFTzhhSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTM0/Mi0xMjk3NTIzNzg3/LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
       "Alternative Rock",
-      "Indie Rock"
+      "Indie Pop"
     ],
-    "label": "Merge Records",
-    "discogs_url": "https://www.discogs.com/release/2380004"
+    "label": "I.R.S. Records",
+    "discogs_url": "https://www.discogs.com/release/595342"
   }
 }
