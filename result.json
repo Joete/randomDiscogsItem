@@ -1,21 +1,19 @@
 {
-  "generated_at": "2026-07-21T11:42:48.463192+00:00",
+  "generated_at": "2026-07-21T17:09:38.741605+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1641813,
-    "discogs_id": 1641813,
-    "title": "Live! Bootleg",
-    "artist": "Aerosmith",
-    "year": 1978,
-    "cover_image": "https://i.discogs.com/r6-QqMDf3aA3SfDgQO4-rom-GYkkM_sJpNcD0Tm6GqA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE4/MTMtMTY2MjM5NTc0/OC0xMDE0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/6YBtRjkHUI8FKPbX-AEeWx74BjkB4mBnWDXRYRG5WUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE4/MTMtMTY2MjM5NTc0/OC0xMDE0LmpwZWc.jpeg",
+    "id": 3536235,
+    "discogs_id": 3536235,
+    "title": "New York Town",
+    "artist": "Israel Nash Gripka",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/5_PiOQSWU82quvt6vOmLX12THATyN5lbXHUUW7EtRvY/rs:fit/g:sm/q:90/h:199/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYy/MzUtMTMzNDMxODAy/MC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/0t7sb_iGJhk2DFmRboFFnuEaUwB98d5QAgcur2WENmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYy/MzUtMTMzNDMxODAy/MC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Folk, World, & Country"
     ],
-    "styles": [
-      "Hard Rock"
-    ],
-    "label": "CBS",
-    "discogs_url": "https://www.discogs.com/release/1641813"
+    "styles": [],
+    "label": "Continental Song City",
+    "discogs_url": "https://www.discogs.com/release/3536235"
   }
 }
