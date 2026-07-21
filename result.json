@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-07-21T06:33:22.689753+00:00",
+  "generated_at": "2026-07-21T11:42:48.463192+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 595342,
-    "discogs_id": 595342,
-    "title": "Fables Of The Reconstruction",
-    "artist": "R.E.M.",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/BpfN1p-eUdGXRPkU5g1PUz2OXPcSlMvkHC6AE8cSnJU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTM0/Mi0xMjk3NTIzNzg3/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Ydx7WkqzE9y4dTv9gljmh11nCQvEjjJ0SY3wFTzhhSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTM0/Mi0xMjk3NTIzNzg3/LmpwZWc.jpeg",
+    "id": 1641813,
+    "discogs_id": 1641813,
+    "title": "Live! Bootleg",
+    "artist": "Aerosmith",
+    "year": 1978,
+    "cover_image": "https://i.discogs.com/r6-QqMDf3aA3SfDgQO4-rom-GYkkM_sJpNcD0Tm6GqA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE4/MTMtMTY2MjM5NTc0/OC0xMDE0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/6YBtRjkHUI8FKPbX-AEeWx74BjkB4mBnWDXRYRG5WUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE4/MTMtMTY2MjM5NTc0/OC0xMDE0LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Pop"
+      "Hard Rock"
     ],
-    "label": "I.R.S. Records",
-    "discogs_url": "https://www.discogs.com/release/595342"
+    "label": "CBS",
+    "discogs_url": "https://www.discogs.com/release/1641813"
   }
 }
