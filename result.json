@@ -1,19 +1,22 @@
 {
-  "generated_at": "2026-07-21T17:09:38.741605+00:00",
+  "generated_at": "2026-07-22T06:33:25.374011+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3536235,
-    "discogs_id": 3536235,
-    "title": "New York Town",
-    "artist": "Israel Nash Gripka",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/5_PiOQSWU82quvt6vOmLX12THATyN5lbXHUUW7EtRvY/rs:fit/g:sm/q:90/h:199/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYy/MzUtMTMzNDMxODAy/MC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/0t7sb_iGJhk2DFmRboFFnuEaUwB98d5QAgcur2WENmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYy/MzUtMTMzNDMxODAy/MC5qcGVn.jpeg",
+    "id": 1435251,
+    "discogs_id": 1435251,
+    "title": "20 Golden Greats",
+    "artist": "Nat King Cole",
+    "year": 1978,
+    "cover_image": "https://i.discogs.com/SokHSqLb37Mlk8qcZ4yGL4mXcx_KBsGSIO39htIB_Bw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NTEtMTI3ODE1ODU5/Ny5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/lBlJ5b8Gw_BYPUkFkVLz3TFOBaQ_BDck2zCgJvp2t4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NTEtMTI3ODE1ODU5/Ny5qcGVn.jpeg",
     "genres": [
-      "Folk, World, & Country"
+      "Jazz"
     ],
-    "styles": [],
-    "label": "Continental Song City",
-    "discogs_url": "https://www.discogs.com/release/3536235"
+    "styles": [
+      "Big Band",
+      "Swing"
+    ],
+    "label": "Capitol Records",
+    "discogs_url": "https://www.discogs.com/release/1435251"
   }
 }
