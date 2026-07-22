@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-22T06:33:25.374011+00:00",
+  "generated_at": "2026-07-22T11:43:01.154035+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1435251,
-    "discogs_id": 1435251,
-    "title": "20 Golden Greats",
-    "artist": "Nat King Cole",
-    "year": 1978,
-    "cover_image": "https://i.discogs.com/SokHSqLb37Mlk8qcZ4yGL4mXcx_KBsGSIO39htIB_Bw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NTEtMTI3ODE1ODU5/Ny5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/lBlJ5b8Gw_BYPUkFkVLz3TFOBaQ_BDck2zCgJvp2t4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NTEtMTI3ODE1ODU5/Ny5qcGVn.jpeg",
+    "id": 1163123,
+    "discogs_id": 1163123,
+    "title": "Bindemittel",
+    "artist": "Bindemittel",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/tslVhwwOk4u6AiAVXwXVhzyEq9dpFcFyGwicxGB7KOw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMx/MjMtMTQzNTUxODQ1/MS04OTAzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/81FOrMVCcDEemJ0amqWlw3-7cy8w_yMm7965PqQkKSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMx/MjMtMTQzNTUxODQ1/MS04OTAzLmpwZWc.jpeg",
     "genres": [
-      "Jazz"
+      "Rock"
     ],
     "styles": [
-      "Big Band",
-      "Swing"
+      "Alternative Rock",
+      "Funk Metal",
+      "Punk"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/1435251"
+    "label": "WEA",
+    "discogs_url": "https://www.discogs.com/release/1163123"
   }
 }
