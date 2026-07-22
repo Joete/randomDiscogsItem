@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-07-22T11:43:01.154035+00:00",
+  "generated_at": "2026-07-22T17:10:12.773513+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1163123,
-    "discogs_id": 1163123,
-    "title": "Bindemittel",
-    "artist": "Bindemittel",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/tslVhwwOk4u6AiAVXwXVhzyEq9dpFcFyGwicxGB7KOw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMx/MjMtMTQzNTUxODQ1/MS04OTAzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/81FOrMVCcDEemJ0amqWlw3-7cy8w_yMm7965PqQkKSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMx/MjMtMTQzNTUxODQ1/MS04OTAzLmpwZWc.jpeg",
+    "id": 13518819,
+    "discogs_id": 13518819,
+    "title": "Not Waving, But Drowning",
+    "artist": "Loyle Carner",
+    "year": 2019,
+    "cover_image": "https://i.discogs.com/2OgS_0_Iuy75TZ4x-FfeTuoOYB_lpgs2eG2vQp4WLPs/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE4/ODE5LTE2NzkwOTAw/MTctOTM0My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/ketW_woacwbKKTAGlJxMaCiB-sMJqv0T_xZqUksDKjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE4/ODE5LTE2NzkwOTAw/MTctOTM0My5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop"
     ],
-    "styles": [
-      "Alternative Rock",
-      "Funk Metal",
-      "Punk"
-    ],
-    "label": "WEA",
-    "discogs_url": "https://www.discogs.com/release/1163123"
+    "styles": [],
+    "label": "AMF Records (3)",
+    "discogs_url": "https://www.discogs.com/release/13518819"
   }
 }
