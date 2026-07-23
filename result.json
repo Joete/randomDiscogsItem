@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-23T11:46:12.229789+00:00",
+  "generated_at": "2026-07-23T17:13:06.392981+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4553937,
-    "discogs_id": 4553937,
-    "title": "Simple Love",
-    "artist": "David Dondero",
-    "year": 2007,
-    "cover_image": "https://i.discogs.com/qLhmBgsFd8CULLu19cIPeLX8EfVrUadn8Ed0GfthIpY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTM5/MzctMTQ1NDU0ODM1/OS01NDA3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/vABJCRm_0GPCXcqoBNO2P4xqAR10FScoZ0CcuyzjTIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTM5/MzctMTQ1NDU0ODM1/OS01NDA3LmpwZWc.jpeg",
+    "id": 32481189,
+    "discogs_id": 32481189,
+    "title": "Kraft Dub Werk",
+    "artist": "Kid Loco, Soul Sugar",
+    "year": 2024,
+    "cover_image": "https://i.discogs.com/V4dMPKjTTGgZBj7pRkTa22JbFyNRaXUFRc6PVCobJtg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDgx/MTg5LTE3MzM0MDc0/NTAtNDI2Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/_hlIMQeVZIEjBpODtB9XX65LnRwrxZ8X6LVuyYsilh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDgx/MTg5LTE3MzM0MDc0/NTAtNDI2Ni5qcGVn.jpeg",
     "genres": [
-      "Rock",
-      "Folk, World, & Country"
+      "Electronic"
     ],
     "styles": [
-      "Indie Rock",
-      "Folk Rock",
-      "Country Rock"
+      "Electro",
+      "Dub",
+      "Downtempo",
+      "Trip Hop"
     ],
-    "label": "Team Love Records",
-    "discogs_url": "https://www.discogs.com/release/4553937"
+    "label": "Echo Beach",
+    "discogs_url": "https://www.discogs.com/release/32481189"
   }
 }
