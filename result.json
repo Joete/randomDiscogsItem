@@ -1,19 +1,24 @@
 {
-  "generated_at": "2026-07-22T17:10:12.773513+00:00",
+  "generated_at": "2026-07-23T06:34:08.253544+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 13518819,
-    "discogs_id": 13518819,
-    "title": "Not Waving, But Drowning",
-    "artist": "Loyle Carner",
-    "year": 2019,
-    "cover_image": "https://i.discogs.com/2OgS_0_Iuy75TZ4x-FfeTuoOYB_lpgs2eG2vQp4WLPs/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE4/ODE5LTE2NzkwOTAw/MTctOTM0My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/ketW_woacwbKKTAGlJxMaCiB-sMJqv0T_xZqUksDKjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE4/ODE5LTE2NzkwOTAw/MTctOTM0My5qcGVn.jpeg",
+    "id": 2885705,
+    "discogs_id": 2885705,
+    "title": "Live In London",
+    "artist": "Black Rebel Motorcycle Club",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/h7mIuw79rhR7Z4k3uPXoS8JoN6vzL9YFwRcPD-yW5hA/rs:fit/g:sm/q:90/h:500/w:485/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU3/MDUtMTMwNTY2MjU5/Ny5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/V6wvlrMNHAmDh1wnMd4uPdGPtCfuucbpHd0opr54kSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU3/MDUtMTMwNTY2MjU5/Ny5qcGVn.jpeg",
     "genres": [
-      "Hip Hop"
+      "Rock"
     ],
-    "styles": [],
-    "label": "AMF Records (3)",
-    "discogs_url": "https://www.discogs.com/release/13518819"
+    "styles": [
+      "Blues Rock",
+      "Garage Rock",
+      "Indie Rock",
+      "Country Rock"
+    ],
+    "label": "Abstract Dragon",
+    "discogs_url": "https://www.discogs.com/release/2885705"
   }
 }
