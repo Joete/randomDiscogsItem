@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-07-24T06:29:44.265751+00:00",
+  "generated_at": "2026-07-24T17:23:41.991597+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 767408,
-    "discogs_id": 767408,
-    "title": "Outlandos D'Amour",
-    "artist": "The Police",
-    "year": 1985,
-    "cover_image": "https://i.discogs.com/BnMON6yamtg9AqdIXvicpmBQOBCub2Kls2qebbNfnyk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzQw/OC0xNzA3MTQ5NTI2/LTk4ODEuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/q-uv71G6xVCN9VIpo9f3oUy-FXj4qGD-kU8IneGS4o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzQw/OC0xNzA3MTQ5NTI2/LTk4ODEuanBlZw.jpeg",
+    "id": 1238413,
+    "discogs_id": 1238413,
+    "title": "Mars Audiac Quintet",
+    "artist": "Stereolab",
+    "year": 1994,
+    "cover_image": "https://i.discogs.com/5W4K9Ab3Xw3WeD21RpCDX06hWnnnTRaf-iclZuvCJjg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTMtMTIxMTQ3NTU2/MC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/HYuWsU5zyJqPvqTtHYC-HO2CGP9hhx4-pCZHTft8cSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTMtMTIxMTQ3NTU2/MC5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "New Wave"
+      "Experimental",
+      "Indie Rock",
+      "Post Rock"
     ],
-    "label": "A&M Records",
-    "discogs_url": "https://www.discogs.com/release/767408"
+    "label": "Elektra",
+    "discogs_url": "https://www.discogs.com/release/1238413"
   }
 }
