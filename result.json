@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-07-25T06:21:23.894566+00:00",
+  "generated_at": "2026-07-25T11:02:59.923782+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1612574,
-    "discogs_id": 1612574,
-    "title": "Perfect World",
-    "artist": "Huey Lewis & The News",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/gVStZYZnA_vNn-mwJexyk8UvWf9ObsIG8MX7SdE30-c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI1/NzQtMTI5MTM0MDk5/Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/EYxFQjAm_KSSk6otKL0FAy-V0L9gXB5DXQVaOD69z9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI1/NzQtMTI5MTM0MDk5/Mi5qcGVn.jpeg",
+    "id": 2660809,
+    "discogs_id": 2660809,
+    "title": "Best Of Pixies (Wave Of Mutilation)",
+    "artist": "Pixies",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/H7nH3t5RbXg4xsV5yVp4en0_HCsRamBcVqOOKK4Dmg8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA4/MDktMTI5NTQ3NjYx/MS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/lOTKycO-D7CulKyXa1HsKS1lqWsPSb_DLgrM8-BsX5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA4/MDktMTI5NTQ3NjYx/MS5qcGVn.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Pop Rock"
+      "Alternative Rock"
     ],
-    "label": "Chrysalis",
-    "discogs_url": "https://www.discogs.com/release/1612574"
+    "label": "4AD",
+    "discogs_url": "https://www.discogs.com/release/2660809"
   }
 }
