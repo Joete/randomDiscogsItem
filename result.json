@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-07-25T11:02:59.923782+00:00",
+  "generated_at": "2026-07-25T16:50:50.005075+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2660809,
-    "discogs_id": 2660809,
-    "title": "Best Of Pixies (Wave Of Mutilation)",
-    "artist": "Pixies",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/H7nH3t5RbXg4xsV5yVp4en0_HCsRamBcVqOOKK4Dmg8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA4/MDktMTI5NTQ3NjYx/MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/lOTKycO-D7CulKyXa1HsKS1lqWsPSb_DLgrM8-BsX5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA4/MDktMTI5NTQ3NjYx/MS5qcGVn.jpeg",
+    "id": 1098716,
+    "discogs_id": 1098716,
+    "title": "Dividing Opinions",
+    "artist": "Giardini Di Mirò",
+    "year": 2007,
+    "cover_image": "https://i.discogs.com/IyHxMiqLsWOtPMboq3WsBsQERrwT7zlDanbCmsVhauU/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MTYtMTE5MTkyMjUz/My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/xhtg-6kCH5GJWCGdi-u0up0BjCgE31wlTlrntRxL1Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MTYtMTE5MTkyMjUz/My5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Alternative Rock",
+      "Post Rock",
+      "Pop Rock"
     ],
-    "label": "4AD",
-    "discogs_url": "https://www.discogs.com/release/2660809"
+    "label": "2nd Rec",
+    "discogs_url": "https://www.discogs.com/release/1098716"
   }
 }
