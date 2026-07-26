@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-07-26T11:14:43.980154+00:00",
+  "generated_at": "2026-07-26T16:52:24.388438+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 25387036,
-    "discogs_id": 25387036,
-    "title": "Five Years Of Brutalism",
-    "artist": "Idles",
-    "year": 2022,
-    "cover_image": "https://i.discogs.com/iTTKKtJvu3pJM7UTu0QJQuu3OKkQ-V0on6B71eHtMy4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzg3/MDM2LTE2NzAzODc5/NjQtMzQxNi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/z5N6ZdZPTs94exNXdzQ6FyF1nsvuLnj-a2sGteodb5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzg3/MDM2LTE2NzAzODc5/NjQtMzQxNi5qcGVn.jpeg",
+    "id": 1171114,
+    "discogs_id": 1171114,
+    "title": "Ten",
+    "artist": "Pearl Jam",
+    "year": 2007,
+    "cover_image": "https://i.discogs.com/rkkDRQTKF7uO4Bra0DkURWfYUa-9bIWtr_buC8eVRSo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEx/MTQtMTYzNTg2Nzgw/NC0xNDk5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/yZFRp2Dk4yba4zqkhVdgkHhii3ZlYDU9D4UMmI5P4DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEx/MTQtMTYzNTg2Nzgw/NC0xNDk5LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
       "Alternative Rock",
-      "Punk",
-      "Post-Punk",
-      "Noise Rock"
+      "Grunge"
     ],
-    "label": "Partisan Records",
-    "discogs_url": "https://www.discogs.com/release/25387036"
+    "label": "Epic",
+    "discogs_url": "https://www.discogs.com/release/1171114"
   }
 }
