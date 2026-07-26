@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-07-26T06:40:34.379535+00:00",
+  "generated_at": "2026-07-26T11:14:43.980154+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 386005,
-    "discogs_id": 386005,
-    "title": "Toto IV",
-    "artist": "Toto",
-    "year": 1982,
-    "cover_image": "https://i.discogs.com/GBFCphJ4sOpTES45wIQ7lQQPKmlG7-O5JYAl67nJSg4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjAw/NS0xNjEwODczMTY0/LTkxNTMuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/nUNovqcZEYEDhsRNR9F6ZhtxZ4jijuGg8SpEsYB6_WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjAw/NS0xNjEwODczMTY0/LTkxNTMuanBlZw.jpeg",
+    "id": 25387036,
+    "discogs_id": 25387036,
+    "title": "Five Years Of Brutalism",
+    "artist": "Idles",
+    "year": 2022,
+    "cover_image": "https://i.discogs.com/iTTKKtJvu3pJM7UTu0QJQuu3OKkQ-V0on6B71eHtMy4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzg3/MDM2LTE2NzAzODc5/NjQtMzQxNi5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/z5N6ZdZPTs94exNXdzQ6FyF1nsvuLnj-a2sGteodb5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzg3/MDM2LTE2NzAzODc5/NjQtMzQxNi5qcGVn.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Pop Rock",
-      "AOR"
+      "Alternative Rock",
+      "Punk",
+      "Post-Punk",
+      "Noise Rock"
     ],
-    "label": "CBS",
-    "discogs_url": "https://www.discogs.com/release/386005"
+    "label": "Partisan Records",
+    "discogs_url": "https://www.discogs.com/release/25387036"
   }
 }
