@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-07-26T16:52:24.388438+00:00",
+  "generated_at": "2026-07-27T07:37:25.816145+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1171114,
-    "discogs_id": 1171114,
-    "title": "Ten",
-    "artist": "Pearl Jam",
-    "year": 2007,
-    "cover_image": "https://i.discogs.com/rkkDRQTKF7uO4Bra0DkURWfYUa-9bIWtr_buC8eVRSo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEx/MTQtMTYzNTg2Nzgw/NC0xNDk5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/yZFRp2Dk4yba4zqkhVdgkHhii3ZlYDU9D4UMmI5P4DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEx/MTQtMTYzNTg2Nzgw/NC0xNDk5LmpwZWc.jpeg",
+    "id": 27799152,
+    "discogs_id": 27799152,
+    "title": "Stop Making Sense (Music From A Film By Jonathan Demme And Talking Heads)",
+    "artist": "Talking Heads",
+    "year": 2023,
+    "cover_image": "https://i.discogs.com/BLt7zR-kVNpEmvvdsMB6LCa6jO8oeje8Tph9U5F0rfk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNjAy/MjYtNDEyOC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/VW2xkRd-_wgVRouS3oIF6Sf7oPWRWnPvTrvFN-mHw3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNjAy/MjYtNDEyOC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Rock",
+      "Funk / Soul",
+      "Stage & Screen"
     ],
     "styles": [
+      "New Wave",
+      "Post-Punk",
+      "Art Rock",
+      "Soundtrack",
+      "Funk",
+      "Pop Rock",
+      "Indie Rock",
       "Alternative Rock",
-      "Grunge"
+      "Leftfield"
     ],
-    "label": "Epic",
-    "discogs_url": "https://www.discogs.com/release/1171114"
+    "label": "Sire",
+    "discogs_url": "https://www.discogs.com/release/27799152"
   }
 }
