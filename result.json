@@ -1,32 +1,22 @@
 {
-  "generated_at": "2026-07-27T07:37:25.816145+00:00",
+  "generated_at": "2026-07-27T12:51:39.322924+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 27799152,
-    "discogs_id": 27799152,
-    "title": "Stop Making Sense (Music From A Film By Jonathan Demme And Talking Heads)",
-    "artist": "Talking Heads",
-    "year": 2023,
-    "cover_image": "https://i.discogs.com/BLt7zR-kVNpEmvvdsMB6LCa6jO8oeje8Tph9U5F0rfk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNjAy/MjYtNDEyOC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/VW2xkRd-_wgVRouS3oIF6Sf7oPWRWnPvTrvFN-mHw3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk5/MTUyLTE2OTIzNjAy/MjYtNDEyOC5qcGVn.jpeg",
+    "id": 1612574,
+    "discogs_id": 1612574,
+    "title": "Perfect World",
+    "artist": "Huey Lewis & The News",
+    "year": 1988,
+    "cover_image": "https://i.discogs.com/gVStZYZnA_vNn-mwJexyk8UvWf9ObsIG8MX7SdE30-c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI1/NzQtMTI5MTM0MDk5/Mi5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/EYxFQjAm_KSSk6otKL0FAy-V0L9gXB5DXQVaOD69z9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI1/NzQtMTI5MTM0MDk5/Mi5qcGVn.jpeg",
     "genres": [
-      "Electronic",
       "Rock",
-      "Funk / Soul",
-      "Stage & Screen"
+      "Pop"
     ],
     "styles": [
-      "New Wave",
-      "Post-Punk",
-      "Art Rock",
-      "Soundtrack",
-      "Funk",
-      "Pop Rock",
-      "Indie Rock",
-      "Alternative Rock",
-      "Leftfield"
+      "Pop Rock"
     ],
-    "label": "Sire",
-    "discogs_url": "https://www.discogs.com/release/27799152"
+    "label": "Chrysalis",
+    "discogs_url": "https://www.discogs.com/release/1612574"
   }
 }
