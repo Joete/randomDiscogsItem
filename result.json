@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-07-27T17:37:51.850014+00:00",
+  "generated_at": "2026-07-28T06:30:45.676933+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 656855,
-    "discogs_id": 656855,
-    "title": "Hand On The Torch",
-    "artist": "Us3",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/qL666tR8YrNApUuY3ZIHCktkQdDMYIhllBC9qnBA14U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njg1/NS0xMzQ2ODI5NDAx/LTU1MjUuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/9uLe2I4ofUhjrd4lWW2yA4h4P7MQnqIRiLtEjtUoZQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njg1/NS0xMzQ2ODI5NDAx/LTU1MjUuanBlZw.jpeg",
+    "id": 2242262,
+    "discogs_id": 2242262,
+    "title": "Jar Of Flies / SAP",
+    "artist": "Alice In Chains",
+    "year": 2010,
+    "cover_image": "https://i.discogs.com/l40dQ6Grj1RAZnNSeKXPtOunfcsdD4sF_nnaS4ZikYE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIy/NjItMTI3ODA1NTcw/MS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/CVXa9VWG25J4UvDHdnw3UPb4m0wxwlQMIh57YuR_ABk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIy/NjItMTI3ODA1NTcw/MS5qcGVn.jpeg",
     "genres": [
-      "Hip Hop",
-      "Jazz"
+      "Rock"
     ],
     "styles": [
-      "Jazzy Hip-Hop",
-      "Acid Jazz"
+      "Grunge"
     ],
-    "label": "Blue Note",
-    "discogs_url": "https://www.discogs.com/release/656855"
+    "label": "Music On Vinyl",
+    "discogs_url": "https://www.discogs.com/release/2242262"
   }
 }
