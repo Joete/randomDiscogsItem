@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-07-29T11:55:37.109559+00:00",
+  "generated_at": "2026-07-29T17:08:33.763036+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4091614,
-    "discogs_id": 4091614,
-    "title": "Mellon Collie And The Infinite Sadness",
-    "artist": "The Smashing Pumpkins",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/a0vyHwBH0U-6lZxYu65MBVKEUxYGDC8RM_hGcJkPRos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTY0ODIxNjM0/OC00MDY4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/YDLCR-SJymQ8A_WdmMsRfFJ77icXBEt3K1iyWO6Y4oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTY0ODIxNjM0/OC00MDY4LmpwZWc.jpeg",
+    "id": 161320,
+    "discogs_id": 161320,
+    "title": "The Riddle",
+    "artist": "Nik Kershaw",
+    "year": 1984,
+    "cover_image": "https://i.discogs.com/iouGvDCubwfyyrTUA_A3zz_cnA8dN5bo-LsI8B1UCU0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMy/MC0xNTE4MTg0MTA2/LTgwMDQuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/hyFw4-pz2AKXr9Gr_CC1iN8T9qtraFkEGM34w-8tn7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMy/MC0xNTE4MTg0MTA2/LTgwMDQuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock"
+      "Pop Rock",
+      "New Wave",
+      "Synth-pop"
     ],
-    "label": "Virgin",
-    "discogs_url": "https://www.discogs.com/release/4091614"
+    "label": "MCA Records",
+    "discogs_url": "https://www.discogs.com/release/161320"
   }
 }
