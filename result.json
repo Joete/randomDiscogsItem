@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-07-29T06:35:26.302283+00:00",
+  "generated_at": "2026-07-29T11:55:37.109559+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 515428,
-    "discogs_id": 515428,
-    "title": "Axxess & Ace",
-    "artist": "Songs: Ohia",
-    "year": 1999,
-    "cover_image": "https://i.discogs.com/fW08a3SelpnqsRQm8Z3yC2jifrFux544S8wVBWOlpKE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTQy/OC0xNTMxODMyNzk1/LTE4MzAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/En0ddS-32hKZIpQN-ed2FeuTF1wNlOYOaoW09ygh9y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTQy/OC0xNTMxODMyNzk1/LTE4MzAuanBlZw.jpeg",
+    "id": 4091614,
+    "discogs_id": 4091614,
+    "title": "Mellon Collie And The Infinite Sadness",
+    "artist": "The Smashing Pumpkins",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/a0vyHwBH0U-6lZxYu65MBVKEUxYGDC8RM_hGcJkPRos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTY0ODIxNjM0/OC00MDY4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/YDLCR-SJymQ8A_WdmMsRfFJ77icXBEt3K1iyWO6Y4oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTY0ODIxNjM0/OC00MDY4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Folk Rock",
-      "Indie Rock"
+      "Alternative Rock"
     ],
-    "label": "Secretly Canadian",
-    "discogs_url": "https://www.discogs.com/release/515428"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/4091614"
   }
 }
