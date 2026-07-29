@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-28T17:21:54.359391+00:00",
+  "generated_at": "2026-07-29T06:35:26.302283+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2720721,
-    "discogs_id": 2720721,
-    "title": "The Best Of Paolo Conte",
-    "artist": "Paolo Conte",
-    "year": 1986,
-    "cover_image": "https://i.discogs.com/IDDyKmYH-MF7XUSDDpr-ZloOHSeLDzuEpRRX-ShUNEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjA3/MjEtMTU2MTMwNDg1/OC04MzYzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/NTr9I7sk4wcYCDIjGSCgvCjSEccX3v4GllgHNkHDJrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjA3/MjEtMTU2MTMwNDg1/OC04MzYzLmpwZWc.jpeg",
+    "id": 515428,
+    "discogs_id": 515428,
+    "title": "Axxess & Ace",
+    "artist": "Songs: Ohia",
+    "year": 1999,
+    "cover_image": "https://i.discogs.com/fW08a3SelpnqsRQm8Z3yC2jifrFux544S8wVBWOlpKE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTQy/OC0xNTMxODMyNzk1/LTE4MzAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/En0ddS-32hKZIpQN-ed2FeuTF1wNlOYOaoW09ygh9y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTQy/OC0xNTMxODMyNzk1/LTE4MzAuanBlZw.jpeg",
     "genres": [
-      "Jazz",
       "Rock"
     ],
     "styles": [
-      "Jazz-Rock"
+      "Folk Rock",
+      "Indie Rock"
     ],
-    "label": "RCA",
-    "discogs_url": "https://www.discogs.com/release/2720721"
+    "label": "Secretly Canadian",
+    "discogs_url": "https://www.discogs.com/release/515428"
   }
 }
