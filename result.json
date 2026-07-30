@@ -1,25 +1,22 @@
 {
-  "generated_at": "2026-07-29T17:08:33.763036+00:00",
+  "generated_at": "2026-07-30T06:32:09.924786+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 161320,
-    "discogs_id": 161320,
-    "title": "The Riddle",
-    "artist": "Nik Kershaw",
-    "year": 1984,
-    "cover_image": "https://i.discogs.com/iouGvDCubwfyyrTUA_A3zz_cnA8dN5bo-LsI8B1UCU0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMy/MC0xNTE4MTg0MTA2/LTgwMDQuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/hyFw4-pz2AKXr9Gr_CC1iN8T9qtraFkEGM34w-8tn7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMy/MC0xNTE4MTg0MTA2/LTgwMDQuanBlZw.jpeg",
+    "id": 1879874,
+    "discogs_id": 1879874,
+    "title": "Heathen Chemistry",
+    "artist": "Oasis (2)",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/SSSn1bg8pqnMX5P-bBmZKTW16J6YY_BbvS8VGm01j7M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk4/NzQtMTU0NjY5MDU2/Ny01ODUwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/WZEh4Unp_vqrhCKYhOw3RPGKjIT17VvhZh7cFWM3VN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk4/NzQtMTU0NjY5MDU2/Ny01ODUwLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Pop Rock",
-      "New Wave",
-      "Synth-pop"
+      "Alternative Rock",
+      "Britpop"
     ],
-    "label": "MCA Records",
-    "discogs_url": "https://www.discogs.com/release/161320"
+    "label": "Big Brother",
+    "discogs_url": "https://www.discogs.com/release/1879874"
   }
 }
