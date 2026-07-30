@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-07-30T11:46:27.570300+00:00",
+  "generated_at": "2026-07-30T17:19:19.975765+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 14093218,
-    "discogs_id": 14093218,
-    "title": "Artificial Horizon",
-    "artist": "TaxiWars",
-    "year": 2019,
-    "cover_image": "https://i.discogs.com/-mjFn7JfjrS06Mj6o9aFdMLuNUOVgFDxrKFTLBilnRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkz/MjE4LTE1Njc3MDkw/NzktODAyNC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/UwSPW4T6YBxFef8Yno3yx6mshTUyTD5l-g0zAdEhXSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkz/MjE4LTE1Njc3MDkw/NzktODAyNC5qcGVn.jpeg",
+    "id": 10175037,
+    "discogs_id": 10175037,
+    "title": "Plays The Music Of William Onyeabor",
+    "artist": "The Atomic Bomb Band",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/a40k-XBh-fnCu9ZafPjVsc52Mtj4PxCj3cYIj59q30U/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/MDM3LTE0OTI4ODI5/NjctODQ1MC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/x60sySvB7g7YnCf7nfMeij5geh_ZHHRNes8qXWFC2N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/MDM3LTE0OTI4ODI5/NjctODQ1MC5qcGVn.jpeg",
     "genres": [
-      "Jazz"
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Post Bop"
+      "Afrobeat"
     ],
-    "label": "Sdban Ultra",
-    "discogs_url": "https://www.discogs.com/release/14093218"
+    "label": "Luaka Bop",
+    "discogs_url": "https://www.discogs.com/release/10175037"
   }
 }
