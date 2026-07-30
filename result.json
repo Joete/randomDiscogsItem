@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-07-30T06:32:09.924786+00:00",
+  "generated_at": "2026-07-30T11:46:27.570300+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1879874,
-    "discogs_id": 1879874,
-    "title": "Heathen Chemistry",
-    "artist": "Oasis (2)",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/SSSn1bg8pqnMX5P-bBmZKTW16J6YY_BbvS8VGm01j7M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk4/NzQtMTU0NjY5MDU2/Ny01ODUwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/WZEh4Unp_vqrhCKYhOw3RPGKjIT17VvhZh7cFWM3VN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk4/NzQtMTU0NjY5MDU2/Ny01ODUwLmpwZWc.jpeg",
+    "id": 14093218,
+    "discogs_id": 14093218,
+    "title": "Artificial Horizon",
+    "artist": "TaxiWars",
+    "year": 2019,
+    "cover_image": "https://i.discogs.com/-mjFn7JfjrS06Mj6o9aFdMLuNUOVgFDxrKFTLBilnRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkz/MjE4LTE1Njc3MDkw/NzktODAyNC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/UwSPW4T6YBxFef8Yno3yx6mshTUyTD5l-g0zAdEhXSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkz/MjE4LTE1Njc3MDkw/NzktODAyNC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Jazz"
     ],
     "styles": [
-      "Alternative Rock",
-      "Britpop"
+      "Post Bop"
     ],
-    "label": "Big Brother",
-    "discogs_url": "https://www.discogs.com/release/1879874"
+    "label": "Sdban Ultra",
+    "discogs_url": "https://www.discogs.com/release/14093218"
   }
 }
