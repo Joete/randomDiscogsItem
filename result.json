@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-31T11:52:51.020855+00:00",
+  "generated_at": "2026-07-31T17:22:42.218151+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 14917630,
-    "discogs_id": 14917630,
-    "title": "Cascade Lakes",
-    "artist": "Cascade Lakes",
-    "year": 2020,
-    "cover_image": "https://i.discogs.com/W4YcmAWVPj4KiiGzXDN4jvfhnj_0wM4tphIcZiZcWpk/rs:fit/g:sm/q:90/h:217/w:218/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE3/NjMwLTE1ODQwNDY3/OTUtMzMwMy5wbmc.jpeg",
-    "thumb": "https://i.discogs.com/KpB3Zb1_M2sTl5TAxPzTyT2WmD3Pvtc_N9pXxopxSeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE3/NjMwLTE1ODQwNDY3/OTUtMzMwMy5wbmc.jpeg",
+    "id": 1152157,
+    "discogs_id": 1152157,
+    "title": "And All That Could Have Been. Live",
+    "artist": "Nine Inch Nails",
+    "year": 2002,
+    "cover_image": "https://i.discogs.com/BLAil2T1DszwTy4b-BAEpYaaHPl--Pju_iWnDhw9wsU/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIx/NTctMTcwMjgxMjAy/OS0yNTAzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/f7L2xfLnkI_-uuk9UP-v81Q7G2jKcXH9T87yBy1MUw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIx/NTctMTcwMjgxMjAy/OS0yNTAzLmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Indie Rock",
-      "Indie Pop"
+      "Alternative Rock",
+      "Industrial"
     ],
-    "label": "Affairs Of The Heart",
-    "discogs_url": "https://www.discogs.com/release/14917630"
+    "label": "Nothing Records",
+    "discogs_url": "https://www.discogs.com/release/1152157"
   }
 }
