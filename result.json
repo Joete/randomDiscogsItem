@@ -1,25 +1,21 @@
 {
-  "generated_at": "2026-08-01T16:53:38.173618+00:00",
+  "generated_at": "2026-08-02T06:37:45.298778+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 21927796,
-    "discogs_id": 21927796,
-    "title": "Glow On",
-    "artist": "Turnstile (2)",
+    "id": 24469220,
+    "discogs_id": 24469220,
+    "title": "Paint It Black (1996 - 2009)",
+    "artist": "Sport",
     "year": 2022,
-    "cover_image": "https://i.discogs.com/mY9Qg0dUcvNDJffJNPoh4CtaGexzb8RD2GQ9dK6v7zc/rs:fit/g:sm/q:90/h:542/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI3/Nzk2LTE2NDU1NDg2/OTAtOTQ3NC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/ET25F_HzprcpL5rl8MyFS574wI9EYiy0sXCfOgLBbHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI3/Nzk2LTE2NDU1NDg2/OTAtOTQ3NC5qcGVn.jpeg",
+    "cover_image": "https://i.discogs.com/gyGTzc9OBjy2XiT7TnII8iPIKKbBc17g8okUoJQOIMU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY5/MjIwLTE2NjI3OTk5/MjctNDE4My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/eY_7Q_m1nOPhzxmCp-KzyNC28a-TIQBg4pjlDRFRM8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY5/MjIwLTE2NjI3OTk5/MjctNDE4My5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Hardcore",
-      "Alternative Rock",
-      "Post-Hardcore",
-      "Shoegaze",
       "Indie Rock"
     ],
-    "label": "Roadrunner Records",
-    "discogs_url": "https://www.discogs.com/release/21927796"
+    "label": "Fidel Bastro",
+    "discogs_url": "https://www.discogs.com/release/24469220"
   }
 }
