@@ -1,26 +1,25 @@
 {
-  "generated_at": "2026-08-03T12:51:03.967861+00:00",
+  "generated_at": "2026-08-03T17:45:38.887492+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4684865,
-    "discogs_id": 4684865,
-    "title": "Blackbird",
-    "artist": "Fat Freddy's Drop",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/MJMcyEiKuccuVgdjx7cedQP7XBrl4KKq7TCEE7rsO5U/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODQ4/NjUtMTM4MDg3MTg1/My0yNDcyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/FEoUzJ7tdmiKVHjKMc0EbKTEgjHO_oe84D5yQb31MvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODQ4/NjUtMTM4MDg3MTg1/My0yNDcyLmpwZWc.jpeg",
+    "id": 1453231,
+    "discogs_id": 1453231,
+    "title": "Introducing The Hardline According To Terence Trent D'Arby",
+    "artist": "Terence Trent D'Arby",
+    "year": 1987,
+    "cover_image": "https://i.discogs.com/6jogsaLmLID24ncKchdeIVNd_wUvFxYyJb7RvG87-NM/rs:fit/g:sm/q:90/h:416/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMy/MzEtMTMyNjEyMDU3/Ny5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/kIaqcjHwuZqjmmVYXbg40Z8qdOBOKgPDF655Uzp--2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMy/MzEtMTMyNjEyMDU3/Ny5qcGVn.jpeg",
     "genres": [
-      "Electronic",
-      "Jazz",
-      "Reggae",
-      "Funk / Soul"
+      "Funk / Soul",
+      "Blues"
     ],
     "styles": [
-      "Dub",
-      "Soul-Jazz",
-      "Neo Soul"
+      "Electric Blues",
+      "Rhythm & Blues",
+      "Soul",
+      "Funk"
     ],
-    "label": "The Drop",
-    "discogs_url": "https://www.discogs.com/release/4684865"
+    "label": "CBS",
+    "discogs_url": "https://www.discogs.com/release/1453231"
   }
 }
