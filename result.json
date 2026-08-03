@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-08-02T16:52:34.571351+00:00",
+  "generated_at": "2026-08-03T07:32:48.893205+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1379005,
-    "discogs_id": 1379005,
-    "title": "Songs In The Key Of Life",
-    "artist": "Stevie Wonder",
-    "year": 1981,
-    "cover_image": "https://i.discogs.com/a-cVnATP1wVB3cocmA7bJuYrqjjH3aWaENEzvoDJil0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkw/MDUtMTMzNjE2MTg3/NS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/F697Hnty7B9Lr2Lb_AEGflefZAjLlgkY25NUzL9GQ90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkw/MDUtMTMzNjE2MTg3/NS5qcGVn.jpeg",
+    "id": 11293982,
+    "discogs_id": 11293982,
+    "title": "O",
+    "artist": "Damien Rice",
+    "year": 2018,
+    "cover_image": "https://i.discogs.com/IOWd7KJ2OostX2uRdcJUK9ki4mYJt4OxV0MT5ggJrU0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/OTgyLTE1MjUxOTI3/NDktNTA3My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/KEWr3uyLNRnQxEZwOtgYqtcgKGo9SqfVihkqE3AL1W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/OTgyLTE1MjUxOTI3/NDktNTA3My5qcGVn.jpeg",
     "genres": [
-      "Funk / Soul"
+      "Rock",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Gospel",
-      "Soul",
-      "Funk"
+      "Folk Rock"
     ],
-    "label": "Motown",
-    "discogs_url": "https://www.discogs.com/release/1379005"
+    "label": "Damien Rice Music",
+    "discogs_url": "https://www.discogs.com/release/11293982"
   }
 }
