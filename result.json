@@ -1,25 +1,22 @@
 {
-  "generated_at": "2026-08-03T17:45:38.887492+00:00",
+  "generated_at": "2026-08-04T06:31:30.516137+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1453231,
-    "discogs_id": 1453231,
-    "title": "Introducing The Hardline According To Terence Trent D'Arby",
-    "artist": "Terence Trent D'Arby",
-    "year": 1987,
-    "cover_image": "https://i.discogs.com/6jogsaLmLID24ncKchdeIVNd_wUvFxYyJb7RvG87-NM/rs:fit/g:sm/q:90/h:416/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMy/MzEtMTMyNjEyMDU3/Ny5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/kIaqcjHwuZqjmmVYXbg40Z8qdOBOKgPDF655Uzp--2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMy/MzEtMTMyNjEyMDU3/Ny5qcGVn.jpeg",
+    "id": 2950110,
+    "discogs_id": 2950110,
+    "title": "Lesser Matters",
+    "artist": "The Radio Dept.",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/Ds2I8_CQJiz_ga94aXxRN0P-gdMQ1cyZGVQBukPdbIM/rs:fit/g:sm/q:90/h:531/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTAx/MTAtMTMwODc1NDM1/NC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/HPh3qVOO2bYdUDFg6ANomGdG0tFYVNj_QZGyWRxqyro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTAx/MTAtMTMwODc1NDM1/NC5qcGVn.jpeg",
     "genres": [
-      "Funk / Soul",
-      "Blues"
+      "Rock"
     ],
     "styles": [
-      "Electric Blues",
-      "Rhythm & Blues",
-      "Soul",
-      "Funk"
+      "Shoegaze",
+      "Indie Rock"
     ],
-    "label": "CBS",
-    "discogs_url": "https://www.discogs.com/release/1453231"
+    "label": "Labrador",
+    "discogs_url": "https://www.discogs.com/release/2950110"
   }
 }
