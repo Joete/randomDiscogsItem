@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-04T11:57:59.086462+00:00",
+  "generated_at": "2026-08-04T17:38:28.194473+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 6998978,
-    "discogs_id": 6998978,
-    "title": "Big Top/Encore",
-    "artist": "Flare (3)",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/d07pyVL9JKR3XEeS4HhJ1QkUJF8kWFF95poaF-vmElA/rs:fit/g:sm/q:90/h:549/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTg5/NzgtMTQzNTA0OTU5/Ni04NzA2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/JEamGL0eFALwASlQAXRXcip0iKYVKI3PlW8dJMhw5hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTg5/NzgtMTQzNTA0OTU5/Ni04NzA2LmpwZWc.jpeg",
+    "id": 2436574,
+    "discogs_id": 2436574,
+    "title": "Self Preserved While The Bodies Float Up",
+    "artist": "Oceansize",
+    "year": 2010,
+    "cover_image": "https://i.discogs.com/T1VLIBy0ntH-Wqxm5c1g8oHkC9DjNLdOB38VbQKSjXA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY1/NzQtMTY1MDQwNTI1/MC0zMTA1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/nRA7GFVrD5CTxrCZzA8Ea2MmM6UJAbYKMkBXukoyRQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY1/NzQtMTY1MDQwNTI1/MC0zMTA1LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Alternative Rock",
+      "Prog Rock"
     ],
-    "label": "Affairs Of The Heart",
-    "discogs_url": "https://www.discogs.com/release/6998978"
+    "label": "Superball Music",
+    "discogs_url": "https://www.discogs.com/release/2436574"
   }
 }
