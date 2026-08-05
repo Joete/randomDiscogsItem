@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-08-05T11:51:57.480598+00:00",
+  "generated_at": "2026-08-05T17:23:19.337103+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 11892527,
-    "discogs_id": 11892527,
-    "title": "Torn Down: Mixed Up Extras 2018",
-    "artist": "The Cure",
+    "id": 12363778,
+    "discogs_id": 12363778,
+    "title": "The Moldy Peaches",
+    "artist": "The Moldy Peaches",
     "year": 2018,
-    "cover_image": "https://i.discogs.com/_p8lfTpJufBeYiXgD-YxYejbowtctwiEpQls54g91z0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODky/NTI3LTE1MzE2MDM3/NjEtMzcyNy5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/MfB-QjRx30LO7mylD15mbolXjp94zAxLwG-4k94YvPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODky/NTI3LTE1MzE2MDM3/NjEtMzcyNy5qcGVn.jpeg",
+    "cover_image": "https://i.discogs.com/HAcMTkPlCy6jhlUXd0lntwG8G8UELaznzodhUHeaOUk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYz/Nzc4LTE1MzQyNjM1/ODYtNTMxMC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/P6fxG20rgtMkTnp7jteShVQuqszzJo5hkj7FDtr73RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYz/Nzc4LTE1MzQyNjM1/ODYtNTMxMC5qcGVn.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "New Wave"
+      "Indie Rock"
     ],
-    "label": "Polydor",
-    "discogs_url": "https://www.discogs.com/release/11892527"
+    "label": "Rough Trade",
+    "discogs_url": "https://www.discogs.com/release/12363778"
   }
 }
