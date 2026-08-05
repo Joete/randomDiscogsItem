@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-05T06:32:14.926894+00:00",
+  "generated_at": "2026-08-05T11:51:57.480598+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 10212547,
-    "discogs_id": 10212547,
-    "title": "Midnight Marauders",
-    "artist": "A Tribe Called Quest",
-    "year": 2004,
-    "cover_image": "https://i.discogs.com/NTbEgHjNvoS9FWBVTjG1srG5FdstRJy-bJtzr4iF6sg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/NTQ3LTE1MzM0NzY1/NTYtOTQzNy5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/QAQObdkU6muDmkU6dx-G-FRCNgdESmit1h0831F1OlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/NTQ3LTE1MzM0NzY1/NTYtOTQzNy5qcGVn.jpeg",
+    "id": 11892527,
+    "discogs_id": 11892527,
+    "title": "Torn Down: Mixed Up Extras 2018",
+    "artist": "The Cure",
+    "year": 2018,
+    "cover_image": "https://i.discogs.com/_p8lfTpJufBeYiXgD-YxYejbowtctwiEpQls54g91z0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODky/NTI3LTE1MzE2MDM3/NjEtMzcyNy5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/MfB-QjRx30LO7mylD15mbolXjp94zAxLwG-4k94YvPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODky/NTI3LTE1MzE2MDM3/NjEtMzcyNy5qcGVn.jpeg",
     "genres": [
-      "Hip Hop"
+      "Electronic",
+      "Rock"
     ],
     "styles": [
-      "Jazzy Hip-Hop",
-      "Boom Bap",
-      "Conscious"
+      "Alternative Rock",
+      "New Wave"
     ],
-    "label": "Jive",
-    "discogs_url": "https://www.discogs.com/release/10212547"
+    "label": "Polydor",
+    "discogs_url": "https://www.discogs.com/release/11892527"
   }
 }
