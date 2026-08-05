@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-04T17:38:28.194473+00:00",
+  "generated_at": "2026-08-05T06:32:14.926894+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2436574,
-    "discogs_id": 2436574,
-    "title": "Self Preserved While The Bodies Float Up",
-    "artist": "Oceansize",
-    "year": 2010,
-    "cover_image": "https://i.discogs.com/T1VLIBy0ntH-Wqxm5c1g8oHkC9DjNLdOB38VbQKSjXA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY1/NzQtMTY1MDQwNTI1/MC0zMTA1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/nRA7GFVrD5CTxrCZzA8Ea2MmM6UJAbYKMkBXukoyRQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY1/NzQtMTY1MDQwNTI1/MC0zMTA1LmpwZWc.jpeg",
+    "id": 10212547,
+    "discogs_id": 10212547,
+    "title": "Midnight Marauders",
+    "artist": "A Tribe Called Quest",
+    "year": 2004,
+    "cover_image": "https://i.discogs.com/NTbEgHjNvoS9FWBVTjG1srG5FdstRJy-bJtzr4iF6sg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/NTQ3LTE1MzM0NzY1/NTYtOTQzNy5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/QAQObdkU6muDmkU6dx-G-FRCNgdESmit1h0831F1OlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/NTQ3LTE1MzM0NzY1/NTYtOTQzNy5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop"
     ],
     "styles": [
-      "Alternative Rock",
-      "Prog Rock"
+      "Jazzy Hip-Hop",
+      "Boom Bap",
+      "Conscious"
     ],
-    "label": "Superball Music",
-    "discogs_url": "https://www.discogs.com/release/2436574"
+    "label": "Jive",
+    "discogs_url": "https://www.discogs.com/release/10212547"
   }
 }
