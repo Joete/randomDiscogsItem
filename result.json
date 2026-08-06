@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-08-06T06:35:20.945855+00:00",
+  "generated_at": "2026-08-06T11:58:00.112778+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 96015,
-    "discogs_id": 96015,
-    "title": "Once Upon A Time",
-    "artist": "Simple Minds",
-    "year": 1985,
-    "cover_image": "https://i.discogs.com/-bugBgKVZTfteU_Mug0yPIunEDkvHIfxqDxQa1uxwds/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDE1/LTE3MTIyMzk3Njct/ODM4My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/tUKsFismKeijE7xyCO4qHP4ZMyIQ4_Alcj5XJVyHFo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDE1/LTE3MTIyMzk3Njct/ODM4My5qcGVn.jpeg",
+    "id": 1109165,
+    "discogs_id": 1109165,
+    "title": "Phobos In Funkytown",
+    "artist": "Jullander",
+    "year": 2005,
+    "cover_image": "https://i.discogs.com/UrHrpyjT0ohWdtMGjQ9urTYcRuRhK5wL_-sLEzmvgaw/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/NjUtMTE5MjcwODE0/My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/bGr0mkzHcPDEDccmiJbir1FvF9AekFX5iKbk96jovN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/NjUtMTE5MjcwODE0/My5qcGVn.jpeg",
     "genres": [
       "Electronic",
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "New Wave",
-      "Synth-pop"
+      "Indie Rock"
     ],
-    "label": "Virgin",
-    "discogs_url": "https://www.discogs.com/release/96015"
+    "label": "Sunday Service (2)",
+    "discogs_url": "https://www.discogs.com/release/1109165"
   }
 }
