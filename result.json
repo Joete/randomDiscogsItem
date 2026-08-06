@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-08-05T17:23:19.337103+00:00",
+  "generated_at": "2026-08-06T06:35:20.945855+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 12363778,
-    "discogs_id": 12363778,
-    "title": "The Moldy Peaches",
-    "artist": "The Moldy Peaches",
-    "year": 2018,
-    "cover_image": "https://i.discogs.com/HAcMTkPlCy6jhlUXd0lntwG8G8UELaznzodhUHeaOUk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYz/Nzc4LTE1MzQyNjM1/ODYtNTMxMC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/P6fxG20rgtMkTnp7jteShVQuqszzJo5hkj7FDtr73RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYz/Nzc4LTE1MzQyNjM1/ODYtNTMxMC5qcGVn.jpeg",
+    "id": 96015,
+    "discogs_id": 96015,
+    "title": "Once Upon A Time",
+    "artist": "Simple Minds",
+    "year": 1985,
+    "cover_image": "https://i.discogs.com/-bugBgKVZTfteU_Mug0yPIunEDkvHIfxqDxQa1uxwds/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDE1/LTE3MTIyMzk3Njct/ODM4My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/tUKsFismKeijE7xyCO4qHP4ZMyIQ4_Alcj5XJVyHFo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDE1/LTE3MTIyMzk3Njct/ODM4My5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Indie Rock"
+      "New Wave",
+      "Synth-pop"
     ],
-    "label": "Rough Trade",
-    "discogs_url": "https://www.discogs.com/release/12363778"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/96015"
   }
 }
