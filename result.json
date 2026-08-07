@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-08-07T05:43:33.190200+00:00",
+  "generated_at": "2026-08-07T10:43:43.298768+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2163534,
-    "discogs_id": 2163534,
-    "title": "The Best Off The Black President",
-    "artist": "Fela Kuti",
-    "year": 2010,
-    "cover_image": "https://i.discogs.com/ONm-LnRLzyQQi7u1ZdKmNGEOKq3lSDJGhboiFS2uNkA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM1/MzQtMTM4MTYyNTUw/NC0zMzE1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/e2FfKkwNt-hch10lKGjhAK0ctibKNBRNxR-hFLw7ZHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM1/MzQtMTM4MTYyNTUw/NC0zMzE1LmpwZWc.jpeg",
+    "id": 3499764,
+    "discogs_id": 3499764,
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/O2FXXfR2lTKG4cTibTk2ihc8yEen2Q--nKZ5e_6laj8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTk3/NjQtMTQxMzM4Njk2/NC01MzkxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/atjdwJEzeTJ0_2jJhPxXm6fWf72tlopkZckcgPYnCQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTk3/NjQtMTQxMzM4Njk2/NC01MzkxLmpwZWc.jpeg",
     "genres": [
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Afrobeat"
+      "Alternative Rock",
+      "Indie Rock",
+      "Garage Rock"
     ],
-    "label": "KIF Recordings",
-    "discogs_url": "https://www.discogs.com/release/2163534"
+    "label": "Music On Vinyl",
+    "discogs_url": "https://www.discogs.com/release/3499764"
   }
 }
