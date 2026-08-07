@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-08-07T10:43:43.298768+00:00",
+  "generated_at": "2026-08-07T16:45:38.788352+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3499764,
-    "discogs_id": 3499764,
-    "title": "Is This It",
-    "artist": "The Strokes",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/O2FXXfR2lTKG4cTibTk2ihc8yEen2Q--nKZ5e_6laj8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTk3/NjQtMTQxMzM4Njk2/NC01MzkxLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/atjdwJEzeTJ0_2jJhPxXm6fWf72tlopkZckcgPYnCQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTk3/NjQtMTQxMzM4Njk2/NC01MzkxLmpwZWc.jpeg",
+    "id": 45958,
+    "discogs_id": 45958,
+    "title": "Discothèque",
+    "artist": "U2",
+    "year": 1997,
+    "cover_image": "https://i.discogs.com/DkYHw0U5oiRgi2J7kzQgtU1ycmMzg9S0Hmekfy08AOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTU4/LTE3MTYyNTg1MTQt/MzA3Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/A3a1tXIYzyZ0ErOxG5qFdx9y2nRLURZlTwpf7Td_MT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTU4/LTE3MTYyNTg1MTQt/MzA3Ni5qcGVn.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock",
-      "Garage Rock"
+      "House",
+      "Pop Rock",
+      "Experimental"
     ],
-    "label": "Music On Vinyl",
-    "discogs_url": "https://www.discogs.com/release/3499764"
+    "label": "Island Records",
+    "discogs_url": "https://www.discogs.com/release/45958"
   }
 }
