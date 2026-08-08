@@ -1,25 +1,23 @@
 {
-  "generated_at": "2026-08-08T10:22:58.321362+00:00",
+  "generated_at": "2026-08-08T16:24:43.106000+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 5057970,
-    "discogs_id": 5057970,
-    "title": "Ill Communication",
-    "artist": "Beastie Boys",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/_gq2-y1zkLXz7QJwdDgMbEOtxee-3YhWhNgE8b0zcfA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTc5/NzAtMTUxMTM3NzE4/Ni0yNDcxLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/8IzeBIl105emOKYRO50UgTdgn0S7LKMoB-V9WigPXU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTc5/NzAtMTUxMTM3NzE4/Ni0yNDcxLmpwZWc.jpeg",
+    "id": 224445,
+    "discogs_id": 224445,
+    "title": "Mama's Gun",
+    "artist": "Erykah Badu",
+    "year": 2000,
+    "cover_image": "https://i.discogs.com/qeesM6nd7T9juGmmV88N-ElPNFzyX5LLUxV1GK8Hhfo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/NS0xNjk0NjIzMDEz/LTc1OTAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/X6OZ_Qd6h97Lk9SKRfnisFDxulUuT8bOpo6wi_uxMS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/NS0xNjk0NjIzMDEz/LTc1OTAuanBlZw.jpeg",
     "genres": [
       "Hip Hop",
-      "Jazz",
-      "Rock"
+      "Funk / Soul"
     ],
     "styles": [
-      "Pop Rap",
-      "Indie Rock",
-      "Jazz-Funk"
+      "Contemporary R&B",
+      "Neo Soul"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/5057970"
+    "label": "Motown",
+    "discogs_url": "https://www.discogs.com/release/224445"
   }
 }
