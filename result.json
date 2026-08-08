@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-08-07T16:45:38.788352+00:00",
+  "generated_at": "2026-08-08T05:01:44.332492+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 45958,
-    "discogs_id": 45958,
-    "title": "Discothèque",
-    "artist": "U2",
-    "year": 1997,
-    "cover_image": "https://i.discogs.com/DkYHw0U5oiRgi2J7kzQgtU1ycmMzg9S0Hmekfy08AOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTU4/LTE3MTYyNTg1MTQt/MzA3Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/A3a1tXIYzyZ0ErOxG5qFdx9y2nRLURZlTwpf7Td_MT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTU4/LTE3MTYyNTg1MTQt/MzA3Ni5qcGVn.jpeg",
+    "id": 1970406,
+    "discogs_id": 1970406,
+    "title": "Remasters",
+    "artist": "Led Zeppelin",
+    "year": 1990,
+    "cover_image": "https://i.discogs.com/gTFvNljFtiq_9vuzf1mcnLapQDbK_IXzukG_LacJFME/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA0/MDYtMTI1NjAzMTM3/Mi5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/AHUTK62hC7OSpAJj3r7uMbfoaXIyUqEQaerm6JjPwEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA0/MDYtMTI1NjAzMTM3/Mi5qcGVn.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "House",
-      "Pop Rock",
-      "Experimental"
+      "Hard Rock",
+      "Classic Rock",
+      "Blues Rock"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/45958"
+    "label": "Atlantic",
+    "discogs_url": "https://www.discogs.com/release/1970406"
   }
 }
