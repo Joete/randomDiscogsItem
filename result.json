@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-08-08T05:01:44.332492+00:00",
+  "generated_at": "2026-08-08T10:22:58.321362+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1970406,
-    "discogs_id": 1970406,
-    "title": "Remasters",
-    "artist": "Led Zeppelin",
-    "year": 1990,
-    "cover_image": "https://i.discogs.com/gTFvNljFtiq_9vuzf1mcnLapQDbK_IXzukG_LacJFME/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA0/MDYtMTI1NjAzMTM3/Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/AHUTK62hC7OSpAJj3r7uMbfoaXIyUqEQaerm6JjPwEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA0/MDYtMTI1NjAzMTM3/Mi5qcGVn.jpeg",
+    "id": 5057970,
+    "discogs_id": 5057970,
+    "title": "Ill Communication",
+    "artist": "Beastie Boys",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/_gq2-y1zkLXz7QJwdDgMbEOtxee-3YhWhNgE8b0zcfA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTc5/NzAtMTUxMTM3NzE4/Ni0yNDcxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/8IzeBIl105emOKYRO50UgTdgn0S7LKMoB-V9WigPXU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTc5/NzAtMTUxMTM3NzE4/Ni0yNDcxLmpwZWc.jpeg",
     "genres": [
+      "Hip Hop",
+      "Jazz",
       "Rock"
     ],
     "styles": [
-      "Hard Rock",
-      "Classic Rock",
-      "Blues Rock"
+      "Pop Rap",
+      "Indie Rock",
+      "Jazz-Funk"
     ],
-    "label": "Atlantic",
-    "discogs_url": "https://www.discogs.com/release/1970406"
+    "label": "Capitol Records",
+    "discogs_url": "https://www.discogs.com/release/5057970"
   }
 }
