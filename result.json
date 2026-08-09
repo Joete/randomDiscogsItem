@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-08-08T16:24:43.106000+00:00",
+  "generated_at": "2026-08-09T05:10:08.610872+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 224445,
-    "discogs_id": 224445,
-    "title": "Mama's Gun",
-    "artist": "Erykah Badu",
-    "year": 2000,
-    "cover_image": "https://i.discogs.com/qeesM6nd7T9juGmmV88N-ElPNFzyX5LLUxV1GK8Hhfo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/NS0xNjk0NjIzMDEz/LTc1OTAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/X6OZ_Qd6h97Lk9SKRfnisFDxulUuT8bOpo6wi_uxMS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ0/NS0xNjk0NjIzMDEz/LTc1OTAuanBlZw.jpeg",
+    "id": 1109176,
+    "discogs_id": 1109176,
+    "title": "John Symmes' Welt",
+    "artist": "Jullander",
+    "year": 2001,
+    "cover_image": "https://i.discogs.com/lIagXDkWCOol4fii86bh2FExYWM-0OnHFSqUTjhhrA0/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/NzYtMTE5MjcwOTE4/Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/yaxWUlvrT35vBxraaV2kyiLj9M90hblP3UmFvR5zRdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/NzYtMTE5MjcwOTE4/Ni5qcGVn.jpeg",
     "genres": [
-      "Hip Hop",
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Contemporary R&B",
-      "Neo Soul"
+      "Indie Rock"
     ],
-    "label": "Motown",
-    "discogs_url": "https://www.discogs.com/release/224445"
+    "label": "Beau Rivage",
+    "discogs_url": "https://www.discogs.com/release/1109176"
   }
 }
