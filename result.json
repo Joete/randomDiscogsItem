@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-08-09T10:24:33.601587+00:00",
+  "generated_at": "2026-08-09T16:26:09.458796+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 5701079,
-    "discogs_id": 5701079,
-    "title": "Everybody Down",
-    "artist": "Kate Tempest",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/k14xvo1BSm39VcuUEVDXktuiNFFNEw04Xpv12lkiamw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDEw/NzktMTUyMTczMDgz/NS02Mjc2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/y1-un4K-2Cx_pkbtWfKJOdME-8U9e0i8aVaYcWtSuJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDEw/NzktMTUyMTczMDgz/NS02Mjc2LmpwZWc.jpeg",
+    "id": 1043853,
+    "discogs_id": 1043853,
+    "title": "Expose Yourself To Lower Education",
+    "artist": "Finn.",
+    "year": 2003,
+    "cover_image": "https://i.discogs.com/URY8liP-VcQWgFyFguTt6QKlznIOEpLdY9LIhFil7c4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NTMtMTI1NjU5MTM5/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/a9ZmiCBpue7JfR1uyiM_Laq3KSb2_iyH85zdMYk67SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NTMtMTI1NjU5MTM5/OS5qcGVn.jpeg",
     "genres": [
       "Electronic",
-      "Hip Hop"
+      "Rock"
     ],
     "styles": [
-      "Downtempo",
-      "Spoken Word"
+      "Lo-Fi",
+      "Synth-pop",
+      "Shoegaze"
     ],
-    "label": "Big Dada Recordings",
-    "discogs_url": "https://www.discogs.com/release/5701079"
+    "label": "Sunday Service (2)",
+    "discogs_url": "https://www.discogs.com/release/1043853"
   }
 }
