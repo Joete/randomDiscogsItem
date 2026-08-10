@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-08-10T11:00:16.108959+00:00",
+  "generated_at": "2026-08-10T16:46:35.113821+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 5507165,
-    "discogs_id": 5507165,
-    "title": "Lost In The Dream",
-    "artist": "The War On Drugs",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/RNKqcAdyvM8VC9u40VR5ssxpUxqgLu0R8sl1CHK_z18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/m4n55bj8uDS5r_tk1u58friwmrrNLOX6pQRyKzZPl4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
+    "id": 397098,
+    "discogs_id": 397098,
+    "title": "Stay On These Roads",
+    "artist": "a-ha",
+    "year": 1988,
+    "cover_image": "https://i.discogs.com/fGS5Hmk57huRuFx3jl3u829-l7SLinXK23Sxo0ubIVw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA5/OC0xNzY0NDkwMDY2/LTgxNjIuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/QSUuwSdXzLAjxinloWmdrjzAP5BCWH2aXA-krji62MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA5/OC0xNzY0NDkwMDY2/LTgxNjIuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Pop"
     ],
     "styles": [
-      "Indie Rock"
+      "Synth-pop"
     ],
-    "label": "Secretly Canadian",
-    "discogs_url": "https://www.discogs.com/release/5507165"
+    "label": "Warner Bros. Records",
+    "discogs_url": "https://www.discogs.com/release/397098"
   }
 }
