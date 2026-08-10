@@ -1,24 +1,28 @@
 {
-  "generated_at": "2026-08-09T16:26:09.458796+00:00",
+  "generated_at": "2026-08-10T05:36:47.097454+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1043853,
-    "discogs_id": 1043853,
-    "title": "Expose Yourself To Lower Education",
-    "artist": "Finn.",
-    "year": 2003,
-    "cover_image": "https://i.discogs.com/URY8liP-VcQWgFyFguTt6QKlznIOEpLdY9LIhFil7c4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NTMtMTI1NjU5MTM5/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/a9ZmiCBpue7JfR1uyiM_Laq3KSb2_iyH85zdMYk67SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM4/NTMtMTI1NjU5MTM5/OS5qcGVn.jpeg",
+    "id": 9166965,
+    "discogs_id": 9166965,
+    "title": "Keshavara",
+    "artist": "Keshavara",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/vJWaZR73u5p4vGAD_SK-YZEe9nd-MRV8oYsiTL8Yldk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjY5/NjUtMTQ3NTk0NjE4/NC04MDY2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/mADnRT9SmiZAuWbReHl16AJ05JCfgdx2OcHNOX7AW6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjY5/NjUtMTQ3NTk0NjE4/NC04MDY2LmpwZWc.jpeg",
     "genres": [
       "Electronic",
-      "Rock"
+      "Hip Hop",
+      "Pop",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Lo-Fi",
-      "Synth-pop",
-      "Shoegaze"
+      "Breakbeat",
+      "Electro",
+      "Downtempo",
+      "Chillwave",
+      "Bollywood"
     ],
-    "label": "Sunday Service (2)",
-    "discogs_url": "https://www.discogs.com/release/1043853"
+    "label": "Papercup Records",
+    "discogs_url": "https://www.discogs.com/release/9166965"
   }
 }
