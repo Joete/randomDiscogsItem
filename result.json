@@ -1,28 +1,21 @@
 {
-  "generated_at": "2026-08-10T05:36:47.097454+00:00",
+  "generated_at": "2026-08-10T11:00:16.108959+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 9166965,
-    "discogs_id": 9166965,
-    "title": "Keshavara",
-    "artist": "Keshavara",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/vJWaZR73u5p4vGAD_SK-YZEe9nd-MRV8oYsiTL8Yldk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjY5/NjUtMTQ3NTk0NjE4/NC04MDY2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/mADnRT9SmiZAuWbReHl16AJ05JCfgdx2OcHNOX7AW6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjY5/NjUtMTQ3NTk0NjE4/NC04MDY2LmpwZWc.jpeg",
+    "id": 5507165,
+    "discogs_id": 5507165,
+    "title": "Lost In The Dream",
+    "artist": "The War On Drugs",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/RNKqcAdyvM8VC9u40VR5ssxpUxqgLu0R8sl1CHK_z18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/m4n55bj8uDS5r_tk1u58friwmrrNLOX6pQRyKzZPl4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Hip Hop",
-      "Pop",
-      "Folk, World, & Country"
+      "Rock"
     ],
     "styles": [
-      "Breakbeat",
-      "Electro",
-      "Downtempo",
-      "Chillwave",
-      "Bollywood"
+      "Indie Rock"
     ],
-    "label": "Papercup Records",
-    "discogs_url": "https://www.discogs.com/release/9166965"
+    "label": "Secretly Canadian",
+    "discogs_url": "https://www.discogs.com/release/5507165"
   }
 }
