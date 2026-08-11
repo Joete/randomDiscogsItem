@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-10T16:46:35.113821+00:00",
+  "generated_at": "2026-08-11T05:13:19.726194+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 397098,
-    "discogs_id": 397098,
-    "title": "Stay On These Roads",
-    "artist": "a-ha",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/fGS5Hmk57huRuFx3jl3u829-l7SLinXK23Sxo0ubIVw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA5/OC0xNzY0NDkwMDY2/LTgxNjIuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/QSUuwSdXzLAjxinloWmdrjzAP5BCWH2aXA-krji62MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA5/OC0xNzY0NDkwMDY2/LTgxNjIuanBlZw.jpeg",
+    "id": 487593,
+    "discogs_id": 487593,
+    "title": "X",
+    "artist": "Queens Of The Stone Age",
+    "year": 2000,
+    "cover_image": "https://i.discogs.com/aGwpFI8QpxX0r_IEcaXAsbMZpX8jBVYfq9Ucnf4T_zY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzU5/My0xMjYzNzE4MTYx/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/KZbE9hHmsjhXxH8ydJoxY3JPOoCRyRBjHCwZp-oIbIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzU5/My0xMjYzNzE4MTYx/LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Synth-pop"
+      "Alternative Rock",
+      "Hard Rock",
+      "Space Rock"
     ],
-    "label": "Warner Bros. Records",
-    "discogs_url": "https://www.discogs.com/release/397098"
+    "label": "Interscope Records",
+    "discogs_url": "https://www.discogs.com/release/487593"
   }
 }
