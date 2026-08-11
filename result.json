@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-08-11T10:43:05.306459+00:00",
+  "generated_at": "2026-08-11T16:52:09.119262+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 513594,
-    "discogs_id": 513594,
-    "title": "Lateralus",
-    "artist": "Tool (2)",
-    "year": 2005,
-    "cover_image": "https://i.discogs.com/4r3CDKkXduv9zBfx9wkQtmVyIO-cduRIGzJSQWwE48I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU5/NC0xNjQwNzE0MDM4/LTY3NzcuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/-z8VoSBKA5mj5fr-UcZTZuNZUBKQzfYz5fsMkpu6yjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU5/NC0xNjQwNzE0MDM4/LTY3NzcuanBlZw.jpeg",
+    "id": 742179,
+    "discogs_id": 742179,
+    "title": "Wings Of Joy",
+    "artist": "Cranes",
+    "year": 1991,
+    "cover_image": "https://i.discogs.com/Q6nm0_pY5KHdbsSHDe7KT9GvSHNVfBt7rgMRaSJ6kGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjE3/OS0xMTU0MTE0NTcx/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/gym_gF9pCinSo0zag4VnosBwjzI9UdvuDjpPXheXxWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjE3/OS0xMTU0MTE0NTcx/LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Prog Rock",
-      "Heavy Metal",
-      "Progressive Metal"
+      "Indie Rock"
     ],
-    "label": "Volcano (2)",
-    "discogs_url": "https://www.discogs.com/release/513594"
+    "label": "Dedicated",
+    "discogs_url": "https://www.discogs.com/release/742179"
   }
 }
