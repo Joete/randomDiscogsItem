@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-08-11T16:52:09.119262+00:00",
+  "generated_at": "2026-08-12T05:40:20.668475+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 742179,
-    "discogs_id": 742179,
-    "title": "Wings Of Joy",
-    "artist": "Cranes",
-    "year": 1991,
-    "cover_image": "https://i.discogs.com/Q6nm0_pY5KHdbsSHDe7KT9GvSHNVfBt7rgMRaSJ6kGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjE3/OS0xMTU0MTE0NTcx/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/gym_gF9pCinSo0zag4VnosBwjzI9UdvuDjpPXheXxWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjE3/OS0xMTU0MTE0NTcx/LmpwZWc.jpeg",
+    "id": 5612580,
+    "discogs_id": 5612580,
+    "title": "Too Slow To Disco",
+    "artist": "Various",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/35ZloRzRz1IVS2fIEAFgt7dqFQ6W9CXWMkeaKd4P5-U/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTI1/ODAtMTQwNDA2NzE5/MS0yNDY3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/YR36wDwZn9m9LxSKyzG7yczswjZJtGwNbE6zE7L0WX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTI1/ODAtMTQwNDA2NzE5/MS0yNDY3LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Soft Rock",
+      "AOR"
     ],
-    "label": "Dedicated",
-    "discogs_url": "https://www.discogs.com/release/742179"
+    "label": "How Do You Are?",
+    "discogs_url": "https://www.discogs.com/release/5612580"
   }
 }
