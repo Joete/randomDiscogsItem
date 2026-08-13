@@ -1,22 +1,19 @@
 {
-  "generated_at": "2026-08-13T05:43:22.239859+00:00",
+  "generated_at": "2026-08-13T10:55:10.535707+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2667116,
-    "discogs_id": 2667116,
-    "title": "Needles And Pins",
-    "artist": "Smokie",
-    "year": 1977,
-    "cover_image": "https://i.discogs.com/nvb1fGorhv9rXKLDsM_MLUrZVYDeTqPj0ZSjRvUeUxQ/rs:fit/g:sm/q:90/h:565/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njcx/MTYtMTQwNzA2MDky/NC01OTYzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/xNhZA2NBraEcS50iz-bJnKKYAuLPCxLBRMImHkQxHHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njcx/MTYtMTQwNzA2MDky/NC01OTYzLmpwZWc.jpeg",
+    "id": 30452354,
+    "discogs_id": 30452354,
+    "title": "Live From Red Rocks 2005",
+    "artist": "Pixies",
+    "year": 2024,
+    "cover_image": "https://i.discogs.com/1KquxspvfWgnLqQHE4inW6T_bhBYcKFXlft_P9hrnOY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/MzU0LTE3MTM2MzAz/MzMtOTkyMC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/GPOjIyIPDKj26rRbrPW6n-HikiVNNseyrejEQbTR410/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/MzU0LTE3MTM2MzAz/MzMtOTkyMC5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
-    "styles": [
-      "Soft Rock",
-      "Pop Rock"
-    ],
-    "label": "RAK",
-    "discogs_url": "https://www.discogs.com/release/2667116"
+    "styles": [],
+    "label": "Demon Records",
+    "discogs_url": "https://www.discogs.com/release/30452354"
   }
 }
