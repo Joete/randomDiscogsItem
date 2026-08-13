@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-08-12T16:51:17.673413+00:00",
+  "generated_at": "2026-08-13T05:43:22.239859+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 807701,
-    "discogs_id": 807701,
-    "title": "Mother Tongue",
-    "artist": "Mother Tongue (2)",
-    "year": 1994,
-    "cover_image": "https://i.discogs.com/CG9XhubF7ryXYiKGcgYvrI8uGMDst8KLk7ioriB0MW0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzcw/MS0xMTY3Nzg1NDkz/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/jND28vglVLKaKOnXiqkWoQaOkNjutZojRcIHsUBUKBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzcw/MS0xMTY3Nzg1NDkz/LmpwZWc.jpeg",
+    "id": 2667116,
+    "discogs_id": 2667116,
+    "title": "Needles And Pins",
+    "artist": "Smokie",
+    "year": 1977,
+    "cover_image": "https://i.discogs.com/nvb1fGorhv9rXKLDsM_MLUrZVYDeTqPj0ZSjRvUeUxQ/rs:fit/g:sm/q:90/h:565/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njcx/MTYtMTQwNzA2MDky/NC01OTYzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/xNhZA2NBraEcS50iz-bJnKKYAuLPCxLBRMImHkQxHHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njcx/MTYtMTQwNzA2MDky/NC01OTYzLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Soft Rock",
+      "Pop Rock"
     ],
-    "label": "Sony 550 Music",
-    "discogs_url": "https://www.discogs.com/release/807701"
+    "label": "RAK",
+    "discogs_url": "https://www.discogs.com/release/2667116"
   }
 }
