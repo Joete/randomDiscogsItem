@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-08-13T10:55:10.535707+00:00",
+  "generated_at": "2026-08-13T16:49:53.217138+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 30452354,
-    "discogs_id": 30452354,
-    "title": "Live From Red Rocks 2005",
-    "artist": "Pixies",
-    "year": 2024,
-    "cover_image": "https://i.discogs.com/1KquxspvfWgnLqQHE4inW6T_bhBYcKFXlft_P9hrnOY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/MzU0LTE3MTM2MzAz/MzMtOTkyMC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/GPOjIyIPDKj26rRbrPW6n-HikiVNNseyrejEQbTR410/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/MzU0LTE3MTM2MzAz/MzMtOTkyMC5qcGVn.jpeg",
+    "id": 9337733,
+    "discogs_id": 9337733,
+    "title": "Temple Of The Dog",
+    "artist": "Temple Of The Dog",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/kgUm9CWJpbZ-6-TuDOpHWSzKjV6dKayKnHea3-98Aw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzc3/MzMtMTQ3ODg0Njc2/OC0yODU4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/fmHg8_dmyRuteaAKlNjJ44Vimjx1JOH0gInfOF1u3Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzc3/MzMtMTQ3ODg0Njc2/OC0yODU4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
-    "styles": [],
-    "label": "Demon Records",
-    "discogs_url": "https://www.discogs.com/release/30452354"
+    "styles": [
+      "Grunge"
+    ],
+    "label": "A&M Records",
+    "discogs_url": "https://www.discogs.com/release/9337733"
   }
 }
