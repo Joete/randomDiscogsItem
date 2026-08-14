@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-13T16:49:53.217138+00:00",
+  "generated_at": "2026-08-14T05:40:24.098457+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 9337733,
-    "discogs_id": 9337733,
-    "title": "Temple Of The Dog",
-    "artist": "Temple Of The Dog",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/kgUm9CWJpbZ-6-TuDOpHWSzKjV6dKayKnHea3-98Aw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzc3/MzMtMTQ3ODg0Njc2/OC0yODU4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/fmHg8_dmyRuteaAKlNjJ44Vimjx1JOH0gInfOF1u3Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzc3/MzMtMTQ3ODg0Njc2/OC0yODU4LmpwZWc.jpeg",
+    "id": 1159957,
+    "discogs_id": 1159957,
+    "title": "Black Celebration",
+    "artist": "Depeche Mode",
+    "year": 1986,
+    "cover_image": "https://i.discogs.com/hQxBf-tfWAlge-wgnMuZTBtfpMmGKLipyi6Tb24hJg4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk5/NTctMTU2NTExMzky/Ni00NDc5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/TOcSlIQAHpkvQxXnbO693yr_8SpqbPQi0hh141tTn8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk5/NTctMTU2NTExMzky/Ni00NDc5LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "Grunge"
+      "Synth-pop"
     ],
-    "label": "A&M Records",
-    "discogs_url": "https://www.discogs.com/release/9337733"
+    "label": "Mute",
+    "discogs_url": "https://www.discogs.com/release/1159957"
   }
 }
