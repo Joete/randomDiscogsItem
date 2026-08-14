@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-08-14T05:40:24.098457+00:00",
+  "generated_at": "2026-08-14T10:50:43.731857+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1159957,
-    "discogs_id": 1159957,
-    "title": "Black Celebration",
-    "artist": "Depeche Mode",
-    "year": 1986,
-    "cover_image": "https://i.discogs.com/hQxBf-tfWAlge-wgnMuZTBtfpMmGKLipyi6Tb24hJg4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk5/NTctMTU2NTExMzky/Ni00NDc5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/TOcSlIQAHpkvQxXnbO693yr_8SpqbPQi0hh141tTn8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk5/NTctMTU2NTExMzky/Ni00NDc5LmpwZWc.jpeg",
+    "id": 3365659,
+    "discogs_id": 3365659,
+    "title": "Born To Die",
+    "artist": "Lana Del Rey",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/BD_i96kvcSfdhJPB66-fRe9ZNVequmSrPNb0WXv0bL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjU2/NTktMTMyNzUxNjEx/Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/5XMc3Z4qn9h9YaGRMOFuYIwVZLX_5BryOmG_BLYUPng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjU2/NTktMTMyNzUxNjEx/Ni5qcGVn.jpeg",
     "genres": [
-      "Electronic"
+      "Rock",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Synth-pop"
+      "Pop Rock",
+      "Soul",
+      "Ballad"
     ],
-    "label": "Mute",
-    "discogs_url": "https://www.discogs.com/release/1159957"
+    "label": "Vertigo",
+    "discogs_url": "https://www.discogs.com/release/3365659"
   }
 }
