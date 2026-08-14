@@ -1,25 +1,23 @@
 {
-  "generated_at": "2026-08-14T10:50:43.731857+00:00",
+  "generated_at": "2026-08-14T16:48:39.663796+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3365659,
-    "discogs_id": 3365659,
-    "title": "Born To Die",
-    "artist": "Lana Del Rey",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/BD_i96kvcSfdhJPB66-fRe9ZNVequmSrPNb0WXv0bL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjU2/NTktMTMyNzUxNjEx/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/5XMc3Z4qn9h9YaGRMOFuYIwVZLX_5BryOmG_BLYUPng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjU2/NTktMTMyNzUxNjEx/Ni5qcGVn.jpeg",
+    "id": 1015487,
+    "discogs_id": 1015487,
+    "title": "It's A Love Cult",
+    "artist": "Motorpsycho",
+    "year": 2002,
+    "cover_image": "https://i.discogs.com/flMtitRDiibASMxNxoWWsP7cba8_V8InxGA6rPPCr50/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU0/ODctMTQzMTM1MzUz/OC0zNjk4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/50Sj4ZZQeeRRBw_7Ek0eBglS_QIP2pboact8izHlKnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU0/ODctMTQzMTM1MzUz/OC0zNjk4LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Funk / Soul",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Pop Rock",
-      "Soul",
-      "Ballad"
+      "Alternative Rock",
+      "Stoner Rock",
+      "Psychedelic Rock"
     ],
-    "label": "Vertigo",
-    "discogs_url": "https://www.discogs.com/release/3365659"
+    "label": "Stickman Records (3)",
+    "discogs_url": "https://www.discogs.com/release/1015487"
   }
 }
