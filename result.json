@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-08-15T04:35:40.749692+00:00",
+  "generated_at": "2026-08-15T10:14:21.047728+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1080266,
-    "discogs_id": 1080266,
-    "title": "Survival Sickness",
-    "artist": "The International Noise Conspiracy",
-    "year": 2000,
-    "cover_image": "https://i.discogs.com/EqGByZQQEx6Nse_ZZ5nOh954CUsodGC5LWg-gmLgDa8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAy/NjYtMTMyMTM4NTQ3/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/wR2Nt4bA3QuFXGtVoBjDxbq97wNoAg416KQp_UZz7Yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAy/NjYtMTMyMTM4NTQ3/Ni5qcGVn.jpeg",
+    "id": 2050153,
+    "discogs_id": 2050153,
+    "title": "Save The Children",
+    "artist": "David Bowie",
+    "year": 1997,
+    "cover_image": "https://i.discogs.com/IXBgTgZBbw0Ts8k41T4XkM-DfhnblIG1_2y5wEB-cGQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTAx/NTMtMTQ1MTI5Mzgz/Mi00NDMxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/bIDQoY9Gj40qXG_e9XwqnNv99Z9YwdTBINI5eQUVn8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTAx/NTMtMTQ1MTI5Mzgz/Mi00NDMxLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Garage Rock",
-      "Punk",
-      "Indie Rock"
+      "Pop Rock"
     ],
-    "label": "Burning Heart Records",
-    "discogs_url": "https://www.discogs.com/release/1080266"
+    "label": "Optimum (2)",
+    "discogs_url": "https://www.discogs.com/release/2050153"
   }
 }
