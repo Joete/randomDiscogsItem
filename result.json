@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-08-15T16:16:15.716679+00:00",
+  "generated_at": "2026-08-16T04:39:47.678474+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1845456,
-    "discogs_id": 1845456,
-    "title": "Siamese Dream",
-    "artist": "The Smashing Pumpkins",
-    "year": 1993,
-    "cover_image": "https://i.discogs.com/Oy4sYC12IoGSKGEzk06cBT0PdWY-G6Usg5fZKtrYdJQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU0/NTYtMTcxNTQ0Mjcz/NS02Mzc4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Tfpj8BsWjVBXjac7MurMo3Zwe0a16_poCMJus9oUbzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU0/NTYtMTcxNTQ0Mjcz/NS02Mzc4LmpwZWc.jpeg",
+    "id": 2910189,
+    "discogs_id": 2910189,
+    "title": "Weird Scenes Inside The Gold Mine",
+    "artist": "The Doors",
+    "year": 1973,
+    "cover_image": "https://i.discogs.com/-ZwSBZtopMlthJ_uDR6yXyMz5sXCZ8gSaR5ky9LmvYI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTAx/ODktMTMwNjg0OTMz/Mi5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/JjCGY5kgBks_3hiAIIzdaNzw7MCY2jsUmJafPNF9kl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTAx/ODktMTMwNjg0OTMz/Mi5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Alternative Rock",
+      "Psychedelic Rock",
+      "Classic Rock"
     ],
-    "label": "Caroline Records",
-    "discogs_url": "https://www.discogs.com/release/1845456"
+    "label": "Elektra",
+    "discogs_url": "https://www.discogs.com/release/2910189"
   }
 }
