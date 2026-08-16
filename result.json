@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-08-16T10:15:13.126030+00:00",
+  "generated_at": "2026-08-16T16:16:49.641925+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3248712,
-    "discogs_id": 3248712,
-    "title": "Yuck",
-    "artist": "Yuck",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/UukBS1bFD0QFb5TdKt5wRRFU6J8tM5fh5latuw08Ztw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDg3/MTItMTMyMjMwMDQ5/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/G6IpEILstj7vZYwEeIpvfWBmDRUyTLPcZe_UuwDOXI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDg3/MTItMTMyMjMwMDQ5/Ni5qcGVn.jpeg",
+    "id": 5566568,
+    "discogs_id": 5566568,
+    "title": "B.R.M.C.",
+    "artist": "Black Rebel Motorcycle Club",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/qt4iaA6cd_9qZmqks3r6E0sd_PTPRG-MJZPu-sPRMaw/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjY1/NjgtMTQwNDk5ODU2/Mi05NTA2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/CPViIw5QUcA2qC6KhhzcyEWX7qtjGRmmmCwXI1eDRcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjY1/NjgtMTQwNDk5ODU2/Mi05NTA2LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock"
+      "Psychedelic Rock"
     ],
-    "label": "Fat Possum Records",
-    "discogs_url": "https://www.discogs.com/release/3248712"
+    "label": "Music On Vinyl",
+    "discogs_url": "https://www.discogs.com/release/5566568"
   }
 }
