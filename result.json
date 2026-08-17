@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-08-17T10:24:01.306215+00:00",
+  "generated_at": "2026-08-17T16:19:48.255229+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3606925,
-    "discogs_id": 3606925,
-    "title": "Dröhnland Symphonie",
-    "artist": "Udo Lindenberg Und Das Panikorchester",
-    "year": 1978,
-    "cover_image": "https://i.discogs.com/Uk41M697hHVpffXXDEUzycB6VL-qg4erQCRoXcen6gk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDY5/MjUtMTY0MTM5Njcy/Mi05ODI4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/SXWWsWUvG3FDXnHr5Fia069qFzjMku_IP5aTm7NcaVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDY5/MjUtMTY0MTM5Njcy/Mi05ODI4LmpwZWc.jpeg",
+    "id": 1238437,
+    "discogs_id": 1238437,
+    "title": "Emperor Tomato Ketchup",
+    "artist": "Stereolab",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/COFvibqwP8AsZHNRnvaEFo5Pl9c0coeCJH0VChlxsd0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzctMTIxMTM2MjE1/Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/VgUvY9dmS4e6TwZ3EM9Hp5mDli-0CREEnwJfA7BbXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzctMTIxMTM2MjE1/Ni5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Classic Rock"
+      "Indie Rock",
+      "Post Rock",
+      "Krautrock"
     ],
-    "label": "Telefunken",
-    "discogs_url": "https://www.discogs.com/release/3606925"
+    "label": "Elektra",
+    "discogs_url": "https://www.discogs.com/release/1238437"
   }
 }
