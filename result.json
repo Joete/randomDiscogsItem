@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-08-17T04:48:07.856765+00:00",
+  "generated_at": "2026-08-17T10:24:01.306215+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2851025,
-    "discogs_id": 2851025,
-    "title": "The King Of Limbs",
-    "artist": "Radiohead",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/K0gvirc78WvMQ7Lvl2199oVrblaWw-ziWho1f_r8lw0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MjUtMTMwMzkyNzU4/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/DFrP5lGfLiLPhHu9Or-Mxne_VI7H4bqu9Bqqlwh6KHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MjUtMTMwMzkyNzU4/OS5qcGVn.jpeg",
+    "id": 3606925,
+    "discogs_id": 3606925,
+    "title": "Dröhnland Symphonie",
+    "artist": "Udo Lindenberg Und Das Panikorchester",
+    "year": 1978,
+    "cover_image": "https://i.discogs.com/Uk41M697hHVpffXXDEUzycB6VL-qg4erQCRoXcen6gk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDY5/MjUtMTY0MTM5Njcy/Mi05ODI4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/SXWWsWUvG3FDXnHr5Fia069qFzjMku_IP5aTm7NcaVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDY5/MjUtMTY0MTM5Njcy/Mi05ODI4LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Experimental",
-      "Alternative Rock"
+      "Classic Rock"
     ],
-    "label": "Ticker Tape Ltd.",
-    "discogs_url": "https://www.discogs.com/release/2851025"
+    "label": "Telefunken",
+    "discogs_url": "https://www.discogs.com/release/3606925"
   }
 }
