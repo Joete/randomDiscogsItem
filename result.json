@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-08-17T16:19:48.255229+00:00",
+  "generated_at": "2026-08-18T04:39:42.323396+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1238437,
-    "discogs_id": 1238437,
-    "title": "Emperor Tomato Ketchup",
-    "artist": "Stereolab",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/COFvibqwP8AsZHNRnvaEFo5Pl9c0coeCJH0VChlxsd0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzctMTIxMTM2MjE1/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/VgUvY9dmS4e6TwZ3EM9Hp5mDli-0CREEnwJfA7BbXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzctMTIxMTM2MjE1/Ni5qcGVn.jpeg",
+    "id": 3857635,
+    "discogs_id": 3857635,
+    "title": "Love This Giant",
+    "artist": "David Byrne, St. Vincent",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/f6CFlDBj1-PBYoQ0ZY5Whtd1s9APtIcGd2Yz-dZF1o0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTc2/MzUtMTM0ODAzNjA1/NS0xODEyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/IBy2xnR0iN8YWQJdblqECgzVLi75GTxrgWj5eJAsVZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTc2/MzUtMTM0ODAzNjA1/NS0xODEyLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
+      "Alternative Rock",
       "Indie Rock",
-      "Post Rock",
-      "Krautrock"
+      "Experimental"
     ],
-    "label": "Elektra",
-    "discogs_url": "https://www.discogs.com/release/1238437"
+    "label": "4AD",
+    "discogs_url": "https://www.discogs.com/release/3857635"
   }
 }
