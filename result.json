@@ -1,25 +1,23 @@
 {
-  "generated_at": "2026-08-18T04:39:42.323396+00:00",
+  "generated_at": "2026-08-18T10:19:45.347515+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3857635,
-    "discogs_id": 3857635,
-    "title": "Love This Giant",
-    "artist": "David Byrne, St. Vincent",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/f6CFlDBj1-PBYoQ0ZY5Whtd1s9APtIcGd2Yz-dZF1o0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTc2/MzUtMTM0ODAzNjA1/NS0xODEyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/IBy2xnR0iN8YWQJdblqECgzVLi75GTxrgWj5eJAsVZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTc2/MzUtMTM0ODAzNjA1/NS0xODEyLmpwZWc.jpeg",
+    "id": 12591576,
+    "discogs_id": 12591576,
+    "title": "Stevie Wonder's Original Musiquarium I",
+    "artist": "Stevie Wonder",
+    "year": 1982,
+    "cover_image": "https://i.discogs.com/YilOtA2olrA463kjoavEH9ox90R4num0YQYLLgB5ZHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkx/NTc2LTE1NDkyMjc1/MDQtMTg3OC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/gFinQ35wtkkBMDqueUdqCvb50ihJ5wscF27avm_7bPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkx/NTc2LTE1NDkyMjc1/MDQtMTg3OC5qcGVn.jpeg",
     "genres": [
-      "Rock",
-      "Funk / Soul",
-      "Pop"
+      "Funk / Soul"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock",
-      "Experimental"
+      "Soul",
+      "Funk",
+      "Disco"
     ],
-    "label": "4AD",
-    "discogs_url": "https://www.discogs.com/release/3857635"
+    "label": "Tamla",
+    "discogs_url": "https://www.discogs.com/release/12591576"
   }
 }
