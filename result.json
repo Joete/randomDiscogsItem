@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-08-19T04:40:59.346007+00:00",
+  "generated_at": "2026-08-19T10:20:14.874864+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 347618,
-    "discogs_id": 347618,
-    "title": "Welcome To The Pleasuredome",
-    "artist": "Frankie Goes To Hollywood",
-    "year": 1985,
-    "cover_image": "https://i.discogs.com/C_wG2R_H-fkp3yDinagQRxqblspNBkkhtvTSjxIYsX0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/OC0xNTA5NjMwNTY4/LTY1MjQuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/LwTyrQP04h_wkTdengOFE8m7QLgAZRz9WD3pRMB_j4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/OC0xNTA5NjMwNTY4/LTY1MjQuanBlZw.jpeg",
+    "id": 3642931,
+    "discogs_id": 3642931,
+    "title": "Endless Flowers",
+    "artist": "Crocodiles",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/j-pydVBHSCQFci-VQ0tAOTOgx6GjCLqQ_QY_m_fzenA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDI5/MzEtMTQ5MzM0ODc0/My01MDg4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/8ktyiIVE5ar60t62sutNfZrnS-gWmoGQu9y1Yh1Ib4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDI5/MzEtMTQ5MzM0ODc0/My01MDg4LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Synth-pop",
-      "Power Pop",
-      "Glam"
+      "Shoegaze",
+      "Indie Rock"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/347618"
+    "label": "Souterrain Transmissions",
+    "discogs_url": "https://www.discogs.com/release/3642931"
   }
 }
