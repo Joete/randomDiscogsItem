@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-19T16:23:07.233716+00:00",
+  "generated_at": "2026-08-20T04:41:28.975306+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 534641,
-    "discogs_id": 534641,
-    "title": "The Will To Live ",
+    "id": 2188422,
+    "discogs_id": 2188422,
+    "title": "Welcome To The Cruel World",
     "artist": "Ben Harper",
-    "year": 1997,
-    "cover_image": "https://i.discogs.com/1zrg46pAJWXfxo92Oqij4SOo9iatAVnsQ3AbtwVK8oY/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDY0/MS0xNDc1MTY4MTE0/LTIyMDIuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/fyA_UzxLRK-_J52nN-_RBE6yprcxdlbPEs_-iKjCyXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDY0/MS0xNDc1MTY4MTE0/LTIyMDIuanBlZw.jpeg",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/hMNKCuzPmJ2CBKvzGt1rjFYXt7Xi04hmOtXDsCejN0k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg0/MjItMTcxODMxNTYw/NC05NjIwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/ca-RQc_Q426IHguo-slBuRZkJnVwMV_5OddWtWyFrS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg0/MjItMTcxODMxNTYw/NC05NjIwLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Blues",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Blues Rock",
       "Folk Rock"
     ],
     "label": "Virgin",
-    "discogs_url": "https://www.discogs.com/release/534641"
+    "discogs_url": "https://www.discogs.com/release/2188422"
   }
 }
