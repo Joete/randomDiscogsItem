@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-08-20T10:21:12.218047+00:00",
+  "generated_at": "2026-08-20T16:26:38.452155+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 13704490,
-    "discogs_id": 13704490,
-    "title": "Runway Markings",
-    "artist": "Okta Logue",
-    "year": 2019,
-    "cover_image": "https://i.discogs.com/mx4x0FkSr__dUhudBTpwLCaf2M_FVbTkFBK6kOKm09M/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA0/NDkwLTE1NTkzOTE3/OTgtMzU2Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/F1b1Fler-GT5JVrt3NalT2nTSr2d7Fp1Odpd_54UM6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA0/NDkwLTE1NTkzOTE3/OTgtMzU2Mi5qcGVn.jpeg",
+    "id": 1167783,
+    "discogs_id": 1167783,
+    "title": "Matters Of Love And Death",
+    "artist": "Nuccini!",
+    "year": 2006,
+    "cover_image": "https://i.discogs.com/gi-9VziSotuPBdPz_uI_nPoZcZ4Xt6BadPyv1hbKK1A/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc3/ODMtMTE5NzcyNTU5/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/UgS4_f8URsWGJNDa7RCFG1f19Q9bzD9jupyTXKCe5fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc3/ODMtMTE5NzcyNTU5/OS5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Hip Hop"
     ],
     "styles": [
-      "Psychedelic Rock",
-      "Indie Rock"
+      "Leftfield",
+      "Illbient",
+      "Abstract",
+      "IDM"
     ],
-    "label": "Clouds Hill",
-    "discogs_url": "https://www.discogs.com/release/13704490"
+    "label": "2nd Rec",
+    "discogs_url": "https://www.discogs.com/release/1167783"
   }
 }
