@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-08-21T10:21:23.886397+00:00",
+  "generated_at": "2026-08-21T16:24:15.747639+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 653396,
-    "discogs_id": 653396,
-    "title": "Karate",
-    "artist": "Karate",
-    "year": 1995,
-    "cover_image": "https://i.discogs.com/MeaaLPQ6Yvo7RSuTGIkA6Au_OVJAtJ3oh4jORb9FOO0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzM5/Ni0xMTU2MzMwNDc1/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/E5i6z-HdjCughyoB44_wjctucK84lbeyrBfPdFH98RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzM5/Ni0xMTU2MzMwNDc1/LmpwZWc.jpeg",
+    "id": 8199835,
+    "discogs_id": 8199835,
+    "title": "You Know Who You Are",
+    "artist": "Nada Surf",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/Mskg947CADF8SWfWp-LyEsuOEk-916L_GyVKnPkOUyo/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTk4/MzUtMTc0MTUzNTg2/MS05MTM4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/BxgJPRtm8bxvSoEreS3FgxGMvyySIHwiBPu-YgQjCcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTk4/MzUtMTc0MTUzNTg2/MS05MTM4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Post Rock",
       "Indie Rock"
     ],
-    "label": "Southern Records",
-    "discogs_url": "https://www.discogs.com/release/653396"
+    "label": "City Slang",
+    "discogs_url": "https://www.discogs.com/release/8199835"
   }
 }
