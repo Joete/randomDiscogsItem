@@ -1,25 +1,21 @@
 {
-  "generated_at": "2026-08-20T16:26:38.452155+00:00",
+  "generated_at": "2026-08-21T04:42:28.186868+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1167783,
-    "discogs_id": 1167783,
-    "title": "Matters Of Love And Death",
-    "artist": "Nuccini!",
-    "year": 2006,
-    "cover_image": "https://i.discogs.com/gi-9VziSotuPBdPz_uI_nPoZcZ4Xt6BadPyv1hbKK1A/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc3/ODMtMTE5NzcyNTU5/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/UgS4_f8URsWGJNDa7RCFG1f19Q9bzD9jupyTXKCe5fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc3/ODMtMTE5NzcyNTU5/OS5qcGVn.jpeg",
+    "id": 551711,
+    "discogs_id": 551711,
+    "title": "Fires In Distant Buildings",
+    "artist": "Gravenhurst",
+    "year": 2005,
+    "cover_image": "https://i.discogs.com/4QF3Jn52YwvFbDmZEjYAH86fGRpn5XL7r3teXd0AnLQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTcx/MS0xNDM0MTc5Njgw/LTkyNjMuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/dL75Etxizk-IUv_0l2U3dC0NIaHyxrTUgbNotXusJSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTcx/MS0xNDM0MTc5Njgw/LTkyNjMuanBlZw.jpeg",
     "genres": [
-      "Electronic",
-      "Hip Hop"
+      "Rock"
     ],
     "styles": [
-      "Leftfield",
-      "Illbient",
-      "Abstract",
-      "IDM"
+      "Alternative Rock"
     ],
-    "label": "2nd Rec",
-    "discogs_url": "https://www.discogs.com/release/1167783"
+    "label": "Warp Records",
+    "discogs_url": "https://www.discogs.com/release/551711"
   }
 }
