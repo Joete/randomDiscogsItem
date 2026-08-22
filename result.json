@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-08-22T10:14:41.458281+00:00",
+  "generated_at": "2026-08-22T16:15:38.634768+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4511340,
-    "discogs_id": 4511340,
-    "title": "Thr!!!er",
-    "artist": "!!!",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/oGb3RvVntDxMsN-zJOJx2Pw9wsbu9NolfrN3SPQa_pA/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTEz/NDAtMTM2Njk3MTE3/NS01OTg5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/iq5smPLdA85wKa6bllus3aXC5kwBju_TXV6jz8oed8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTEz/NDAtMTM2Njk3MTE3/NS01OTg5LmpwZWc.jpeg",
+    "id": 386005,
+    "discogs_id": 386005,
+    "title": "Toto IV",
+    "artist": "Toto",
+    "year": 1982,
+    "cover_image": "https://i.discogs.com/GBFCphJ4sOpTES45wIQ7lQQPKmlG7-O5JYAl67nJSg4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjAw/NS0xNjEwODczMTY0/LTkxNTMuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/nUNovqcZEYEDhsRNR9F6ZhtxZ4jijuGg8SpEsYB6_WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjAw/NS0xNjEwODczMTY0/LTkxNTMuanBlZw.jpeg",
     "genres": [
-      "Electronic",
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Indie Pop",
-      "Post Rock",
-      "No Wave"
+      "Pop Rock",
+      "AOR"
     ],
-    "label": "Warp Records",
-    "discogs_url": "https://www.discogs.com/release/4511340"
+    "label": "CBS",
+    "discogs_url": "https://www.discogs.com/release/386005"
   }
 }
