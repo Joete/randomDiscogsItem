@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-08-22T04:37:26.688624+00:00",
+  "generated_at": "2026-08-22T10:14:41.458281+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 6228104,
-    "discogs_id": 6228104,
-    "title": "West Ryder Pauper Lunatic Asylum",
-    "artist": "Kasabian",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/Eer63h5DfVjodYFG_TVzsNnHp73dCQt-Ggc9IWzpQNg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgx/MDQtMTUyNzc1MTc1/OC02MTUyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/XGpTMGSZ4sOKOEBHWrk21x_WeH51zWpDPlpAnZDAjHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgx/MDQtMTUyNzc1MTc1/OC02MTUyLmpwZWc.jpeg",
+    "id": 4511340,
+    "discogs_id": 4511340,
+    "title": "Thr!!!er",
+    "artist": "!!!",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/oGb3RvVntDxMsN-zJOJx2Pw9wsbu9NolfrN3SPQa_pA/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTEz/NDAtMTM2Njk3MTE3/NS01OTg5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/iq5smPLdA85wKa6bllus3aXC5kwBju_TXV6jz8oed8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTEz/NDAtMTM2Njk3MTE3/NS01OTg5LmpwZWc.jpeg",
     "genres": [
       "Electronic",
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Indie Pop",
+      "Post Rock",
+      "No Wave"
     ],
-    "label": "Columbia",
-    "discogs_url": "https://www.discogs.com/release/6228104"
+    "label": "Warp Records",
+    "discogs_url": "https://www.discogs.com/release/4511340"
   }
 }
