@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-08-23T16:17:14.933453+00:00",
+  "generated_at": "2026-08-24T04:50:31.739931+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 795278,
-    "discogs_id": 795278,
-    "title": "Graceland",
-    "artist": "Paul Simon",
-    "year": 1986,
-    "cover_image": "https://i.discogs.com/dBMttcxGFOlwnc3lzOJLCOZIBkgx7RXUeF2tTPHYJOI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTI3/OC0xMTU5NTY3OTQ1/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/COEvpDIsTcO5cKrY4VtS7Xrl3sP_IGAn-tZ6JZfGMdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTI3/OC0xMTU5NTY3OTQ1/LmpwZWc.jpeg",
+    "id": 876459,
+    "discogs_id": 876459,
+    "title": "Coast To Coast Motel",
+    "artist": "G. Love & Special Sauce",
+    "year": 1995,
+    "cover_image": "https://i.discogs.com/-ECO88I0fZXN0pEGOhcN_Ntzgi6C30tukDJZ38zZAj4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjQ1/OS0xNzE4MjIzNzg1/LTg3ODIuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/sZYc_z34UMe7QUFfSe9nuCmRedtTcZW2ndMS5gepnjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjQ1/OS0xNzE4MjIzNzg1/LTg3ODIuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop",
+      "Rock",
+      "Blues"
     ],
     "styles": [
-      "Pop Rock"
+      "Blues Rock",
+      "Pop Rap",
+      "East Coast Blues"
     ],
-    "label": "Warner Bros. Records",
-    "discogs_url": "https://www.discogs.com/release/795278"
+    "label": "Okeh",
+    "discogs_url": "https://www.discogs.com/release/876459"
   }
 }
