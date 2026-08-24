@@ -1,25 +1,22 @@
 {
-  "generated_at": "2026-08-24T04:50:31.739931+00:00",
+  "generated_at": "2026-08-24T10:29:35.572631+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 876459,
-    "discogs_id": 876459,
-    "title": "Coast To Coast Motel",
-    "artist": "G. Love & Special Sauce",
-    "year": 1995,
-    "cover_image": "https://i.discogs.com/-ECO88I0fZXN0pEGOhcN_Ntzgi6C30tukDJZ38zZAj4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjQ1/OS0xNzE4MjIzNzg1/LTg3ODIuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/sZYc_z34UMe7QUFfSe9nuCmRedtTcZW2ndMS5gepnjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjQ1/OS0xNzE4MjIzNzg1/LTg3ODIuanBlZw.jpeg",
+    "id": 378611,
+    "discogs_id": 378611,
+    "title": "Rearviewmirror (Greatest Hits 1991-2003)",
+    "artist": "Pearl Jam",
+    "year": 2004,
+    "cover_image": "https://i.discogs.com/_KlFmOP0-5_8Tz6qjG6CSNxcYnkumDjwUnjHZPPwDJo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODYx/MS0xNzA2Nzc1NDcz/LTc5MjQuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/mGtnjSWPMswIPgRE1sUbjp0pS-I72iIiRH2uKcJdVdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODYx/MS0xNzA2Nzc1NDcz/LTc5MjQuanBlZw.jpeg",
     "genres": [
-      "Hip Hop",
-      "Rock",
-      "Blues"
+      "Rock"
     ],
     "styles": [
-      "Blues Rock",
-      "Pop Rap",
-      "East Coast Blues"
+      "Alternative Rock",
+      "Grunge"
     ],
-    "label": "Okeh",
-    "discogs_url": "https://www.discogs.com/release/876459"
+    "label": "Epic",
+    "discogs_url": "https://www.discogs.com/release/378611"
   }
 }
