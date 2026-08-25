@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-25T04:43:02.712372+00:00",
+  "generated_at": "2026-08-25T10:23:16.320841+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4427075,
-    "discogs_id": 4427075,
-    "title": "Die Fünften (5. Sinfonie C-moll Und Klavierkonzert Es-dur)",
-    "artist": "Ludwig van Beethoven",
-    "year": 1979,
-    "cover_image": "https://i.discogs.com/3ZVQ0cHukeG2FYvX9BgQ8UkC2QhvNsKnshSQoTL5-aM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcw/NzUtMTM2NDU5ODYy/NC0zOTQwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/3SC8H898E-VvbsUc0rmMBgF9QXoIfWdKVIajA2MqQOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcw/NzUtMTM2NDU5ODYy/NC0zOTQwLmpwZWc.jpeg",
+    "id": 2950555,
+    "discogs_id": 2950555,
+    "title": "Best Of CCS",
+    "artist": "CCS",
+    "year": 1977,
+    "cover_image": "https://i.discogs.com/-wXShOQcfV1gf8LzgUGOA1JKkqLH34nOF1rKUV0W4go/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA1/NTUtMTY5MzY4ODQw/My03MTE5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/41lFXTBPaJ3sPabn3D_uaqhXVfkARJA5adggchrZc5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA1/NTUtMTY5MzY4ODQw/My03MTE5LmpwZWc.jpeg",
     "genres": [
-      "Classical"
+      "Rock"
     ],
     "styles": [
-      "Classical",
-      "Romantic"
+      "Jazz-Rock",
+      "Blues Rock"
     ],
-    "label": "Philips",
-    "discogs_url": "https://www.discogs.com/release/4427075"
+    "label": "RAK",
+    "discogs_url": "https://www.discogs.com/release/2950555"
   }
 }
