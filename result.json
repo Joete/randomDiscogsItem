@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-25T10:23:16.320841+00:00",
+  "generated_at": "2026-08-25T16:28:27.929871+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2950555,
-    "discogs_id": 2950555,
-    "title": "Best Of CCS",
-    "artist": "CCS",
-    "year": 1977,
-    "cover_image": "https://i.discogs.com/-wXShOQcfV1gf8LzgUGOA1JKkqLH34nOF1rKUV0W4go/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA1/NTUtMTY5MzY4ODQw/My03MTE5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/41lFXTBPaJ3sPabn3D_uaqhXVfkARJA5adggchrZc5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA1/NTUtMTY5MzY4ODQw/My03MTE5LmpwZWc.jpeg",
+    "id": 2134386,
+    "discogs_id": 2134386,
+    "title": "A Night At The Opera",
+    "artist": "Queen",
+    "year": 1975,
+    "cover_image": "https://i.discogs.com/a2Gs0gNA7SbZnWHctFjyKyUh4Q1Cmba2UjqpP7VBXfg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQz/ODYtMTUyNTkwNzEx/MC04MTY0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/brYJ4htbMCF9CluDLb8jC8vI3Sx9Ih3DtRUoo6ihCN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQz/ODYtMTUyNTkwNzEx/MC04MTY0LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Jazz-Rock",
-      "Blues Rock"
+      "Pop Rock",
+      "Prog Rock",
+      "Hard Rock"
     ],
-    "label": "RAK",
-    "discogs_url": "https://www.discogs.com/release/2950555"
+    "label": "EMI",
+    "discogs_url": "https://www.discogs.com/release/2134386"
   }
 }
