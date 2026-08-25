@@ -1,25 +1,22 @@
 {
-  "generated_at": "2026-08-24T16:28:05.365297+00:00",
+  "generated_at": "2026-08-25T04:43:02.712372+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4191561,
-    "discogs_id": 4191561,
-    "title": "Ill Communication",
-    "artist": "Beastie Boys",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/W8fqPk0gRcJiUDJK8wpdUrD6HMVvn3bqUEmxE7yH4X0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTE1/NjEtMTUxNDI2OTc5/My05MzQ0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/vzg98-UpvEHYjqHeM7k4v7cCDyMq38K7utmY2xmVNrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTE1/NjEtMTUxNDI2OTc5/My05MzQ0LmpwZWc.jpeg",
+    "id": 4427075,
+    "discogs_id": 4427075,
+    "title": "Die Fünften (5. Sinfonie C-moll Und Klavierkonzert Es-dur)",
+    "artist": "Ludwig van Beethoven",
+    "year": 1979,
+    "cover_image": "https://i.discogs.com/3ZVQ0cHukeG2FYvX9BgQ8UkC2QhvNsKnshSQoTL5-aM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcw/NzUtMTM2NDU5ODYy/NC0zOTQwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/3SC8H898E-VvbsUc0rmMBgF9QXoIfWdKVIajA2MqQOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcw/NzUtMTM2NDU5ODYy/NC0zOTQwLmpwZWc.jpeg",
     "genres": [
-      "Hip Hop",
-      "Rock"
+      "Classical"
     ],
     "styles": [
-      "Cut-up/DJ",
-      "Hardcore",
-      "Funk",
-      "Smooth Jazz"
+      "Classical",
+      "Romantic"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/4191561"
+    "label": "Philips",
+    "discogs_url": "https://www.discogs.com/release/4427075"
   }
 }
