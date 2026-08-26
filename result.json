@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-08-25T16:28:27.929871+00:00",
+  "generated_at": "2026-08-26T04:43:58.956034+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2134386,
-    "discogs_id": 2134386,
-    "title": "A Night At The Opera",
-    "artist": "Queen",
-    "year": 1975,
-    "cover_image": "https://i.discogs.com/a2Gs0gNA7SbZnWHctFjyKyUh4Q1Cmba2UjqpP7VBXfg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQz/ODYtMTUyNTkwNzEx/MC04MTY0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/brYJ4htbMCF9CluDLb8jC8vI3Sx9Ih3DtRUoo6ihCN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQz/ODYtMTUyNTkwNzEx/MC04MTY0LmpwZWc.jpeg",
+    "id": 3703899,
+    "discogs_id": 3703899,
+    "title": "You Are Free",
+    "artist": "Cat Power",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/uQkCxzGJtyDeBgcY-L3bSo5_bt1QVBxS90Qp2UpG4t4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDM4/OTktMTc0MjE1MDM1/Mi02MTc3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/qdXsum7jbiIFKp85BbSUXmpkmFgJnkyFHF4ohjHrEak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDM4/OTktMTc0MjE1MDM1/Mi02MTc3LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Pop Rock",
-      "Prog Rock",
-      "Hard Rock"
+      "Blues Rock",
+      "Indie Rock"
     ],
-    "label": "EMI",
-    "discogs_url": "https://www.discogs.com/release/2134386"
+    "label": "Matador",
+    "discogs_url": "https://www.discogs.com/release/3703899"
   }
 }
