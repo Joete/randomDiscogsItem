@@ -1,22 +1,20 @@
 {
-  "generated_at": "2026-08-26T16:42:57.343904+00:00",
+  "generated_at": "2026-08-27T15:04:23.467300+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4959663,
-    "discogs_id": 4959663,
-    "title": "From Here To There",
-    "artist": "Girls In Hawaii",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/t0uskJ9_ldwaVGvL9MnBcCY2OU1SDM9RltyfqJE7Fzc/rs:fit/g:sm/q:90/h:427/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTk2/NjMtMTM4MzA1ODc3/OS03MTg2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/GGqI7a3s7CUrhlM-_exp1PZc4wejU97Qw2GIYRkGT3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTk2/NjMtMTM4MzA1ODc3/OS03MTg2LmpwZWc.jpeg",
+    "id": 2094438,
+    "discogs_id": 2094438,
+    "title": "Reverse Eclipse",
+    "artist": "Geoff Farina",
+    "year": 2000,
+    "cover_image": "https://i.discogs.com/Pjo6XzmrcbJ2DjsplvdIqyAG3DfyIp5MFDVGDlo7GbY/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ0/MzgtMTU1MzU1MTQ0/MC03NzkxLnBuZw.jpeg",
+    "thumb": "https://i.discogs.com/lgyCoPbFTUCE0B-kcs453gblQiYQ94cG8r4-acLRL3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ0/MzgtMTU1MzU1MTQ0/MC03NzkxLnBuZw.jpeg",
     "genres": [
+      "Jazz",
       "Rock"
     ],
-    "styles": [
-      "Pop Rock",
-      "Indie Rock"
-    ],
-    "label": "62 TV Records",
-    "discogs_url": "https://www.discogs.com/release/4959663"
+    "styles": [],
+    "label": "Southern Records",
+    "discogs_url": "https://www.discogs.com/release/2094438"
   }
 }
