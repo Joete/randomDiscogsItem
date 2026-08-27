@@ -1,20 +1,26 @@
 {
-  "generated_at": "2026-08-27T15:04:23.467300+00:00",
+  "generated_at": "2026-08-27T20:04:38.401945+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2094438,
-    "discogs_id": 2094438,
-    "title": "Reverse Eclipse",
-    "artist": "Geoff Farina",
-    "year": 2000,
-    "cover_image": "https://i.discogs.com/Pjo6XzmrcbJ2DjsplvdIqyAG3DfyIp5MFDVGDlo7GbY/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ0/MzgtMTU1MzU1MTQ0/MC03NzkxLnBuZw.jpeg",
-    "thumb": "https://i.discogs.com/lgyCoPbFTUCE0B-kcs453gblQiYQ94cG8r4-acLRL3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ0/MzgtMTU1MzU1MTQ0/MC03NzkxLnBuZw.jpeg",
+    "id": 1368947,
+    "discogs_id": 1368947,
+    "title": "Next Time",
+    "artist": "Bodi Bill",
+    "year": 2008,
+    "cover_image": "https://i.discogs.com/dZ3lLWq5_4GAE8-_zdhiA6KsG81XS-rmaDr2qMtQkxQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/NDctMTI5OTY0NjE3/Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/5x9q-2j2ryU6jWlI1mATzGb_1UkrPPZR_NeGZkgv4GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/NDctMTI5OTY0NjE3/Ni5qcGVn.jpeg",
     "genres": [
-      "Jazz",
+      "Electronic",
+      "Folk, World, & Country",
+      "Pop",
       "Rock"
     ],
-    "styles": [],
-    "label": "Southern Records",
-    "discogs_url": "https://www.discogs.com/release/2094438"
+    "styles": [
+      "IDM",
+      "Electro",
+      "Indie Rock"
+    ],
+    "label": "Sinnbus",
+    "discogs_url": "https://www.discogs.com/release/1368947"
   }
 }
