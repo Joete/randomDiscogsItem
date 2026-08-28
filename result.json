@@ -1,26 +1,19 @@
 {
-  "generated_at": "2026-08-27T20:04:38.401945+00:00",
+  "generated_at": "2026-08-28T00:42:39.421348+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1368947,
-    "discogs_id": 1368947,
-    "title": "Next Time",
-    "artist": "Bodi Bill",
-    "year": 2008,
-    "cover_image": "https://i.discogs.com/dZ3lLWq5_4GAE8-_zdhiA6KsG81XS-rmaDr2qMtQkxQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/NDctMTI5OTY0NjE3/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/5x9q-2j2ryU6jWlI1mATzGb_1UkrPPZR_NeGZkgv4GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/NDctMTI5OTY0NjE3/Ni5qcGVn.jpeg",
+    "id": 7004981,
+    "discogs_id": 7004981,
+    "title": "Gunnera",
+    "artist": "Pfarmers",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/hb64k3LzTZ34ZM0NpVQoJ6IMO4aiC5-IqXhh2GU18dI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDQ5/ODEtMTQzMTQ4MTM4/OC0zOTMyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/A0dvu-71Lh3EyQTreFME0tWwuR8xLehEkd_L5-z0to8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDQ5/ODEtMTQzMTQ4MTM4/OC0zOTMyLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Folk, World, & Country",
-      "Pop",
       "Rock"
     ],
-    "styles": [
-      "IDM",
-      "Electro",
-      "Indie Rock"
-    ],
-    "label": "Sinnbus",
-    "discogs_url": "https://www.discogs.com/release/1368947"
+    "styles": [],
+    "label": "Jurassic Pop",
+    "discogs_url": "https://www.discogs.com/release/7004981"
   }
 }
