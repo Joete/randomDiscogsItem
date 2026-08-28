@@ -1,19 +1,22 @@
 {
-  "generated_at": "2026-08-28T00:42:39.421348+00:00",
+  "generated_at": "2026-08-28T16:27:41.281228+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 7004981,
-    "discogs_id": 7004981,
-    "title": "Gunnera",
-    "artist": "Pfarmers",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/hb64k3LzTZ34ZM0NpVQoJ6IMO4aiC5-IqXhh2GU18dI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDQ5/ODEtMTQzMTQ4MTM4/OC0zOTMyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/A0dvu-71Lh3EyQTreFME0tWwuR8xLehEkd_L5-z0to8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDQ5/ODEtMTQzMTQ4MTM4/OC0zOTMyLmpwZWc.jpeg",
+    "id": 1055435,
+    "discogs_id": 1055435,
+    "title": "Automatic Writing",
+    "artist": "Ataxia",
+    "year": 2004,
+    "cover_image": "https://i.discogs.com/-zIb1kZkBZrQSfB9e2mcbioKz0lw9JLbJxLtgs4-IL4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU0/MzUtMTI4NjQ2ODc1/NS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/K443626iWyrSRVXKI3sIvyfdeH8Az0FDld7wAT8t9qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU0/MzUtMTI4NjQ2ODc1/NS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
-    "styles": [],
-    "label": "Jurassic Pop",
-    "discogs_url": "https://www.discogs.com/release/7004981"
+    "styles": [
+      "Alternative Rock",
+      "Prog Rock"
+    ],
+    "label": "Record Collection",
+    "discogs_url": "https://www.discogs.com/release/1055435"
   }
 }
