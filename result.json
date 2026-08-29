@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-08-28T21:02:22.890440+00:00",
+  "generated_at": "2026-08-29T00:19:12.187175+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3011001,
-    "discogs_id": 3011001,
-    "title": "Controversy",
-    "artist": "Prince",
-    "year": 1981,
-    "cover_image": "https://i.discogs.com/Ex6jggCKjuGw1WNN-fI6PZEx87vGumeQ07S0I02yO7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEw/MDEtMTM0Njc2ODU1/OS0zMTI3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/C_EuktKneoqtMbJXYiJa0kr2L6ENHtySiS-m1TtBsFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEw/MDEtMTM0Njc2ODU1/OS0zMTI3LmpwZWc.jpeg",
+    "id": 4415837,
+    "discogs_id": 4415837,
+    "title": "The Next Day",
+    "artist": "David Bowie",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/k_6FCxGqDZLlwGFhhQbh_1mC0XRnqi2OQZr16GMWW0o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTU4/MzctMTM2NDI5ODk5/MS02MjQ4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/LdNnMFSzsZinAKTfsYQJvkpzcNkvqOxI5qAT4HVgSf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTU4/MzctMTM2NDI5ODk5/MS02MjQ4LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Funk / Soul"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Synth-pop",
-      "Funk"
+      "Art Rock"
     ],
-    "label": "Warner Bros. Records",
-    "discogs_url": "https://www.discogs.com/release/3011001"
+    "label": "ISO Records",
+    "discogs_url": "https://www.discogs.com/release/4415837"
   }
 }
