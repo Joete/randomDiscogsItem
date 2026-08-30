@@ -1,26 +1,22 @@
 {
-  "generated_at": "2026-08-30T09:50:35.573950+00:00",
+  "generated_at": "2026-08-30T14:35:40.954725+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1208398,
-    "discogs_id": 1208398,
-    "title": "Burn To Shine",
-    "artist": "Ben Harper & The Innocent Criminals",
-    "year": 1999,
-    "cover_image": "https://i.discogs.com/WbsbucIDXRNxN9un7VUqATu_IrsZ5SReEzPgmVlYTN4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgz/OTgtMTIwMDg2NjMy/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/d6NbCbB4-Y37I4B1bY7qhG3cZEo_Fbx8JpEd5anD8gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgz/OTgtMTIwMDg2NjMy/OS5qcGVn.jpeg",
+    "id": 6057872,
+    "discogs_id": 6057872,
+    "title": "Freezer",
+    "artist": "The/Das",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/835tFRr1GuEOcFDPq40D0DHLjtGDjLirFu8UKsm1AZE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc4/NzItMTQwOTk4NjY2/OS01NDIyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/CTza7z1n6H8FHvuIrBb7-sHlBQuOqRLQ01Yzrfear0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc4/NzItMTQwOTk4NjY2/OS01NDIyLmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Funk / Soul"
+      "Electronic",
+      "Pop"
     ],
     "styles": [
-      "Blues Rock",
-      "Soul",
-      "Acoustic",
-      "Gospel",
-      "Alternative Rock"
+      "Synth-pop"
     ],
-    "label": "Virgin",
-    "discogs_url": "https://www.discogs.com/release/1208398"
+    "label": "Sinnbus",
+    "discogs_url": "https://www.discogs.com/release/6057872"
   }
 }
