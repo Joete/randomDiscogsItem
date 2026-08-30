@@ -1,22 +1,26 @@
 {
-  "generated_at": "2026-08-29T19:04:08.661361+00:00",
+  "generated_at": "2026-08-30T09:50:35.573950+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 13754287,
-    "discogs_id": 13754287,
-    "title": "Hip-Hop (Classics From The Flow Masters)",
-    "artist": "Various",
-    "year": 2019,
-    "cover_image": "https://i.discogs.com/k3VmdeXyBX4vxojM9wqYRrXFDVS-lPphJ5_TErZP47Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU0/Mjg3LTE1NjA0MDcy/NzUtNDA4Ny5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/3Ge7-0Z84Y4WBXBRmvvMK8VXUugfRIpUFzbkvjDMM7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU0/Mjg3LTE1NjA0MDcy/NzUtNDA4Ny5qcGVn.jpeg",
+    "id": 1208398,
+    "discogs_id": 1208398,
+    "title": "Burn To Shine",
+    "artist": "Ben Harper & The Innocent Criminals",
+    "year": 1999,
+    "cover_image": "https://i.discogs.com/WbsbucIDXRNxN9un7VUqATu_IrsZ5SReEzPgmVlYTN4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgz/OTgtMTIwMDg2NjMy/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/d6NbCbB4-Y37I4B1bY7qhG3cZEo_Fbx8JpEd5anD8gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgz/OTgtMTIwMDg2NjMy/OS5qcGVn.jpeg",
     "genres": [
-      "Hip Hop"
+      "Rock",
+      "Funk / Soul"
     ],
     "styles": [
-      "Gangsta",
-      "Hardcore Hip-Hop"
+      "Blues Rock",
+      "Soul",
+      "Acoustic",
+      "Gospel",
+      "Alternative Rock"
     ],
-    "label": "Wagram Music",
-    "discogs_url": "https://www.discogs.com/release/13754287"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/1208398"
   }
 }
