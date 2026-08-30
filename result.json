@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-30T14:35:40.954725+00:00",
+  "generated_at": "2026-08-30T18:58:45.695460+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 6057872,
-    "discogs_id": 6057872,
-    "title": "Freezer",
-    "artist": "The/Das",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/835tFRr1GuEOcFDPq40D0DHLjtGDjLirFu8UKsm1AZE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc4/NzItMTQwOTk4NjY2/OS01NDIyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/CTza7z1n6H8FHvuIrBb7-sHlBQuOqRLQ01Yzrfear0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc4/NzItMTQwOTk4NjY2/OS01NDIyLmpwZWc.jpeg",
+    "id": 11242541,
+    "discogs_id": 11242541,
+    "title": "Tomorrow's Modern Boxes",
+    "artist": "Thom Yorke",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/NF9lCQJ5StI3BHwWSHZBsl6w5vD0bC_6EYaLQQk2PRI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE1OTc1MjM3/MjctODYyNC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Kes9tHLUXJ_EbnVLaszYB-Aby-cTk-8gnG27w5fcVx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE1OTc1MjM3/MjctODYyNC5qcGVn.jpeg",
     "genres": [
       "Electronic",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Synth-pop"
+      "Alternative Rock"
     ],
-    "label": "Sinnbus",
-    "discogs_url": "https://www.discogs.com/release/6057872"
+    "label": "XL Recordings",
+    "discogs_url": "https://www.discogs.com/release/11242541"
   }
 }
