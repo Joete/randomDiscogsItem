@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-08-31T17:19:20.741489+00:00",
+  "generated_at": "2026-08-31T21:15:11.312180+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1238437,
-    "discogs_id": 1238437,
-    "title": "Emperor Tomato Ketchup",
-    "artist": "Stereolab",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/COFvibqwP8AsZHNRnvaEFo5Pl9c0coeCJH0VChlxsd0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzctMTIxMTM2MjE1/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/VgUvY9dmS4e6TwZ3EM9Hp5mDli-0CREEnwJfA7BbXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzctMTIxMTM2MjE1/Ni5qcGVn.jpeg",
+    "id": 7785948,
+    "discogs_id": 7785948,
+    "title": "Saturdays = Youth",
+    "artist": "M83",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/5eMAi1jGM2zFi2a27T5o0IZEJr1-t2DwVnvaD4A6wJU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/iB9liXMvU63adT_xUv2RkU9d_PmB-wQZCjyFswfNea4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Indie Rock",
-      "Post Rock",
-      "Krautrock"
+      "Shoegaze",
+      "Ambient",
+      "Dream Pop"
     ],
-    "label": "Elektra",
-    "discogs_url": "https://www.discogs.com/release/1238437"
+    "label": "Naïve",
+    "discogs_url": "https://www.discogs.com/release/7785948"
   }
 }
