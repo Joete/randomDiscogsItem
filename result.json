@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-30T18:58:45.695460+00:00",
+  "generated_at": "2026-08-31T10:41:56.489379+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 11242541,
-    "discogs_id": 11242541,
-    "title": "Tomorrow's Modern Boxes",
-    "artist": "Thom Yorke",
+    "id": 13531536,
+    "discogs_id": 13531536,
+    "title": "...Like Clockwork",
+    "artist": "Queens Of The Stone Age",
     "year": 2017,
-    "cover_image": "https://i.discogs.com/NF9lCQJ5StI3BHwWSHZBsl6w5vD0bC_6EYaLQQk2PRI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE1OTc1MjM3/MjctODYyNC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/Kes9tHLUXJ_EbnVLaszYB-Aby-cTk-8gnG27w5fcVx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NTQxLTE1OTc1MjM3/MjctODYyNC5qcGVn.jpeg",
+    "cover_image": "https://i.discogs.com/564NcmaRwNWcMMd7M8MIo9QLG_rDWPgowgGEAHgc_mE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMx/NTM2LTE1NTU5Njky/MDgtMTg3Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Q-idFReKKSbkMXQlL8LuFGkq5PdvUCJFHhOquCHiZPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMx/NTM2LTE1NTU5Njky/MDgtMTg3Ni5qcGVn.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Alternative Rock",
+      "Stoner Rock"
     ],
-    "label": "XL Recordings",
-    "discogs_url": "https://www.discogs.com/release/11242541"
+    "label": "Matador",
+    "discogs_url": "https://www.discogs.com/release/13531536"
   }
 }
