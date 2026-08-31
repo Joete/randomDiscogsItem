@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-31T10:41:56.489379+00:00",
+  "generated_at": "2026-08-31T17:19:20.741489+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 13531536,
-    "discogs_id": 13531536,
-    "title": "...Like Clockwork",
-    "artist": "Queens Of The Stone Age",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/564NcmaRwNWcMMd7M8MIo9QLG_rDWPgowgGEAHgc_mE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMx/NTM2LTE1NTU5Njky/MDgtMTg3Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/Q-idFReKKSbkMXQlL8LuFGkq5PdvUCJFHhOquCHiZPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMx/NTM2LTE1NTU5Njky/MDgtMTg3Ni5qcGVn.jpeg",
+    "id": 1238437,
+    "discogs_id": 1238437,
+    "title": "Emperor Tomato Ketchup",
+    "artist": "Stereolab",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/COFvibqwP8AsZHNRnvaEFo5Pl9c0coeCJH0VChlxsd0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzctMTIxMTM2MjE1/Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/VgUvY9dmS4e6TwZ3EM9Hp5mDli-0CREEnwJfA7BbXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzctMTIxMTM2MjE1/Ni5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Stoner Rock"
+      "Indie Rock",
+      "Post Rock",
+      "Krautrock"
     ],
-    "label": "Matador",
-    "discogs_url": "https://www.discogs.com/release/13531536"
+    "label": "Elektra",
+    "discogs_url": "https://www.discogs.com/release/1238437"
   }
 }
