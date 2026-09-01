@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-09-01T09:17:19.216099+00:00",
+  "generated_at": "2026-09-01T14:25:09.618425+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4511340,
-    "discogs_id": 4511340,
-    "title": "Thr!!!er",
-    "artist": "!!!",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/oGb3RvVntDxMsN-zJOJx2Pw9wsbu9NolfrN3SPQa_pA/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTEz/NDAtMTM2Njk3MTE3/NS01OTg5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/iq5smPLdA85wKa6bllus3aXC5kwBju_TXV6jz8oed8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTEz/NDAtMTM2Njk3MTE3/NS01OTg5LmpwZWc.jpeg",
+    "id": 545937,
+    "discogs_id": 545937,
+    "title": "Babylon By Bus",
+    "artist": "Bob Marley & The Wailers",
+    "year": 1985,
+    "cover_image": "https://i.discogs.com/aQPZ-eZpISm--AVay3o04f23wF2eilN5rg1tq7bAZNg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTkz/Ny0xNDg4NTE0MzY5/LTc4MDUuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/6Wb1RDPua8Y7FB-XuoJgRvuFd0mwi4kRQo0fCJ8LGZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTkz/Ny0xNDg4NTE0MzY5/LTc4MDUuanBlZw.jpeg",
     "genres": [
-      "Electronic",
-      "Rock"
+      "Reggae"
     ],
     "styles": [
-      "Indie Pop",
-      "Post Rock",
-      "No Wave"
+      "Roots Reggae"
     ],
-    "label": "Warp Records",
-    "discogs_url": "https://www.discogs.com/release/4511340"
+    "label": "Island Records",
+    "discogs_url": "https://www.discogs.com/release/545937"
   }
 }
