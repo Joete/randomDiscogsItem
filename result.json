@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-01T14:25:09.618425+00:00",
+  "generated_at": "2026-09-01T19:07:39.979077+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 545937,
-    "discogs_id": 545937,
-    "title": "Babylon By Bus",
-    "artist": "Bob Marley & The Wailers",
-    "year": 1985,
-    "cover_image": "https://i.discogs.com/aQPZ-eZpISm--AVay3o04f23wF2eilN5rg1tq7bAZNg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTkz/Ny0xNDg4NTE0MzY5/LTc4MDUuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/6Wb1RDPua8Y7FB-XuoJgRvuFd0mwi4kRQo0fCJ8LGZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTkz/Ny0xNDg4NTE0MzY5/LTc4MDUuanBlZw.jpeg",
+    "id": 645191,
+    "discogs_id": 645191,
+    "title": "Fantasy",
+    "artist": "Couch",
+    "year": 1999,
+    "cover_image": "https://i.discogs.com/sI5NX6fcmOcL_rkHsmZZVe4WJgI504IcMwpHAsSM7kQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTE5/MS0xMzUwODk4NDYy/LTg5MjYuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/GSoDvNWoJDRab4ZH-TIRa_I2C6TvREkHdXxSNwc3Q4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTE5/MS0xMzUwODk4NDYy/LTg5MjYuanBlZw.jpeg",
     "genres": [
-      "Reggae"
+      "Rock"
     ],
     "styles": [
-      "Roots Reggae"
+      "Math Rock",
+      "Post Rock"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/545937"
+    "label": "Kollaps",
+    "discogs_url": "https://www.discogs.com/release/645191"
   }
 }
