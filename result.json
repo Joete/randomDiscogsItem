@@ -1,25 +1,24 @@
 {
-  "generated_at": "2026-08-31T21:15:11.312180+00:00",
+  "generated_at": "2026-09-01T09:17:19.216099+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 7785948,
-    "discogs_id": 7785948,
-    "title": "Saturdays = Youth",
-    "artist": "M83",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/5eMAi1jGM2zFi2a27T5o0IZEJr1-t2DwVnvaD4A6wJU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/iB9liXMvU63adT_xUv2RkU9d_PmB-wQZCjyFswfNea4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg",
+    "id": 4511340,
+    "discogs_id": 4511340,
+    "title": "Thr!!!er",
+    "artist": "!!!",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/oGb3RvVntDxMsN-zJOJx2Pw9wsbu9NolfrN3SPQa_pA/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTEz/NDAtMTM2Njk3MTE3/NS01OTg5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/iq5smPLdA85wKa6bllus3aXC5kwBju_TXV6jz8oed8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTEz/NDAtMTM2Njk3MTE3/NS01OTg5LmpwZWc.jpeg",
     "genres": [
       "Electronic",
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Shoegaze",
-      "Ambient",
-      "Dream Pop"
+      "Indie Pop",
+      "Post Rock",
+      "No Wave"
     ],
-    "label": "Naïve",
-    "discogs_url": "https://www.discogs.com/release/7785948"
+    "label": "Warp Records",
+    "discogs_url": "https://www.discogs.com/release/4511340"
   }
 }
