@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-09-02T13:59:10.914463+00:00",
+  "generated_at": "2026-09-02T19:08:43.546979+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 294609,
-    "discogs_id": 294609,
-    "title": "Sport",
-    "artist": "Eins, Zwo",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/VXpT61UsYVzDQLZGsv0Pv1ON_pfkcGRaeTvQlUqoAPY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDYw/OS0xMzkzMjYyNTQw/LTcyMjUuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/HqLrDWO8Ec6WNlFv4ROyFczuUKxxASQk6UAt9kGaIbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDYw/OS0xMzkzMjYyNTQw/LTcyMjUuanBlZw.jpeg",
+    "id": 3911354,
+    "discogs_id": 3911354,
+    "title": "Blau Und Weiß, Wie Lieb Ich Dich / Wir Sind Die Fans Von Schalke",
+    "artist": "FC Schalke 04",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/KeiX7UkKJ5De0_HGsam9rrPi1xDdG4mclrpKKJwQKW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEz/NTQtMTY1MzEyMzY3/NS00NTQ1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/guUOjmEHm0ybY-u4UdoeMuEfEje7yumqPuqpezG_n-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEz/NTQtMTY1MzEyMzY3/NS00NTQ1LmpwZWc.jpeg",
     "genres": [
-      "Hip Hop"
+      "Pop"
     ],
-    "styles": [],
-    "label": "Yo Mama's Recording",
-    "discogs_url": "https://www.discogs.com/release/294609"
+    "styles": [
+      "Schlager"
+    ],
+    "label": "AZ Records (2)",
+    "discogs_url": "https://www.discogs.com/release/3911354"
   }
 }
