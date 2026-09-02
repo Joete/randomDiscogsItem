@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-01T19:07:39.979077+00:00",
+  "generated_at": "2026-09-02T08:38:00.065302+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 645191,
-    "discogs_id": 645191,
-    "title": "Fantasy",
-    "artist": "Couch",
-    "year": 1999,
-    "cover_image": "https://i.discogs.com/sI5NX6fcmOcL_rkHsmZZVe4WJgI504IcMwpHAsSM7kQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTE5/MS0xMzUwODk4NDYy/LTg5MjYuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/GSoDvNWoJDRab4ZH-TIRa_I2C6TvREkHdXxSNwc3Q4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTE5/MS0xMzUwODk4NDYy/LTg5MjYuanBlZw.jpeg",
+    "id": 2652687,
+    "discogs_id": 2652687,
+    "title": "Goo",
+    "artist": "Sonic Youth",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/tWKlMRGsYARSmRJyBj24_6wybjU2iA-MBOQcG-NVaKM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTI2/ODctMTY3MDk2MDI1/My01NzM0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/07TDTu4b4rUnYzm9xB6pAMixnUKzjZn-jFzAGDHdICo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTI2/ODctMTY3MDk2MDI1/My01NzM0LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Math Rock",
-      "Post Rock"
+      "Alternative Rock"
     ],
-    "label": "Kollaps",
-    "discogs_url": "https://www.discogs.com/release/645191"
+    "label": "DGC (2)",
+    "discogs_url": "https://www.discogs.com/release/2652687"
   }
 }
