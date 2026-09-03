@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-03T14:01:09.849628+00:00",
+  "generated_at": "2026-09-03T19:00:59.674034+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 395080,
-    "discogs_id": 395080,
-    "title": "Green",
-    "artist": "R.E.M.",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/Vz4Zv-0W_3wNlt_yv5sgP4xhSZQvqujB3KU53VzR31Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTA4/MC0xNDI5MDQ1MTA1/LTEwMjIucG5n.jpeg",
-    "thumb": "https://i.discogs.com/VEQHjGAR1DC9F36RfzT-VmtrPVVRvPTD7W9qb19FaWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTA4/MC0xNDI5MDQ1MTA1/LTEwMjIucG5n.jpeg",
+    "id": 4625397,
+    "discogs_id": 4625397,
+    "title": "Let It Bleed",
+    "artist": "The Rolling Stones",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/NJFgZe-Ph6ZSGtI3s-ZimekWYDMSJ0eLFipmJ4DZVHc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjUz/OTctMTM3MTU5MDc2/Ny04MDc5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Wkh3O3BZxJcy9Fdj4fH-hTN_MYXbWQhFavV6p77IbTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjUz/OTctMTM3MTU5MDc2/Ny04MDc5LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "AOR"
+      "Blues Rock",
+      "Rock & Roll"
     ],
-    "label": "Warner Bros. Records",
-    "discogs_url": "https://www.discogs.com/release/395080"
+    "label": "ABKCO",
+    "discogs_url": "https://www.discogs.com/release/4625397"
   }
 }
