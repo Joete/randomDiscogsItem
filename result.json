@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-03T19:00:59.674034+00:00",
+  "generated_at": "2026-09-04T08:42:17.548635+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4625397,
-    "discogs_id": 4625397,
-    "title": "Let It Bleed",
-    "artist": "The Rolling Stones",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/NJFgZe-Ph6ZSGtI3s-ZimekWYDMSJ0eLFipmJ4DZVHc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjUz/OTctMTM3MTU5MDc2/Ny04MDc5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Wkh3O3BZxJcy9Fdj4fH-hTN_MYXbWQhFavV6p77IbTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjUz/OTctMTM3MTU5MDc2/Ny04MDc5LmpwZWc.jpeg",
+    "id": 2474046,
+    "discogs_id": 2474046,
+    "title": "Signals, Calls, And Marches",
+    "artist": "Mission Of Burma",
+    "year": 2010,
+    "cover_image": "https://i.discogs.com/VU7LscarfseiBSWjqUYL4PC3R-eYHezKxdvEh35JpPk/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQw/NDYtMTI4NjAzNjI4/NS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/GbPfUE_sTZVCLnGUqHGFMsx10Jj_w206qs0xAPNThuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQw/NDYtMTI4NjAzNjI4/NS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Blues Rock",
-      "Rock & Roll"
+      "Punk",
+      "Experimental",
+      "Indie Rock"
     ],
-    "label": "ABKCO",
-    "discogs_url": "https://www.discogs.com/release/4625397"
+    "label": "Matador",
+    "discogs_url": "https://www.discogs.com/release/2474046"
   }
 }
