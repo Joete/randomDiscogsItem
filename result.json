@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-04T13:53:53.151311+00:00",
+  "generated_at": "2026-09-04T18:44:51.633506+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4634194,
-    "discogs_id": 4634194,
-    "title": "Disintegration",
-    "artist": "The Cure",
-    "year": 1989,
-    "cover_image": "https://i.discogs.com/L8DwR-o9RW9gBXfKvMRA3XhXl5trHZ98B2_5E4PKu0U/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzQx/OTQtMTQ3OTQ5Mzky/OS01MjU0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/r3sQbw1q-kbPEwIJmFSsu11zJlmrA32kqbC1nERlUGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzQx/OTQtMTQ3OTQ5Mzky/OS01MjU0LmpwZWc.jpeg",
+    "id": 385106,
+    "discogs_id": 385106,
+    "title": "Andy Warhol's Velvet Underground Featuring Nico",
+    "artist": "The Velvet Underground, Nico (3)",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/Kafl2p2wvbHPk-MXRR6OGFtVF3zEBRPSX6C2cn6uk4g/rs:fit/g:sm/q:90/h:289/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEw/Ni0xMjcxNjExNzg2/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/nW-Wj7OAtRGd4K0n4XQczxQXjAsMmHlz4bdWZ-YVjGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEw/Ni0xMjcxNjExNzg2/LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "New Wave",
-      "Goth Rock"
+      "Garage Rock",
+      "Lo-Fi",
+      "Avantgarde"
     ],
-    "label": "Fiction Records",
-    "discogs_url": "https://www.discogs.com/release/4634194"
+    "label": "Polydor",
+    "discogs_url": "https://www.discogs.com/release/385106"
   }
 }
