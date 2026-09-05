@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-09-04T18:44:51.633506+00:00",
+  "generated_at": "2026-09-05T08:13:21.004031+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 385106,
-    "discogs_id": 385106,
-    "title": "Andy Warhol's Velvet Underground Featuring Nico",
-    "artist": "The Velvet Underground, Nico (3)",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/Kafl2p2wvbHPk-MXRR6OGFtVF3zEBRPSX6C2cn6uk4g/rs:fit/g:sm/q:90/h:289/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEw/Ni0xMjcxNjExNzg2/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/nW-Wj7OAtRGd4K0n4XQczxQXjAsMmHlz4bdWZ-YVjGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEw/Ni0xMjcxNjExNzg2/LmpwZWc.jpeg",
+    "id": 294609,
+    "discogs_id": 294609,
+    "title": "Sport",
+    "artist": "Eins, Zwo",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/VXpT61UsYVzDQLZGsv0Pv1ON_pfkcGRaeTvQlUqoAPY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDYw/OS0xMzkzMjYyNTQw/LTcyMjUuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/HqLrDWO8Ec6WNlFv4ROyFczuUKxxASQk6UAt9kGaIbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDYw/OS0xMzkzMjYyNTQw/LTcyMjUuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop"
     ],
-    "styles": [
-      "Garage Rock",
-      "Lo-Fi",
-      "Avantgarde"
-    ],
-    "label": "Polydor",
-    "discogs_url": "https://www.discogs.com/release/385106"
+    "styles": [],
+    "label": "Yo Mama's Recording",
+    "discogs_url": "https://www.discogs.com/release/294609"
   }
 }
