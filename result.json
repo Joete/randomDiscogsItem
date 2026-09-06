@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-09-06T08:32:04.124008+00:00",
+  "generated_at": "2026-09-06T13:18:54.347783+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 10212547,
-    "discogs_id": 10212547,
-    "title": "Midnight Marauders",
-    "artist": "A Tribe Called Quest",
-    "year": 2004,
-    "cover_image": "https://i.discogs.com/NTbEgHjNvoS9FWBVTjG1srG5FdstRJy-bJtzr4iF6sg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/NTQ3LTE1MzM0NzY1/NTYtOTQzNy5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/QAQObdkU6muDmkU6dx-G-FRCNgdESmit1h0831F1OlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/NTQ3LTE1MzM0NzY1/NTYtOTQzNy5qcGVn.jpeg",
+    "id": 29603902,
+    "discogs_id": 29603902,
+    "title": "It’s Great When You’re Straight… Yeah",
+    "artist": "Black Grape",
+    "year": 2024,
+    "cover_image": "https://i.discogs.com/asw3pdkIVw7kUas_prrtU8DlnF3UAm0GVrCvXAqyB7k/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjAz/OTAyLTE3MDYyNzAy/MTktNDQ0My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/2ocQaczTday6ZCE90Jhn_C_MxDXiSRZ7tuHPCoVF36c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjAz/OTAyLTE3MDYyNzAy/MTktNDQ0My5qcGVn.jpeg",
     "genres": [
-      "Hip Hop"
+      "Pop"
     ],
     "styles": [
-      "Jazzy Hip-Hop",
-      "Boom Bap",
-      "Conscious"
+      "Indie Pop"
     ],
-    "label": "Jive",
-    "discogs_url": "https://www.discogs.com/release/10212547"
+    "label": "Music On Vinyl",
+    "discogs_url": "https://www.discogs.com/release/29603902"
   }
 }
