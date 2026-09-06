@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-06T13:18:54.347783+00:00",
+  "generated_at": "2026-09-06T17:55:50.550450+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 29603902,
-    "discogs_id": 29603902,
-    "title": "It’s Great When You’re Straight… Yeah",
-    "artist": "Black Grape",
-    "year": 2024,
-    "cover_image": "https://i.discogs.com/asw3pdkIVw7kUas_prrtU8DlnF3UAm0GVrCvXAqyB7k/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjAz/OTAyLTE3MDYyNzAy/MTktNDQ0My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/2ocQaczTday6ZCE90Jhn_C_MxDXiSRZ7tuHPCoVF36c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjAz/OTAyLTE3MDYyNzAy/MTktNDQ0My5qcGVn.jpeg",
+    "id": 3425684,
+    "discogs_id": 3425684,
+    "title": "Soup",
+    "artist": "Blind Melon",
+    "year": 1995,
+    "cover_image": "https://i.discogs.com/uQoM9kj2Gu7LYeCJ7LQPRN6WCanbkO8mY-hWGmKQlTU/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjU2/ODQtMTM0OTQxNzUy/Ny0xNDA2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/hXHLG-nyq8voGtiGmX7AJGq3boaQV2sryiOEXdhC8gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjU2/ODQtMTM0OTQxNzUy/Ny0xNDA2LmpwZWc.jpeg",
     "genres": [
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Indie Pop"
+      "Alternative Rock"
     ],
-    "label": "Music On Vinyl",
-    "discogs_url": "https://www.discogs.com/release/29603902"
+    "label": "Capitol Records",
+    "discogs_url": "https://www.discogs.com/release/3425684"
   }
 }
