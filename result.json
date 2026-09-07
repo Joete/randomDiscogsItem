@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-09-07T15:24:37.759664+00:00",
+  "generated_at": "2026-09-07T19:31:35.957625+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 10302224,
-    "discogs_id": 10302224,
-    "title": "Singles (Original Motion Picture Soundtrack)",
-    "artist": "Various",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/MS1PEPQwCPwYjBhY5Oy8KQV7oPw5iCG00KKW3z5BcRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzM3/MzEtOTI2NS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/KJaJJq694aSZGcSurNuGYjKL7RK27YBwBW9C1g0ACUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzM3/MzEtOTI2NS5qcGVn.jpeg",
+    "id": 7031086,
+    "discogs_id": 7031086,
+    "title": "Demon Days",
+    "artist": "Gorillaz",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/ruVdvE_zPfzsVJqWsveFZuT8LGyveCHjhf76qstrnZ8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzEw/ODYtMTQ1NjgxMjg4/Ni05Mzc4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/i5Y98lfnODelKCbpaz2E4xkjqihT5crvinqrunqzO_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzEw/ODYtMTQ1NjgxMjg4/Ni05Mzc4LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Stage & Screen"
+      "Electronic",
+      "Hip Hop",
+      "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Grunge",
-      "Indie Rock",
-      "Soundtrack"
+      "Leftfield",
+      "Trip Hop",
+      "Lo-Fi",
+      "Pop Rap",
+      "Downtempo"
     ],
-    "label": "Epic Soundtrax",
-    "discogs_url": "https://www.discogs.com/release/10302224"
+    "label": "Parlophone (2)",
+    "discogs_url": "https://www.discogs.com/release/7031086"
   }
 }
