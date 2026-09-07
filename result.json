@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-09-07T09:09:38.271108+00:00",
+  "generated_at": "2026-09-07T15:24:37.759664+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 264907,
-    "discogs_id": 264907,
-    "title": "Jeunesse Dorée - The Remixes Part 1",
-    "artist": "De-Phazz",
-    "year": 2001,
-    "cover_image": "https://i.discogs.com/iOCt8zc0k7l0HVPeK9Ju_XTTZJbRtNyUe_XfXDdZ7YU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDkw/Ny0xNTQxOTMyODYy/LTQxNDUuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/w0D--3oiBQs67CkoX1BEtLj6LPTiYQb-xmgoaGBGvEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDkw/Ny0xNTQxOTMyODYy/LTQxNDUuanBlZw.jpeg",
+    "id": 10302224,
+    "discogs_id": 10302224,
+    "title": "Singles (Original Motion Picture Soundtrack)",
+    "artist": "Various",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/MS1PEPQwCPwYjBhY5Oy8KQV7oPw5iCG00KKW3z5BcRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzM3/MzEtOTI2NS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/KJaJJq694aSZGcSurNuGYjKL7RK27YBwBW9C1g0ACUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MjI0LTE0OTUyNzM3/MzEtOTI2NS5qcGVn.jpeg",
     "genres": [
-      "Electronic"
+      "Rock",
+      "Stage & Screen"
     ],
     "styles": [
-      "Latin",
-      "House"
+      "Alternative Rock",
+      "Grunge",
+      "Indie Rock",
+      "Soundtrack"
     ],
-    "label": "Universal Jazz (Germany)",
-    "discogs_url": "https://www.discogs.com/release/264907"
+    "label": "Epic Soundtrax",
+    "discogs_url": "https://www.discogs.com/release/10302224"
   }
 }
