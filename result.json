@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-06T17:55:50.550450+00:00",
+  "generated_at": "2026-09-07T09:09:38.271108+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3425684,
-    "discogs_id": 3425684,
-    "title": "Soup",
-    "artist": "Blind Melon",
-    "year": 1995,
-    "cover_image": "https://i.discogs.com/uQoM9kj2Gu7LYeCJ7LQPRN6WCanbkO8mY-hWGmKQlTU/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjU2/ODQtMTM0OTQxNzUy/Ny0xNDA2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/hXHLG-nyq8voGtiGmX7AJGq3boaQV2sryiOEXdhC8gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjU2/ODQtMTM0OTQxNzUy/Ny0xNDA2LmpwZWc.jpeg",
+    "id": 264907,
+    "discogs_id": 264907,
+    "title": "Jeunesse Dorée - The Remixes Part 1",
+    "artist": "De-Phazz",
+    "year": 2001,
+    "cover_image": "https://i.discogs.com/iOCt8zc0k7l0HVPeK9Ju_XTTZJbRtNyUe_XfXDdZ7YU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDkw/Ny0xNTQxOTMyODYy/LTQxNDUuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/w0D--3oiBQs67CkoX1BEtLj6LPTiYQb-xmgoaGBGvEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDkw/Ny0xNTQxOTMyODYy/LTQxNDUuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "Alternative Rock"
+      "Latin",
+      "House"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/3425684"
+    "label": "Universal Jazz (Germany)",
+    "discogs_url": "https://www.discogs.com/release/264907"
   }
 }
