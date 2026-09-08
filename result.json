@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-08T14:01:21.611121+00:00",
+  "generated_at": "2026-09-08T19:11:10.131031+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 444653,
-    "discogs_id": 444653,
-    "title": "Worst Case Scenario",
-    "artist": "dEUS",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/tc3hP4_aDchcmuUAZGEk6XwueSWsMJCBvy3A0AqBE0o/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDY1/My0xMzM4OTA0ODg1/LTc0ODEuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/APbW1KqXkWqUyRNLhIfoW9dSIxosZScBePEnJCqJaQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDY1/My0xMzM4OTA0ODg1/LTc0ODEuanBlZw.jpeg",
+    "id": 480880,
+    "discogs_id": 480880,
+    "title": "Anna – Lassmichrein Lassmichraus",
+    "artist": "Trio",
+    "year": 1982,
+    "cover_image": "https://i.discogs.com/iw48k5rgVEJr-SF_K79YcbfM2dOAbKrfssn98IadqT0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDg4/MC0xNTczMDQyMjA3/LTIyNDcuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/N0ARBuZkXE8n3UYjCVlSk9OgMiMwpaOV4zXQ3Vs6daE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDg4/MC0xNTczMDQyMjA3/LTIyNDcuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "Alternative Rock",
-      "Noise Rock"
+      "Synth-pop"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/444653"
+    "label": "Mercury",
+    "discogs_url": "https://www.discogs.com/release/480880"
   }
 }
