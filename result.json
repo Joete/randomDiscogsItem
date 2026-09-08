@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-08T08:45:07.614486+00:00",
+  "generated_at": "2026-09-08T14:01:21.611121+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2817021,
-    "discogs_id": 2817021,
-    "title": "Countdown To Ecstasy",
-    "artist": "Steely Dan",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/e0Z5axzqzPxvLWKkaRoKsMxEsPLWEKKDQIzzq4t7rhY/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTcw/MjEtMTMwMjM2Mjkz/MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/7G0lEjN1Ika2whRWhb6kvXHAzvv2igikF2iLdnVT11g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTcw/MjEtMTMwMjM2Mjkz/MS5qcGVn.jpeg",
+    "id": 444653,
+    "discogs_id": 444653,
+    "title": "Worst Case Scenario",
+    "artist": "dEUS",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/tc3hP4_aDchcmuUAZGEk6XwueSWsMJCBvy3A0AqBE0o/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDY1/My0xMzM4OTA0ODg1/LTc0ODEuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/APbW1KqXkWqUyRNLhIfoW9dSIxosZScBePEnJCqJaQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDY1/My0xMzM4OTA0ODg1/LTc0ODEuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Pop Rock"
+      "Alternative Rock",
+      "Noise Rock"
     ],
-    "label": "MCA Records",
-    "discogs_url": "https://www.discogs.com/release/2817021"
+    "label": "Island Records",
+    "discogs_url": "https://www.discogs.com/release/444653"
   }
 }
