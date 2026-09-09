@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-09-09T08:51:12.909977+00:00",
+  "generated_at": "2026-09-09T14:03:37.343839+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4163855,
-    "discogs_id": 4163855,
-    "title": "Much Against Everyone's Advice",
-    "artist": "Soulwax",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/lVOAb5jAzmolbrEVgRQLXpe6HQimMozDQjcJym3vsLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTM1NzQ5Mzkz/Mi0yNjY1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/NF-MrLTfbs4kas0KuoUbrMrc_sXo9zKy6P_iADJRD00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM4/NTUtMTM1NzQ5Mzkz/Mi0yNjY1LmpwZWc.jpeg",
+    "id": 4491789,
+    "discogs_id": 4491789,
+    "title": "Elephant",
+    "artist": "The White Stripes",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/myXXKZHXvTbngVN8eBjUq2ZfFQAIQWOoN9HSzQewmig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTE3/ODktMTM2NjQyOTE1/NS05NjQ1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/F7A2cdQ3n0IVtoL9tRFK9fdk4MolEVnFPbUlR58D5Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTE3/ODktMTM2NjQyOTE1/NS05NjQ1LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Rock & Roll",
+      "Indie Rock",
+      "Blues Rock"
     ],
-    "label": "[PIAS] Recordings",
-    "discogs_url": "https://www.discogs.com/release/4163855"
+    "label": "Third Man Records",
+    "discogs_url": "https://www.discogs.com/release/4491789"
   }
 }
