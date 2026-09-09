@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-09-09T14:03:37.343839+00:00",
+  "generated_at": "2026-09-09T18:59:37.405866+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4491789,
-    "discogs_id": 4491789,
-    "title": "Elephant",
-    "artist": "The White Stripes",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/myXXKZHXvTbngVN8eBjUq2ZfFQAIQWOoN9HSzQewmig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTE3/ODktMTM2NjQyOTE1/NS05NjQ1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/F7A2cdQ3n0IVtoL9tRFK9fdk4MolEVnFPbUlR58D5Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTE3/ODktMTM2NjQyOTE1/NS05NjQ1LmpwZWc.jpeg",
+    "id": 20760094,
+    "discogs_id": 20760094,
+    "title": "I Will Always Love You: The Best Of Whitney Houston",
+    "artist": "Whitney Houston",
+    "year": 2021,
+    "cover_image": "https://i.discogs.com/xYd6ZBMOxLxMXj5nlNhX2m0wO2SkJyBqkk6hpQkw8Y0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYw/MDk0LTE2MzU0MjY0/MzQtOTE3My5wbmc.jpeg",
+    "thumb": "https://i.discogs.com/1ZDNGDC7G11HLSK6BGhZeESqdr6Zx_YHxfFz18cku_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYw/MDk0LTE2MzU0MjY0/MzQtOTE3My5wbmc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Hip Hop",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Rock & Roll",
-      "Indie Rock",
-      "Blues Rock"
+      "Ballad",
+      "Soul",
+      "Contemporary R&B",
+      "Synth-pop"
     ],
-    "label": "Third Man Records",
-    "discogs_url": "https://www.discogs.com/release/4491789"
+    "label": "Arista",
+    "discogs_url": "https://www.discogs.com/release/20760094"
   }
 }
