@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-09-09T18:59:37.405866+00:00",
+  "generated_at": "2026-09-10T08:50:22.160641+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 20760094,
-    "discogs_id": 20760094,
-    "title": "I Will Always Love You: The Best Of Whitney Houston",
-    "artist": "Whitney Houston",
-    "year": 2021,
-    "cover_image": "https://i.discogs.com/xYd6ZBMOxLxMXj5nlNhX2m0wO2SkJyBqkk6hpQkw8Y0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYw/MDk0LTE2MzU0MjY0/MzQtOTE3My5wbmc.jpeg",
-    "thumb": "https://i.discogs.com/1ZDNGDC7G11HLSK6BGhZeESqdr6Zx_YHxfFz18cku_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYw/MDk0LTE2MzU0MjY0/MzQtOTE3My5wbmc.jpeg",
+    "id": 1229444,
+    "discogs_id": 1229444,
+    "title": "Give Up",
+    "artist": "The Postal Service",
+    "year": 2007,
+    "cover_image": "https://i.discogs.com/QslPZOAfbiKeM2LB_MWxr9Px7kApmVCMHsOkK14hnV4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NDQtMTM5MzQ1MjI3/MC05MzcyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/XpWaftmb9_IbREFT-fCgk3OeN7Kh3t_R-dWvosg0QZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NDQtMTM5MzQ1MjI3/MC05MzcyLmpwZWc.jpeg",
     "genres": [
       "Electronic",
-      "Hip Hop",
-      "Funk / Soul",
+      "Rock",
       "Pop"
     ],
     "styles": [
-      "Ballad",
-      "Soul",
-      "Contemporary R&B",
-      "Synth-pop"
+      "Synth-pop",
+      "Indie Rock",
+      "Indie Pop"
     ],
-    "label": "Arista",
-    "discogs_url": "https://www.discogs.com/release/20760094"
+    "label": "Sub Pop",
+    "discogs_url": "https://www.discogs.com/release/1229444"
   }
 }
