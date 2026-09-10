@@ -1,25 +1,22 @@
 {
-  "generated_at": "2026-09-10T08:50:22.160641+00:00",
+  "generated_at": "2026-09-10T13:58:42.174751+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1229444,
-    "discogs_id": 1229444,
-    "title": "Give Up",
-    "artist": "The Postal Service",
-    "year": 2007,
-    "cover_image": "https://i.discogs.com/QslPZOAfbiKeM2LB_MWxr9Px7kApmVCMHsOkK14hnV4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NDQtMTM5MzQ1MjI3/MC05MzcyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/XpWaftmb9_IbREFT-fCgk3OeN7Kh3t_R-dWvosg0QZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NDQtMTM5MzQ1MjI3/MC05MzcyLmpwZWc.jpeg",
+    "id": 6065760,
+    "discogs_id": 6065760,
+    "title": "The Halls Of Wickwire",
+    "artist": "Cousins",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/Bsrv_oamIvVXzB1Nz0OjAJ6WJvTswlYR_QXGOpg0-oE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjU3/NjAtMTQxMDE3NzYw/OS0zNzkwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/_VRHfdY0RIJ1iWkqG8tZ-5Wm_ty6HJ9cD4HzSyGVy24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjU3/NjAtMTQxMDE3NzYw/OS0zNzkwLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Synth-pop",
       "Indie Rock",
-      "Indie Pop"
+      "Garage Rock"
     ],
-    "label": "Sub Pop",
-    "discogs_url": "https://www.discogs.com/release/1229444"
+    "label": "Mutations Record Co.",
+    "discogs_url": "https://www.discogs.com/release/6065760"
   }
 }
