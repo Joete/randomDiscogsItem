@@ -1,27 +1,24 @@
 {
-  "generated_at": "2026-09-11T08:47:42.211882+00:00",
+  "generated_at": "2026-09-11T13:57:39.872548+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 194021,
-    "discogs_id": 194021,
-    "title": "Purple Rain",
-    "artist": "Prince And The Revolution",
-    "year": 1984,
-    "cover_image": "https://i.discogs.com/mSIjl1G4gAdx2xw9iLG1fBmNPLz_5GNo0bLqeWyDMh4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDAy/MS0xMzM1NDAwMjg5/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/5V--CGA7V4wulxts-n_rMBEsMXglMBHo6DNIFvH5NNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDAy/MS0xMzM1NDAwMjg5/LmpwZWc.jpeg",
+    "id": 1949973,
+    "discogs_id": 1949973,
+    "title": "Esperanto",
+    "artist": "Freundeskreis",
+    "year": 1999,
+    "cover_image": "https://i.discogs.com/__meC1AXvsoZlMtoSl_VYbwycdfl8dWXcnzvqKinPGg/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDk5/NzMtMTQ4MDk0NDA0/NC01MTUyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/JFnQ2rZAfTB_nLnMM4xy5E1N-wYbcn2I0SnsJIV2CRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDk5/NzMtMTQ4MDk0NDA0/NC01MTUyLmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Funk / Soul",
-      "Pop",
-      "Stage & Screen"
+      "Hip Hop",
+      "Funk / Soul"
     ],
     "styles": [
-      "Funk",
-      "Minneapolis Sound",
-      "Pop Rock",
-      "Soundtrack"
+      "Conscious",
+      "Soul",
+      "Jazzy Hip-Hop"
     ],
-    "label": "Warner Bros. Records",
-    "discogs_url": "https://www.discogs.com/release/194021"
+    "label": "Four Music",
+    "discogs_url": "https://www.discogs.com/release/1949973"
   }
 }
