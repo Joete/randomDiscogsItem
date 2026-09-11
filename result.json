@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-09-11T13:57:39.872548+00:00",
+  "generated_at": "2026-09-11T18:54:56.073986+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1949973,
-    "discogs_id": 1949973,
-    "title": "Esperanto",
-    "artist": "Freundeskreis",
-    "year": 1999,
-    "cover_image": "https://i.discogs.com/__meC1AXvsoZlMtoSl_VYbwycdfl8dWXcnzvqKinPGg/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDk5/NzMtMTQ4MDk0NDA0/NC01MTUyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/JFnQ2rZAfTB_nLnMM4xy5E1N-wYbcn2I0SnsJIV2CRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDk5/NzMtMTQ4MDk0NDA0/NC01MTUyLmpwZWc.jpeg",
+    "id": 3167006,
+    "discogs_id": 3167006,
+    "title": "Believers",
+    "artist": "A.A. Bondy",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/9faD7VffpTMi0_ywxIbOuTcpEFt_Baxq30UkZj88uFU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/MDYtMTQyNDI4MTE5/NC04ODM2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/UMo9JWMzg_rTs__Qxh7ow0aGEFUwb8cNHNZO0FjTxKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/MDYtMTQyNDI4MTE5/NC04ODM2LmpwZWc.jpeg",
     "genres": [
-      "Hip Hop",
-      "Funk / Soul"
+      "Rock",
+      "Blues"
     ],
     "styles": [
-      "Conscious",
-      "Soul",
-      "Jazzy Hip-Hop"
+      "Blues Rock",
+      "Indie Rock"
     ],
-    "label": "Four Music",
-    "discogs_url": "https://www.discogs.com/release/1949973"
+    "label": "Fat Possum Records",
+    "discogs_url": "https://www.discogs.com/release/3167006"
   }
 }
