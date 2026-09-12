@@ -1,25 +1,24 @@
 {
-  "generated_at": "2026-09-12T08:31:32.593558+00:00",
+  "generated_at": "2026-09-12T13:16:30.590971+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1380292,
-    "discogs_id": 1380292,
-    "title": "Stroboscopica",
-    "artist": "Various",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/4X42iBrFCtu4Jjs7D9Ne_PcKYmQzbm9B6ypA0GUbjNU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAy/OTItMTQ3Mzg2NjI4/NS0xOTkwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/nAZiodDpoaJvy8f580iUSwVZEJxJLqoKmdSckguuSpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAy/OTItMTQ3Mzg2NjI4/NS0xOTkwLmpwZWc.jpeg",
+    "id": 8396082,
+    "discogs_id": 8396082,
+    "title": "Mantra For A State Of Mind",
+    "artist": "Primal Scream",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/ql-A0-GVxl3z2A6UN8pJ-IMC-8ZTBtKeX_NnE_oS3Wo/rs:fit/g:sm/q:90/h:410/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTYw/ODItMTQ2MDgxMTAy/Mi03NzYwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/X-37IML83zabfddr0Ni_Qa8e3coVYAK_fLo5P60nxtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTYw/ODItMTQ2MDgxMTAy/Mi03NzYwLmpwZWc.jpeg",
     "genres": [
-      "Jazz",
-      "Rock",
-      "Stage & Screen"
+      "Electronic",
+      "Rock"
     ],
     "styles": [
-      "Smooth Jazz",
-      "Jazz-Funk",
-      "Psychedelic Rock"
+      "Alternative Rock",
+      "Indie Rock",
+      "Krautrock"
     ],
-    "label": "Plastic Records",
-    "discogs_url": "https://www.discogs.com/release/1380292"
+    "label": "First International",
+    "discogs_url": "https://www.discogs.com/release/8396082"
   }
 }
