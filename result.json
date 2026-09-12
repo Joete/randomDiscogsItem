@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-09-12T13:16:30.590971+00:00",
+  "generated_at": "2026-09-12T18:01:06.144454+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 8396082,
-    "discogs_id": 8396082,
-    "title": "Mantra For A State Of Mind",
-    "artist": "Primal Scream",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/ql-A0-GVxl3z2A6UN8pJ-IMC-8ZTBtKeX_NnE_oS3Wo/rs:fit/g:sm/q:90/h:410/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTYw/ODItMTQ2MDgxMTAy/Mi03NzYwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/X-37IML83zabfddr0Ni_Qa8e3coVYAK_fLo5P60nxtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTYw/ODItMTQ2MDgxMTAy/Mi03NzYwLmpwZWc.jpeg",
+    "id": 3503434,
+    "discogs_id": 3503434,
+    "title": "I'm The Leader Of The Gang (I Am!)",
+    "artist": "Gary Glitter",
+    "year": 1973,
+    "cover_image": "https://i.discogs.com/jozsjnuYHh0fYzgW-VITn_Zx2EZfzzHo-RLMEDBApqs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDM0/MzQtMTM4MDEwMTA4/Ni01MTYwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/GHrxfrqdE9CEQt9_LK4PjvxXmeCZxS7GSvJT-vHJ2VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDM0/MzQtMTM4MDEwMTA4/Ni01MTYwLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock",
-      "Krautrock"
+      "Glam"
     ],
-    "label": "First International",
-    "discogs_url": "https://www.discogs.com/release/8396082"
+    "label": "Bell Records",
+    "discogs_url": "https://www.discogs.com/release/3503434"
   }
 }
