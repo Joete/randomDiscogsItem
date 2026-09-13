@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-12T18:01:06.144454+00:00",
+  "generated_at": "2026-09-13T13:59:36.957915+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 3503434,
-    "discogs_id": 3503434,
-    "title": "I'm The Leader Of The Gang (I Am!)",
-    "artist": "Gary Glitter",
-    "year": 1973,
-    "cover_image": "https://i.discogs.com/jozsjnuYHh0fYzgW-VITn_Zx2EZfzzHo-RLMEDBApqs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDM0/MzQtMTM4MDEwMTA4/Ni01MTYwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/GHrxfrqdE9CEQt9_LK4PjvxXmeCZxS7GSvJT-vHJ2VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDM0/MzQtMTM4MDEwMTA4/Ni01MTYwLmpwZWc.jpeg",
+    "id": 1269130,
+    "discogs_id": 1269130,
+    "title": "Europa Hitparade 11",
+    "artist": "Orchester Udo Reichel",
+    "year": 1974,
+    "cover_image": "https://i.discogs.com/FQtLlJ0YAs1obKV953U5-URqiPV1VfSpJDODtwBWx2w/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkx/MzAtMTUzODYwMjE0/Ni04MjY3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/7wimCjpgPuqd1MephBDGZSDn3qGByWO5apnkHM2KxQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkx/MzAtMTUzODYwMjE0/Ni04MjY3LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Pop"
     ],
     "styles": [
-      "Glam"
+      "Vocal",
+      "Schlager"
     ],
-    "label": "Bell Records",
-    "discogs_url": "https://www.discogs.com/release/3503434"
+    "label": "Europa",
+    "discogs_url": "https://www.discogs.com/release/1269130"
   }
 }
