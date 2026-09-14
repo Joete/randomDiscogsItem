@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-13T18:27:47.525001+00:00",
+  "generated_at": "2026-09-14T09:42:39.067522+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 2289504,
-    "discogs_id": 2289504,
-    "title": "Disintegration",
-    "artist": "The Cure",
-    "year": 2010,
-    "cover_image": "https://i.discogs.com/_wvsjwaAxfcgsy6t3QXO5hU4vpUWi8_UUeGF8X4K7hk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTc2OTM0ODY3/My04OTAwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/MjqDkfxs3HeYsVRceBAYa8spE2ANO6BsIoJSB6SAYwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTc2OTM0ODY3/My04OTAwLmpwZWc.jpeg",
+    "id": 4495558,
+    "discogs_id": 4495558,
+    "title": "Worst Case Scenario",
+    "artist": "dEUS",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/YjIEE3CNJW41SD7BVvkMTgseruYkKfzlrsmloVcV-vM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTU1/NTgtMTM2ODQ0NDUz/Ny0yNzg2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/VzA-VnqqTBStx0bmYPHEEY8zJAGlonXrxR5gt0XaGLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTU1/NTgtMTM2ODQ0NDUz/Ny0yNzg2LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "New Wave"
+      "Alternative Rock"
     ],
-    "label": "Fiction Records",
-    "discogs_url": "https://www.discogs.com/release/2289504"
+    "label": "Music Mania (4)",
+    "discogs_url": "https://www.discogs.com/release/4495558"
   }
 }
