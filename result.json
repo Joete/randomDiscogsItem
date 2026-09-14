@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-14T16:04:39.609879+00:00",
+  "generated_at": "2026-09-14T20:06:26.640401+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 7776882,
-    "discogs_id": 7776882,
-    "title": "Atomic Bomb",
-    "artist": "William Onyeabor",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/NfignbhdnzVm-ZBQj-Jx1BqTyb4JstzF-UTyvHV0RYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzY4/ODItMTQ0ODU1MTA5/MS05MDk0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/JjZSmlirkJO5h3jdUIqJdIPkUymPXGUvYRSOTBDkO74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzY4/ODItMTQ0ODU1MTA5/MS05MDk0LmpwZWc.jpeg",
+    "id": 4634194,
+    "discogs_id": 4634194,
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "year": 1989,
+    "cover_image": "https://i.discogs.com/L8DwR-o9RW9gBXfKvMRA3XhXl5trHZ98B2_5E4PKu0U/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzQx/OTQtMTQ3OTQ5Mzky/OS01MjU0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/r3sQbw1q-kbPEwIJmFSsu11zJlmrA32kqbC1nERlUGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzQx/OTQtMTQ3OTQ5Mzky/OS01MjU0LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Afrobeat",
-      "Funk"
+      "Alternative Rock",
+      "New Wave",
+      "Goth Rock"
     ],
-    "label": "Luaka Bop",
-    "discogs_url": "https://www.discogs.com/release/7776882"
+    "label": "Fiction Records",
+    "discogs_url": "https://www.discogs.com/release/4634194"
   }
 }
