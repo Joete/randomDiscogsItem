@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-09-15T14:34:06.877726+00:00",
+  "generated_at": "2026-09-15T19:25:19.130750+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 9814913,
-    "discogs_id": 9814913,
-    "title": "Life Will See You Now",
-    "artist": "Jens Lekman",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/U8mCOvKaSnm1E6jCCXoiubWFud3_uewsTZdUiP_GPAg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ5/MTMtMTQ4Njc1MTg0/NC02NjY0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/TuYR1XZtg2Darx9_1jt4oTiZ2qsUxQdJV4SCNVVlKh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ5/MTMtMTQ4Njc1MTg0/NC02NjY0LmpwZWc.jpeg",
+    "id": 8149748,
+    "discogs_id": 8149748,
+    "title": "The Universe Smiles Upon You",
+    "artist": "Khruangbin",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/C4CxAImvZGielsMcG6CelPgkl6J6tuzkuZ_xi0aS4jI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDk3/NDgtMTQ1NzExMDQx/NS00NDU0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/4ieUM-GAR5FL5L9LKvhM2e1qxxxKhueg6E-L-d1C0a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDk3/NDgtMTQ1NzExMDQx/NS00NDU0LmpwZWc.jpeg",
     "genres": [
-      "Pop"
+      "Rock",
+      "Funk / Soul",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Indie Pop"
+      "Psychedelic",
+      "Funk"
     ],
-    "label": "Secretly Canadian",
-    "discogs_url": "https://www.discogs.com/release/9814913"
+    "label": "Night Time Stories",
+    "discogs_url": "https://www.discogs.com/release/8149748"
   }
 }
