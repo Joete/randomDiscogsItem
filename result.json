@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-15T09:18:07.780543+00:00",
+  "generated_at": "2026-09-15T14:34:06.877726+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 1131613,
-    "discogs_id": 1131613,
-    "title": "Some Boots",
-    "artist": "Karate",
-    "year": 2002,
-    "cover_image": "https://i.discogs.com/Bv7ttJdZC5nWDhPqVLfakeMUhnlDlq19FHB2hDwlF8U/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/MTMtMTU2MjEzNjM0/OS0xNDgyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/RzVWcUdlbJSjDy9UPm09lKCCJqrxyUCRlGGdm7BLbxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/MTMtMTU2MjEzNjM0/OS0xNDgyLmpwZWc.jpeg",
+    "id": 9814913,
+    "discogs_id": 9814913,
+    "title": "Life Will See You Now",
+    "artist": "Jens Lekman",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/U8mCOvKaSnm1E6jCCXoiubWFud3_uewsTZdUiP_GPAg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ5/MTMtMTQ4Njc1MTg0/NC02NjY0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/TuYR1XZtg2Darx9_1jt4oTiZ2qsUxQdJV4SCNVVlKh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ5/MTMtMTQ4Njc1MTg0/NC02NjY0LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock",
-      "Post Rock"
+      "Indie Pop"
     ],
-    "label": "Southern Records",
-    "discogs_url": "https://www.discogs.com/release/1131613"
+    "label": "Secretly Canadian",
+    "discogs_url": "https://www.discogs.com/release/9814913"
   }
 }
