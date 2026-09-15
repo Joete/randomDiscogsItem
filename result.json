@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-09-14T20:06:26.640401+00:00",
+  "generated_at": "2026-09-15T09:18:07.780543+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 4634194,
-    "discogs_id": 4634194,
-    "title": "Disintegration",
-    "artist": "The Cure",
-    "year": 1989,
-    "cover_image": "https://i.discogs.com/L8DwR-o9RW9gBXfKvMRA3XhXl5trHZ98B2_5E4PKu0U/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzQx/OTQtMTQ3OTQ5Mzky/OS01MjU0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/r3sQbw1q-kbPEwIJmFSsu11zJlmrA32kqbC1nERlUGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzQx/OTQtMTQ3OTQ5Mzky/OS01MjU0LmpwZWc.jpeg",
+    "id": 1131613,
+    "discogs_id": 1131613,
+    "title": "Some Boots",
+    "artist": "Karate",
+    "year": 2002,
+    "cover_image": "https://i.discogs.com/Bv7ttJdZC5nWDhPqVLfakeMUhnlDlq19FHB2hDwlF8U/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/MTMtMTU2MjEzNjM0/OS0xNDgyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/RzVWcUdlbJSjDy9UPm09lKCCJqrxyUCRlGGdm7BLbxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/MTMtMTU2MjEzNjM0/OS0xNDgyLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
       "Alternative Rock",
-      "New Wave",
-      "Goth Rock"
+      "Post Rock"
     ],
-    "label": "Fiction Records",
-    "discogs_url": "https://www.discogs.com/release/4634194"
+    "label": "Southern Records",
+    "discogs_url": "https://www.discogs.com/release/1131613"
   }
 }
