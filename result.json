@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-16T14:29:24.400092+00:00",
+  "generated_at": "2026-09-16T19:17:01.603470+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 5731386,
-    "discogs_id": 5731386,
-    "title": "The Long Goodbye: LCD Soundsystem Live At Madison Square Garden",
-    "artist": "LCD Soundsystem",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/w4bjZMNDtydlhQoP8Hd1BM8IJ497dJQ43-M92cO78tw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEz/ODYtMTQwMTIyNjI1/Ny03NTg2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/hMMBDU_Ilig9Ccik5mmYYl4hvXBsaJ6zxoRPFTx8TYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEz/ODYtMTQwMTIyNjI1/Ny03NTg2LmpwZWc.jpeg",
+    "id": 13468045,
+    "discogs_id": 13468045,
+    "title": "Lost In Translation (Music From The Motion Picture Soundtrack)",
+    "artist": "Various",
+    "year": 2019,
+    "cover_image": "https://i.discogs.com/F2tZWvkHa6EaLN6wJI0l_tkuyzue1SZDBPR6vDWKvrE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY4/MDQ1LTE1NTUzNTU4/NjYtNjg2Mi5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/fI2S7EVlWhGwx_VWrqqU4Z3CbgQQdbAucLCh3iIPDwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY4/MDQ1LTE1NTUzNTU4/NjYtNjg2Mi5qcGVn.jpeg",
     "genres": [
       "Electronic",
       "Rock",
-      "Pop",
       "Stage & Screen"
     ],
     "styles": [
-      "Alternative Rock",
-      "Disco",
-      "Electro"
+      "Soundtrack",
+      "Downtempo",
+      "Post Rock",
+      "Indie Rock"
     ],
-    "label": "DFA",
-    "discogs_url": "https://www.discogs.com/release/5731386"
+    "label": "Emperor Norton",
+    "discogs_url": "https://www.discogs.com/release/13468045"
   }
 }
