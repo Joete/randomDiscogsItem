@@ -1,29 +1,26 @@
 {
-  "generated_at": "2026-09-16T09:11:08.851662+00:00",
+  "generated_at": "2026-09-16T14:29:24.400092+00:00",
   "total_in_collection": 1155,
   "result": {
-    "id": 924172,
-    "discogs_id": 924172,
-    "title": "Naked",
-    "artist": "Talking Heads",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/7w6cLKUFKKz6C8OtJ0gghqhU1KKB03TeRc-3tnQQ85c/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDE3/Mi0xMjE3MDAxODIy/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/ujzdZLg0G6fqXt0wSjHwxSlsR3q9JB8EY5EiVghTSQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDE3/Mi0xMjE3MDAxODIy/LmpwZWc.jpeg",
+    "id": 5731386,
+    "discogs_id": 5731386,
+    "title": "The Long Goodbye: LCD Soundsystem Live At Madison Square Garden",
+    "artist": "LCD Soundsystem",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/w4bjZMNDtydlhQoP8Hd1BM8IJ497dJQ43-M92cO78tw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEz/ODYtMTQwMTIyNjI1/Ny03NTg2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/hMMBDU_Ilig9Ccik5mmYYl4hvXBsaJ6zxoRPFTx8TYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEz/ODYtMTQwMTIyNjI1/Ny03NTg2LmpwZWc.jpeg",
     "genres": [
+      "Electronic",
       "Rock",
-      "Latin",
-      "Funk / Soul",
-      "Folk, World, & Country"
+      "Pop",
+      "Stage & Screen"
     ],
     "styles": [
-      "Indie Rock",
-      "Pop Rock",
-      "Funk",
-      "Salsa",
       "Alternative Rock",
-      "Afrobeat"
+      "Disco",
+      "Electro"
     ],
-    "label": "EMI",
-    "discogs_url": "https://www.discogs.com/release/924172"
+    "label": "DFA",
+    "discogs_url": "https://www.discogs.com/release/5731386"
   }
 }
