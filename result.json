@@ -1,26 +1,24 @@
 {
-  "generated_at": "2026-09-16T19:17:01.603470+00:00",
-  "total_in_collection": 1155,
+  "generated_at": "2026-09-17T09:19:24.127069+00:00",
+  "total_in_collection": 1156,
   "result": {
-    "id": 13468045,
-    "discogs_id": 13468045,
-    "title": "Lost In Translation (Music From The Motion Picture Soundtrack)",
-    "artist": "Various",
-    "year": 2019,
-    "cover_image": "https://i.discogs.com/F2tZWvkHa6EaLN6wJI0l_tkuyzue1SZDBPR6vDWKvrE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY4/MDQ1LTE1NTUzNTU4/NjYtNjg2Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/fI2S7EVlWhGwx_VWrqqU4Z3CbgQQdbAucLCh3iIPDwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY4/MDQ1LTE1NTUzNTU4/NjYtNjg2Mi5qcGVn.jpeg",
+    "id": 3948617,
+    "discogs_id": 3948617,
+    "title": "Mumps, Etc.",
+    "artist": "Why?",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/bzWzzl19g-jLUY0UTqcG9m9FU-f-5-utnvQ0bQmIkf4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDg2/MTctMTQ1MDQwMjEz/OC00MjcyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Jyp8wPd6i7NueM66RCrFNfc1YcS_58hiiwP74Z8Nybg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDg2/MTctMTQ1MDQwMjEz/OC00MjcyLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Rock",
-      "Stage & Screen"
+      "Hip Hop",
+      "Rock"
     ],
     "styles": [
-      "Soundtrack",
-      "Downtempo",
-      "Post Rock",
+      "Leftfield",
+      "Experimental",
       "Indie Rock"
     ],
-    "label": "Emperor Norton",
-    "discogs_url": "https://www.discogs.com/release/13468045"
+    "label": "City Slang",
+    "discogs_url": "https://www.discogs.com/release/3948617"
   }
 }
