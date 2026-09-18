@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-09-17T19:28:17.568076+00:00",
+  "generated_at": "2026-09-18T08:54:41.646242+00:00",
   "total_in_collection": 1156,
   "result": {
-    "id": 4490088,
-    "discogs_id": 4490088,
-    "title": "Hvarf / Heim",
-    "artist": "Sigur Rós",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/_W4me3uChD0u-6u8N7CYfdcXMg1wwbL1GzaAMe5TABM/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTAw/ODgtMTQxMjk0NTgx/My0xNzQyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/jgv8_JY41wG7_ARAR1aPNt658ClIzBgLTKWa6jEctv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTAw/ODgtMTQxMjk0NTgx/My0xNzQyLmpwZWc.jpeg",
+    "id": 10067848,
+    "discogs_id": 10067848,
+    "title": "Kids",
+    "artist": "Fotos",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/N9-8pv982HDWP-ySKZGVYknJUwiqin2gPfwCZ-7APBA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY3/ODQ4LTE0OTEwNTI2/MDQtNjc2My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Ql1PEiVLFvwRk0AvnC4TJ7gOxHfmUF7hnyIhIKhqWuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY3/ODQ4LTE0OTEwNTI2/MDQtNjc2My5qcGVn.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Acoustic",
-      "Post Rock"
+      "Experimental"
     ],
-    "label": "Parlophone",
-    "discogs_url": "https://www.discogs.com/release/4490088"
+    "label": "[pias]",
+    "discogs_url": "https://www.discogs.com/release/10067848"
   }
 }
