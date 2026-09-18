@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-18T08:54:41.646242+00:00",
+  "generated_at": "2026-09-18T13:59:45.944257+00:00",
   "total_in_collection": 1156,
   "result": {
-    "id": 10067848,
-    "discogs_id": 10067848,
-    "title": "Kids",
-    "artist": "Fotos",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/N9-8pv982HDWP-ySKZGVYknJUwiqin2gPfwCZ-7APBA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY3/ODQ4LTE0OTEwNTI2/MDQtNjc2My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/Ql1PEiVLFvwRk0AvnC4TJ7gOxHfmUF7hnyIhIKhqWuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY3/ODQ4LTE0OTEwNTI2/MDQtNjc2My5qcGVn.jpeg",
+    "id": 2497672,
+    "discogs_id": 2497672,
+    "title": "In The Air Tonight ('88 Remix)",
+    "artist": "Phil Collins",
+    "year": 1988,
+    "cover_image": "https://i.discogs.com/fgJkVJ79WUizrlI6Z0TrU_1U2NypgyOfn8OFSaXHL5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NzItMTI4NzI2NjU5/MS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/0ZqZWmbS_EqRwtmhxLracXk7tnrQE7bbqU8KeKeK60o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NzItMTI4NzI2NjU5/MS5qcGVn.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Experimental"
+      "Pop Rock"
     ],
-    "label": "[pias]",
-    "discogs_url": "https://www.discogs.com/release/10067848"
+    "label": "WEA",
+    "discogs_url": "https://www.discogs.com/release/2497672"
   }
 }
