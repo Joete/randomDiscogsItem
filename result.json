@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-09-18T13:59:45.944257+00:00",
+  "generated_at": "2026-09-18T18:47:16.786196+00:00",
   "total_in_collection": 1156,
   "result": {
-    "id": 2497672,
-    "discogs_id": 2497672,
-    "title": "In The Air Tonight ('88 Remix)",
-    "artist": "Phil Collins",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/fgJkVJ79WUizrlI6Z0TrU_1U2NypgyOfn8OFSaXHL5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NzItMTI4NzI2NjU5/MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/0ZqZWmbS_EqRwtmhxLracXk7tnrQE7bbqU8KeKeK60o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc2/NzItMTI4NzI2NjU5/MS5qcGVn.jpeg",
+    "id": 820831,
+    "discogs_id": 820831,
+    "title": "MTV Unplugged In New York",
+    "artist": "Nirvana",
+    "year": 1994,
+    "cover_image": "https://i.discogs.com/HaJnamN9hyEwXE63uRi7tJMm-ABc_R029tIhB8CrU-M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgz/MS0xNzQ1MDAyODQw/LTY2OTAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/vKuEY_W68tj51e5zzW_EOKwtwPvEB07y1RTZUdaflWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgz/MS0xNzQ1MDAyODQw/LTY2OTAuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Pop Rock"
+      "Alternative Rock",
+      "Acoustic",
+      "Grunge"
     ],
-    "label": "WEA",
-    "discogs_url": "https://www.discogs.com/release/2497672"
+    "label": "Geffen Records",
+    "discogs_url": "https://www.discogs.com/release/820831"
   }
 }
