@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-09-19T13:36:35.980192+00:00",
-  "total_in_collection": 1156,
+  "generated_at": "2026-09-19T18:20:12.267272+00:00",
+  "total_in_collection": 1157,
   "result": {
-    "id": 1490206,
-    "discogs_id": 1490206,
-    "title": "Dig Out Your Soul",
-    "artist": "Oasis (2)",
-    "year": 2008,
-    "cover_image": "https://i.discogs.com/TRVGRqx5hjd0PKSCNTwiACbvh6AkDbQXklTWSx51P6k/rs:fit/g:sm/q:90/h:550/w:327/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAy/MDYtMTM0NTg4MjAx/Ny05MDI4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/K_DrSy5B3nJM6NVamLSS999Zp8E-uZ7wQ4-e9KThctI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAy/MDYtMTM0NTg4MjAx/Ny05MDI4LmpwZWc.jpeg",
+    "id": 3145366,
+    "discogs_id": 3145366,
+    "title": "Mark Hollis",
+    "artist": "Mark Hollis",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/x9J9ovsbSR0_U-mWnOmqnfzNQxkAAyu-AEP7pn-6dEQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/NjYtMTcxNDU0NTY5/NS0yMjIwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Wj0BBY3j3arfHNqoWYs6o6TpWf5XLVcCvki7F_LFpgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/NjYtMTcxNDU0NTY5/NS0yMjIwLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock",
-      "Britpop",
-      "Music Video"
+      "Acoustic",
+      "Post Rock"
     ],
-    "label": "Big Brother",
-    "discogs_url": "https://www.discogs.com/release/1490206"
+    "label": "Ba Da Bing!",
+    "discogs_url": "https://www.discogs.com/release/3145366"
   }
 }
