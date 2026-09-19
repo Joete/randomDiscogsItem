@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-09-19T08:41:36.828626+00:00",
+  "generated_at": "2026-09-19T13:36:35.980192+00:00",
   "total_in_collection": 1156,
   "result": {
-    "id": 1341225,
-    "discogs_id": 1341225,
-    "title": "Rest Now, Weary Head! You Will Get Well Soon",
-    "artist": "Get Well Soon",
+    "id": 1490206,
+    "discogs_id": 1490206,
+    "title": "Dig Out Your Soul",
+    "artist": "Oasis (2)",
     "year": 2008,
-    "cover_image": "https://i.discogs.com/j0JRC94XLm2PvFs9uarBmmMlmJc6gRRGBFJcau1xWL0/rs:fit/g:sm/q:90/h:399/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEy/MjUtMTI2MjQ2Nzgw/MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/Oq8DGtOZYaCgJHoRDp8tQDgh90ucVvJLFl2Q4PZV-MY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEy/MjUtMTI2MjQ2Nzgw/MS5qcGVn.jpeg",
+    "cover_image": "https://i.discogs.com/TRVGRqx5hjd0PKSCNTwiACbvh6AkDbQXklTWSx51P6k/rs:fit/g:sm/q:90/h:550/w:327/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAy/MDYtMTM0NTg4MjAx/Ny05MDI4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/K_DrSy5B3nJM6NVamLSS999Zp8E-uZ7wQ4-e9KThctI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAy/MDYtMTM0NTg4MjAx/Ny05MDI4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Alternative Rock",
+      "Indie Rock",
+      "Britpop",
+      "Music Video"
     ],
-    "label": "City Slang",
-    "discogs_url": "https://www.discogs.com/release/1341225"
+    "label": "Big Brother",
+    "discogs_url": "https://www.discogs.com/release/1490206"
   }
 }
