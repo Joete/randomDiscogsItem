@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-09-18T18:47:16.786196+00:00",
+  "generated_at": "2026-09-19T08:41:36.828626+00:00",
   "total_in_collection": 1156,
   "result": {
-    "id": 820831,
-    "discogs_id": 820831,
-    "title": "MTV Unplugged In New York",
-    "artist": "Nirvana",
-    "year": 1994,
-    "cover_image": "https://i.discogs.com/HaJnamN9hyEwXE63uRi7tJMm-ABc_R029tIhB8CrU-M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgz/MS0xNzQ1MDAyODQw/LTY2OTAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/vKuEY_W68tj51e5zzW_EOKwtwPvEB07y1RTZUdaflWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgz/MS0xNzQ1MDAyODQw/LTY2OTAuanBlZw.jpeg",
+    "id": 1341225,
+    "discogs_id": 1341225,
+    "title": "Rest Now, Weary Head! You Will Get Well Soon",
+    "artist": "Get Well Soon",
+    "year": 2008,
+    "cover_image": "https://i.discogs.com/j0JRC94XLm2PvFs9uarBmmMlmJc6gRRGBFJcau1xWL0/rs:fit/g:sm/q:90/h:399/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEy/MjUtMTI2MjQ2Nzgw/MS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Oq8DGtOZYaCgJHoRDp8tQDgh90ucVvJLFl2Q4PZV-MY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEy/MjUtMTI2MjQ2Nzgw/MS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Acoustic",
-      "Grunge"
+      "Indie Rock"
     ],
-    "label": "Geffen Records",
-    "discogs_url": "https://www.discogs.com/release/820831"
+    "label": "City Slang",
+    "discogs_url": "https://www.discogs.com/release/1341225"
   }
 }
