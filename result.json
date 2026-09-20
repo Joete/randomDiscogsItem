@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-20T13:50:31.522973+00:00",
+  "generated_at": "2026-09-20T18:25:35.668743+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 3339642,
-    "discogs_id": 3339642,
-    "title": "OK Computer",
-    "artist": "Radiohead",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/PPY-uK4OR568QDB6WMWdGo8oy6DxY1cyfmexnIOvhZI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTM5NjYzNjAw/Ni04NDc3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/rw5fF9bIIfG-7wfRfNMaXMlVR1RuFrWL44YWpXSsjDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTM5NjYzNjAw/Ni04NDc3LmpwZWc.jpeg",
+    "id": 5330747,
+    "discogs_id": 5330747,
+    "title": "Glaskugelsammelbehälterkasten",
+    "artist": "Kungfu",
+    "year": 1999,
+    "cover_image": "https://i.discogs.com/B1AteHoE9Ov9vvoDVW8WLc_9C8zAmhdLTUmnxvR0maU/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA3/NDctMTM5MDczMzMy/OS0xOTgyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/9fLK60HNAmNRqAxrcp0AS41ymlBST8k78hSxo6skfQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA3/NDctMTM5MDczMzMy/OS0xOTgyLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Blues Rock",
+      "Grunge"
     ],
-    "label": "Parlophone",
-    "discogs_url": "https://www.discogs.com/release/3339642"
+    "label": "BMG",
+    "discogs_url": "https://www.discogs.com/release/5330747"
   }
 }
