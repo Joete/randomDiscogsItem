@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-20T09:11:21.344500+00:00",
+  "generated_at": "2026-09-20T13:50:31.522973+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 1941449,
-    "discogs_id": 1941449,
-    "title": "Crazy Rhythms",
-    "artist": "The Feelies",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/PfE8eM-rT9wzic7MjnxHlmuEsrBf-2JBI84aLaBRthQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE0/NDktMTU5ODM1ODIy/OS0zMzM3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/J6IkvuHAlhMINBKRiPYOI27VUnFDCus3xIjDWbz1I7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE0/NDktMTU5ODM1ODIy/OS0zMzM3LmpwZWc.jpeg",
+    "id": 3339642,
+    "discogs_id": 3339642,
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "year": 2013,
+    "cover_image": "https://i.discogs.com/PPY-uK4OR568QDB6WMWdGo8oy6DxY1cyfmexnIOvhZI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTM5NjYzNjAw/Ni04NDc3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/rw5fF9bIIfG-7wfRfNMaXMlVR1RuFrWL44YWpXSsjDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk2/NDItMTM5NjYzNjAw/Ni04NDc3LmpwZWc.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Alternative Rock"
     ],
-    "label": "Domino",
-    "discogs_url": "https://www.discogs.com/release/1941449"
+    "label": "Parlophone",
+    "discogs_url": "https://www.discogs.com/release/3339642"
   }
 }
