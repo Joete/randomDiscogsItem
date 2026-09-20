@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-19T18:20:12.267272+00:00",
+  "generated_at": "2026-09-20T09:11:21.344500+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 3145366,
-    "discogs_id": 3145366,
-    "title": "Mark Hollis",
-    "artist": "Mark Hollis",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/x9J9ovsbSR0_U-mWnOmqnfzNQxkAAyu-AEP7pn-6dEQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/NjYtMTcxNDU0NTY5/NS0yMjIwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Wj0BBY3j3arfHNqoWYs6o6TpWf5XLVcCvki7F_LFpgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/NjYtMTcxNDU0NTY5/NS0yMjIwLmpwZWc.jpeg",
+    "id": 1941449,
+    "discogs_id": 1941449,
+    "title": "Crazy Rhythms",
+    "artist": "The Feelies",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/PfE8eM-rT9wzic7MjnxHlmuEsrBf-2JBI84aLaBRthQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE0/NDktMTU5ODM1ODIy/OS0zMzM3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/J6IkvuHAlhMINBKRiPYOI27VUnFDCus3xIjDWbz1I7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE0/NDktMTU5ODM1ODIy/OS0zMzM3LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Acoustic",
-      "Post Rock"
+      "Indie Rock"
     ],
-    "label": "Ba Da Bing!",
-    "discogs_url": "https://www.discogs.com/release/3145366"
+    "label": "Domino",
+    "discogs_url": "https://www.discogs.com/release/1941449"
   }
 }
