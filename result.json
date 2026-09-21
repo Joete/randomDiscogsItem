@@ -1,23 +1,26 @@
 {
-  "generated_at": "2026-09-21T09:47:08.328778+00:00",
+  "generated_at": "2026-09-21T16:06:45.052879+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 1296608,
-    "discogs_id": 1296608,
-    "title": "Little Lucid Moments",
-    "artist": "Motorpsycho",
-    "year": 2008,
-    "cover_image": "https://i.discogs.com/xEWEMbrPQk7xPnp5bVTa8B47wZ3gx9wFbkT82hpe8Pc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY2/MDgtMTQ5NzE3NjQx/Ni00Nzk4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/6x6VgRRIOZF6J_c56Rj1FCOWqsYz7Ax0tYNBGZjeMAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY2/MDgtMTQ5NzE3NjQx/Ni00Nzk4LmpwZWc.jpeg",
+    "id": 476007,
+    "discogs_id": 476007,
+    "title": "Raw Like Sushi",
+    "artist": "Neneh Cherry",
+    "year": 1989,
+    "cover_image": "https://i.discogs.com/XCozd9DWsAQuXFSxZr97qxVW6yh-rBlkMj9vAVDLscI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAw/Ny0xNzMyODkwMTI2/LTYxMDIuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/UQDda3OUiOJ70m2NpuXJI_D_FpHeVqC-gD2ST-bNo8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAw/Ny0xNzMyODkwMTI2/LTYxMDIuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Hip Hop",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock",
-      "Prog Rock",
-      "Experimental"
+      "House",
+      "Synth-pop",
+      "Pop Rap"
     ],
-    "label": "Stickman Records (3)",
-    "discogs_url": "https://www.discogs.com/release/1296608"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/476007"
   }
 }
