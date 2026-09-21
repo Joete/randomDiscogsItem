@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-20T18:25:35.668743+00:00",
+  "generated_at": "2026-09-21T09:47:08.328778+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 5330747,
-    "discogs_id": 5330747,
-    "title": "Glaskugelsammelbehälterkasten",
-    "artist": "Kungfu",
-    "year": 1999,
-    "cover_image": "https://i.discogs.com/B1AteHoE9Ov9vvoDVW8WLc_9C8zAmhdLTUmnxvR0maU/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA3/NDctMTM5MDczMzMy/OS0xOTgyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/9fLK60HNAmNRqAxrcp0AS41ymlBST8k78hSxo6skfQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA3/NDctMTM5MDczMzMy/OS0xOTgyLmpwZWc.jpeg",
+    "id": 1296608,
+    "discogs_id": 1296608,
+    "title": "Little Lucid Moments",
+    "artist": "Motorpsycho",
+    "year": 2008,
+    "cover_image": "https://i.discogs.com/xEWEMbrPQk7xPnp5bVTa8B47wZ3gx9wFbkT82hpe8Pc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY2/MDgtMTQ5NzE3NjQx/Ni00Nzk4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/6x6VgRRIOZF6J_c56Rj1FCOWqsYz7Ax0tYNBGZjeMAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY2/MDgtMTQ5NzE3NjQx/Ni00Nzk4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Blues Rock",
-      "Grunge"
+      "Alternative Rock",
+      "Prog Rock",
+      "Experimental"
     ],
-    "label": "BMG",
-    "discogs_url": "https://www.discogs.com/release/5330747"
+    "label": "Stickman Records (3)",
+    "discogs_url": "https://www.discogs.com/release/1296608"
   }
 }
