@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-21T20:13:07.200830+00:00",
+  "generated_at": "2026-09-22T09:11:19.205282+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 37349,
-    "discogs_id": 37349,
-    "title": "Listen",
-    "artist": "Urban Species",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/Jy5MlYi8Dw24_elzQoEqqKFRLsta7ifYlxBm_uQLWEM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ5/LTE0MDAzMTkxNzAt/MjI4NS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/ECcfEHBx5EMMbU7FtBrBb-rCe7j0ntu_JuodlikpTEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ5/LTE0MDAzMTkxNzAt/MjI4NS5qcGVn.jpeg",
+    "id": 595556,
+    "discogs_id": 595556,
+    "title": "The Boys Of Summer",
+    "artist": "Don Henley",
+    "year": 1984,
+    "cover_image": "https://i.discogs.com/0__uAsMyFrBgcMAyAy-AFn4sBtrZAnC6O3WP65XBimE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTU1/Ni0xNzg1NDE5NjU1/LTg0ODYuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/mm6DmSDFPdvkS_FEaBdgUfOHyVFUn6qhczLFd578G-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTU1/Ni0xNzg1NDE5NjU1/LTg0ODYuanBlZw.jpeg",
     "genres": [
-      "Electronic"
+      "Rock"
     ],
     "styles": [
-      "Acid Jazz"
+      "Pop Rock",
+      "Classic Rock"
     ],
-    "label": "Talkin' Loud",
-    "discogs_url": "https://www.discogs.com/release/37349"
+    "label": "Geffen Records",
+    "discogs_url": "https://www.discogs.com/release/595556"
   }
 }
