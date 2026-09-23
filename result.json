@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-09-22T19:28:22.280025+00:00",
+  "generated_at": "2026-09-23T09:11:43.707143+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 1916608,
-    "discogs_id": 1916608,
-    "title": "Entreat - Tales Of Ordinary Madness",
-    "artist": "The Cure",
-    "year": 1989,
-    "cover_image": "https://i.discogs.com/LEF-ySV-YrtN88ABTWFd4gLtsKuqhd2NZrQaqe_Sls0/rs:fit/g:sm/q:90/h:489/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY2/MDgtMTI3MDc2MTM0/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/zRd7Qy4jvoJm85N7kbbFYQXvopDCZldGnDpIHIiMhVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY2/MDgtMTI3MDc2MTM0/Ni5qcGVn.jpeg",
+    "id": 151796,
+    "discogs_id": 151796,
+    "title": "Rumour Has It",
+    "artist": "Donna Summer",
+    "year": 1978,
+    "cover_image": "https://i.discogs.com/EloGkZzcnSRzsF5T_HAuMGWEGl0EV0Oc7LiwDEPDN-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/Ni0xNDcxODE1MjYz/LTM2MTEuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/-gZSwk6GkoccV7w5E-5gASObAI5OHagl5u2epxCnj7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/Ni0xNDcxODE1MjYz/LTM2MTEuanBlZw.jpeg",
     "genres": [
-      "Electronic",
-      "Rock"
+      "Funk / Soul"
     ],
     "styles": [
-      "New Wave",
-      "Goth Rock",
-      "Synth-pop"
+      "Disco"
     ],
-    "label": "Not On Label (The Cure)",
-    "discogs_url": "https://www.discogs.com/release/1916608"
+    "label": "Casablanca",
+    "discogs_url": "https://www.discogs.com/release/151796"
   }
 }
