@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-23T09:11:43.707143+00:00",
+  "generated_at": "2026-09-23T14:34:31.463907+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 151796,
-    "discogs_id": 151796,
-    "title": "Rumour Has It",
-    "artist": "Donna Summer",
-    "year": 1978,
-    "cover_image": "https://i.discogs.com/EloGkZzcnSRzsF5T_HAuMGWEGl0EV0Oc7LiwDEPDN-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/Ni0xNDcxODE1MjYz/LTM2MTEuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/-gZSwk6GkoccV7w5E-5gASObAI5OHagl5u2epxCnj7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/Ni0xNDcxODE1MjYz/LTM2MTEuanBlZw.jpeg",
+    "id": 653402,
+    "discogs_id": 653402,
+    "title": "Unsolved",
+    "artist": "Karate",
+    "year": 2000,
+    "cover_image": "https://i.discogs.com/4MmOzv9z9PXpmApAiWC1_-LnQsC2Y3szxjfz9tlUzF0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzQw/Mi0xNTQ1Njk5MTc4/LTQ5NzMuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/TuvnFwaS5ztlDK6cZRsMBG4kEcoIvt5JzF2Mu1ZoNFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzQw/Mi0xNTQ1Njk5MTc4/LTQ5NzMuanBlZw.jpeg",
     "genres": [
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Disco"
+      "Alternative Rock",
+      "Post Rock"
     ],
-    "label": "Casablanca",
-    "discogs_url": "https://www.discogs.com/release/151796"
+    "label": "Southern Records",
+    "discogs_url": "https://www.discogs.com/release/653402"
   }
 }
