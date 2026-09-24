@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-09-23T19:23:08.260534+00:00",
+  "generated_at": "2026-09-24T09:09:56.684070+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 2169648,
-    "discogs_id": 2169648,
-    "title": "Edwin Starr",
-    "artist": "Edwin Starr",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/T5n9U7RlgON6AMxTiB5wKb_IeCmHvkRvkusRi4K623E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk2/NDgtMTQyODg1MDU4/My03OTQzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Bde81SZztpesi6JV8BPE8H4OqfySBxV4ctQ2Bcd2_4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk2/NDgtMTQyODg1MDU4/My03OTQzLmpwZWc.jpeg",
+    "id": 573102,
+    "discogs_id": 573102,
+    "title": "Wowee Zowee",
+    "artist": "Pavement",
+    "year": 1995,
+    "cover_image": "https://i.discogs.com/JPSPWU_ALBbRyrbn_MaS4-ug22O5NbOgCt7wI_dxvP4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEw/Mi0xMjk2MjUyNzcw/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/PP0U66uvf7omN8JlNRRQWQt4rkZXM2nctntLPF0tbus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEw/Mi0xMjk2MjUyNzcw/LmpwZWc.jpeg",
     "genres": [
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "Soul"
+      "Lo-Fi",
+      "Indie Rock"
     ],
-    "label": "Motown",
-    "discogs_url": "https://www.discogs.com/release/2169648"
+    "label": "Rough Trade",
+    "discogs_url": "https://www.discogs.com/release/573102"
   }
 }
