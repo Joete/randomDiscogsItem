@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-25T14:53:23.455959+00:00",
+  "generated_at": "2026-09-25T19:45:04.136599+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 2828728,
-    "discogs_id": 2828728,
-    "title": "Monsoon",
-    "artist": "Preston School Of Industry",
-    "year": 2004,
-    "cover_image": "https://i.discogs.com/rkFVNWcnJbsTLpd9OHiY7ULxjsZYYgMgJE7xBjJ278k/rs:fit/g:sm/q:90/h:285/w:290/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MjgtMTMwMjg5MDEw/OC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/Gvj9lhe9Kive9WIiln7-xME2ERhkeGwUpi_9asKdvH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MjgtMTMwMjg5MDEw/OC5qcGVn.jpeg",
+    "id": 401560,
+    "discogs_id": 401560,
+    "title": "MTV Unplugged",
+    "artist": "Alice In Chains",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/fOVITCMLtmKr_cfL2eET7rHLQeWIX5dnokTAXStfolo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTU2/MC0xMzQ0Nzk1OTM5/LTg1MDguanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/Osjug2_bomOghpozepusj2UaTtomq4wwE0KRxmSFtMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTU2/MC0xMzQ0Nzk1OTM5/LTg1MDguanBlZw.jpeg",
     "genres": [
-      "Rock",
-      "Folk, World, & Country"
+      "Rock"
     ],
     "styles": [
       "Alternative Rock",
-      "Country Rock"
+      "Acoustic",
+      "Grunge"
     ],
-    "label": "Domino",
-    "discogs_url": "https://www.discogs.com/release/2828728"
+    "label": "Columbia",
+    "discogs_url": "https://www.discogs.com/release/401560"
   }
 }
