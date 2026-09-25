@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-25T09:29:35.207752+00:00",
+  "generated_at": "2026-09-25T14:53:23.455959+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 14664948,
-    "discogs_id": 14664948,
-    "title": "Deleter",
-    "artist": "Holy Fuck",
-    "year": 2020,
-    "cover_image": "https://i.discogs.com/Z2wnDIUmKMZzJgAvnYYTOC-iL4fynwpIc17mjlgV3vk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY0/OTQ4LTE1ODEwMDk0/MzEtOTc4NS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/KVcHs4ICcqwRzZsAJ5s1gmNKdT9LvExvj1q3jxotCCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY0/OTQ4LTE1ODEwMDk0/MzEtOTc4NS5qcGVn.jpeg",
+    "id": 2828728,
+    "discogs_id": 2828728,
+    "title": "Monsoon",
+    "artist": "Preston School Of Industry",
+    "year": 2004,
+    "cover_image": "https://i.discogs.com/rkFVNWcnJbsTLpd9OHiY7ULxjsZYYgMgJE7xBjJ278k/rs:fit/g:sm/q:90/h:285/w:290/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MjgtMTMwMjg5MDEw/OC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Gvj9lhe9Kive9WIiln7-xME2ERhkeGwUpi_9asKdvH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MjgtMTMwMjg5MDEw/OC5qcGVn.jpeg",
     "genres": [
-      "Electronic",
-      "Rock"
+      "Rock",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Krautrock",
-      "Deep House"
+      "Alternative Rock",
+      "Country Rock"
     ],
-    "label": "Holy Ef Music",
-    "discogs_url": "https://www.discogs.com/release/14664948"
+    "label": "Domino",
+    "discogs_url": "https://www.discogs.com/release/2828728"
   }
 }
