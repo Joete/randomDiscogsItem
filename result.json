@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-09-25T19:45:04.136599+00:00",
+  "generated_at": "2026-09-26T09:15:11.595834+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 401560,
-    "discogs_id": 401560,
-    "title": "MTV Unplugged",
-    "artist": "Alice In Chains",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/fOVITCMLtmKr_cfL2eET7rHLQeWIX5dnokTAXStfolo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTU2/MC0xMzQ0Nzk1OTM5/LTg1MDguanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/Osjug2_bomOghpozepusj2UaTtomq4wwE0KRxmSFtMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTU2/MC0xMzQ0Nzk1OTM5/LTg1MDguanBlZw.jpeg",
+    "id": 6722078,
+    "discogs_id": 6722078,
+    "title": "Shedding Skin",
+    "artist": "Ghostpoet",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/ihb0BltdhhOWlBWyaGUxog5Y1F0JKmfB8djGoCZq-L4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjIw/NzgtMTcwMjgwMzk0/MS05NjUxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/kkxR5V5KP4KMCV6pEWtEq4wZuQe-iKguMapF3Om-Ua0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjIw/NzgtMTcwMjgwMzk0/MS05NjUxLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Hip Hop",
+      "Rock",
+      "Non-Music"
     ],
     "styles": [
-      "Alternative Rock",
-      "Acoustic",
-      "Grunge"
+      "Abstract",
+      "Indie Rock",
+      "Trip Hop",
+      "Spoken Word"
     ],
-    "label": "Columbia",
-    "discogs_url": "https://www.discogs.com/release/401560"
+    "label": "Play It Again Sam",
+    "discogs_url": "https://www.discogs.com/release/6722078"
   }
 }
