@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-26T13:58:44.033913+00:00",
+  "generated_at": "2026-09-26T18:54:15.739002+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 13510125,
-    "discogs_id": 13510125,
-    "title": "Geil",
-    "artist": "Bruce & Bongo",
-    "year": 1986,
-    "cover_image": "https://i.discogs.com/GL4et1y6wX2SbkkA7v1IoJWeSuOnd0mkytNs_1qC4aE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/MTI1LTE2MDQ0MDg5/MzQtMzE4My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/20t1LX_jAm4QdQAPxomASGNHYcqPJtCbmBD6mAGVVzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/MTI1LTE2MDQ0MDg5/MzQtMzE4My5qcGVn.jpeg",
+    "id": 615051,
+    "discogs_id": 615051,
+    "title": "Money For Nothing",
+    "artist": "Dire Straits",
+    "year": 1988,
+    "cover_image": "https://i.discogs.com/xko-mISksYYAawrDaew2Iz_DU1u_IqmvaB5Mo7PC8XQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTA1/MS0xMTkwMTM4MzEx/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/gCmH5qbG-dXZwSAyfh-5MxU1aXMN8MevBTcFbXd7TRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTA1/MS0xMTkwMTM4MzEx/LmpwZWc.jpeg",
     "genres": [
-      "Electronic"
+      "Rock"
     ],
     "styles": [
-      "Disco",
-      "Electro"
+      "Pop Rock"
     ],
-    "label": "Rush Records",
-    "discogs_url": "https://www.discogs.com/release/13510125"
+    "label": "Vertigo",
+    "discogs_url": "https://www.discogs.com/release/615051"
   }
 }
