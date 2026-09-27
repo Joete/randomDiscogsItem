@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-27T09:54:37.991645+00:00",
+  "generated_at": "2026-09-27T14:55:03.250360+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 31089,
-    "discogs_id": 31089,
-    "title": "Paul's Boutique",
-    "artist": "Beastie Boys",
-    "year": 1989,
-    "cover_image": "https://i.discogs.com/0WK7IJNMQAWp21sq_P6mqtLlNMNDIdm1PHfzP5cMvEM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDg5/LTExNDQ1NDgxNTEu/anBlZw.jpeg",
-    "thumb": "https://i.discogs.com/_tZmC0bfbHQhSmeh_NuDuvyYv-52l-3gnlmXkI7sSI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDg5/LTExNDQ1NDgxNTEu/anBlZw.jpeg",
+    "id": 595997,
+    "discogs_id": 595997,
+    "title": "Trans-Europe Express",
+    "artist": "Kraftwerk",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/9lHlpfP-upqr6a2eTVDS56yiUU5AjGZ8IYYn2bMRJ_c/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTk5/Ny0xMTU0MDkyOTg1/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/f_HAU8kfnLxnUI5ojgw4087CdzAGOPO2e7a5CF9egNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTk5/Ny0xMTU0MDkyOTg1/LmpwZWc.jpeg",
     "genres": [
       "Electronic",
-      "Hip Hop"
+      "Rock"
     ],
     "styles": [
-      "Cut-up/DJ",
-      "Hip Hop"
+      "Krautrock",
+      "Experimental"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/31089"
+    "label": "Fame",
+    "discogs_url": "https://www.discogs.com/release/595997"
   }
 }
