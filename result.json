@@ -1,24 +1,29 @@
 {
-  "generated_at": "2026-09-28T17:53:58.688758+00:00",
+  "generated_at": "2026-09-28T21:30:13.123240+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 552107,
-    "discogs_id": 552107,
-    "title": "Darklands",
-    "artist": "The Jesus And Mary Chain",
-    "year": 1987,
-    "cover_image": "https://i.discogs.com/Pb8ER3LXKEgLh2_Rt1icduw9bt_L_mKbV3p0u9aNWB0/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjEw/Ny0xNTI4NjE5MTI5/LTc4MzcuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/mGE0wQP-LAWlDx7CngBBCsQy3rjqSfny2y8T8PvN5r4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjEw/Ny0xNTI4NjE5MTI5/LTc4MzcuanBlZw.jpeg",
+    "id": 3099790,
+    "discogs_id": 3099790,
+    "title": "Story Of Pop",
+    "artist": "Various",
+    "year": 1973,
+    "cover_image": "https://i.discogs.com/uKZ_DIWhNXz6_lvRb5Mn_NMuHKHPtse5dZU0zaYds14/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk3/OTAtMTU4NjE4NzA4/NS01MzY1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/XrpnaJSV0YFgJ-x05gZSgIvfmhLI5hIGkBvnWRYYdJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk3/OTAtMTU4NjE4NzA4/NS01MzY1LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Reggae",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock",
-      "Shoegaze",
-      "Indie Rock",
-      "Post-Punk"
+      "Rock & Roll",
+      "Pop Rock",
+      "Soul",
+      "Vocal",
+      "Reggae-Pop",
+      "Classic Rock"
     ],
-    "label": "Blanco Y Negro",
-    "discogs_url": "https://www.discogs.com/release/552107"
+    "label": "K-Tel",
+    "discogs_url": "https://www.discogs.com/release/3099790"
   }
 }
