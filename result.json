@@ -1,29 +1,23 @@
 {
-  "generated_at": "2026-09-28T21:30:13.123240+00:00",
+  "generated_at": "2026-09-29T10:31:11.704811+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 3099790,
-    "discogs_id": 3099790,
-    "title": "Story Of Pop",
-    "artist": "Various",
-    "year": 1973,
-    "cover_image": "https://i.discogs.com/uKZ_DIWhNXz6_lvRb5Mn_NMuHKHPtse5dZU0zaYds14/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk3/OTAtMTU4NjE4NzA4/NS01MzY1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/XrpnaJSV0YFgJ-x05gZSgIvfmhLI5hIGkBvnWRYYdJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk3/OTAtMTU4NjE4NzA4/NS01MzY1LmpwZWc.jpeg",
+    "id": 770516,
+    "discogs_id": 770516,
+    "title": "The House Of The Rising Sun + Quasimodo Suite",
+    "artist": "Santa Esmeralda, Jimmy Goings",
+    "year": 1977,
+    "cover_image": "https://i.discogs.com/gxAE2Q5ANkDfZpE1rhkQB31qXzWBTpxvgSLUx_EQ8mk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDUx/Ni0xNTkxNTI2MzMy/LTY3NjAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/fogJWtXN10ouNpG69OU8AIZB19HSbSjKkR4XLuS3JC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDUx/Ni0xNTkxNTI2MzMy/LTY3NjAuanBlZw.jpeg",
     "genres": [
       "Rock",
-      "Reggae",
-      "Funk / Soul",
-      "Pop"
+      "Latin",
+      "Funk / Soul"
     ],
     "styles": [
-      "Rock & Roll",
-      "Pop Rock",
-      "Soul",
-      "Vocal",
-      "Reggae-Pop",
-      "Classic Rock"
+      "Disco"
     ],
-    "label": "K-Tel",
-    "discogs_url": "https://www.discogs.com/release/3099790"
+    "label": "Philips",
+    "discogs_url": "https://www.discogs.com/release/770516"
   }
 }
