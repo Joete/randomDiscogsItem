@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-09-29T16:16:10.488077+00:00",
+  "generated_at": "2026-09-29T20:22:57.974998+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 9057753,
-    "discogs_id": 9057753,
-    "title": "Urban Hymns",
-    "artist": "The Verve",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/TLP6LW4ZgXRpjUcit-D4MAHWyl6iY6WqO665aAlrclA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ3NDM3NjY4/Mi04MDg4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/JBcaGzlAHXLRtRmtq_H2jKfC8PKWS8iQ-sFZJ3TYbyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ3NDM3NjY4/Mi04MDg4LmpwZWc.jpeg",
+    "id": 498868,
+    "discogs_id": 498868,
+    "title": "Harvest",
+    "artist": "Neil Young",
+    "year": 1972,
+    "cover_image": "https://i.discogs.com/Ee7npzC3J4Cy5FPa_bRWPvkYqWo0XnW5GFOWeQh_c8c/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODg2/OC0xNDIyOTk0NjE2/LTI0MjkuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/7weX3VX-GM8FbZuSnYDgvM7eDeFaaMTccQ2JMyCpNz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODg2/OC0xNDIyOTk0NjE2/LTI0MjkuanBlZw.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Britpop"
+      "Folk Rock",
+      "Country Rock"
     ],
-    "label": "Virgin EMI Records",
-    "discogs_url": "https://www.discogs.com/release/9057753"
+    "label": "Reprise Records",
+    "discogs_url": "https://www.discogs.com/release/498868"
   }
 }
