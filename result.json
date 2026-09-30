@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-29T20:22:57.974998+00:00",
+  "generated_at": "2026-09-30T10:22:16.143588+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 498868,
-    "discogs_id": 498868,
-    "title": "Harvest",
-    "artist": "Neil Young",
-    "year": 1972,
-    "cover_image": "https://i.discogs.com/Ee7npzC3J4Cy5FPa_bRWPvkYqWo0XnW5GFOWeQh_c8c/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODg2/OC0xNDIyOTk0NjE2/LTI0MjkuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/7weX3VX-GM8FbZuSnYDgvM7eDeFaaMTccQ2JMyCpNz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODg2/OC0xNDIyOTk0NjE2/LTI0MjkuanBlZw.jpeg",
+    "id": 3181151,
+    "discogs_id": 3181151,
+    "title": "Fight For Your Cause",
+    "artist": "Pearl Jam",
+    "year": 1994,
+    "cover_image": "https://i.discogs.com/V6SjvyAnkuJa7pXQYoT2JVf5rTsq56iitKH3tcUyw20/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODEx/NTEtMTQzODQ2NjU2/Ny02MzQ3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/BSA8xWdSHokyBOnaSJfP5ytgLHH97Ouf-65lkd0Dm2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODEx/NTEtMTQzODQ2NjU2/Ny02MzQ3LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Folk Rock",
-      "Country Rock"
+      "Grunge"
     ],
-    "label": "Reprise Records",
-    "discogs_url": "https://www.discogs.com/release/498868"
+    "label": "Octopus",
+    "discogs_url": "https://www.discogs.com/release/3181151"
   }
 }
