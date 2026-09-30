@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-30T10:22:16.143588+00:00",
+  "generated_at": "2026-09-30T16:11:07.766640+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 3181151,
-    "discogs_id": 3181151,
-    "title": "Fight For Your Cause",
-    "artist": "Pearl Jam",
-    "year": 1994,
-    "cover_image": "https://i.discogs.com/V6SjvyAnkuJa7pXQYoT2JVf5rTsq56iitKH3tcUyw20/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODEx/NTEtMTQzODQ2NjU2/Ny02MzQ3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/BSA8xWdSHokyBOnaSJfP5ytgLHH97Ouf-65lkd0Dm2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODEx/NTEtMTQzODQ2NjU2/Ny02MzQ3LmpwZWc.jpeg",
+    "id": 547023,
+    "discogs_id": 547023,
+    "title": "Asleep In The Back",
+    "artist": "Elbow",
+    "year": 2001,
+    "cover_image": "https://i.discogs.com/yrAr6Oa93bnBoTZ5JSLct5D8ppazooOavDmeJQhgbOI/rs:fit/g:sm/q:90/h:593/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzAy/My0xNTYyOTQxNDY1/LTUwMTIuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/XOMY9VJXwHrnqQQlHP4KiMtG-HUyzx3bmRj56UeYPUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzAy/My0xNTYyOTQxNDY1/LTUwMTIuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Grunge"
+      "Alternative Rock"
     ],
-    "label": "Octopus",
-    "discogs_url": "https://www.discogs.com/release/3181151"
+    "label": "V2",
+    "discogs_url": "https://www.discogs.com/release/547023"
   }
 }
