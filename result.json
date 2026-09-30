@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-09-30T16:11:07.766640+00:00",
+  "generated_at": "2026-09-30T20:26:47.708443+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 547023,
-    "discogs_id": 547023,
-    "title": "Asleep In The Back",
-    "artist": "Elbow",
-    "year": 2001,
-    "cover_image": "https://i.discogs.com/yrAr6Oa93bnBoTZ5JSLct5D8ppazooOavDmeJQhgbOI/rs:fit/g:sm/q:90/h:593/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzAy/My0xNTYyOTQxNDY1/LTUwMTIuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/XOMY9VJXwHrnqQQlHP4KiMtG-HUyzx3bmRj56UeYPUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzAy/My0xNTYyOTQxNDY1/LTUwMTIuanBlZw.jpeg",
+    "id": 7468715,
+    "discogs_id": 7468715,
+    "title": "The Nightly Disease",
+    "artist": "Madrugada",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/uUGJ6Si7U4Mq2wZOIWIOZuM69rKwj4DwfmGXldwv3qE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njg3/MTUtMTQ1NjgzMDMx/OS0xNjQyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/ANuJ2tywWA3VikTof1ocJEEf4u0ZtW7zdwWUtbznS2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njg3/MTUtMTQ1NjgzMDMx/OS0xNjQyLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock"
+      "Alternative Rock",
+      "New Wave",
+      "Ballad"
     ],
-    "label": "V2",
-    "discogs_url": "https://www.discogs.com/release/547023"
+    "label": "Music On Vinyl",
+    "discogs_url": "https://www.discogs.com/release/7468715"
   }
 }
