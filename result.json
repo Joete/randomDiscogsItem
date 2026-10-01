@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-10-01T16:48:27.884438+00:00",
+  "generated_at": "2026-10-01T20:43:35.737338+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 30452354,
-    "discogs_id": 30452354,
-    "title": "Live From Red Rocks 2005",
-    "artist": "Pixies",
-    "year": 2024,
-    "cover_image": "https://i.discogs.com/1KquxspvfWgnLqQHE4inW6T_bhBYcKFXlft_P9hrnOY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/MzU0LTE3MTM2MzAz/MzMtOTkyMC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/GPOjIyIPDKj26rRbrPW6n-HikiVNNseyrejEQbTR410/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/MzU0LTE3MTM2MzAz/MzMtOTkyMC5qcGVn.jpeg",
+    "id": 23621648,
+    "discogs_id": 23621648,
+    "title": "Familiar To Millions",
+    "artist": "Oasis (2)",
+    "year": 2022,
+    "cover_image": "https://i.discogs.com/MRrclhK04RjzgeBMfZ244egExsUYYASm-9ALLc02dwE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIx/NjQ4LTE2NTU2NDgw/NzQtNTk5NC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Xh2-m2bE3mNtPC9cq3s9pCdpMuvSX3fr4lODvHHMKmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIx/NjQ4LTE2NTU2NDgw/NzQtNTk5NC5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
-    "styles": [],
-    "label": "Demon Records",
-    "discogs_url": "https://www.discogs.com/release/30452354"
+    "styles": [
+      "Britpop"
+    ],
+    "label": "Big Brother (3)",
+    "discogs_url": "https://www.discogs.com/release/23621648"
   }
 }
