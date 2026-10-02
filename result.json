@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-10-02T10:23:10.770952+00:00",
+  "generated_at": "2026-10-02T16:02:12.270985+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 12363778,
-    "discogs_id": 12363778,
-    "title": "The Moldy Peaches",
-    "artist": "The Moldy Peaches",
-    "year": 2018,
-    "cover_image": "https://i.discogs.com/HAcMTkPlCy6jhlUXd0lntwG8G8UELaznzodhUHeaOUk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYz/Nzc4LTE1MzQyNjM1/ODYtNTMxMC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/P6fxG20rgtMkTnp7jteShVQuqszzJo5hkj7FDtr73RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYz/Nzc4LTE1MzQyNjM1/ODYtNTMxMC5qcGVn.jpeg",
+    "id": 1498793,
+    "discogs_id": 1498793,
+    "title": "Computerliebe (Die Module Spielen Verrückt)",
+    "artist": "Paso Doble",
+    "year": 1984,
+    "cover_image": "https://i.discogs.com/AIAExwH-cQYsXzL-76so9OS7ECGRh28zhdLQ3taOUaE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg3/OTMtMTMxNzU1NjEz/NC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/HK5K36Z7yGGKExJnYF_bMvBQ79xyzqZe6_udj4M0mFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg3/OTMtMTMxNzU1NjEz/NC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Pop"
     ],
     "styles": [
-      "Indie Rock"
+      "NDW",
+      "New Wave",
+      "Synth-pop"
     ],
-    "label": "Rough Trade",
-    "discogs_url": "https://www.discogs.com/release/12363778"
+    "label": "WEA",
+    "discogs_url": "https://www.discogs.com/release/1498793"
   }
 }
