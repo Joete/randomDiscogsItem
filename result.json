@@ -1,24 +1,26 @@
 {
-  "generated_at": "2026-10-02T16:02:12.270985+00:00",
+  "generated_at": "2026-10-02T20:16:18.130345+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 1498793,
-    "discogs_id": 1498793,
-    "title": "Computerliebe (Die Module Spielen Verrückt)",
-    "artist": "Paso Doble",
-    "year": 1984,
-    "cover_image": "https://i.discogs.com/AIAExwH-cQYsXzL-76so9OS7ECGRh28zhdLQ3taOUaE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg3/OTMtMTMxNzU1NjEz/NC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/HK5K36Z7yGGKExJnYF_bMvBQ79xyzqZe6_udj4M0mFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg3/OTMtMTMxNzU1NjEz/NC5qcGVn.jpeg",
+    "id": 419387,
+    "discogs_id": 419387,
+    "title": "Beautiful Freak",
+    "artist": "Eels",
+    "year": 1997,
+    "cover_image": "https://i.discogs.com/8TKNV446pkeLQhaLt8Cl8UL_p2DYdm-XEIi7bZISz78/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTM4/Ny0xMjQ0Mjg3OTk3/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Eu9yTGL1-xQrC3zsvCU-Ij4Y4zUcaaRboABvprRVx0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTM4/Ny0xMjQ0Mjg3OTk3/LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
+      "Rock",
       "Pop"
     ],
     "styles": [
-      "NDW",
-      "New Wave",
-      "Synth-pop"
+      "Indie Rock",
+      "Pop Rock",
+      "Grunge",
+      "Alternative Rock",
+      "Ballad"
     ],
-    "label": "WEA",
-    "discogs_url": "https://www.discogs.com/release/1498793"
+    "label": "DreamWorks Records",
+    "discogs_url": "https://www.discogs.com/release/419387"
   }
 }
