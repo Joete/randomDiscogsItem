@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-03T18:56:07.494810+00:00",
+  "generated_at": "2026-10-04T10:28:54.214415+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 6233189,
-    "discogs_id": 6233189,
-    "title": "Heart Of Stone",
-    "artist": "Cher",
-    "year": 1989,
-    "cover_image": "https://i.discogs.com/0qNqbaPKeQu8lWM4z2apRdjMyDkPuOTuaTJwsseNQaM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzMx/ODktMTQxNDM0NjA0/MC00MTY1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/QOXm3DGJS4_uqnFLbatIxovlKbp0w_QIdBKB8EVx_3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzMx/ODktMTQxNDM0NjA0/MC00MTY1LmpwZWc.jpeg",
+    "id": 3864534,
+    "discogs_id": 3864534,
+    "title": "Solo Piano II",
+    "artist": "Chilly Gonzales",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/myKAHtqBJN4glLx7dSIhA8SEWdVcKugf9wNe_L2g6E8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjQ1/MzQtMTY5NTY4MTE3/NC0yNjM3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/_assJrHw1sEjkNuNbEZKPiKdOT32ncSxc8-juVX-Gsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjQ1/MzQtMTY5NTY4MTE3/NC0yNjM3LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Pop",
+      "Classical"
     ],
     "styles": [
-      "Pop Rock"
+      "Modern"
     ],
-    "label": "Geffen Records",
-    "discogs_url": "https://www.discogs.com/release/6233189"
+    "label": "Gentle Threat",
+    "discogs_url": "https://www.discogs.com/release/3864534"
   }
 }
