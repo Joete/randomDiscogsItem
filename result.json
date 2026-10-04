@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-04T10:28:54.214415+00:00",
+  "generated_at": "2026-10-04T15:02:29.774304+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 3864534,
-    "discogs_id": 3864534,
-    "title": "Solo Piano II",
-    "artist": "Chilly Gonzales",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/myKAHtqBJN4glLx7dSIhA8SEWdVcKugf9wNe_L2g6E8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjQ1/MzQtMTY5NTY4MTE3/NC0yNjM3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/_assJrHw1sEjkNuNbEZKPiKdOT32ncSxc8-juVX-Gsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjQ1/MzQtMTY5NTY4MTE3/NC0yNjM3LmpwZWc.jpeg",
+    "id": 2053426,
+    "discogs_id": 2053426,
+    "title": "The Knot",
+    "artist": "Wye Oak",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/7HlbyiVlwYBjr73Dh9sYsZ6PpPLnSS8pKetMOrk7SRE/rs:fit/g:sm/q:90/h:255/w:255/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTM0/MjYtMTI4NzUzMjE3/Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/BVhEUrbp_SlovAS0HyLI9KZphWmscGHQve03OdQsJyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTM0/MjYtMTI4NzUzMjE3/Ni5qcGVn.jpeg",
     "genres": [
-      "Pop",
-      "Classical"
+      "Rock"
     ],
     "styles": [
-      "Modern"
+      "Acoustic",
+      "Indie Rock"
     ],
-    "label": "Gentle Threat",
-    "discogs_url": "https://www.discogs.com/release/3864534"
+    "label": "Affairs Of The Heart",
+    "discogs_url": "https://www.discogs.com/release/2053426"
   }
 }
