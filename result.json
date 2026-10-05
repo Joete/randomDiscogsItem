@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-10-04T18:56:00.972322+00:00",
+  "generated_at": "2026-10-05T11:18:03.085237+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 3807436,
-    "discogs_id": 3807436,
-    "title": "K.O.O.K.",
-    "artist": "Tocotronic",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/J7zm2B76JKtoSPof31_ZsR02MVBQeqYfHy5sF_8syJg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/MzYtMTQzNTYxNTA4/My04ODg4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/tnZZu_XvpzuPNV-uFZ6eozRko3EhB1EoGXmJ2qjErD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/MzYtMTQzNTYxNTA4/My04ODg4LmpwZWc.jpeg",
+    "id": 419387,
+    "discogs_id": 419387,
+    "title": "Beautiful Freak",
+    "artist": "Eels",
+    "year": 1997,
+    "cover_image": "https://i.discogs.com/8TKNV446pkeLQhaLt8Cl8UL_p2DYdm-XEIi7bZISz78/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTM4/Ny0xMjQ0Mjg3OTk3/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Eu9yTGL1-xQrC3zsvCU-Ij4Y4zUcaaRboABvprRVx0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTM4/Ny0xMjQ0Mjg3OTk3/LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Indie Rock"
+      "Indie Rock",
+      "Pop Rock",
+      "Grunge",
+      "Alternative Rock",
+      "Ballad"
     ],
-    "label": "Buback",
-    "discogs_url": "https://www.discogs.com/release/3807436"
+    "label": "DreamWorks Records",
+    "discogs_url": "https://www.discogs.com/release/419387"
   }
 }
