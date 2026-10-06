@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-06T11:07:33.586424+00:00",
+  "generated_at": "2026-10-06T16:24:51.588525+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 5807076,
-    "discogs_id": 5807076,
-    "title": "Beautiful Freak",
-    "artist": "Eels",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/c0xBRAMxUjQY7KcGr9JY1p4aY_d3k5ppzuO0qN23SnM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDcw/NzYtMTQwNDUwNzU1/OC0yNjg0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/ZPLHCckNaGBiVdJ9398diapECqNw-qiIrpYggAmiARM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDcw/NzYtMTQwNDUwNzU1/OC0yNjg0LmpwZWc.jpeg",
+    "id": 2005150,
+    "discogs_id": 2005150,
+    "title": "Hometowns",
+    "artist": "The Rural Alberta Advantage",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/7nguhBX7YstqJDfA-tvOEaoNZAKTllhLOVy-sWKubb4/rs:fit/g:sm/q:90/h:375/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDUx/NTAtMTI1ODI5NTg3/OC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/8ufmjdGUsrG5PCx9X2963pClDDuhox3p39VDmqSRrvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDUx/NTAtMTI1ODI5NTg3/OC5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
+      "Folk Rock",
       "Indie Rock"
     ],
-    "label": "DreamWorks Records",
-    "discogs_url": "https://www.discogs.com/release/5807076"
+    "label": "Saddle Creek",
+    "discogs_url": "https://www.discogs.com/release/2005150"
   }
 }
