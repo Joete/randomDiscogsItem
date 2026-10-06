@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-05T22:16:53.665046+00:00",
+  "generated_at": "2026-10-06T11:07:33.586424+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 3930915,
-    "discogs_id": 3930915,
-    "title": "Alles Klar Auf Der Andrea Doria",
-    "artist": "Udo Lindenberg Und Das Panikorchester",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/sUqtIDn0KHpFscMBlncVC-GomJ_i5bgcqX7SnhDsfPM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzA5/MTUtMTM0OTYyODEy/NC03NTU4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/v0q91AoE2r2LqfWjfmRxoATmq56karLcJtIToyXft24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzA5/MTUtMTM0OTYyODEy/NC03NTU4LmpwZWc.jpeg",
+    "id": 5807076,
+    "discogs_id": 5807076,
+    "title": "Beautiful Freak",
+    "artist": "Eels",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/c0xBRAMxUjQY7KcGr9JY1p4aY_d3k5ppzuO0qN23SnM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDcw/NzYtMTQwNDUwNzU1/OC0yNjg0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/ZPLHCckNaGBiVdJ9398diapECqNw-qiIrpYggAmiARM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDcw/NzYtMTQwNDUwNzU1/OC0yNjg0LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Classic Rock"
+      "Alternative Rock",
+      "Indie Rock"
     ],
-    "label": "TELDEC",
-    "discogs_url": "https://www.discogs.com/release/3930915"
+    "label": "DreamWorks Records",
+    "discogs_url": "https://www.discogs.com/release/5807076"
   }
 }
