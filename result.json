@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-10-07T17:07:43.726495+00:00",
+  "generated_at": "2026-10-07T20:56:13.748948+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 5746111,
-    "discogs_id": 5746111,
-    "title": "Daydream Nation",
-    "artist": "Sonic Youth",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/0QLVSaCsVSnH9nTexUu64IP0Tzphgnj7GaUIR-N4u7g/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDYx/MTEtMTY5MzI2NjAz/NC00NTk5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/tOYaXzG8us0CGnLb7ela67UxjqiC1TO5927_mUNFYC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDYx/MTEtMTY5MzI2NjAz/NC00NTk5LmpwZWc.jpeg",
+    "id": 2054920,
+    "discogs_id": 2054920,
+    "title": "Nach Dem Goldrausch",
+    "artist": "Fotos",
+    "year": 2008,
+    "cover_image": "https://i.discogs.com/tzRNE6SdaCVuv9uki-utJPX8H7BjM1MN1Z7yFy0rTrM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ5/MjAtMTYwOTcyMDY2/MS04MTQ4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/HuuOcQ6bI97BZLtdcvr5Jy7GNUgaNpuNqgfxHf3mkQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ5/MjAtMTYwOTcyMDY2/MS04MTQ4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Avantgarde",
-      "Experimental",
-      "Noise Rock"
+      "Indie Rock"
     ],
-    "label": "Goofin' Records",
-    "discogs_url": "https://www.discogs.com/release/5746111"
+    "label": "Labels",
+    "discogs_url": "https://www.discogs.com/release/2054920"
   }
 }
