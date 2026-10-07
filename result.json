@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-10-06T20:43:16.644436+00:00",
+  "generated_at": "2026-10-07T10:56:12.330558+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 3789572,
-    "discogs_id": 3789572,
-    "title": "Revolver",
-    "artist": "The Beatles",
-    "year": 1977,
-    "cover_image": "https://i.discogs.com/xmbU9ldSmvynluHCka2MyQ_8zi6tUcRwKKw6fuU6RE4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODk1/NzItMTM0NDUwMTc0/OC0zMTMzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/UXSQ5MgkidczFFZ54I_fUBCr8sfaSXg8eql47s9ewxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODk1/NzItMTM0NDUwMTc0/OC0zMTMzLmpwZWc.jpeg",
+    "id": 8083288,
+    "discogs_id": 8083288,
+    "title": "Human Ceremony",
+    "artist": "Sunflower Bean",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/lmy_KeqfgALMcPKPU3b7uBcgzPUoUr6W9gB1xvNEYuA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODMy/ODgtMTQ1NDk4NTI3/MC04NDE1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/ml7NPLVsmyjW80RKHTze_eYIIjegoJOlhIHQ8nHsyuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODMy/ODgtMTQ1NDk4NTI3/MC04NDE1LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Psychedelic Rock",
-      "Pop Rock"
+      "Indie Rock"
     ],
-    "label": "Apple Records",
-    "discogs_url": "https://www.discogs.com/release/3789572"
+    "label": "Fat Possum Records",
+    "discogs_url": "https://www.discogs.com/release/8083288"
   }
 }
