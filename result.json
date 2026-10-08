@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-10-08T11:13:26.950570+00:00",
+  "generated_at": "2026-10-08T17:05:43.678926+00:00",
   "total_in_collection": 1157,
   "result": {
-    "id": 2828728,
-    "discogs_id": 2828728,
-    "title": "Monsoon",
-    "artist": "Preston School Of Industry",
-    "year": 2004,
-    "cover_image": "https://i.discogs.com/rkFVNWcnJbsTLpd9OHiY7ULxjsZYYgMgJE7xBjJ278k/rs:fit/g:sm/q:90/h:285/w:290/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MjgtMTMwMjg5MDEw/OC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/Gvj9lhe9Kive9WIiln7-xME2ERhkeGwUpi_9asKdvH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MjgtMTMwMjg5MDEw/OC5qcGVn.jpeg",
+    "id": 2436821,
+    "discogs_id": 2436821,
+    "title": "Mutations",
+    "artist": "Beck",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/hefUCLwNozZPihy-xFfJWDs31nrGDUf2fLVgQy5-MDk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY4/MjEtMTQ3MTYyMTU5/NS00NzU3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/RcDiU_QqRmm1HmnRefGrO3D5RPu6dwR6bs-23YL3WNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY4/MjEtMTQ3MTYyMTU5/NS00NzU3LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Folk, World, & Country"
+      "Rock"
     ],
     "styles": [
       "Alternative Rock",
-      "Country Rock"
+      "Indie Rock"
     ],
-    "label": "Domino",
-    "discogs_url": "https://www.discogs.com/release/2828728"
+    "label": "Geffen Records",
+    "discogs_url": "https://www.discogs.com/release/2436821"
   }
 }
