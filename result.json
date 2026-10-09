@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-10-08T20:57:56.437090+00:00",
-  "total_in_collection": 1157,
+  "generated_at": "2026-10-09T11:12:32.141020+00:00",
+  "total_in_collection": 1158,
   "result": {
-    "id": 4432829,
-    "discogs_id": 4432829,
-    "title": "Still Bill",
-    "artist": "Bill Withers",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/WcrZ_Sb88n2WUR9oLVZ2uUUhb2cwVwigzsywgbhLMKQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzI4/MjktMTU3MDAwMDA0/OS03MTM3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/pq9vSwPmNS3LJh8qNFBdUV_J8tDHdne3aXHeloJGTbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzI4/MjktMTU3MDAwMDA0/OS03MTM3LmpwZWc.jpeg",
+    "id": 1969595,
+    "discogs_id": 1969595,
+    "title": "Tour Of The Universe. July 1st, 2009. Hamburg, Germany.",
+    "artist": "Depeche Mode",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/cAy-bX5W1tRjmREgz0QlsQA9SWNrkIE1QYb-JP1C6_0/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njk1/OTUtMTI1NTc3MjMx/MC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/lYOibuTUL98wA3MCjrkYUVUxOOBrBgu6lrzEsL3zCng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njk1/OTUtMTI1NTc3MjMx/MC5qcGVn.jpeg",
     "genres": [
-      "Funk / Soul"
+      "Electronic",
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Soul",
-      "Funk"
+      "Alternative Rock",
+      "Synth-pop"
     ],
-    "label": "Music On Vinyl",
-    "discogs_url": "https://www.discogs.com/release/4432829"
+    "label": "Live Here Now",
+    "discogs_url": "https://www.discogs.com/release/1969595"
   }
 }
