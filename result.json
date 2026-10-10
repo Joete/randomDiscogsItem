@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-10T15:38:47.338795+00:00",
+  "generated_at": "2026-10-10T19:40:03.987322+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 653402,
-    "discogs_id": 653402,
-    "title": "Unsolved",
-    "artist": "Karate",
-    "year": 2000,
-    "cover_image": "https://i.discogs.com/4MmOzv9z9PXpmApAiWC1_-LnQsC2Y3szxjfz9tlUzF0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzQw/Mi0xNTQ1Njk5MTc4/LTQ5NzMuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/TuvnFwaS5ztlDK6cZRsMBG4kEcoIvt5JzF2Mu1ZoNFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzQw/Mi0xNTQ1Njk5MTc4/LTQ5NzMuanBlZw.jpeg",
+    "id": 15122716,
+    "discogs_id": 15122716,
+    "title": "Live At The Ritz - An Acoustic Performance",
+    "artist": "Elbow",
+    "year": 2020,
+    "cover_image": "https://i.discogs.com/rdv9pZBx1MqUixj_XIRd3EBxpgOFUhagDz2lkWhjOLw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NzE2LTE1ODY5Njkw/OTktODUxOC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/P0oxHmY5z9TZd1YjEtMfCFOaWsQpj8l3bgREuP45zEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NzE2LTE1ODY5Njkw/OTktODUxOC5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Post Rock"
+      "Acoustic",
+      "Indie Rock"
     ],
-    "label": "Southern Records",
-    "discogs_url": "https://www.discogs.com/release/653402"
+    "label": "Polydor",
+    "discogs_url": "https://www.discogs.com/release/15122716"
   }
 }
