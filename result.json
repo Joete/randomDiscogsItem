@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-09T20:26:53.680212+00:00",
+  "generated_at": "2026-10-10T10:29:33.455622+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1215824,
-    "discogs_id": 1215824,
-    "title": "Zillo 4-Track Single",
-    "artist": "Various",
-    "year": 1992,
-    "cover_image": "https://i.discogs.com/frVsg9JiMBRFRxwwHgrJdvAsM9f2Mn5QHRxykS2-kRo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU4/MjQtMTIwMTM1NDY4/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/wCrPJjoMNJIgW6BJ1iv55PjZoMODzZVkakxrOG19mes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU4/MjQtMTIwMTM1NDY4/OS5qcGVn.jpeg",
+    "id": 24854075,
+    "discogs_id": 24854075,
+    "title": "Time Expired",
+    "artist": "Karate",
+    "year": 2022,
+    "cover_image": "https://i.discogs.com/RzldTjywAbz0TabeiwJOPOulNbW67u4eOK2ofO10mXQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU0/MDc1LTE2NjYwMjMy/MzYtNzY0MS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/RA7XWgFIJbMF2iJuwUmucxomeQANB20kkVee5pQLZRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU0/MDc1LTE2NjYwMjMy/MzYtNzY0MS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Goth Rock"
+      "Indie Rock",
+      "Experimental"
     ],
-    "label": "Zillo",
-    "discogs_url": "https://www.discogs.com/release/1215824"
+    "label": "Numero Group",
+    "discogs_url": "https://www.discogs.com/release/24854075"
   }
 }
