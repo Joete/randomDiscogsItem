@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-10T10:29:33.455622+00:00",
+  "generated_at": "2026-10-10T15:38:47.338795+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 24854075,
-    "discogs_id": 24854075,
-    "title": "Time Expired",
+    "id": 653402,
+    "discogs_id": 653402,
+    "title": "Unsolved",
     "artist": "Karate",
-    "year": 2022,
-    "cover_image": "https://i.discogs.com/RzldTjywAbz0TabeiwJOPOulNbW67u4eOK2ofO10mXQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU0/MDc1LTE2NjYwMjMy/MzYtNzY0MS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/RA7XWgFIJbMF2iJuwUmucxomeQANB20kkVee5pQLZRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU0/MDc1LTE2NjYwMjMy/MzYtNzY0MS5qcGVn.jpeg",
+    "year": 2000,
+    "cover_image": "https://i.discogs.com/4MmOzv9z9PXpmApAiWC1_-LnQsC2Y3szxjfz9tlUzF0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzQw/Mi0xNTQ1Njk5MTc4/LTQ5NzMuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/TuvnFwaS5ztlDK6cZRsMBG4kEcoIvt5JzF2Mu1ZoNFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzQw/Mi0xNTQ1Njk5MTc4/LTQ5NzMuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock",
-      "Experimental"
+      "Alternative Rock",
+      "Post Rock"
     ],
-    "label": "Numero Group",
-    "discogs_url": "https://www.discogs.com/release/24854075"
+    "label": "Southern Records",
+    "discogs_url": "https://www.discogs.com/release/653402"
   }
 }
