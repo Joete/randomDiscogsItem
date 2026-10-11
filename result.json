@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-10T19:40:03.987322+00:00",
+  "generated_at": "2026-10-11T10:41:38.157206+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 15122716,
-    "discogs_id": 15122716,
-    "title": "Live At The Ritz - An Acoustic Performance",
-    "artist": "Elbow",
-    "year": 2020,
-    "cover_image": "https://i.discogs.com/rdv9pZBx1MqUixj_XIRd3EBxpgOFUhagDz2lkWhjOLw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NzE2LTE1ODY5Njkw/OTktODUxOC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/P0oxHmY5z9TZd1YjEtMfCFOaWsQpj8l3bgREuP45zEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NzE2LTE1ODY5Njkw/OTktODUxOC5qcGVn.jpeg",
+    "id": 1149846,
+    "discogs_id": 1149846,
+    "title": "The Singles 1969-1973",
+    "artist": "Carpenters",
+    "year": 1973,
+    "cover_image": "https://i.discogs.com/DoESn-NsTrfsb5Ak3LnuRRwDsj3dOf7AAtqlIDFYCCk/rs:fit/g:sm/q:90/h:216/w:220/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk4/NDYtMTM1NDc5ODEw/My00MzAzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/M0Gta3muoRKBzUsL9ntxyKJSjZoRdjcJ835yc_ueVdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk4/NDYtMTM1NDc5ODEw/My00MzAzLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Acoustic",
-      "Indie Rock"
+      "Pop Rock",
+      "Easy Listening"
     ],
-    "label": "Polydor",
-    "discogs_url": "https://www.discogs.com/release/15122716"
+    "label": "A&M Records",
+    "discogs_url": "https://www.discogs.com/release/1149846"
   }
 }
