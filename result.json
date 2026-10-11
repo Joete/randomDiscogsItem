@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-11T10:41:38.157206+00:00",
+  "generated_at": "2026-10-11T16:04:37.836206+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1149846,
-    "discogs_id": 1149846,
-    "title": "The Singles 1969-1973",
-    "artist": "Carpenters",
-    "year": 1973,
-    "cover_image": "https://i.discogs.com/DoESn-NsTrfsb5Ak3LnuRRwDsj3dOf7AAtqlIDFYCCk/rs:fit/g:sm/q:90/h:216/w:220/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk4/NDYtMTM1NDc5ODEw/My00MzAzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/M0Gta3muoRKBzUsL9ntxyKJSjZoRdjcJ835yc_ueVdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk4/NDYtMTM1NDc5ODEw/My00MzAzLmpwZWc.jpeg",
+    "id": 1891372,
+    "discogs_id": 1891372,
+    "title": "22 Fantastic Hits",
+    "artist": "Various",
+    "year": 1975,
+    "cover_image": "https://i.discogs.com/Pz8tfeOrV-glEbOdADEalIg7oAduGNrLwUNGgPdtRow/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTEz/NzItMTQzNzE0MDQ0/NS02ODEzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/__8E2MJcSNym8zUX-x2-_1jYZGK5mEtaF-Mt-a7wjZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTEz/NzItMTQzNzE0MDQ0/NS02ODEzLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Pop Rock",
-      "Easy Listening"
+      "Pop Rock"
     ],
-    "label": "A&M Records",
-    "discogs_url": "https://www.discogs.com/release/1149846"
+    "label": "Arcade Records (3)",
+    "discogs_url": "https://www.discogs.com/release/1891372"
   }
 }
