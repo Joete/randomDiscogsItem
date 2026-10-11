@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-11T16:04:37.836206+00:00",
+  "generated_at": "2026-10-11T19:50:42.798613+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1891372,
-    "discogs_id": 1891372,
-    "title": "22 Fantastic Hits",
-    "artist": "Various",
-    "year": 1975,
-    "cover_image": "https://i.discogs.com/Pz8tfeOrV-glEbOdADEalIg7oAduGNrLwUNGgPdtRow/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTEz/NzItMTQzNzE0MDQ0/NS02ODEzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/__8E2MJcSNym8zUX-x2-_1jYZGK5mEtaF-Mt-a7wjZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTEz/NzItMTQzNzE0MDQ0/NS02ODEzLmpwZWc.jpeg",
+    "id": 2871755,
+    "discogs_id": 2871755,
+    "title": "Tuber",
+    "artist": "Bivouac",
+    "year": 1993,
+    "cover_image": "https://i.discogs.com/RYJnYTp5VYks89yPGQRWoeT3rfYY2UBVDT_uNq7aNlg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE3/NTUtMTMzMjI1OTIy/NS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/stG9kxQ3J0L-9KcsZD6XerXkdRnCDTbAVNPlBRRczBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE3/NTUtMTMzMjI1OTIy/NS5qcGVn.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Pop Rock"
+      "Alternative Rock",
+      "Grunge"
     ],
-    "label": "Arcade Records (3)",
-    "discogs_url": "https://www.discogs.com/release/1891372"
+    "label": "Elemental Records",
+    "discogs_url": "https://www.discogs.com/release/2871755"
   }
 }
