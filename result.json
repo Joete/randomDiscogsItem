@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-12T11:46:42.600226+00:00",
+  "generated_at": "2026-10-12T19:31:53.763170+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1185356,
-    "discogs_id": 1185356,
-    "title": "Wonsaponatime",
-    "artist": "John Lennon",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/7aa9FN6Hc-ESFOZlGosQ-EadiSsRgGjpLcO7BYSwBQY/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUz/NTYtMTU0ODA5NzQx/MC00NzE1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/rurYFrJYz1gw6NE-VIDLs9EazwYfeQom41VFIG7CNSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUz/NTYtMTU0ODA5NzQx/MC00NzE1LmpwZWc.jpeg",
+    "id": 594012,
+    "discogs_id": 594012,
+    "title": "Rocky III (Original Motion Picture Score)",
+    "artist": "Bill Conti",
+    "year": 1982,
+    "cover_image": "https://i.discogs.com/RZi69khJ9xb2803hEGp5DrHf4HKic5REAN1RifWdZQ0/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDAx/Mi0xNTIwMDY3MzU5/LTg3MjcuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/RYA0Qp7NVIZve17kh0bDDUWqwAVYo-kqS6WRAwQh0zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDAx/Mi0xNTIwMDY3MzU5/LTg3MjcuanBlZw.jpeg",
     "genres": [
       "Rock",
-      "Pop"
+      "Stage & Screen"
     ],
     "styles": [
-      "Art Rock",
+      "Soundtrack",
       "Pop Rock"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/1185356"
+    "label": "Liberty",
+    "discogs_url": "https://www.discogs.com/release/594012"
   }
 }
