@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-11T19:50:42.798613+00:00",
+  "generated_at": "2026-10-12T11:46:42.600226+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 2871755,
-    "discogs_id": 2871755,
-    "title": "Tuber",
-    "artist": "Bivouac",
-    "year": 1993,
-    "cover_image": "https://i.discogs.com/RYJnYTp5VYks89yPGQRWoeT3rfYY2UBVDT_uNq7aNlg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE3/NTUtMTMzMjI1OTIy/NS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/stG9kxQ3J0L-9KcsZD6XerXkdRnCDTbAVNPlBRRczBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE3/NTUtMTMzMjI1OTIy/NS5qcGVn.jpeg",
+    "id": 1185356,
+    "discogs_id": 1185356,
+    "title": "Wonsaponatime",
+    "artist": "John Lennon",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/7aa9FN6Hc-ESFOZlGosQ-EadiSsRgGjpLcO7BYSwBQY/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUz/NTYtMTU0ODA5NzQx/MC00NzE1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/rurYFrJYz1gw6NE-VIDLs9EazwYfeQom41VFIG7CNSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUz/NTYtMTU0ODA5NzQx/MC00NzE1LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock",
-      "Grunge"
+      "Art Rock",
+      "Pop Rock"
     ],
-    "label": "Elemental Records",
-    "discogs_url": "https://www.discogs.com/release/2871755"
+    "label": "Capitol Records",
+    "discogs_url": "https://www.discogs.com/release/1185356"
   }
 }
