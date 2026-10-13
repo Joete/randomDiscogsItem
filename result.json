@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-10-12T22:41:05.202367+00:00",
+  "generated_at": "2026-10-13T11:34:07.154638+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 7287104,
-    "discogs_id": 7287104,
-    "title": "Play Loud",
-    "artist": "The B-52's",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/yPKHY8uye20YO3YHKLUMlxJwVcOp3E5_XzdQq1ZFCVc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODcx/MDQtMTQzODM5MTg1/My05NDE0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/wMObpgUvGUC8ANNxCHqXBq7yP5TsSFmT04z3rFTzSIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODcx/MDQtMTQzODM5MTg1/My05NDE0LmpwZWc.jpeg",
+    "id": 3911354,
+    "discogs_id": 3911354,
+    "title": "Blau Und Weiß, Wie Lieb Ich Dich / Wir Sind Die Fans Von Schalke",
+    "artist": "FC Schalke 04",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/KeiX7UkKJ5De0_HGsam9rrPi1xDdG4mclrpKKJwQKW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEz/NTQtMTY1MzEyMzY3/NS00NTQ1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/guUOjmEHm0ybY-u4UdoeMuEfEje7yumqPuqpezG_n-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEz/NTQtMTY1MzEyMzY3/NS00NTQ1LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Rock"
+      "Pop"
     ],
     "styles": [
-      "New Wave",
-      "Synth-pop",
-      "Disco"
+      "Schlager"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/7287104"
+    "label": "AZ Records (2)",
+    "discogs_url": "https://www.discogs.com/release/3911354"
   }
 }
