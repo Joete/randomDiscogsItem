@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-10-13T11:34:07.154638+00:00",
+  "generated_at": "2026-10-13T17:16:20.285961+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3911354,
-    "discogs_id": 3911354,
-    "title": "Blau Und Weiß, Wie Lieb Ich Dich / Wir Sind Die Fans Von Schalke",
-    "artist": "FC Schalke 04",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/KeiX7UkKJ5De0_HGsam9rrPi1xDdG4mclrpKKJwQKW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEz/NTQtMTY1MzEyMzY3/NS00NTQ1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/guUOjmEHm0ybY-u4UdoeMuEfEje7yumqPuqpezG_n-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEz/NTQtMTY1MzEyMzY3/NS00NTQ1LmpwZWc.jpeg",
+    "id": 787455,
+    "discogs_id": 787455,
+    "title": "American V: A Hundred Highways",
+    "artist": "Johnny Cash",
+    "year": 2006,
+    "cover_image": "https://i.discogs.com/AXGyMK0UyYQjpMwxbqUaWkzFde2wNn8hlUao21qVE88/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQ1/NS0xMTU4NzQ1Njg3/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/aSMoqz6deGo__B7XToj7fTBGoO6r7oCNUzh7K6l8gHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQ1/NS0xMTU4NzQ1Njg3/LmpwZWc.jpeg",
     "genres": [
-      "Pop"
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Schlager"
+      "Country",
+      "Gospel",
+      "Folk"
     ],
-    "label": "AZ Records (2)",
-    "discogs_url": "https://www.discogs.com/release/3911354"
+    "label": "American Recordings",
+    "discogs_url": "https://www.discogs.com/release/787455"
   }
 }
