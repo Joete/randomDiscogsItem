@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-10-13T17:16:20.285961+00:00",
+  "generated_at": "2026-10-13T20:56:01.534464+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 787455,
-    "discogs_id": 787455,
-    "title": "American V: A Hundred Highways",
-    "artist": "Johnny Cash",
-    "year": 2006,
-    "cover_image": "https://i.discogs.com/AXGyMK0UyYQjpMwxbqUaWkzFde2wNn8hlUao21qVE88/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQ1/NS0xMTU4NzQ1Njg3/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/aSMoqz6deGo__B7XToj7fTBGoO6r7oCNUzh7K6l8gHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQ1/NS0xMTU4NzQ1Njg3/LmpwZWc.jpeg",
+    "id": 433183,
+    "discogs_id": 433183,
+    "title": "Love Is In The Air",
+    "artist": "John Paul Young",
+    "year": 1977,
+    "cover_image": "https://i.discogs.com/dRCfhYrf5TU_QgLZnkQJ640YrqA5apEobtgzlhjoaw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzE4/My0xNTM1NjQ5ODE5/LTk4ODguanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/NpEG3Z5O7dhVwY_AtcJg4zSavTyzKZyDhZ_JUJuEVb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzE4/My0xNTM1NjQ5ODE5/LTk4ODguanBlZw.jpeg",
     "genres": [
-      "Folk, World, & Country"
+      "Rock",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Country",
-      "Gospel",
-      "Folk"
+      "Disco",
+      "Pop Rock"
     ],
-    "label": "American Recordings",
-    "discogs_url": "https://www.discogs.com/release/787455"
+    "label": "Ariola",
+    "discogs_url": "https://www.discogs.com/release/433183"
   }
 }
