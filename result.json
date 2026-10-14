@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-10-14T14:48:06.177461+00:00",
+  "generated_at": "2026-10-14T19:54:52.979194+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 64003,
-    "discogs_id": 64003,
-    "title": "Falco 3",
-    "artist": "Falco",
-    "year": 1986,
-    "cover_image": "https://i.discogs.com/KdltTnHR0tAueD782N5H6ai9ynNqym5uDkfbiXUnu7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDAz/LTEyMTY1NzkxNTQu/anBlZw.jpeg",
-    "thumb": "https://i.discogs.com/gOrMz2SZ0gqUVRJgADBB7jKBadeIZvYiPnn_ntNkPoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDAz/LTEyMTY1NzkxNTQu/anBlZw.jpeg",
+    "id": 736152,
+    "discogs_id": 736152,
+    "title": "Livin' Thing",
+    "artist": "Electric Light Orchestra",
+    "year": 1977,
+    "cover_image": "https://i.discogs.com/Ixou-HnJNw2qVxPPsH3oCg1H7Ulj71NgkMJ__hm9cSE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjE1/Mi0xMzg5MTgzODc3/LTEyNzAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/PhWJ6nsJAk0WUU70fdxd_u1W5geiIJ75mAr13sUeeEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjE1/Mi0xMzg5MTgzODc3/LTEyNzAuanBlZw.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
       "Pop Rock",
-      "Synth-pop"
+      "Prog Rock"
     ],
-    "label": "A&M Records",
-    "discogs_url": "https://www.discogs.com/release/64003"
+    "label": "United Artists Records",
+    "discogs_url": "https://www.discogs.com/release/736152"
   }
 }
