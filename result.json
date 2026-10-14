@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-14T09:23:16.020003+00:00",
+  "generated_at": "2026-10-14T14:48:06.177461+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 8762788,
-    "discogs_id": 8762788,
-    "title": "Near Mint",
-    "artist": "Mint Mind",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/e1xvZqDOu0ChjiFU8G76Qby1DzKu-FcbtZwEHHKSClc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjI3/ODgtMTQ2ODIzNzYw/Ni00MzcyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/drM5rjECS2rcU7p4KHFIn8LYVc5kiCxorZXjIAtzhbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjI3/ODgtMTQ2ODIzNzYw/Ni00MzcyLmpwZWc.jpeg",
+    "id": 64003,
+    "discogs_id": 64003,
+    "title": "Falco 3",
+    "artist": "Falco",
+    "year": 1986,
+    "cover_image": "https://i.discogs.com/KdltTnHR0tAueD782N5H6ai9ynNqym5uDkfbiXUnu7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDAz/LTEyMTY1NzkxNTQu/anBlZw.jpeg",
+    "thumb": "https://i.discogs.com/gOrMz2SZ0gqUVRJgADBB7jKBadeIZvYiPnn_ntNkPoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDAz/LTEyMTY1NzkxNTQu/anBlZw.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Garage Rock"
+      "Pop Rock",
+      "Synth-pop"
     ],
-    "label": "Deadwood Records",
-    "discogs_url": "https://www.discogs.com/release/8762788"
+    "label": "A&M Records",
+    "discogs_url": "https://www.discogs.com/release/64003"
   }
 }
