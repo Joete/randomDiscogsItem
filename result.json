@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-10-13T20:56:01.534464+00:00",
+  "generated_at": "2026-10-14T09:23:16.020003+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 433183,
-    "discogs_id": 433183,
-    "title": "Love Is In The Air",
-    "artist": "John Paul Young",
-    "year": 1977,
-    "cover_image": "https://i.discogs.com/dRCfhYrf5TU_QgLZnkQJ640YrqA5apEobtgzlhjoaw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzE4/My0xNTM1NjQ5ODE5/LTk4ODguanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/NpEG3Z5O7dhVwY_AtcJg4zSavTyzKZyDhZ_JUJuEVb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzE4/My0xNTM1NjQ5ODE5/LTk4ODguanBlZw.jpeg",
+    "id": 8762788,
+    "discogs_id": 8762788,
+    "title": "Near Mint",
+    "artist": "Mint Mind",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/e1xvZqDOu0ChjiFU8G76Qby1DzKu-FcbtZwEHHKSClc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjI3/ODgtMTQ2ODIzNzYw/Ni00MzcyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/drM5rjECS2rcU7p4KHFIn8LYVc5kiCxorZXjIAtzhbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjI3/ODgtMTQ2ODIzNzYw/Ni00MzcyLmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Funk / Soul",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Disco",
-      "Pop Rock"
+      "Alternative Rock",
+      "Garage Rock"
     ],
-    "label": "Ariola",
-    "discogs_url": "https://www.discogs.com/release/433183"
+    "label": "Deadwood Records",
+    "discogs_url": "https://www.discogs.com/release/8762788"
   }
 }
