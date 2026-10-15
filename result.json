@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-10-15T14:34:20.560388+00:00",
+  "generated_at": "2026-10-15T19:37:11.064338+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1947533,
-    "discogs_id": 1947533,
-    "title": "xx",
-    "artist": "The XX",
+    "id": 5165495,
+    "discogs_id": 5165495,
+    "title": "Mama, I'm Swollen",
+    "artist": "Cursive",
     "year": 2009,
-    "cover_image": "https://i.discogs.com/kUI8pDkIFrag7Ul-qKO2Iu--Hf8RXaYk1HBs-nvUtgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc1/MzMtMTQ0MzkxNTgz/OC00MDcwLnBuZw.jpeg",
-    "thumb": "https://i.discogs.com/iVUNW9wz3CK3hVeSnAZtHGFqfcq4HQGhQ4RMYZJcO6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc1/MzMtMTQ0MzkxNTgz/OC00MDcwLnBuZw.jpeg",
+    "cover_image": "https://i.discogs.com/dns--_xtTmLB4SCPVge8OjAdqWUm5LIgVzc3qecBwgM/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjU0/OTUtMTU2NjczMDA3/MC05MzQ4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/-2xTjo9JJLfO9k4X5Yy5JFv6PvplC18SkOWkQg-Pwmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjU0/OTUtMTU2NjczMDA3/MC05MzQ4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Shoegaze",
       "Indie Rock"
     ],
-    "label": "Young Turks",
-    "discogs_url": "https://www.discogs.com/release/1947533"
+    "label": "Saddle Creek",
+    "discogs_url": "https://www.discogs.com/release/5165495"
   }
 }
