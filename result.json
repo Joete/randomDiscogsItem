@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-15T09:01:21.607346+00:00",
+  "generated_at": "2026-10-15T14:34:20.560388+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 4495656,
-    "discogs_id": 4495656,
-    "title": "Jeopardy",
-    "artist": "The Sound (2)",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/su3Tvg6SgvpGUXKxqZaFFEZdazRXSaTbEri4IOCVUFw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTU2/NTYtMTM4ODE3NzA0/Mi04OTkyLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/ee3znQFJfiB4ybwKMLH738ZRU07Llju4RUt4Bl8ZQLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTU2/NTYtMTM4ODE3NzA0/Mi04OTkyLmpwZWc.jpeg",
+    "id": 1947533,
+    "discogs_id": 1947533,
+    "title": "xx",
+    "artist": "The XX",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/kUI8pDkIFrag7Ul-qKO2Iu--Hf8RXaYk1HBs-nvUtgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc1/MzMtMTQ0MzkxNTgz/OC00MDcwLnBuZw.jpeg",
+    "thumb": "https://i.discogs.com/iVUNW9wz3CK3hVeSnAZtHGFqfcq4HQGhQ4RMYZJcO6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc1/MzMtMTQ0MzkxNTgz/OC00MDcwLnBuZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "New Wave"
+      "Shoegaze",
+      "Indie Rock"
     ],
-    "label": "Korova",
-    "discogs_url": "https://www.discogs.com/release/4495656"
+    "label": "Young Turks",
+    "discogs_url": "https://www.discogs.com/release/1947533"
   }
 }
