@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-10-15T19:37:11.064338+00:00",
+  "generated_at": "2026-10-16T08:53:30.856333+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 5165495,
-    "discogs_id": 5165495,
-    "title": "Mama, I'm Swollen",
-    "artist": "Cursive",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/dns--_xtTmLB4SCPVge8OjAdqWUm5LIgVzc3qecBwgM/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjU0/OTUtMTU2NjczMDA3/MC05MzQ4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/-2xTjo9JJLfO9k4X5Yy5JFv6PvplC18SkOWkQg-Pwmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjU0/OTUtMTU2NjczMDA3/MC05MzQ4LmpwZWc.jpeg",
+    "id": 2828728,
+    "discogs_id": 2828728,
+    "title": "Monsoon",
+    "artist": "Preston School Of Industry",
+    "year": 2004,
+    "cover_image": "https://i.discogs.com/rkFVNWcnJbsTLpd9OHiY7ULxjsZYYgMgJE7xBjJ278k/rs:fit/g:sm/q:90/h:285/w:290/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MjgtMTMwMjg5MDEw/OC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Gvj9lhe9Kive9WIiln7-xME2ERhkeGwUpi_9asKdvH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg3/MjgtMTMwMjg5MDEw/OC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Indie Rock"
+      "Alternative Rock",
+      "Country Rock"
     ],
-    "label": "Saddle Creek",
-    "discogs_url": "https://www.discogs.com/release/5165495"
+    "label": "Domino",
+    "discogs_url": "https://www.discogs.com/release/2828728"
   }
 }
