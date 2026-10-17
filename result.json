@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-10-17T08:24:19.514926+00:00",
+  "generated_at": "2026-10-17T13:22:59.844108+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3536286,
-    "discogs_id": 3536286,
-    "title": "First Serve",
-    "artist": "De La Soul, Plug 1, Plug 2, First Serve",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/RLvO6UdpSScA0zBeMbce3mcztsI4gRLRhjtNrREz_KE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYy/ODYtMTU0OTU3ODMx/Mi0zMjIxLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/bCEvVlFZiRJUwYqkLaQg7RuiSu4Gmeyb2XTjbEj8rXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYy/ODYtMTU0OTU3ODMx/Mi0zMjIxLmpwZWc.jpeg",
+    "id": 820831,
+    "discogs_id": 820831,
+    "title": "MTV Unplugged In New York",
+    "artist": "Nirvana",
+    "year": 1994,
+    "cover_image": "https://i.discogs.com/HaJnamN9hyEwXE63uRi7tJMm-ABc_R029tIhB8CrU-M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgz/MS0xNzQ1MDAyODQw/LTY2OTAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/vKuEY_W68tj51e5zzW_EOKwtwPvEB07y1RTZUdaflWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgz/MS0xNzQ1MDAyODQw/LTY2OTAuanBlZw.jpeg",
     "genres": [
-      "Hip Hop"
+      "Rock"
     ],
-    "styles": [],
-    "label": "Jesgrew Records",
-    "discogs_url": "https://www.discogs.com/release/3536286"
+    "styles": [
+      "Alternative Rock",
+      "Acoustic",
+      "Grunge"
+    ],
+    "label": "Geffen Records",
+    "discogs_url": "https://www.discogs.com/release/820831"
   }
 }
