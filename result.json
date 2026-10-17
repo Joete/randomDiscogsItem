@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-10-17T13:22:59.844108+00:00",
+  "generated_at": "2026-10-17T18:05:17.580971+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 820831,
-    "discogs_id": 820831,
-    "title": "MTV Unplugged In New York",
-    "artist": "Nirvana",
-    "year": 1994,
-    "cover_image": "https://i.discogs.com/HaJnamN9hyEwXE63uRi7tJMm-ABc_R029tIhB8CrU-M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgz/MS0xNzQ1MDAyODQw/LTY2OTAuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/vKuEY_W68tj51e5zzW_EOKwtwPvEB07y1RTZUdaflWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgz/MS0xNzQ1MDAyODQw/LTY2OTAuanBlZw.jpeg",
+    "id": 5448728,
+    "discogs_id": 5448728,
+    "title": "02 World Berlin, Germany Show 2 July 05, 2012",
+    "artist": "Pearl Jam",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/XCSiWNC8uIel-IkWQfGmweFXCTXjtmddESUlURKdPDo/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg3/MjgtMTY5OTEzMTA0/Mi05MTk4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/dZc_SGDiQiLcLg8UWBWZTvabiS4Td3ficv-BuaZpeCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg3/MjgtMTY5OTEzMTA0/Mi05MTk4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Acoustic",
-      "Grunge"
+      "Grunge",
+      "Alternative Rock"
     ],
-    "label": "Geffen Records",
-    "discogs_url": "https://www.discogs.com/release/820831"
+    "label": "Not On Label (Pearl Jam Self-released)",
+    "discogs_url": "https://www.discogs.com/release/5448728"
   }
 }
