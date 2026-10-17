@@ -1,21 +1,19 @@
 {
-  "generated_at": "2026-10-16T19:11:22.441776+00:00",
+  "generated_at": "2026-10-17T08:24:19.514926+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 6912119,
-    "discogs_id": 6912119,
-    "title": "Propaganda",
-    "artist": "The Sound (2)",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/57cdXDM5et632DBnmm99Ksgi9xWFLpCkESfY8Df6r9k/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTIx/MTktMTQyOTkwNTQ4/Mi05NzczLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/XiaINSI3tHutVLpLfpW9Ofd2UiKvmxqOEtDTWeJlM_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTIx/MTktMTQyOTkwNTQ4/Mi05NzczLmpwZWc.jpeg",
+    "id": 3536286,
+    "discogs_id": 3536286,
+    "title": "First Serve",
+    "artist": "De La Soul, Plug 1, Plug 2, First Serve",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/RLvO6UdpSScA0zBeMbce3mcztsI4gRLRhjtNrREz_KE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYy/ODYtMTU0OTU3ODMx/Mi0zMjIxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/bCEvVlFZiRJUwYqkLaQg7RuiSu4Gmeyb2XTjbEj8rXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYy/ODYtMTU0OTU3ODMx/Mi0zMjIxLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop"
     ],
-    "styles": [
-      "New Wave"
-    ],
-    "label": "Demon Records",
-    "discogs_url": "https://www.discogs.com/release/6912119"
+    "styles": [],
+    "label": "Jesgrew Records",
+    "discogs_url": "https://www.discogs.com/release/3536286"
   }
 }
