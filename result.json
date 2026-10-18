@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-17T18:05:17.580971+00:00",
+  "generated_at": "2026-10-18T08:43:34.925071+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 5448728,
-    "discogs_id": 5448728,
-    "title": "02 World Berlin, Germany Show 2 July 05, 2012",
-    "artist": "Pearl Jam",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/XCSiWNC8uIel-IkWQfGmweFXCTXjtmddESUlURKdPDo/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg3/MjgtMTY5OTEzMTA0/Mi05MTk4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/dZc_SGDiQiLcLg8UWBWZTvabiS4Td3ficv-BuaZpeCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg3/MjgtMTY5OTEzMTA0/Mi05MTk4LmpwZWc.jpeg",
+    "id": 938409,
+    "discogs_id": 938409,
+    "title": "Shadows Collide With People",
+    "artist": "John Frusciante",
+    "year": 2004,
+    "cover_image": "https://i.discogs.com/rFnX60nLEQojbtxdOwD7ehkOQ4HOrStmW9FMWKrM2Gw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODQw/OS0xNzYyNTk5NTg3/LTkyMDEuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/UaDQ_xHsFHjXJfNzHC37SMPVF0OTx7bgMH-Go2gjRpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODQw/OS0xNzYyNTk5NTg3/LTkyMDEuanBlZw.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Grunge",
-      "Alternative Rock"
+      "Experimental"
     ],
-    "label": "Not On Label (Pearl Jam Self-released)",
-    "discogs_url": "https://www.discogs.com/release/5448728"
+    "label": "Warner Bros. Records",
+    "discogs_url": "https://www.discogs.com/release/938409"
   }
 }
