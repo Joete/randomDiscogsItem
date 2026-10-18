@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-18T13:41:52.800167+00:00",
+  "generated_at": "2026-10-18T18:23:52.644828+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 36835576,
-    "discogs_id": 36835576,
-    "title": "BEEST",
-    "artist": "fluppe",
-    "year": 2026,
-    "cover_image": "https://i.discogs.com/8nsgaPphbzvNjpg2wtA492hbKhNCb8ith8caZGOV01s/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM1/NTc2LTE3NzQwOTM2/NTMtOTMzNS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/C3RN_0YAP4QAUZIWpl-GxY4lqsyRjbjcsdGNfEheZqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM1/NTc2LTE3NzQwOTM2/NTMtOTMzNS5qcGVn.jpeg",
+    "id": 12077455,
+    "discogs_id": 12077455,
+    "title": "Greatest Hits Vol. 1",
+    "artist": "The Flaming Lips",
+    "year": 2018,
+    "cover_image": "https://i.discogs.com/jFLnmga6sKK6sByhDdussu7eae3NIwySHPJtOv57-SE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc3/NDU1LTE1Mjc4NDMw/ODktNjc0OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/kVqEdmm8BVwimn0ACo-QgbGIN4nPuLp9x7O1eDlUYUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc3/NDU1LTE1Mjc4NDMw/ODktNjc0OS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock",
-      "Post-Punk"
+      "Alternative Rock",
+      "Experimental"
     ],
-    "label": "Rookie Records",
-    "discogs_url": "https://www.discogs.com/release/36835576"
+    "label": "Warner Bros. Records",
+    "discogs_url": "https://www.discogs.com/release/12077455"
   }
 }
