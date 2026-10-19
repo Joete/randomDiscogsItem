@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-19T16:43:14.045074+00:00",
+  "generated_at": "2026-10-19T20:49:22.866678+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 810586,
-    "discogs_id": 810586,
-    "title": "Offshore",
-    "artist": "Early Day Miners",
-    "year": 2006,
-    "cover_image": "https://i.discogs.com/8cuzAHP2RxNgADofcwUBfo-ofSdt3SkYuaD0ZEUvyOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDU4/Ni0xMTYxMTIwMjE0/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/UjHg1HvHY62gPEXqdmVGUSrziglwl62F0QrG44RRegE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDU4/Ni0xMTYxMTIwMjE0/LmpwZWc.jpeg",
+    "id": 1379041,
+    "discogs_id": 1379041,
+    "title": "Speaking In Tongues",
+    "artist": "Talking Heads",
+    "year": 1983,
+    "cover_image": "https://i.discogs.com/UcYHVzsVW1oBxpiFaqOwZyMywp4z--ZjVz8joh1fkAA/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkw/NDEtMTI0NDU3OTcw/MC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/U-67tr90r6w9fK8ajs8QT26sSK0-K2dY8dDnbkc72cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkw/NDEtMTI0NDU3OTcw/MC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Funk / Soul"
     ],
     "styles": [
-      "Post Rock",
-      "Indie Rock"
+      "New Wave",
+      "Funk"
     ],
-    "label": "Secretly Canadian",
-    "discogs_url": "https://www.discogs.com/release/810586"
+    "label": "Sire",
+    "discogs_url": "https://www.discogs.com/release/1379041"
   }
 }
