@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-18T18:23:52.644828+00:00",
+  "generated_at": "2026-10-19T09:44:20.161501+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 12077455,
-    "discogs_id": 12077455,
-    "title": "Greatest Hits Vol. 1",
-    "artist": "The Flaming Lips",
-    "year": 2018,
-    "cover_image": "https://i.discogs.com/jFLnmga6sKK6sByhDdussu7eae3NIwySHPJtOv57-SE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc3/NDU1LTE1Mjc4NDMw/ODktNjc0OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/kVqEdmm8BVwimn0ACo-QgbGIN4nPuLp9x7O1eDlUYUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc3/NDU1LTE1Mjc4NDMw/ODktNjc0OS5qcGVn.jpeg",
+    "id": 2420511,
+    "discogs_id": 2420511,
+    "title": "Special Moves",
+    "artist": "Mogwai",
+    "year": 2010,
+    "cover_image": "https://i.discogs.com/YNMB5Ev2TLs_t52JTDvm7Or-vqGygHPPGH0j7z6D2w4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjA1/MTEtMTMxNjY3Mzg1/OC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/Cq_jtpMg5UAlS5cGNL4_6rcepZiN4kOBeeGKGuQmNfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjA1/MTEtMTMxNjY3Mzg1/OC5qcGVn.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Alternative Rock",
-      "Experimental"
+      "Post Rock"
     ],
-    "label": "Warner Bros. Records",
-    "discogs_url": "https://www.discogs.com/release/12077455"
+    "label": "Rock Action Records",
+    "discogs_url": "https://www.discogs.com/release/2420511"
   }
 }
