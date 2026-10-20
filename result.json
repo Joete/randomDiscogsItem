@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-20T09:17:37.750530+00:00",
+  "generated_at": "2026-10-20T14:35:10.573911+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3642931,
-    "discogs_id": 3642931,
-    "title": "Endless Flowers",
-    "artist": "Crocodiles",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/j-pydVBHSCQFci-VQ0tAOTOgx6GjCLqQ_QY_m_fzenA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDI5/MzEtMTQ5MzM0ODc0/My01MDg4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/8ktyiIVE5ar60t62sutNfZrnS-gWmoGQu9y1Yh1Ib4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDI5/MzEtMTQ5MzM0ODc0/My01MDg4LmpwZWc.jpeg",
+    "id": 14420363,
+    "discogs_id": 14420363,
+    "title": "Curtains",
+    "artist": "John Frusciante",
+    "year": 2019,
+    "cover_image": "https://i.discogs.com/k04RpyuZFeGsiFimRaqKkAnqKI-CAQpv3KDeIBQVNNk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIw/MzYzLTE2MTAxNDkx/OTEtMTczOS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/cURKQ2zKt8eW1TgQC4nsvbrkF6ajxsYS6nGEPy5n4Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIw/MzYzLTE2MTAxNDkx/OTEtMTczOS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Shoegaze",
-      "Indie Rock"
+      "Lo-Fi",
+      "Folk Rock",
+      "Alternative Rock"
     ],
-    "label": "Souterrain Transmissions",
-    "discogs_url": "https://www.discogs.com/release/3642931"
+    "label": "Record Collection",
+    "discogs_url": "https://www.discogs.com/release/14420363"
   }
 }
