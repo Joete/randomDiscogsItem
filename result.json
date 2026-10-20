@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-10-19T20:49:22.866678+00:00",
+  "generated_at": "2026-10-20T09:17:37.750530+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1379041,
-    "discogs_id": 1379041,
-    "title": "Speaking In Tongues",
-    "artist": "Talking Heads",
-    "year": 1983,
-    "cover_image": "https://i.discogs.com/UcYHVzsVW1oBxpiFaqOwZyMywp4z--ZjVz8joh1fkAA/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkw/NDEtMTI0NDU3OTcw/MC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/U-67tr90r6w9fK8ajs8QT26sSK0-K2dY8dDnbkc72cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkw/NDEtMTI0NDU3OTcw/MC5qcGVn.jpeg",
+    "id": 3642931,
+    "discogs_id": 3642931,
+    "title": "Endless Flowers",
+    "artist": "Crocodiles",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/j-pydVBHSCQFci-VQ0tAOTOgx6GjCLqQ_QY_m_fzenA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDI5/MzEtMTQ5MzM0ODc0/My01MDg4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/8ktyiIVE5ar60t62sutNfZrnS-gWmoGQu9y1Yh1Ib4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDI5/MzEtMTQ5MzM0ODc0/My01MDg4LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Funk / Soul"
+      "Rock"
     ],
     "styles": [
-      "New Wave",
-      "Funk"
+      "Shoegaze",
+      "Indie Rock"
     ],
-    "label": "Sire",
-    "discogs_url": "https://www.discogs.com/release/1379041"
+    "label": "Souterrain Transmissions",
+    "discogs_url": "https://www.discogs.com/release/3642931"
   }
 }
