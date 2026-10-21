@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-10-20T19:47:00.687661+00:00",
+  "generated_at": "2026-10-21T09:14:21.086289+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 5034317,
-    "discogs_id": 5034317,
-    "title": "Reflektor",
-    "artist": "Arcade Fire",
-    "year": 2013,
-    "cover_image": "https://i.discogs.com/RUJrLS9bsTBMILG-OHGenoEsq6jQLYf1CyjBMFZn-lY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzQz/MTctMTM4NDExNTE2/Ny04NTEzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/w-LeCq0WVbuxRSPCZFwmfEw5s6Vpp_tnffu3BlQQlXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzQz/MTctMTM4NDExNTE2/Ny04NTEzLmpwZWc.jpeg",
+    "id": 1208398,
+    "discogs_id": 1208398,
+    "title": "Burn To Shine",
+    "artist": "Ben Harper & The Innocent Criminals",
+    "year": 1999,
+    "cover_image": "https://i.discogs.com/WbsbucIDXRNxN9un7VUqATu_IrsZ5SReEzPgmVlYTN4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgz/OTgtMTIwMDg2NjMy/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/d6NbCbB4-Y37I4B1bY7qhG3cZEo_Fbx8JpEd5anD8gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgz/OTgtMTIwMDg2NjMy/OS5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Funk / Soul"
     ],
     "styles": [
-      "Indie Rock"
+      "Blues Rock",
+      "Soul",
+      "Acoustic",
+      "Gospel",
+      "Alternative Rock"
     ],
-    "label": "Sonovox Records",
-    "discogs_url": "https://www.discogs.com/release/5034317"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/1208398"
   }
 }
