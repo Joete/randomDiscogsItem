@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-21T14:46:45.455441+00:00",
+  "generated_at": "2026-10-21T19:51:48.801719+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 85243,
-    "discogs_id": 85243,
-    "title": "101",
-    "artist": "Depeche Mode",
-    "year": 1989,
-    "cover_image": "https://i.discogs.com/cD1XGgeX2Kg_JR0adFkG9Wls-q7u7qxThJRocu_BMGw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjQz/LTE1NDQzNjMwNDkt/NDg4Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/vKRk1ILpNvXPLdlLGL1L-7D-0kudfpIvs5R1ewl0Oow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjQz/LTE1NDQzNjMwNDkt/NDg4Mi5qcGVn.jpeg",
+    "id": 1158745,
+    "discogs_id": 1158745,
+    "title": "Vacation",
+    "artist": "Go-Go's",
+    "year": 1982,
+    "cover_image": "https://i.discogs.com/LFBM7YExS0mCDZ8JLNQp3A5nJoSucl1gR1bHV8fsV_k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg3/NDUtMTUxODk1ODk0/My0yMjM5LnBuZw.jpeg",
+    "thumb": "https://i.discogs.com/yVUe9lsULXCbWgy4Hdjq8URoGw66Hn3MPY_xCJ2BIqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg3/NDUtMTUxODk1ODk0/My0yMjM5LnBuZw.jpeg",
     "genres": [
-      "Electronic",
+      "Rock",
       "Pop"
     ],
     "styles": [
-      "Synth-pop"
+      "Pop Rock",
+      "New Wave"
     ],
-    "label": "Mute",
-    "discogs_url": "https://www.discogs.com/release/85243"
+    "label": "Illegal Records (2)",
+    "discogs_url": "https://www.discogs.com/release/1158745"
   }
 }
