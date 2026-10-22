@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-10-21T19:51:48.801719+00:00",
+  "generated_at": "2026-10-22T09:17:01.085784+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1158745,
-    "discogs_id": 1158745,
-    "title": "Vacation",
-    "artist": "Go-Go's",
-    "year": 1982,
-    "cover_image": "https://i.discogs.com/LFBM7YExS0mCDZ8JLNQp3A5nJoSucl1gR1bHV8fsV_k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg3/NDUtMTUxODk1ODk0/My0yMjM5LnBuZw.jpeg",
-    "thumb": "https://i.discogs.com/yVUe9lsULXCbWgy4Hdjq8URoGw66Hn3MPY_xCJ2BIqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg3/NDUtMTUxODk1ODk0/My0yMjM5LnBuZw.jpeg",
+    "id": 444653,
+    "discogs_id": 444653,
+    "title": "Worst Case Scenario",
+    "artist": "dEUS",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/tc3hP4_aDchcmuUAZGEk6XwueSWsMJCBvy3A0AqBE0o/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDY1/My0xMzM4OTA0ODg1/LTc0ODEuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/APbW1KqXkWqUyRNLhIfoW9dSIxosZScBePEnJCqJaQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDY1/My0xMzM4OTA0ODg1/LTc0ODEuanBlZw.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Pop Rock",
-      "New Wave"
+      "Alternative Rock",
+      "Noise Rock"
     ],
-    "label": "Illegal Records (2)",
-    "discogs_url": "https://www.discogs.com/release/1158745"
+    "label": "Island Records",
+    "discogs_url": "https://www.discogs.com/release/444653"
   }
 }
