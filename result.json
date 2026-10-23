@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-23T14:33:22.290990+00:00",
+  "generated_at": "2026-10-23T19:42:18.405987+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 7065501,
-    "discogs_id": 7065501,
-    "title": "Fun",
-    "artist": "Die Nerven",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/8Btmf5Mj18J8pZQs7oDYwZqo2gOHVCzni741vLG1Y-k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjU1/MDEtMTQzMjkwNjk4/OS02OTc3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/Vc27FIIgGs4Za7qLMr0ot3AW3YZ2XFna13gzssI2YX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjU1/MDEtMTQzMjkwNjk4/OS02OTc3LmpwZWc.jpeg",
+    "id": 4445811,
+    "discogs_id": 4445811,
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "year": 1987,
+    "cover_image": "https://i.discogs.com/Iy2CGADv1ZNYF1bjY1qCit7xZtK6B5eyI0VHGdHuc5Y/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDU4/MTEtMTM2NTEwMTI4/MS0yMDQ3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/KgcoeJNU_-UBDr4jBqVadtS5NUDhmm11xlPX6ubcDyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDU4/MTEtMTM2NTEwMTI4/MS0yMDQ3LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Noise",
-      "Punk"
+      "Pop Rock"
     ],
-    "label": "This Charming Man Records",
-    "discogs_url": "https://www.discogs.com/release/7065501"
+    "label": "Parlophone",
+    "discogs_url": "https://www.discogs.com/release/4445811"
   }
 }
