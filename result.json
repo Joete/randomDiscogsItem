@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-10-24T08:45:52.271718+00:00",
+  "generated_at": "2026-10-24T13:45:13.543221+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 4696576,
-    "discogs_id": 4696576,
-    "title": "The Early Bird Catches The Worm, So Clever Worms Get Up Late...",
-    "artist": "xrfaRflighT",
-    "year": 2008,
-    "cover_image": "https://i.discogs.com/WuPdVHEGhCdff4D4olrvCorhZu6xUBAcyQAGAjI59g8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTY1/NzYtMTUzNDYwMTEx/Mi0yMzY2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/RXFghLvbDe0GDcLaLWFGyYjTr7diVBjr_5AAsrm3X64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTY1/NzYtMTUzNDYwMTEx/Mi0yMzY2LmpwZWc.jpeg",
+    "id": 982536,
+    "discogs_id": 982536,
+    "title": "Dirt",
+    "artist": "Alice In Chains",
+    "year": 1992,
+    "cover_image": "https://i.discogs.com/hQoReqbDNIiVexvivvAgjiYFtFfWL00cm92V98ka1dQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjUz/Ni0xMzYxODA4ODc2/LTc4NzIuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/Toi8uqjY7d7t7TXIUF7fLGzWFIk0Tb1h7oKNCYkOzFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjUz/Ni0xMzYxODA4ODc2/LTc4NzIuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
       "Alternative Rock",
-      "Psychedelic Rock",
-      "Art Rock"
+      "Grunge",
+      "Hard Rock",
+      "Alternative Metal"
     ],
-    "label": "Labelship",
-    "discogs_url": "https://www.discogs.com/release/4696576"
+    "label": "Columbia",
+    "discogs_url": "https://www.discogs.com/release/982536"
   }
 }
