@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-10-24T13:45:13.543221+00:00",
+  "generated_at": "2026-10-24T18:31:05.396698+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 982536,
-    "discogs_id": 982536,
-    "title": "Dirt",
-    "artist": "Alice In Chains",
-    "year": 1992,
-    "cover_image": "https://i.discogs.com/hQoReqbDNIiVexvivvAgjiYFtFfWL00cm92V98ka1dQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjUz/Ni0xMzYxODA4ODc2/LTc4NzIuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/Toi8uqjY7d7t7TXIUF7fLGzWFIk0Tb1h7oKNCYkOzFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjUz/Ni0xMzYxODA4ODc2/LTc4NzIuanBlZw.jpeg",
+    "id": 3527635,
+    "discogs_id": 3527635,
+    "title": "Maxinquaye",
+    "artist": "Tricky",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/XP-m7DYaTeblIuxLG43Jgo2hStsbGIlJSkOeMWHDrgk/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjc2/MzUtMTMzMzk3NDc1/Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/34dSCBxJE81Vj-_yIpY9JJVVqH1Z3XSZ21xyA-VnFi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjc2/MzUtMTMzMzk3NDc1/Ni5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "Alternative Rock",
-      "Grunge",
-      "Hard Rock",
-      "Alternative Metal"
+      "Trip Hop"
     ],
-    "label": "Columbia",
-    "discogs_url": "https://www.discogs.com/release/982536"
+    "label": "4th & Broadway",
+    "discogs_url": "https://www.discogs.com/release/3527635"
   }
 }
