@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-23T19:42:18.405987+00:00",
+  "generated_at": "2026-10-24T08:45:52.271718+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 4445811,
-    "discogs_id": 4445811,
-    "title": "Abbey Road",
-    "artist": "The Beatles",
-    "year": 1987,
-    "cover_image": "https://i.discogs.com/Iy2CGADv1ZNYF1bjY1qCit7xZtK6B5eyI0VHGdHuc5Y/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDU4/MTEtMTM2NTEwMTI4/MS0yMDQ3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/KgcoeJNU_-UBDr4jBqVadtS5NUDhmm11xlPX6ubcDyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDU4/MTEtMTM2NTEwMTI4/MS0yMDQ3LmpwZWc.jpeg",
+    "id": 4696576,
+    "discogs_id": 4696576,
+    "title": "The Early Bird Catches The Worm, So Clever Worms Get Up Late...",
+    "artist": "xrfaRflighT",
+    "year": 2008,
+    "cover_image": "https://i.discogs.com/WuPdVHEGhCdff4D4olrvCorhZu6xUBAcyQAGAjI59g8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTY1/NzYtMTUzNDYwMTEx/Mi0yMzY2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/RXFghLvbDe0GDcLaLWFGyYjTr7diVBjr_5AAsrm3X64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTY1/NzYtMTUzNDYwMTEx/Mi0yMzY2LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Pop Rock"
+      "Alternative Rock",
+      "Psychedelic Rock",
+      "Art Rock"
     ],
-    "label": "Parlophone",
-    "discogs_url": "https://www.discogs.com/release/4445811"
+    "label": "Labelship",
+    "discogs_url": "https://www.discogs.com/release/4696576"
   }
 }
