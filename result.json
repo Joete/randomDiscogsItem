@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-24T18:31:05.396698+00:00",
+  "generated_at": "2026-10-25T09:02:04.446138+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3527635,
-    "discogs_id": 3527635,
-    "title": "Maxinquaye",
-    "artist": "Tricky",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/XP-m7DYaTeblIuxLG43Jgo2hStsbGIlJSkOeMWHDrgk/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjc2/MzUtMTMzMzk3NDc1/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/34dSCBxJE81Vj-_yIpY9JJVVqH1Z3XSZ21xyA-VnFi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjc2/MzUtMTMzMzk3NDc1/Ni5qcGVn.jpeg",
+    "id": 1805460,
+    "discogs_id": 1805460,
+    "title": "Natural High",
+    "artist": "Commodores",
+    "year": 1978,
+    "cover_image": "https://i.discogs.com/1iPMGxBBN1GiXge7OpHgpZp2FJaKd634EUwiaZe5_Zo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/NjAtMTYxNTcwMzE0/MC04MDk0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/KHI0rRxf3OIXXdWSV01qOVp48h0iFGBKVfJP-ifeDwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/NjAtMTYxNTcwMzE0/MC04MDk0LmpwZWc.jpeg",
     "genres": [
-      "Electronic"
+      "Funk / Soul"
     ],
     "styles": [
-      "Trip Hop"
+      "Rhythm & Blues",
+      "Soul"
     ],
-    "label": "4th & Broadway",
-    "discogs_url": "https://www.discogs.com/release/3527635"
+    "label": "Motown",
+    "discogs_url": "https://www.discogs.com/release/1805460"
   }
 }
