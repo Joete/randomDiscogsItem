@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-10-25T09:02:04.446138+00:00",
+  "generated_at": "2026-10-25T14:01:38.155346+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1805460,
-    "discogs_id": 1805460,
-    "title": "Natural High",
-    "artist": "Commodores",
-    "year": 1978,
-    "cover_image": "https://i.discogs.com/1iPMGxBBN1GiXge7OpHgpZp2FJaKd634EUwiaZe5_Zo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/NjAtMTYxNTcwMzE0/MC04MDk0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/KHI0rRxf3OIXXdWSV01qOVp48h0iFGBKVfJP-ifeDwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/NjAtMTYxNTcwMzE0/MC04MDk0LmpwZWc.jpeg",
+    "id": 1916608,
+    "discogs_id": 1916608,
+    "title": "Entreat - Tales Of Ordinary Madness",
+    "artist": "The Cure",
+    "year": 1989,
+    "cover_image": "https://i.discogs.com/LEF-ySV-YrtN88ABTWFd4gLtsKuqhd2NZrQaqe_Sls0/rs:fit/g:sm/q:90/h:489/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY2/MDgtMTI3MDc2MTM0/Ni5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/zRd7Qy4jvoJm85N7kbbFYQXvopDCZldGnDpIHIiMhVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY2/MDgtMTI3MDc2MTM0/Ni5qcGVn.jpeg",
     "genres": [
-      "Funk / Soul"
+      "Electronic",
+      "Rock"
     ],
     "styles": [
-      "Rhythm & Blues",
-      "Soul"
+      "New Wave",
+      "Goth Rock",
+      "Synth-pop"
     ],
-    "label": "Motown",
-    "discogs_url": "https://www.discogs.com/release/1805460"
+    "label": "Not On Label (The Cure)",
+    "discogs_url": "https://www.discogs.com/release/1916608"
   }
 }
