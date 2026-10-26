@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-10-26T09:56:06.524017+00:00",
+  "generated_at": "2026-10-26T16:23:16.238530+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 11490795,
-    "discogs_id": 11490795,
-    "title": "Around The Corner",
-    "artist": "Keno (28)",
-    "year": 2018,
-    "cover_image": "https://i.discogs.com/lUcxz9q_bqsFeF5XVrKS56toDuUrtZvHSoE7XURt8mE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/Nzk1LTE1MTcyNjU2/NzctNDg4My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/jKuC4AndZm501P77l-dBiCcWfCYQOefr5d7zf77ZtPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDkw/Nzk1LTE1MTcyNjU2/NzctNDg4My5qcGVn.jpeg",
+    "id": 107500,
+    "discogs_id": 107500,
+    "title": "Angel",
+    "artist": "Massive Attack",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/CFn9Xz5MGcvKeFGpL2ZqmZhmA6kYbkJgff1xf8pfHmE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/MC0xMjg4MTQwNDc5/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/WuYGYS-5FOIPAZixl3JpEGCsMJKeYYAdHfDBD299u4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/MC0xMjg4MTQwNDc5/LmpwZWc.jpeg",
     "genres": [
       "Electronic"
     ],
     "styles": [
-      "Downtempo",
-      "Future Jazz",
-      "Breaks"
+      "Dub",
+      "Trip Hop"
     ],
-    "label": "Agogo Records",
-    "discogs_url": "https://www.discogs.com/release/11490795"
+    "label": "Circa",
+    "discogs_url": "https://www.discogs.com/release/107500"
   }
 }
