@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-27T15:37:46.670448+00:00",
+  "generated_at": "2026-10-27T20:21:36.317273+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3033283,
-    "discogs_id": 3033283,
-    "title": "A Crow Left Of The Murder...",
-    "artist": "Incubus (2)",
-    "year": 2004,
-    "cover_image": "https://i.discogs.com/rWSqYWhrdEoRg8UlndOb6PZECbvZT4cdryZoTVclNDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzMy/ODMtMTMxMjYyNzMy/NS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/-TS93dk1Wc6LSyOdNaOEHr_JmAgYmlzSRd0Fe2BMI0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzMy/ODMtMTMxMjYyNzMy/NS5qcGVn.jpeg",
+    "id": 3676163,
+    "discogs_id": 3676163,
+    "title": "With Loving Feeling",
+    "artist": "Tony Christie",
+    "year": 1972,
+    "cover_image": "https://i.discogs.com/2ZxZkQzLhcEJWFzAXB8FA0Sc09NG8_kEWeMPRSkyJ_I/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzYx/NjMtMTU4NDgwMzc3/Ni05MDIxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/vcT8yDLcsRK-dWbE458ygDou2OTHEXmR9YvyfRDcfK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzYx/NjMtMTU4NDgwMzc3/Ni05MDIxLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock"
+      "Vocal",
+      "Ballad"
     ],
-    "label": "Epic",
-    "discogs_url": "https://www.discogs.com/release/3033283"
+    "label": "MCA Records",
+    "discogs_url": "https://www.discogs.com/release/3676163"
   }
 }
