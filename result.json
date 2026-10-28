@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-28T10:26:28.943961+00:00",
+  "generated_at": "2026-10-28T16:22:08.965724+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 10375774,
-    "discogs_id": 10375774,
-    "title": "Relaxer",
-    "artist": "Alt-J",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/02_jSJ4sJEgG7iHIemiiILrRiOYTlvFT2Kta3op4KwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc1/Nzc0LTE0OTY0ODYw/ODEtMjE0OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/4sogzt3Fut479pdciUiwJn4fRPz4L6YE-0x9lVaz6m4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc1/Nzc0LTE0OTY0ODYw/ODEtMjE0OS5qcGVn.jpeg",
+    "id": 5959080,
+    "discogs_id": 5959080,
+    "title": "Mixed Blessings",
+    "artist": "Beaty Heart",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/ILGjypIxhRwoeHwLIruYKFu-Mat7lI63bCazGFQIDPU/rs:fit/g:sm/q:90/h:492/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTkw/ODAtMTQwNzQwNzU1/MS02MzcwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/gkuOiT8iZ5zAnIHeE5fvuCACj2G_AXQR7aWxl-dHumY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTkw/ODAtMTQwNzQwNzU1/MS02MzcwLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic",
+      "Pop"
     ],
     "styles": [
-      "Experimental",
-      "Indie Rock"
+      "Abstract"
     ],
-    "label": "Infectious Music",
-    "discogs_url": "https://www.discogs.com/release/10375774"
+    "label": "Caroline International",
+    "discogs_url": "https://www.discogs.com/release/5959080"
   }
 }
