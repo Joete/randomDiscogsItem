@@ -1,25 +1,22 @@
 {
-  "generated_at": "2026-10-29T16:31:26.375431+00:00",
+  "generated_at": "2026-10-29T20:46:57.087050+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 7785948,
-    "discogs_id": 7785948,
-    "title": "Saturdays = Youth",
-    "artist": "M83",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/5eMAi1jGM2zFi2a27T5o0IZEJr1-t2DwVnvaD4A6wJU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/iB9liXMvU63adT_xUv2RkU9d_PmB-wQZCjyFswfNea4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg",
+    "id": 5589591,
+    "discogs_id": 5589591,
+    "title": "Love Letters",
+    "artist": "Metronomy",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/m1KTYI23OKZlVHfz7fIAMKouHJ47sxawTG6wKvxrZC4/rs:fit/g:sm/q:90/h:410/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODk1/OTEtMTM5NzM5NDQw/Ny02ODAzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/hI0ZDd8ZqS15MWaQdVqW_APN6kpxotDXm0C9gWbrorw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODk1/OTEtMTM5NzM5NDQw/Ny02ODAzLmpwZWc.jpeg",
     "genres": [
       "Electronic",
-      "Rock",
       "Pop"
     ],
     "styles": [
-      "Shoegaze",
-      "Ambient",
-      "Dream Pop"
+      "Synth-pop"
     ],
-    "label": "Naïve",
-    "discogs_url": "https://www.discogs.com/release/7785948"
+    "label": "Because Music",
+    "discogs_url": "https://www.discogs.com/release/5589591"
   }
 }
