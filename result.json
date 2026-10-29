@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-10-29T10:46:13.288058+00:00",
+  "generated_at": "2026-10-29T16:31:26.375431+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3911354,
-    "discogs_id": 3911354,
-    "title": "Blau Und Weiß, Wie Lieb Ich Dich / Wir Sind Die Fans Von Schalke",
-    "artist": "FC Schalke 04",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/KeiX7UkKJ5De0_HGsam9rrPi1xDdG4mclrpKKJwQKW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEz/NTQtMTY1MzEyMzY3/NS00NTQ1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/guUOjmEHm0ybY-u4UdoeMuEfEje7yumqPuqpezG_n-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTEz/NTQtMTY1MzEyMzY3/NS00NTQ1LmpwZWc.jpeg",
+    "id": 7785948,
+    "discogs_id": 7785948,
+    "title": "Saturdays = Youth",
+    "artist": "M83",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/5eMAi1jGM2zFi2a27T5o0IZEJr1-t2DwVnvaD4A6wJU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/iB9liXMvU63adT_xUv2RkU9d_PmB-wQZCjyFswfNea4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU5/NDgtMTUzMDY0NzI2/OS02NDg5LmpwZWc.jpeg",
     "genres": [
+      "Electronic",
+      "Rock",
       "Pop"
     ],
     "styles": [
-      "Schlager"
+      "Shoegaze",
+      "Ambient",
+      "Dream Pop"
     ],
-    "label": "AZ Records (2)",
-    "discogs_url": "https://www.discogs.com/release/3911354"
+    "label": "Naïve",
+    "discogs_url": "https://www.discogs.com/release/7785948"
   }
 }
