@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-10-30T16:23:16.074461+00:00",
+  "generated_at": "2026-10-30T20:17:48.211502+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 14664103,
-    "discogs_id": 14664103,
-    "title": "Thoughtsicles",
-    "artist": "Mint Mind",
-    "year": 2020,
-    "cover_image": "https://i.discogs.com/SjBKf8ELOkrujhPnrM2wW11OOzlS7tZk0uKN8v4wj9Q/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY0/MTAzLTE1NzkxODQ1/NDgtODQyOC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/mInm24Fn0B2ix4B0vFi6Gh43zoSDt5JmIZdB-bNCX6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY0/MTAzLTE1NzkxODQ1/NDgtODQyOC5qcGVn.jpeg",
+    "id": 371951,
+    "discogs_id": 371951,
+    "title": "Tracy Chapman",
+    "artist": "Tracy Chapman",
+    "year": 1988,
+    "cover_image": "https://i.discogs.com/yfAiCJnStLMlbQTN1mYWdV4fIwNX4Mmx9nHFz9uWE74/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTk1/MS0xNDUzNjAxMzg4/LTIxODcuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/ZabtSWSGKkHuUe8RFQYMCtELvkBdJF2AHs6GAszvyck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTk1/MS0xNDUzNjAxMzg4/LTIxODcuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock",
-      "Noise"
+      "Folk Rock"
     ],
-    "label": "The Upper Room",
-    "discogs_url": "https://www.discogs.com/release/14664103"
+    "label": "Elektra",
+    "discogs_url": "https://www.discogs.com/release/371951"
   }
 }
