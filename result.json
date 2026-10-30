@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-10-29T20:46:57.087050+00:00",
+  "generated_at": "2026-10-30T10:45:39.962871+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 5589591,
-    "discogs_id": 5589591,
-    "title": "Love Letters",
-    "artist": "Metronomy",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/m1KTYI23OKZlVHfz7fIAMKouHJ47sxawTG6wKvxrZC4/rs:fit/g:sm/q:90/h:410/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODk1/OTEtMTM5NzM5NDQw/Ny02ODAzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/hI0ZDd8ZqS15MWaQdVqW_APN6kpxotDXm0C9gWbrorw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODk1/OTEtMTM5NzM5NDQw/Ny02ODAzLmpwZWc.jpeg",
+    "id": 4091614,
+    "discogs_id": 4091614,
+    "title": "Mellon Collie And The Infinite Sadness",
+    "artist": "The Smashing Pumpkins",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/a0vyHwBH0U-6lZxYu65MBVKEUxYGDC8RM_hGcJkPRos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTY0ODIxNjM0/OC00MDY4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/YDLCR-SJymQ8A_WdmMsRfFJ77icXBEt3K1iyWO6Y4oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MTQtMTY0ODIxNjM0/OC00MDY4LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Synth-pop"
+      "Alternative Rock"
     ],
-    "label": "Because Music",
-    "discogs_url": "https://www.discogs.com/release/5589591"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/4091614"
   }
 }
