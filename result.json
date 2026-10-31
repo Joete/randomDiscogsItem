@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-10-30T20:17:48.211502+00:00",
+  "generated_at": "2026-10-31T10:15:42.565486+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 371951,
-    "discogs_id": 371951,
-    "title": "Tracy Chapman",
-    "artist": "Tracy Chapman",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/yfAiCJnStLMlbQTN1mYWdV4fIwNX4Mmx9nHFz9uWE74/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTk1/MS0xNDUzNjAxMzg4/LTIxODcuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/ZabtSWSGKkHuUe8RFQYMCtELvkBdJF2AHs6GAszvyck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTk1/MS0xNDUzNjAxMzg4/LTIxODcuanBlZw.jpeg",
+    "id": 42890,
+    "discogs_id": 42890,
+    "title": "Ágætis Byrjun",
+    "artist": "Sigur Rós",
+    "year": 2001,
+    "cover_image": "https://i.discogs.com/IR8Hg-idzXPF10TlPqLDbuPu1-ntuso1uXmb-vAFd-Q/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODkw/LTEzMjgzMjA1MjQu/anBlZw.jpeg",
+    "thumb": "https://i.discogs.com/6126Lcr99_lf9y4l_dxZ2LEixWjy0Eneo10-k-Dul5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODkw/LTEzMjgzMjA1MjQu/anBlZw.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Folk Rock"
+      "Space Rock",
+      "Post Rock",
+      "Ambient"
     ],
-    "label": "Elektra",
-    "discogs_url": "https://www.discogs.com/release/371951"
+    "label": "FatCat Records",
+    "discogs_url": "https://www.discogs.com/release/42890"
   }
 }
