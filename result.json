@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-10-31T10:15:42.565486+00:00",
+  "generated_at": "2026-10-31T15:33:24.741540+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 42890,
-    "discogs_id": 42890,
-    "title": "Ágætis Byrjun",
-    "artist": "Sigur Rós",
-    "year": 2001,
-    "cover_image": "https://i.discogs.com/IR8Hg-idzXPF10TlPqLDbuPu1-ntuso1uXmb-vAFd-Q/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODkw/LTEzMjgzMjA1MjQu/anBlZw.jpeg",
-    "thumb": "https://i.discogs.com/6126Lcr99_lf9y4l_dxZ2LEixWjy0Eneo10-k-Dul5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODkw/LTEzMjgzMjA1MjQu/anBlZw.jpeg",
+    "id": 814331,
+    "discogs_id": 814331,
+    "title": "Fight For Your Mind",
+    "artist": "Ben Harper",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/mbgD6sxWkoRsTlirhc_MGa1UJRLdJUyZGeR0mkdkU6g/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDMz/MS0xNTQzNzU1MjE4/LTk5MjAuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/tYp4hW7OGy9YLpH0V9yziwW8Nsm7m6ocRiOUAc2Z01s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDMz/MS0xNTQzNzU1MjE4/LTk5MjAuanBlZw.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Space Rock",
-      "Post Rock",
-      "Ambient"
+      "Folk Rock"
     ],
-    "label": "FatCat Records",
-    "discogs_url": "https://www.discogs.com/release/42890"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/814331"
   }
 }
