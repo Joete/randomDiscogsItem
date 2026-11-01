@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-10-31T19:39:40.597438+00:00",
+  "generated_at": "2026-11-01T11:08:22.717019+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 64003,
-    "discogs_id": 64003,
-    "title": "Falco 3",
-    "artist": "Falco",
-    "year": 1986,
-    "cover_image": "https://i.discogs.com/KdltTnHR0tAueD782N5H6ai9ynNqym5uDkfbiXUnu7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDAz/LTEyMTY1NzkxNTQu/anBlZw.jpeg",
-    "thumb": "https://i.discogs.com/gOrMz2SZ0gqUVRJgADBB7jKBadeIZvYiPnn_ntNkPoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDAz/LTEyMTY1NzkxNTQu/anBlZw.jpeg",
+    "id": 968765,
+    "discogs_id": 968765,
+    "title": "Neon Bible",
+    "artist": "Arcade Fire",
+    "year": 2007,
+    "cover_image": "https://i.discogs.com/aY1FOq_nmQKN0CcDt9K1pyHnzjrjnWxThidg3SWzso8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODc2/NS0xMzI4MDM3OTI0/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/j8puIe1fqvwPu4aWbgY-dxzac7brcuBB3lgWvlokpCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODc2/NS0xMzI4MDM3OTI0/LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Pop Rock",
-      "Synth-pop"
+      "Alternative Rock",
+      "Indie Rock"
     ],
-    "label": "A&M Records",
-    "discogs_url": "https://www.discogs.com/release/64003"
+    "label": "Merge Records",
+    "discogs_url": "https://www.discogs.com/release/968765"
   }
 }
