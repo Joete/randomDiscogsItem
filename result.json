@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-11-01T20:02:52.008470+00:00",
+  "generated_at": "2026-11-02T12:08:42.877471+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 818424,
-    "discogs_id": 818424,
-    "title": "Gleiche Höhe Ist Kein Abseits",
-    "artist": "Sven Mikolajewicz",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/0hSFo9-SY5opo8UF2znhKRwarLvfsENu5cyUqikx33w/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODQy/NC0xNjgzNDc3NjQ5/LTQzNzguanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/qcZiIf5ql5loyAJf7N6tUlgwaqR1ZyhS5TBhzxjXp58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODQy/NC0xNjgzNDc3NjQ5/LTQzNzguanBlZw.jpeg",
+    "id": 10658315,
+    "discogs_id": 10658315,
+    "title": "Pop Voodoo",
+    "artist": "Black Grape",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/S6fe6ydjGyOXZwRrqduAOfwcKV0wf0mriTKX_6VO4B0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MzE1LTE1MDIyNzMy/MzUtODE5MC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/mqCtnESD4J9IZVtlwAkyyAhp-f45mQTZCWGwE9AFZmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MzE1LTE1MDIyNzMy/MzUtODE5MC5qcGVn.jpeg",
     "genres": [
-      "Electronic"
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Downtempo",
-      "Ambient",
-      "Trip Hop"
+      "Funk"
     ],
-    "label": "Plattenmeister",
-    "discogs_url": "https://www.discogs.com/release/818424"
+    "label": "UMC",
+    "discogs_url": "https://www.discogs.com/release/10658315"
   }
 }
