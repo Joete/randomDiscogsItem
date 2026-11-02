@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-02T12:08:42.877471+00:00",
+  "generated_at": "2026-11-02T19:54:41.051696+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 10658315,
-    "discogs_id": 10658315,
-    "title": "Pop Voodoo",
-    "artist": "Black Grape",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/S6fe6ydjGyOXZwRrqduAOfwcKV0wf0mriTKX_6VO4B0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MzE1LTE1MDIyNzMy/MzUtODE5MC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/mqCtnESD4J9IZVtlwAkyyAhp-f45mQTZCWGwE9AFZmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU4/MzE1LTE1MDIyNzMy/MzUtODE5MC5qcGVn.jpeg",
+    "id": 604581,
+    "discogs_id": 604581,
+    "title": "Die Drei ???  13 - Und Der Lachende Schatten",
+    "artist": "William Arden",
+    "year": 1980,
+    "cover_image": "https://i.discogs.com/tCWuVNQzAoC0g7ST54imPVUIInFtRF4X72suWnJiGKM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDU4/MS0xNDUzOTczMzE0/LTU2MTMuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/tzarxlSluOwSiuUZWlCjPHJ_hU51TQtN0vUk1feRFJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDU4/MS0xNDUzOTczMzE0/LTU2MTMuanBlZw.jpeg",
     "genres": [
-      "Funk / Soul",
-      "Pop"
+      "Non-Music",
+      "Children's"
     ],
     "styles": [
-      "Funk"
+      "Radioplay"
     ],
-    "label": "UMC",
-    "discogs_url": "https://www.discogs.com/release/10658315"
+    "label": "Europa",
+    "discogs_url": "https://www.discogs.com/release/604581"
   }
 }
