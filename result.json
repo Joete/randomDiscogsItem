@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-11-03T11:44:42.360687+00:00",
+  "generated_at": "2026-11-03T17:26:52.585538+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 7317293,
-    "discogs_id": 7317293,
-    "title": "Golden Ticket",
-    "artist": "Golden Rules",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/1X3s7HE3pAmWSYFal-KfGh-qgJY-eb1cDK4iT2M8iWU/rs:fit/g:sm/q:90/h:496/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTcy/OTMtMTQzODczNjc2/MS05NjQ5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/mMv9X7MotHYSR796rhE535tSJxyY7_X61Y14pnj1yKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTcy/OTMtMTQzODczNjc2/MS05NjQ5LmpwZWc.jpeg",
+    "id": 7287104,
+    "discogs_id": 7287104,
+    "title": "Play Loud",
+    "artist": "The B-52's",
+    "year": 1988,
+    "cover_image": "https://i.discogs.com/yPKHY8uye20YO3YHKLUMlxJwVcOp3E5_XzdQq1ZFCVc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODcx/MDQtMTQzODM5MTg1/My05NDE0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/wMObpgUvGUC8ANNxCHqXBq7yP5TsSFmT04z3rFTzSIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODcx/MDQtMTQzODM5MTg1/My05NDE0LmpwZWc.jpeg",
     "genres": [
-      "Hip Hop"
+      "Electronic",
+      "Rock"
     ],
     "styles": [
-      "Soul",
-      "Jazzy Hip-Hop",
-      "Conscious"
+      "New Wave",
+      "Synth-pop",
+      "Disco"
     ],
-    "label": "Lex Records",
-    "discogs_url": "https://www.discogs.com/release/7317293"
+    "label": "Island Records",
+    "discogs_url": "https://www.discogs.com/release/7287104"
   }
 }
