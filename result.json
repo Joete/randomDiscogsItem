@@ -1,24 +1,29 @@
 {
-  "generated_at": "2026-11-03T17:26:52.585538+00:00",
+  "generated_at": "2026-11-03T21:24:58.428674+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 7287104,
-    "discogs_id": 7287104,
-    "title": "Play Loud",
-    "artist": "The B-52's",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/yPKHY8uye20YO3YHKLUMlxJwVcOp3E5_XzdQq1ZFCVc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODcx/MDQtMTQzODM5MTg1/My05NDE0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/wMObpgUvGUC8ANNxCHqXBq7yP5TsSFmT04z3rFTzSIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODcx/MDQtMTQzODM5MTg1/My05NDE0LmpwZWc.jpeg",
+    "id": 10175557,
+    "discogs_id": 10175557,
+    "title": "Humanz",
+    "artist": "Gorillaz",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/XHWfO4MH3FYZvQfXdgp25faFFkuGBjNQ-bVf8GVnxdU/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/NTU3LTE0OTYwNzY4/MjAtNzAzNS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/rSjlDWykD6UclL9w6wJ6PDKL2Er6GhLpNlr8keFDcK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/NTU3LTE0OTYwNzY4/MjAtNzAzNS5qcGVn.jpeg",
     "genres": [
       "Electronic",
-      "Rock"
+      "Hip Hop",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "New Wave",
-      "Synth-pop",
-      "Disco"
+      "Pop Rap",
+      "Dance-pop",
+      "Trip Hop",
+      "Electro",
+      "Rhythm & Blues",
+      "Funk"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/7287104"
+    "label": "Parlophone",
+    "discogs_url": "https://www.discogs.com/release/10175557"
   }
 }
