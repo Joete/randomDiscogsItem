@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-11-04T21:39:50.588774+00:00",
+  "generated_at": "2026-11-05T12:00:11.230886+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1601155,
-    "discogs_id": 1601155,
-    "title": "On The Radio - Greatest Hits Volumes I & II",
-    "artist": "Donna Summer",
-    "year": 1979,
-    "cover_image": "https://i.discogs.com/pCrRpDDhtqv9B__lsirJZ-2QfYviiaXVKRGHPzz7xZ0/rs:fit/g:sm/q:90/h:560/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDEx/NTUtMTMxNDQ3NDYx/Ni5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/v7yQZUfb0UILZPCisWhEcfZlB1WkcakKfb8QSnCplzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDEx/NTUtMTMxNDQ3NDYx/Ni5qcGVn.jpeg",
+    "id": 1821492,
+    "discogs_id": 1821492,
+    "title": "Trio",
+    "artist": "Trio",
+    "year": 1982,
+    "cover_image": "https://i.discogs.com/ZHGshjfoBYEoyNV3719nMkiyB_orp5nrBiMGq_wms-k/rs:fit/g:sm/q:90/h:480/w:508/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE0/OTItMTMxMDIyMTQ5/My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/YXOJlrALJBAArEeku4zW8GAlSunJVUP82SCXAysUuTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE0/OTItMTMxMDIyMTQ5/My5qcGVn.jpeg",
     "genres": [
-      "Funk / Soul"
+      "Electronic",
+      "Rock"
     ],
     "styles": [
-      "Disco"
+      "Synth-pop",
+      "Minimal",
+      "Post-Punk",
+      "NDW"
     ],
-    "label": "Casablanca",
-    "discogs_url": "https://www.discogs.com/release/1601155"
+    "label": "Mercury",
+    "discogs_url": "https://www.discogs.com/release/1821492"
   }
 }
