@@ -1,25 +1,23 @@
 {
-  "generated_at": "2026-11-05T12:00:11.230886+00:00",
+  "generated_at": "2026-11-05T17:46:42.323718+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1821492,
-    "discogs_id": 1821492,
-    "title": "Trio",
-    "artist": "Trio",
-    "year": 1982,
-    "cover_image": "https://i.discogs.com/ZHGshjfoBYEoyNV3719nMkiyB_orp5nrBiMGq_wms-k/rs:fit/g:sm/q:90/h:480/w:508/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE0/OTItMTMxMDIyMTQ5/My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/YXOJlrALJBAArEeku4zW8GAlSunJVUP82SCXAysUuTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE0/OTItMTMxMDIyMTQ5/My5qcGVn.jpeg",
+    "id": 1056463,
+    "discogs_id": 1056463,
+    "title": "You Spin Me Round (Like A Record)",
+    "artist": "Dead Or Alive",
+    "year": 1984,
+    "cover_image": "https://i.discogs.com/FunJhnSmUGfly6VUCdLUGPeJ-dN_5CSydQcV6BH3NwI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY0/NjMtMTIyMjk1NjQy/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/4yc_XFVDZPrriZSwSS6MPpXLC0mZXK-dxwbksMMMMJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY0/NjMtMTIyMjk1NjQy/OS5qcGVn.jpeg",
     "genres": [
       "Electronic",
-      "Rock"
+      "Pop"
     ],
     "styles": [
-      "Synth-pop",
-      "Minimal",
-      "Post-Punk",
-      "NDW"
+      "Hi NRG",
+      "Synth-pop"
     ],
-    "label": "Mercury",
-    "discogs_url": "https://www.discogs.com/release/1821492"
+    "label": "Epic",
+    "discogs_url": "https://www.discogs.com/release/1056463"
   }
 }
