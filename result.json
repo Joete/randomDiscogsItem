@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-11-06T17:03:04.519755+00:00",
+  "generated_at": "2026-11-06T21:11:32.547063+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 2951609,
-    "discogs_id": 2951609,
-    "title": "Die Rübe - Lustige + Listige Lieder Für Kinder Von Sieben Bis Siebzig",
-    "artist": "Christiane Knauf, Fredrik Vahle",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/9Wfn4zVnZxbWE13PCWu3uf3YVGPLMmtTtUyBrwsWEHI/rs:fit/g:sm/q:90/h:279/w:284/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE2/MDktMTMwODgyNTMw/Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/JwHuWye0GzON5aE580O6YAsd8unRGlXWNssdRUM5sBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE2/MDktMTMwODgyNTMw/Mi5qcGVn.jpeg",
+    "id": 1498793,
+    "discogs_id": 1498793,
+    "title": "Computerliebe (Die Module Spielen Verrückt)",
+    "artist": "Paso Doble",
+    "year": 1984,
+    "cover_image": "https://i.discogs.com/AIAExwH-cQYsXzL-76so9OS7ECGRh28zhdLQ3taOUaE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg3/OTMtMTMxNzU1NjEz/NC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/HK5K36Z7yGGKExJnYF_bMvBQ79xyzqZe6_udj4M0mFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg3/OTMtMTMxNzU1NjEz/NC5qcGVn.jpeg",
     "genres": [
-      "Pop",
-      "Children's"
+      "Electronic",
+      "Pop"
     ],
     "styles": [
-      "Vocal"
+      "NDW",
+      "New Wave",
+      "Synth-pop"
     ],
-    "label": "pläne",
-    "discogs_url": "https://www.discogs.com/release/2951609"
+    "label": "WEA",
+    "discogs_url": "https://www.discogs.com/release/1498793"
   }
 }
