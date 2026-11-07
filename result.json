@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-07T10:56:37.063951+00:00",
+  "generated_at": "2026-11-07T15:59:32.315850+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3781602,
-    "discogs_id": 3781602,
-    "title": "Think Tank",
-    "artist": "Blur",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/xRsU1vmkIOgx-_QOYktIGilEjTgPebpufiifW-2rnzE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE2/MDItMTQyNDk4MzI3/Mi00OTg5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/mq2oDN0AgyNnzgCNiV1Nyuk6hfzHyHas35y4LWX3BL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE2/MDItMTQyNDk4MzI3/Mi00OTg5LmpwZWc.jpeg",
+    "id": 3175219,
+    "discogs_id": 3175219,
+    "title": "Mutual Friends",
+    "artist": "BOY (16)",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/TVnOqDFYXnJifYDHDJ7_LqtlVYJhI0fb5OFXITb7iCk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzUy/MTktMTMxOTM1ODkx/OS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/6wM24fFCw61sLBoGSmq2Wy7JtdTxgO22BpIFq2e6QJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzUy/MTktMTMxOTM1ODkx/OS5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Pop",
+      "Folk, World, & Country"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock"
+      "Folk"
     ],
-    "label": "Parlophone",
-    "discogs_url": "https://www.discogs.com/release/3781602"
+    "label": "Grönland Records",
+    "discogs_url": "https://www.discogs.com/release/3175219"
   }
 }
