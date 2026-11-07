@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-11-07T15:59:32.315850+00:00",
+  "generated_at": "2026-11-07T19:46:33.502392+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3175219,
-    "discogs_id": 3175219,
-    "title": "Mutual Friends",
-    "artist": "BOY (16)",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/TVnOqDFYXnJifYDHDJ7_LqtlVYJhI0fb5OFXITb7iCk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzUy/MTktMTMxOTM1ODkx/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/6wM24fFCw61sLBoGSmq2Wy7JtdTxgO22BpIFq2e6QJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzUy/MTktMTMxOTM1ODkx/OS5qcGVn.jpeg",
+    "id": 4164801,
+    "discogs_id": 4164801,
+    "title": "Gish",
+    "artist": "The Smashing Pumpkins",
+    "year": 1991,
+    "cover_image": "https://i.discogs.com/h0_QatVipzGUtkYegMJCZytXHojDYMilKLG1SQIuajk/rs:fit/g:sm/q:90/h:589/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/MDEtMTM1NzQxODE4/NC02MjIxLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/2yt9n5ys5GjT7wpW_astDueIbxWnyfXcy2cDclCMbR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/MDEtMTM1NzQxODE4/NC02MjIxLmpwZWc.jpeg",
     "genres": [
-      "Pop",
-      "Folk, World, & Country"
+      "Rock"
     ],
     "styles": [
-      "Folk"
+      "Alternative Rock"
     ],
-    "label": "Grönland Records",
-    "discogs_url": "https://www.discogs.com/release/3175219"
+    "label": "Caroline Records",
+    "discogs_url": "https://www.discogs.com/release/4164801"
   }
 }
