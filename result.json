@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-11-06T21:11:32.547063+00:00",
+  "generated_at": "2026-11-07T10:56:37.063951+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1498793,
-    "discogs_id": 1498793,
-    "title": "Computerliebe (Die Module Spielen Verrückt)",
-    "artist": "Paso Doble",
-    "year": 1984,
-    "cover_image": "https://i.discogs.com/AIAExwH-cQYsXzL-76so9OS7ECGRh28zhdLQ3taOUaE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg3/OTMtMTMxNzU1NjEz/NC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/HK5K36Z7yGGKExJnYF_bMvBQ79xyzqZe6_udj4M0mFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg3/OTMtMTMxNzU1NjEz/NC5qcGVn.jpeg",
+    "id": 3781602,
+    "discogs_id": 3781602,
+    "title": "Think Tank",
+    "artist": "Blur",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/xRsU1vmkIOgx-_QOYktIGilEjTgPebpufiifW-2rnzE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE2/MDItMTQyNDk4MzI3/Mi00OTg5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/mq2oDN0AgyNnzgCNiV1Nyuk6hfzHyHas35y4LWX3BL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE2/MDItMTQyNDk4MzI3/Mi00OTg5LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "NDW",
-      "New Wave",
-      "Synth-pop"
+      "Alternative Rock",
+      "Indie Rock"
     ],
-    "label": "WEA",
-    "discogs_url": "https://www.discogs.com/release/1498793"
+    "label": "Parlophone",
+    "discogs_url": "https://www.discogs.com/release/3781602"
   }
 }
