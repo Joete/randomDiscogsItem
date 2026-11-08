@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-11-08T16:27:38.823743+00:00",
+  "generated_at": "2026-11-08T20:04:53.979208+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 2054920,
-    "discogs_id": 2054920,
-    "title": "Nach Dem Goldrausch",
-    "artist": "Fotos",
-    "year": 2008,
-    "cover_image": "https://i.discogs.com/tzRNE6SdaCVuv9uki-utJPX8H7BjM1MN1Z7yFy0rTrM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ5/MjAtMTYwOTcyMDY2/MS04MTQ4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/HuuOcQ6bI97BZLtdcvr5Jy7GNUgaNpuNqgfxHf3mkQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ5/MjAtMTYwOTcyMDY2/MS04MTQ4LmpwZWc.jpeg",
+    "id": 194500,
+    "discogs_id": 194500,
+    "title": "Concert - The Cure Live",
+    "artist": "The Cure",
+    "year": 1986,
+    "cover_image": "https://i.discogs.com/pUKgAu9WdclpWRb9YhmvW-yy7VNWPJ2pjDUI_BAyJgg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDUw/MC0xMzU0MDcyMTY0/LTg1NTUuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/RqV_EB7Acib10u5opcowTliiAedIXLQ0r39xY3HMN2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDUw/MC0xMzU0MDcyMTY0/LTg1NTUuanBlZw.jpeg",
     "genres": [
+      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Alternative Rock",
+      "New Wave",
+      "Synth-pop"
     ],
-    "label": "Labels",
-    "discogs_url": "https://www.discogs.com/release/2054920"
+    "label": "Fiction Records",
+    "discogs_url": "https://www.discogs.com/release/194500"
   }
 }
