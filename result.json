@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-11-07T19:46:33.502392+00:00",
+  "generated_at": "2026-11-08T11:09:01.102848+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 4164801,
-    "discogs_id": 4164801,
-    "title": "Gish",
-    "artist": "The Smashing Pumpkins",
-    "year": 1991,
-    "cover_image": "https://i.discogs.com/h0_QatVipzGUtkYegMJCZytXHojDYMilKLG1SQIuajk/rs:fit/g:sm/q:90/h:589/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/MDEtMTM1NzQxODE4/NC02MjIxLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/2yt9n5ys5GjT7wpW_astDueIbxWnyfXcy2cDclCMbR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/MDEtMTM1NzQxODE4/NC02MjIxLmpwZWc.jpeg",
+    "id": 530783,
+    "discogs_id": 530783,
+    "title": "You Could Have It So Much Better",
+    "artist": "Franz Ferdinand",
+    "year": 2005,
+    "cover_image": "https://i.discogs.com/8LUZN9_FDzsqevuHBMzeEnkDaYMKax1AroGtNb96irY/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDc4/My0xMTY4Nzk1Njky/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/LttA59IesqJVSdnNtLxE41D735WMNaD7StD-y2i4y-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDc4/My0xMTY4Nzk1Njky/LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "New Wave",
+      "Indie Rock"
     ],
-    "label": "Caroline Records",
-    "discogs_url": "https://www.discogs.com/release/4164801"
+    "label": "Domino",
+    "discogs_url": "https://www.discogs.com/release/530783"
   }
 }
