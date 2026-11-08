@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-11-08T11:09:01.102848+00:00",
+  "generated_at": "2026-11-08T16:27:38.823743+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 530783,
-    "discogs_id": 530783,
-    "title": "You Could Have It So Much Better",
-    "artist": "Franz Ferdinand",
-    "year": 2005,
-    "cover_image": "https://i.discogs.com/8LUZN9_FDzsqevuHBMzeEnkDaYMKax1AroGtNb96irY/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDc4/My0xMTY4Nzk1Njky/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/LttA59IesqJVSdnNtLxE41D735WMNaD7StD-y2i4y-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDc4/My0xMTY4Nzk1Njky/LmpwZWc.jpeg",
+    "id": 2054920,
+    "discogs_id": 2054920,
+    "title": "Nach Dem Goldrausch",
+    "artist": "Fotos",
+    "year": 2008,
+    "cover_image": "https://i.discogs.com/tzRNE6SdaCVuv9uki-utJPX8H7BjM1MN1Z7yFy0rTrM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ5/MjAtMTYwOTcyMDY2/MS04MTQ4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/HuuOcQ6bI97BZLtdcvr5Jy7GNUgaNpuNqgfxHf3mkQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ5/MjAtMTYwOTcyMDY2/MS04MTQ4LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "New Wave",
       "Indie Rock"
     ],
-    "label": "Domino",
-    "discogs_url": "https://www.discogs.com/release/530783"
+    "label": "Labels",
+    "discogs_url": "https://www.discogs.com/release/2054920"
   }
 }
