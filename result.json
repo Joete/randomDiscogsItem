@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-09T12:40:28.957136+00:00",
+  "generated_at": "2026-11-09T20:18:58.044189+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 603868,
-    "discogs_id": 603868,
-    "title": "Die Drei ??? 2 - Und Der Phantomsee",
-    "artist": "William Arden",
-    "year": 1979,
-    "cover_image": "https://i.discogs.com/mc660Bl0qqGk8Hsk2wnKyHMaHOCAjAsSjrmTDOuW-lI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzg2/OC0xNzYyNzc2MDM3/LTgwNDQuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/5CTUY41OOnxf8ZslNBBgIMZ6H6IrQx1L3J-SZrWlAjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzg2/OC0xNzYyNzc2MDM3/LTgwNDQuanBlZw.jpeg",
+    "id": 3597383,
+    "discogs_id": 3597383,
+    "title": "Modern Life Is Rubbish",
+    "artist": "Blur",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/TJZgP44gLzfaTBdr9NFl894357CerYiffSoxROwpKAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTcz/ODMtMTMzNzU5MjE0/Ny00OTA2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/reDgoBDopJes6BnTKgOQpthzaC_-vl0dPlqAfWHRTWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTcz/ODMtMTMzNzU5MjE0/Ny00OTA2LmpwZWc.jpeg",
     "genres": [
-      "Non-Music",
-      "Children's"
+      "Rock"
     ],
     "styles": [
-      "Radioplay"
+      "Indie Rock",
+      "Britpop"
     ],
-    "label": "Europa",
-    "discogs_url": "https://www.discogs.com/release/603868"
+    "label": "Not On Label (Blur)",
+    "discogs_url": "https://www.discogs.com/release/3597383"
   }
 }
