@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T20:18:58.044189+00:00",
+  "generated_at": "2026-11-09T23:55:37.765931+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3597383,
-    "discogs_id": 3597383,
-    "title": "Modern Life Is Rubbish",
-    "artist": "Blur",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/TJZgP44gLzfaTBdr9NFl894357CerYiffSoxROwpKAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTcz/ODMtMTMzNzU5MjE0/Ny00OTA2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/reDgoBDopJes6BnTKgOQpthzaC_-vl0dPlqAfWHRTWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTcz/ODMtMTMzNzU5MjE0/Ny00OTA2LmpwZWc.jpeg",
+    "id": 655662,
+    "discogs_id": 655662,
+    "title": "Animal Nitrate",
+    "artist": "Suede",
+    "year": 1993,
+    "cover_image": "https://i.discogs.com/7NdbniNaD4xXBI2BZ1Lyj4cQyXrbzaccqvfujxh1fls/rs:fit/g:sm/q:90/h:500/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTY2/Mi0xMTQzOTk1ODA1/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/ELaGAo1v7pxSElzVv__Him-Vgp9viW2KRn3Vg3qSRvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTY2/Mi0xMTQzOTk1ODA1/LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
@@ -16,7 +16,7 @@
       "Indie Rock",
       "Britpop"
     ],
-    "label": "Not On Label (Blur)",
-    "discogs_url": "https://www.discogs.com/release/3597383"
+    "label": "Nude Records",
+    "discogs_url": "https://www.discogs.com/release/655662"
   }
 }
