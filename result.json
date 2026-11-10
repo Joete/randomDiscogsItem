@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-11-10T17:23:56.784442+00:00",
+  "generated_at": "2026-11-10T21:36:22.399221+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 10175037,
-    "discogs_id": 10175037,
-    "title": "Plays The Music Of William Onyeabor",
-    "artist": "The Atomic Bomb Band",
-    "year": 2017,
-    "cover_image": "https://i.discogs.com/a40k-XBh-fnCu9ZafPjVsc52Mtj4PxCj3cYIj59q30U/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/MDM3LTE0OTI4ODI5/NjctODQ1MC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/x60sySvB7g7YnCf7nfMeij5geh_ZHHRNes8qXWFC2N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/MDM3LTE0OTI4ODI5/NjctODQ1MC5qcGVn.jpeg",
+    "id": 611748,
+    "discogs_id": 611748,
+    "title": "Power",
+    "artist": "Q And Not U",
+    "year": 2004,
+    "cover_image": "https://i.discogs.com/LzvoBTc7vzH3yfPH_KU_pXVKcnIDqegQ9x_1dUfdf_s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTc0/OC0xNDA4NTY0Mjg2/LTE5NDUuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/kg1gz40sa2be0alyR6NzpsoxTUcClesgesEqvM5HRBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTc0/OC0xNDA4NTY0Mjg2/LTE5NDUuanBlZw.jpeg",
     "genres": [
-      "Funk / Soul",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Afrobeat"
+      "Indie Rock",
+      "Post-Punk",
+      "Post-Hardcore"
     ],
-    "label": "Luaka Bop",
-    "discogs_url": "https://www.discogs.com/release/10175037"
+    "label": "Dischord Records",
+    "discogs_url": "https://www.discogs.com/release/611748"
   }
 }
