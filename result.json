@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-11-10T12:19:50.442056+00:00",
+  "generated_at": "2026-11-10T17:23:56.784442+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3503434,
-    "discogs_id": 3503434,
-    "title": "I'm The Leader Of The Gang (I Am!)",
-    "artist": "Gary Glitter",
-    "year": 1973,
-    "cover_image": "https://i.discogs.com/jozsjnuYHh0fYzgW-VITn_Zx2EZfzzHo-RLMEDBApqs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDM0/MzQtMTM4MDEwMTA4/Ni01MTYwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/GHrxfrqdE9CEQt9_LK4PjvxXmeCZxS7GSvJT-vHJ2VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDM0/MzQtMTM4MDEwMTA4/Ni01MTYwLmpwZWc.jpeg",
+    "id": 10175037,
+    "discogs_id": 10175037,
+    "title": "Plays The Music Of William Onyeabor",
+    "artist": "The Atomic Bomb Band",
+    "year": 2017,
+    "cover_image": "https://i.discogs.com/a40k-XBh-fnCu9ZafPjVsc52Mtj4PxCj3cYIj59q30U/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/MDM3LTE0OTI4ODI5/NjctODQ1MC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/x60sySvB7g7YnCf7nfMeij5geh_ZHHRNes8qXWFC2N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/MDM3LTE0OTI4ODI5/NjctODQ1MC5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Glam"
+      "Afrobeat"
     ],
-    "label": "Bell Records",
-    "discogs_url": "https://www.discogs.com/release/3503434"
+    "label": "Luaka Bop",
+    "discogs_url": "https://www.discogs.com/release/10175037"
   }
 }
