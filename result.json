@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-11-10T21:36:22.399221+00:00",
+  "generated_at": "2026-11-11T11:44:59.791562+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 611748,
-    "discogs_id": 611748,
-    "title": "Power",
-    "artist": "Q And Not U",
-    "year": 2004,
-    "cover_image": "https://i.discogs.com/LzvoBTc7vzH3yfPH_KU_pXVKcnIDqegQ9x_1dUfdf_s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTc0/OC0xNDA4NTY0Mjg2/LTE5NDUuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/kg1gz40sa2be0alyR6NzpsoxTUcClesgesEqvM5HRBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTc0/OC0xNDA4NTY0Mjg2/LTE5NDUuanBlZw.jpeg",
+    "id": 141360,
+    "discogs_id": 141360,
+    "title": "Forever Young  ",
+    "artist": "Alphaville",
+    "year": 1984,
+    "cover_image": "https://i.discogs.com/HDzplq-bL1nONMM8L7z8lBNPRFiZDW8CmT9oiZvh_Ho/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM2/MC0xMTQ5Nzg1OTQ5/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/MwsXN63rretmv9FTZByYe44ZBz8EcZMvw-Isnt81iZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM2/MC0xMTQ5Nzg1OTQ5/LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "Indie Rock",
-      "Post-Punk",
-      "Post-Hardcore"
+      "Synth-pop"
     ],
-    "label": "Dischord Records",
-    "discogs_url": "https://www.discogs.com/release/611748"
+    "label": "WEA",
+    "discogs_url": "https://www.discogs.com/release/141360"
   }
 }
