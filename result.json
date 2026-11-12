@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-11-12T17:48:58.546225+00:00",
+  "generated_at": "2026-11-12T21:59:37.463594+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1879874,
-    "discogs_id": 1879874,
-    "title": "Heathen Chemistry",
-    "artist": "Oasis (2)",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/SSSn1bg8pqnMX5P-bBmZKTW16J6YY_BbvS8VGm01j7M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk4/NzQtMTU0NjY5MDU2/Ny01ODUwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/WZEh4Unp_vqrhCKYhOw3RPGKjIT17VvhZh7cFWM3VN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk4/NzQtMTU0NjY5MDU2/Ny01ODUwLmpwZWc.jpeg",
+    "id": 3534755,
+    "discogs_id": 3534755,
+    "title": "Justified",
+    "artist": "Justin Timberlake",
+    "year": 2002,
+    "cover_image": "https://i.discogs.com/2BjBg-nLe2QiQWA9TNUXpPUOrsGqL6xcubE1wHipC3I/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ3/NTUtMTY2NDI3NjQ4/OS03MDU3LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/ceyGTpSJxfgVlcN6eFY8L7mnnjIg61VXler_efH4Un4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ3/NTUtMTY2NDI3NjQ4/OS03MDU3LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock",
-      "Britpop"
+      "Contemporary R&B"
     ],
-    "label": "Big Brother",
-    "discogs_url": "https://www.discogs.com/release/1879874"
+    "label": "Jive",
+    "discogs_url": "https://www.discogs.com/release/3534755"
   }
 }
