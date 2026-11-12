@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-12T12:23:08.017806+00:00",
+  "generated_at": "2026-11-12T17:48:58.546225+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 5956626,
-    "discogs_id": 5956626,
-    "title": "Wolfgang Amadeus Phoenix",
-    "artist": "Phoenix",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/fhd34iXPw2JhYUl1gKe7wSFem7PTURggp-a-rfH15Ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY2/MjYtMTQwNzM0MDAx/My0yODcwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/QOQZmDiYRT2ntbVzasXxqNGprjTiuWH-6_7quMj-E10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY2/MjYtMTQwNzM0MDAx/My0yODcwLmpwZWc.jpeg",
+    "id": 1879874,
+    "discogs_id": 1879874,
+    "title": "Heathen Chemistry",
+    "artist": "Oasis (2)",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/SSSn1bg8pqnMX5P-bBmZKTW16J6YY_BbvS8VGm01j7M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk4/NzQtMTU0NjY5MDU2/Ny01ODUwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/WZEh4Unp_vqrhCKYhOw3RPGKjIT17VvhZh7cFWM3VN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk4/NzQtMTU0NjY5MDU2/Ny01ODUwLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Pop Rock",
-      "Indie Rock"
+      "Alternative Rock",
+      "Britpop"
     ],
-    "label": "Glassnote (2)",
-    "discogs_url": "https://www.discogs.com/release/5956626"
+    "label": "Big Brother",
+    "discogs_url": "https://www.discogs.com/release/1879874"
   }
 }
