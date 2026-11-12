@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-11-11T22:24:56.897127+00:00",
+  "generated_at": "2026-11-12T12:23:08.017806+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 2129635,
-    "discogs_id": 2129635,
-    "title": "Creepshow",
-    "artist": "Radiohead",
-    "year": 1994,
-    "cover_image": "https://i.discogs.com/TUUSN9tMiLkGREOvNlS0Ba9XZKanDicc-smDGHfQinM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk2/MzUtMTUwMTYxNzk4/MS0yMzY5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/ywQFCnHzhujTzJL2eTpp7lmeia6nzSKUS04zlAJHy30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk2/MzUtMTUwMTYxNzk4/MS0yMzY5LmpwZWc.jpeg",
+    "id": 5956626,
+    "discogs_id": 5956626,
+    "title": "Wolfgang Amadeus Phoenix",
+    "artist": "Phoenix",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/fhd34iXPw2JhYUl1gKe7wSFem7PTURggp-a-rfH15Ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY2/MjYtMTQwNzM0MDAx/My0yODcwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/QOQZmDiYRT2ntbVzasXxqNGprjTiuWH-6_7quMj-E10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY2/MjYtMTQwNzM0MDAx/My0yODcwLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Pop Rock",
+      "Indie Rock"
     ],
-    "label": "Kiss The Stone",
-    "discogs_url": "https://www.discogs.com/release/2129635"
+    "label": "Glassnote (2)",
+    "discogs_url": "https://www.discogs.com/release/5956626"
   }
 }
