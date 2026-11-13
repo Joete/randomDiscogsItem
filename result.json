@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-11-12T21:59:37.463594+00:00",
+  "generated_at": "2026-11-13T11:58:58.815132+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3534755,
-    "discogs_id": 3534755,
-    "title": "Justified",
-    "artist": "Justin Timberlake",
-    "year": 2002,
-    "cover_image": "https://i.discogs.com/2BjBg-nLe2QiQWA9TNUXpPUOrsGqL6xcubE1wHipC3I/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ3/NTUtMTY2NDI3NjQ4/OS03MDU3LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/ceyGTpSJxfgVlcN6eFY8L7mnnjIg61VXler_efH4Un4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ3/NTUtMTY2NDI3NjQ4/OS03MDU3LmpwZWc.jpeg",
+    "id": 1313165,
+    "discogs_id": 1313165,
+    "title": "The Southern Harmony And Musical Companion / High As The Moon",
+    "artist": "The Black Crowes",
+    "year": 1993,
+    "cover_image": "https://i.discogs.com/zKl-57uIFTyo0i_ZHW8JMVXWWYbsJ1Qlq-n_Op_exRA/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMx/NjUtMTI4NjEzNzAz/NC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/u-dU6bSnNK3Wzb1wWm-0e-iTgFqD6BXP4IZjg0juifM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMx/NjUtMTI4NjEzNzAz/NC5qcGVn.jpeg",
     "genres": [
-      "Hip Hop",
-      "Funk / Soul",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Contemporary R&B"
+      "Blues Rock",
+      "Rock & Roll",
+      "Southern Rock",
+      "Hard Rock"
     ],
-    "label": "Jive",
-    "discogs_url": "https://www.discogs.com/release/3534755"
+    "label": "Def American Recordings",
+    "discogs_url": "https://www.discogs.com/release/1313165"
   }
 }
