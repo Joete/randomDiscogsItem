@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-11-14T11:17:30.010278+00:00",
+  "generated_at": "2026-11-14T16:15:56.394580+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 7287104,
-    "discogs_id": 7287104,
-    "title": "Play Loud",
-    "artist": "The B-52's",
-    "year": 1988,
-    "cover_image": "https://i.discogs.com/yPKHY8uye20YO3YHKLUMlxJwVcOp3E5_XzdQq1ZFCVc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODcx/MDQtMTQzODM5MTg1/My05NDE0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/wMObpgUvGUC8ANNxCHqXBq7yP5TsSFmT04z3rFTzSIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODcx/MDQtMTQzODM5MTg1/My05NDE0LmpwZWc.jpeg",
+    "id": 5956626,
+    "discogs_id": 5956626,
+    "title": "Wolfgang Amadeus Phoenix",
+    "artist": "Phoenix",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/fhd34iXPw2JhYUl1gKe7wSFem7PTURggp-a-rfH15Ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY2/MjYtMTQwNzM0MDAx/My0yODcwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/QOQZmDiYRT2ntbVzasXxqNGprjTiuWH-6_7quMj-E10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY2/MjYtMTQwNzM0MDAx/My0yODcwLmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "New Wave",
-      "Synth-pop",
-      "Disco"
+      "Pop Rock",
+      "Indie Rock"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/7287104"
+    "label": "Glassnote (2)",
+    "discogs_url": "https://www.discogs.com/release/5956626"
   }
 }
