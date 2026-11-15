@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-11-15T16:43:32.025337+00:00",
+  "generated_at": "2026-11-15T20:42:19.188362+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 2851025,
-    "discogs_id": 2851025,
-    "title": "The King Of Limbs",
-    "artist": "Radiohead",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/K0gvirc78WvMQ7Lvl2199oVrblaWw-ziWho1f_r8lw0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MjUtMTMwMzkyNzU4/OS5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/DFrP5lGfLiLPhHu9Or-Mxne_VI7H4bqu9Bqqlwh6KHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTEw/MjUtMTMwMzkyNzU4/OS5qcGVn.jpeg",
+    "id": 539528,
+    "discogs_id": 539528,
+    "title": "Lady In Black",
+    "artist": "Uriah Heep",
+    "year": 1977,
+    "cover_image": "https://i.discogs.com/M_N18f2AObIjsvCmVBN4_bEoeisubtAcKNF1OKJkuBA/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTUy/OC0xMjU3MTA2ODM0/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/NqyOcp1T2rvx80J-NTjZQFe53VV1Lu8r_ubvCRO1GMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTUy/OC0xMjU3MTA2ODM0/LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
       "Rock"
     ],
     "styles": [
-      "Experimental",
-      "Alternative Rock"
+      "Folk Rock",
+      "Prog Rock"
     ],
-    "label": "Ticker Tape Ltd.",
-    "discogs_url": "https://www.discogs.com/release/2851025"
+    "label": "Bronze",
+    "discogs_url": "https://www.discogs.com/release/539528"
   }
 }
