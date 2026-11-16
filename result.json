@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-11-15T20:42:19.188362+00:00",
+  "generated_at": "2026-11-16T12:32:13.853213+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 539528,
-    "discogs_id": 539528,
-    "title": "Lady In Black",
-    "artist": "Uriah Heep",
-    "year": 1977,
-    "cover_image": "https://i.discogs.com/M_N18f2AObIjsvCmVBN4_bEoeisubtAcKNF1OKJkuBA/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTUy/OC0xMjU3MTA2ODM0/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/NqyOcp1T2rvx80J-NTjZQFe53VV1Lu8r_ubvCRO1GMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTUy/OC0xMjU3MTA2ODM0/LmpwZWc.jpeg",
+    "id": 367899,
+    "discogs_id": 367899,
+    "title": "Adore",
+    "artist": "The Smashing Pumpkins",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/CYTpnrThZMt2vUSCxbY3clX0Sv_7Q8yUam19ZUkjR6A/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg5/OS0xNTA3Mzg0OTc5/LTM0MDIuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/8l6iWLtjyy1kPYxKULOY2DUqcniovsTTOZu1J6kAJEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg5/OS0xNTA3Mzg0OTc5/LTM0MDIuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Folk Rock",
-      "Prog Rock"
+      "Alternative Rock"
     ],
-    "label": "Bronze",
-    "discogs_url": "https://www.discogs.com/release/539528"
+    "label": "Virgin",
+    "discogs_url": "https://www.discogs.com/release/367899"
   }
 }
