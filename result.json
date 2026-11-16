@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-16T19:56:42.714462+00:00",
+  "generated_at": "2026-11-16T23:56:11.922439+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 982536,
-    "discogs_id": 982536,
-    "title": "Dirt",
-    "artist": "Alice In Chains",
-    "year": 1992,
-    "cover_image": "https://i.discogs.com/hQoReqbDNIiVexvivvAgjiYFtFfWL00cm92V98ka1dQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjUz/Ni0xMzYxODA4ODc2/LTc4NzIuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/Toi8uqjY7d7t7TXIUF7fLGzWFIk0Tb1h7oKNCYkOzFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjUz/Ni0xMzYxODA4ODc2/LTc4NzIuanBlZw.jpeg",
+    "id": 687765,
+    "discogs_id": 687765,
+    "title": "Enemies Like This",
+    "artist": "Radio 4",
+    "year": 2006,
+    "cover_image": "https://i.discogs.com/1WflHeQnCvBXZLTb0kIh_tzCFhMUb0mXGGiSZGEXVj4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc2/NS0xNjIwODQ4MjA3/LTUzMzIuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/Z-AwJ_t_ROo1dbIJPNTIiEBTOjG89YIgegmuuynUVXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc2/NS0xNjIwODQ4MjA3/LTUzMzIuanBlZw.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Reggae"
     ],
     "styles": [
-      "Alternative Rock",
-      "Grunge",
-      "Hard Rock",
-      "Alternative Metal"
+      "Indie Rock",
+      "Post-Punk",
+      "Dub"
     ],
-    "label": "Columbia",
-    "discogs_url": "https://www.discogs.com/release/982536"
+    "label": "Astralwerks",
+    "discogs_url": "https://www.discogs.com/release/687765"
   }
 }
