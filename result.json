@@ -1,20 +1,24 @@
 {
-  "generated_at": "2026-11-17T18:52:48.877316+00:00",
+  "generated_at": "2026-11-17T23:16:33.391625+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1673025,
-    "discogs_id": 1673025,
-    "title": "Rules",
-    "artist": "The Whitest Boy Alive",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/PQOe6kX6UqtmxkA-1jnB6vObFxCIo86GMSKEJ_ym5q4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMw/MjUtMTYzMjUxMzk1/My0xNzkwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/SbnsceD5mS8wYnMgKQViAjCniOophEB9FO3082T0-v8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMw/MjUtMTYzMjUxMzk1/My0xNzkwLmpwZWc.jpeg",
+    "id": 8808012,
+    "discogs_id": 8808012,
+    "title": "Human Performance",
+    "artist": "Parquet Courts",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/6WLp6Wz8c-Z9VLpKAcOiyVo_ENA-eLWg0WqafQ2_hxY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDgw/MTItMTQ2OTIwMTQy/OS01MzM1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/DEBNeyzgOO-akkaiOsZvkr28t-FJA5ZMjy6NPmqUhWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDgw/MTItMTQ2OTIwMTQy/OS01MzM1LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
-    "styles": [],
-    "label": "Asound/Bubbles",
-    "discogs_url": "https://www.discogs.com/release/1673025"
+    "styles": [
+      "Punk",
+      "Indie Rock",
+      "Post-Punk",
+      "Art Rock"
+    ],
+    "label": "Rough Trade",
+    "discogs_url": "https://www.discogs.com/release/8808012"
   }
 }
