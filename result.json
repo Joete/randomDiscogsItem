@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-11-16T23:56:11.922439+00:00",
+  "generated_at": "2026-11-17T12:55:49.557007+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 687765,
-    "discogs_id": 687765,
-    "title": "Enemies Like This",
-    "artist": "Radio 4",
-    "year": 2006,
-    "cover_image": "https://i.discogs.com/1WflHeQnCvBXZLTb0kIh_tzCFhMUb0mXGGiSZGEXVj4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc2/NS0xNjIwODQ4MjA3/LTUzMzIuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/Z-AwJ_t_ROo1dbIJPNTIiEBTOjG89YIgegmuuynUVXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc2/NS0xNjIwODQ4MjA3/LTUzMzIuanBlZw.jpeg",
+    "id": 3776435,
+    "discogs_id": 3776435,
+    "title": "Die Sucht Der Träumer",
+    "artist": "Various",
+    "year": 1984,
+    "cover_image": "https://i.discogs.com/1WKLF2Z4HH4J4Dw3emF4fquYlRLMdRwrm5IRQJLrudA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzY0/MzUtMTQwMTYyOTA1/MC0zMTQzLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/txS0PImxOYdiDdl0hJDvV-ePm2e44OTgjyeDx8cw0oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzY0/MzUtMTQwMTYyOTA1/MC0zMTQzLmpwZWc.jpeg",
     "genres": [
       "Rock",
-      "Reggae"
+      "Pop"
     ],
     "styles": [
-      "Indie Rock",
-      "Post-Punk",
-      "Dub"
+      "Pop Rock"
     ],
-    "label": "Astralwerks",
-    "discogs_url": "https://www.discogs.com/release/687765"
+    "label": "EMI Electrola",
+    "discogs_url": "https://www.discogs.com/release/3776435"
   }
 }
