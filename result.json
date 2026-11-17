@@ -1,22 +1,20 @@
 {
-  "generated_at": "2026-11-17T12:55:49.557007+00:00",
+  "generated_at": "2026-11-17T18:52:48.877316+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3776435,
-    "discogs_id": 3776435,
-    "title": "Die Sucht Der Träumer",
-    "artist": "Various",
-    "year": 1984,
-    "cover_image": "https://i.discogs.com/1WKLF2Z4HH4J4Dw3emF4fquYlRLMdRwrm5IRQJLrudA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzY0/MzUtMTQwMTYyOTA1/MC0zMTQzLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/txS0PImxOYdiDdl0hJDvV-ePm2e44OTgjyeDx8cw0oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzY0/MzUtMTQwMTYyOTA1/MC0zMTQzLmpwZWc.jpeg",
+    "id": 1673025,
+    "discogs_id": 1673025,
+    "title": "Rules",
+    "artist": "The Whitest Boy Alive",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/PQOe6kX6UqtmxkA-1jnB6vObFxCIo86GMSKEJ_ym5q4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMw/MjUtMTYzMjUxMzk1/My0xNzkwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/SbnsceD5mS8wYnMgKQViAjCniOophEB9FO3082T0-v8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMw/MjUtMTYzMjUxMzk1/My0xNzkwLmpwZWc.jpeg",
     "genres": [
       "Rock",
       "Pop"
     ],
-    "styles": [
-      "Pop Rock"
-    ],
-    "label": "EMI Electrola",
-    "discogs_url": "https://www.discogs.com/release/3776435"
+    "styles": [],
+    "label": "Asound/Bubbles",
+    "discogs_url": "https://www.discogs.com/release/1673025"
   }
 }
