@@ -1,24 +1,19 @@
 {
-  "generated_at": "2026-11-17T23:16:33.391625+00:00",
+  "generated_at": "2026-11-18T12:49:17.433215+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 8808012,
-    "discogs_id": 8808012,
-    "title": "Human Performance",
-    "artist": "Parquet Courts",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/6WLp6Wz8c-Z9VLpKAcOiyVo_ENA-eLWg0WqafQ2_hxY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDgw/MTItMTQ2OTIwMTQy/OS01MzM1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/DEBNeyzgOO-akkaiOsZvkr28t-FJA5ZMjy6NPmqUhWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDgw/MTItMTQ2OTIwMTQy/OS01MzM1LmpwZWc.jpeg",
+    "id": 3249583,
+    "discogs_id": 3249583,
+    "title": "Im Auftrag Ewiger Jugend Und Glückseligkeit",
+    "artist": "Kinderzimmer Productions",
+    "year": 2011,
+    "cover_image": "https://i.discogs.com/yVoWjzYByo9K4zNyqZ8nVF6XYhQ1a8BYfHTRaVm4_Bw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDk1/ODMtMTQyNTA4ODQy/NC02MzM1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/MFpvf9l5r4iOgPB5-zIFF5Shh_ceZ4tbvLZm2l0hGhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDk1/ODMtMTQyNTA4ODQy/NC02MzM1LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Hip Hop"
     ],
-    "styles": [
-      "Punk",
-      "Indie Rock",
-      "Post-Punk",
-      "Art Rock"
-    ],
-    "label": "Rough Trade",
-    "discogs_url": "https://www.discogs.com/release/8808012"
+    "styles": [],
+    "label": "Trikont",
+    "discogs_url": "https://www.discogs.com/release/3249583"
   }
 }
