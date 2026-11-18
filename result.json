@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-11-18T12:49:17.433215+00:00",
+  "generated_at": "2026-11-18T18:31:13.995566+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3249583,
-    "discogs_id": 3249583,
-    "title": "Im Auftrag Ewiger Jugend Und Glückseligkeit",
-    "artist": "Kinderzimmer Productions",
-    "year": 2011,
-    "cover_image": "https://i.discogs.com/yVoWjzYByo9K4zNyqZ8nVF6XYhQ1a8BYfHTRaVm4_Bw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDk1/ODMtMTQyNTA4ODQy/NC02MzM1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/MFpvf9l5r4iOgPB5-zIFF5Shh_ceZ4tbvLZm2l0hGhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDk1/ODMtMTQyNTA4ODQy/NC02MzM1LmpwZWc.jpeg",
+    "id": 14093218,
+    "discogs_id": 14093218,
+    "title": "Artificial Horizon",
+    "artist": "TaxiWars",
+    "year": 2019,
+    "cover_image": "https://i.discogs.com/-mjFn7JfjrS06Mj6o9aFdMLuNUOVgFDxrKFTLBilnRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkz/MjE4LTE1Njc3MDkw/NzktODAyNC5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/UwSPW4T6YBxFef8Yno3yx6mshTUyTD5l-g0zAdEhXSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkz/MjE4LTE1Njc3MDkw/NzktODAyNC5qcGVn.jpeg",
     "genres": [
-      "Hip Hop"
+      "Jazz"
     ],
-    "styles": [],
-    "label": "Trikont",
-    "discogs_url": "https://www.discogs.com/release/3249583"
+    "styles": [
+      "Post Bop"
+    ],
+    "label": "Sdban Ultra",
+    "discogs_url": "https://www.discogs.com/release/14093218"
   }
 }
