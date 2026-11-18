@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-11-18T18:31:13.995566+00:00",
+  "generated_at": "2026-11-18T22:48:22.138256+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 14093218,
-    "discogs_id": 14093218,
-    "title": "Artificial Horizon",
-    "artist": "TaxiWars",
-    "year": 2019,
-    "cover_image": "https://i.discogs.com/-mjFn7JfjrS06Mj6o9aFdMLuNUOVgFDxrKFTLBilnRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkz/MjE4LTE1Njc3MDkw/NzktODAyNC5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/UwSPW4T6YBxFef8Yno3yx6mshTUyTD5l-g0zAdEhXSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkz/MjE4LTE1Njc3MDkw/NzktODAyNC5qcGVn.jpeg",
+    "id": 1786820,
+    "discogs_id": 1786820,
+    "title": "Moderat",
+    "artist": "Moderat",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/sR2Zn5byBnGLFRWfpoWUS6oRJvmvYCVKNd6fIypD94g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY4/MjAtMTQyMDQwNTg5/NS0yMjcwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/CYNI9tcmN1UrU37X_o7z3xr7N4W7ieZF7r7wn6KUj-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY4/MjAtMTQyMDQwNTg5/NS0yMjcwLmpwZWc.jpeg",
     "genres": [
-      "Jazz"
+      "Electronic"
     ],
     "styles": [
-      "Post Bop"
+      "IDM",
+      "Techno",
+      "Dubstep",
+      "Electro"
     ],
-    "label": "Sdban Ultra",
-    "discogs_url": "https://www.discogs.com/release/14093218"
+    "label": "BPitch Control",
+    "discogs_url": "https://www.discogs.com/release/1786820"
   }
 }
