@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-18T22:48:22.138256+00:00",
+  "generated_at": "2026-11-19T12:39:36.291485+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1786820,
-    "discogs_id": 1786820,
-    "title": "Moderat",
-    "artist": "Moderat",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/sR2Zn5byBnGLFRWfpoWUS6oRJvmvYCVKNd6fIypD94g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY4/MjAtMTQyMDQwNTg5/NS0yMjcwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/CYNI9tcmN1UrU37X_o7z3xr7N4W7ieZF7r7wn6KUj-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY4/MjAtMTQyMDQwNTg5/NS0yMjcwLmpwZWc.jpeg",
+    "id": 8396082,
+    "discogs_id": 8396082,
+    "title": "Mantra For A State Of Mind",
+    "artist": "Primal Scream",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/ql-A0-GVxl3z2A6UN8pJ-IMC-8ZTBtKeX_NnE_oS3Wo/rs:fit/g:sm/q:90/h:410/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTYw/ODItMTQ2MDgxMTAy/Mi03NzYwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/X-37IML83zabfddr0Ni_Qa8e3coVYAK_fLo5P60nxtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTYw/ODItMTQ2MDgxMTAy/Mi03NzYwLmpwZWc.jpeg",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Rock"
     ],
     "styles": [
-      "IDM",
-      "Techno",
-      "Dubstep",
-      "Electro"
+      "Alternative Rock",
+      "Indie Rock",
+      "Krautrock"
     ],
-    "label": "BPitch Control",
-    "discogs_url": "https://www.discogs.com/release/1786820"
+    "label": "First International",
+    "discogs_url": "https://www.discogs.com/release/8396082"
   }
 }
