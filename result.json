@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-11-19T22:51:15.110098+00:00",
+  "generated_at": "2026-11-20T12:38:47.761224+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 309667,
-    "discogs_id": 309667,
-    "title": "Theme From Rocky (Disco Mix)",
-    "artist": "Round One (2)",
-    "year": 1985,
-    "cover_image": "https://i.discogs.com/f3j9JNaMtpPBFCQEB1j2s7FaHdjOPhosPmhoXya7-mA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTY2/Ny0xMTczMDAzMzE0/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/eTWIqAbikTwTnKvX8TQMp9bnLPxuc_twJVNToFzT5nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTY2/Ny0xMTczMDAzMzE0/LmpwZWc.jpeg",
+    "id": 367882,
+    "discogs_id": 367882,
+    "title": "Blood Sugar Sex Magik",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1991,
+    "cover_image": "https://i.discogs.com/gpTtp4SE3HBlfBP1Fv61IzQhIslfDpVfzJx97RskUrQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg4/Mi0xMTkzNTU5OTk2/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/GsP8Kj5DVElvEqorJqwr3k51Tbjsf83ZHqiuJOnkkuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg4/Mi0xMTkzNTU5OTk2/LmpwZWc.jpeg",
     "genres": [
-      "Electronic"
+      "Rock"
     ],
     "styles": [
-      "Euro-Disco"
+      "Alternative Rock",
+      "Funk Metal"
     ],
-    "label": "Italoheat",
-    "discogs_url": "https://www.discogs.com/release/309667"
+    "label": "Warner Bros. Records",
+    "discogs_url": "https://www.discogs.com/release/367882"
   }
 }
