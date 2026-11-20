@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-11-20T18:11:28.687658+00:00",
+  "generated_at": "2026-11-20T22:27:52.790851+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 6057905,
-    "discogs_id": 6057905,
-    "title": "Keep It Like A Secret",
-    "artist": "Built To Spill",
-    "year": 2014,
-    "cover_image": "https://i.discogs.com/Ftxd4zKGq2ORN0KmrRk9eV7rPh3yzvHRJu0FgLLJVyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc5/MDUtMTQ0MTEzMzg5/NC0zNDk4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/8gxqFfK-4o81RSCTfGnc3sDBEB9Ko96POcbQKghCcYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc5/MDUtMTQ0MTEzMzg5/NC0zNDk4LmpwZWc.jpeg",
+    "id": 1131613,
+    "discogs_id": 1131613,
+    "title": "Some Boots",
+    "artist": "Karate",
+    "year": 2002,
+    "cover_image": "https://i.discogs.com/Bv7ttJdZC5nWDhPqVLfakeMUhnlDlq19FHB2hDwlF8U/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/MTMtMTU2MjEzNjM0/OS0xNDgyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/RzVWcUdlbJSjDy9UPm09lKCCJqrxyUCRlGGdm7BLbxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/MTMtMTU2MjEzNjM0/OS0xNDgyLmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Indie Rock"
+      "Alternative Rock",
+      "Post Rock"
     ],
-    "label": "Music On Vinyl",
-    "discogs_url": "https://www.discogs.com/release/6057905"
+    "label": "Southern Records",
+    "discogs_url": "https://www.discogs.com/release/1131613"
   }
 }
