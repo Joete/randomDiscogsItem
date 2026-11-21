@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-11-21T12:19:36.043079+00:00",
+  "generated_at": "2026-11-21T17:01:16.374736+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1970406,
-    "discogs_id": 1970406,
-    "title": "Remasters",
-    "artist": "Led Zeppelin",
-    "year": 1990,
-    "cover_image": "https://i.discogs.com/gTFvNljFtiq_9vuzf1mcnLapQDbK_IXzukG_LacJFME/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA0/MDYtMTI1NjAzMTM3/Mi5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/AHUTK62hC7OSpAJj3r7uMbfoaXIyUqEQaerm6JjPwEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA0/MDYtMTI1NjAzMTM3/Mi5qcGVn.jpeg",
+    "id": 383958,
+    "discogs_id": 383958,
+    "title": "Country Life (The 4th Roxy Music Album)",
+    "artist": "Roxy Music",
+    "year": 1974,
+    "cover_image": "https://i.discogs.com/NSaEkCDksn-2I5fazsZ8uz-Rcvtkllg7gA9NVB9IeTc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk1/OC0xNDMwMDQzOTY2/LTE1MDkuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/yoydKooQbJWreMxV80whrLB9yfds1r4y0hzgV-cxJvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk1/OC0xNDMwMDQzOTY2/LTE1MDkuanBlZw.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Hard Rock",
-      "Classic Rock",
-      "Blues Rock"
+      "Glam"
     ],
-    "label": "Atlantic",
-    "discogs_url": "https://www.discogs.com/release/1970406"
+    "label": "Island Records",
+    "discogs_url": "https://www.discogs.com/release/383958"
   }
 }
