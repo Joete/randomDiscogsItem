@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-11-21T17:01:16.374736+00:00",
+  "generated_at": "2026-11-21T21:23:46.790160+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 383958,
-    "discogs_id": 383958,
-    "title": "Country Life (The 4th Roxy Music Album)",
-    "artist": "Roxy Music",
-    "year": 1974,
-    "cover_image": "https://i.discogs.com/NSaEkCDksn-2I5fazsZ8uz-Rcvtkllg7gA9NVB9IeTc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk1/OC0xNDMwMDQzOTY2/LTE1MDkuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/yoydKooQbJWreMxV80whrLB9yfds1r4y0hzgV-cxJvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk1/OC0xNDMwMDQzOTY2/LTE1MDkuanBlZw.jpeg",
+    "id": 2436574,
+    "discogs_id": 2436574,
+    "title": "Self Preserved While The Bodies Float Up",
+    "artist": "Oceansize",
+    "year": 2010,
+    "cover_image": "https://i.discogs.com/T1VLIBy0ntH-Wqxm5c1g8oHkC9DjNLdOB38VbQKSjXA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY1/NzQtMTY1MDQwNTI1/MC0zMTA1LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/nRA7GFVrD5CTxrCZzA8Ea2MmM6UJAbYKMkBXukoyRQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY1/NzQtMTY1MDQwNTI1/MC0zMTA1LmpwZWc.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Glam"
+      "Alternative Rock",
+      "Prog Rock"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/383958"
+    "label": "Superball Music",
+    "discogs_url": "https://www.discogs.com/release/2436574"
   }
 }
