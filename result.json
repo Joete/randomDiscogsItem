@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-11-22T17:31:00.469285+00:00",
+  "generated_at": "2026-11-22T21:26:22.678821+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1185356,
-    "discogs_id": 1185356,
-    "title": "Wonsaponatime",
-    "artist": "John Lennon",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/7aa9FN6Hc-ESFOZlGosQ-EadiSsRgGjpLcO7BYSwBQY/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUz/NTYtMTU0ODA5NzQx/MC00NzE1LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/rurYFrJYz1gw6NE-VIDLs9EazwYfeQom41VFIG7CNSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUz/NTYtMTU0ODA5NzQx/MC00NzE1LmpwZWc.jpeg",
+    "id": 5877431,
+    "discogs_id": 5877431,
+    "title": "Jungle",
+    "artist": "Jungle (12)",
+    "year": 2014,
+    "cover_image": "https://i.discogs.com/U_5IUuBKZ8mv3NUBSNfDxtTmu85ezO9Q_iEyD9PB6F4/rs:fit/g:sm/q:90/h:368/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc0/MzEtMTQwNTE4MDQ5/MC03Njk5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/XCBGSYWvhpchEbvc08f600M22kjvlacEFMhjyesh7dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc0/MzEtMTQwNTE4MDQ5/MC03Njk5LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Electronic",
+      "Funk / Soul"
     ],
     "styles": [
-      "Art Rock",
-      "Pop Rock"
+      "Neo Soul"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/1185356"
+    "label": "XL Recordings",
+    "discogs_url": "https://www.discogs.com/release/5877431"
   }
 }
