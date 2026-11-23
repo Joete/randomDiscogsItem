@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-11-23T14:13:51.560743+00:00",
+  "generated_at": "2026-11-23T21:50:31.283814+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 604581,
-    "discogs_id": 604581,
-    "title": "Die Drei ???  13 - Und Der Lachende Schatten",
-    "artist": "William Arden",
-    "year": 1980,
-    "cover_image": "https://i.discogs.com/tCWuVNQzAoC0g7ST54imPVUIInFtRF4X72suWnJiGKM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDU4/MS0xNDUzOTczMzE0/LTU2MTMuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/tzarxlSluOwSiuUZWlCjPHJ_hU51TQtN0vUk1feRFJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDU4/MS0xNDUzOTczMzE0/LTU2MTMuanBlZw.jpeg",
+    "id": 1657824,
+    "discogs_id": 1657824,
+    "title": "The Pains Of Being Pure At Heart",
+    "artist": "The Pains Of Being Pure At Heart",
+    "year": 2009,
+    "cover_image": "https://i.discogs.com/5xTBLJuWxyaX3rEnO2MN_fXOeE3eXLknd926bGgLHvA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc4/MjQtMTYxNDg2NDk3/Mi03NDYwLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/W9a1Uga_oYyy-pJ3ScpDhMy7yRaxyCtMOTeEx5TldOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc4/MjQtMTYxNDg2NDk3/Mi03NDYwLmpwZWc.jpeg",
     "genres": [
-      "Non-Music",
-      "Children's"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Radioplay"
+      "Shoegaze",
+      "Indie Rock",
+      "Indie Pop"
     ],
-    "label": "Europa",
-    "discogs_url": "https://www.discogs.com/release/604581"
+    "label": "Slumberland Records",
+    "discogs_url": "https://www.discogs.com/release/1657824"
   }
 }
