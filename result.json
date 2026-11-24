@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-11-23T21:50:31.283814+00:00",
+  "generated_at": "2026-11-24T02:42:28.625974+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 1657824,
-    "discogs_id": 1657824,
-    "title": "The Pains Of Being Pure At Heart",
-    "artist": "The Pains Of Being Pure At Heart",
-    "year": 2009,
-    "cover_image": "https://i.discogs.com/5xTBLJuWxyaX3rEnO2MN_fXOeE3eXLknd926bGgLHvA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc4/MjQtMTYxNDg2NDk3/Mi03NDYwLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/W9a1Uga_oYyy-pJ3ScpDhMy7yRaxyCtMOTeEx5TldOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc4/MjQtMTYxNDg2NDk3/Mi03NDYwLmpwZWc.jpeg",
+    "id": 624042,
+    "discogs_id": 624042,
+    "title": "Core",
+    "artist": "Stone Temple Pilots",
+    "year": 1992,
+    "cover_image": "https://i.discogs.com/hAwhBP7OT8SQNT-1xUVzGuma8CoQtGnmDiig16Cc3LU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA0/Mi0xMTcyMTg4MDY4/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/wqvJdVAfiHb_lUce-myFuMkstpGaHHZ_J-ZPMsyj9Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA0/Mi0xMTcyMTg4MDY4/LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Shoegaze",
-      "Indie Rock",
-      "Indie Pop"
+      "Alternative Rock",
+      "Grunge"
     ],
-    "label": "Slumberland Records",
-    "discogs_url": "https://www.discogs.com/release/1657824"
+    "label": "Atlantic",
+    "discogs_url": "https://www.discogs.com/release/624042"
   }
 }
