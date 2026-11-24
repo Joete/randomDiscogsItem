@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-11-24T14:40:09.347223+00:00",
+  "generated_at": "2026-11-24T20:26:28.250262+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 7579375,
-    "discogs_id": 7579375,
-    "title": "Live At The Regal",
-    "artist": "B.B. King",
-    "year": 2015,
-    "cover_image": "https://i.discogs.com/tpUEp4huNlju3cHZwmUIY5RLNutE_0nE6o7OQPC3ZC4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzkz/NzUtMTQ0NjQzMjM5/Mi03MDc2LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/iDd_JgdmWUIu-yvtblgqzGsC8DpfgfiO10ODN-Z6UqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzkz/NzUtMTQ0NjQzMjM5/Mi03MDc2LmpwZWc.jpeg",
+    "id": 3807436,
+    "discogs_id": 3807436,
+    "title": "K.O.O.K.",
+    "artist": "Tocotronic",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/J7zm2B76JKtoSPof31_ZsR02MVBQeqYfHy5sF_8syJg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/MzYtMTQzNTYxNTA4/My04ODg4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/tnZZu_XvpzuPNV-uFZ6eozRko3EhB1EoGXmJ2qjErD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/MzYtMTQzNTYxNTA4/My04ODg4LmpwZWc.jpeg",
     "genres": [
-      "Blues"
+      "Rock"
     ],
     "styles": [
-      "Chicago Blues",
-      "Electric Blues"
+      "Indie Rock"
     ],
-    "label": "Geffen Records",
-    "discogs_url": "https://www.discogs.com/release/7579375"
+    "label": "Buback",
+    "discogs_url": "https://www.discogs.com/release/3807436"
   }
 }
