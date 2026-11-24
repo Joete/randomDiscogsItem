@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-24T02:42:28.625974+00:00",
+  "generated_at": "2026-11-24T14:40:09.347223+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 624042,
-    "discogs_id": 624042,
-    "title": "Core",
-    "artist": "Stone Temple Pilots",
-    "year": 1992,
-    "cover_image": "https://i.discogs.com/hAwhBP7OT8SQNT-1xUVzGuma8CoQtGnmDiig16Cc3LU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA0/Mi0xMTcyMTg4MDY4/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/wqvJdVAfiHb_lUce-myFuMkstpGaHHZ_J-ZPMsyj9Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA0/Mi0xMTcyMTg4MDY4/LmpwZWc.jpeg",
+    "id": 7579375,
+    "discogs_id": 7579375,
+    "title": "Live At The Regal",
+    "artist": "B.B. King",
+    "year": 2015,
+    "cover_image": "https://i.discogs.com/tpUEp4huNlju3cHZwmUIY5RLNutE_0nE6o7OQPC3ZC4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzkz/NzUtMTQ0NjQzMjM5/Mi03MDc2LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/iDd_JgdmWUIu-yvtblgqzGsC8DpfgfiO10ODN-Z6UqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzkz/NzUtMTQ0NjQzMjM5/Mi03MDc2LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Blues"
     ],
     "styles": [
-      "Alternative Rock",
-      "Grunge"
+      "Chicago Blues",
+      "Electric Blues"
     ],
-    "label": "Atlantic",
-    "discogs_url": "https://www.discogs.com/release/624042"
+    "label": "Geffen Records",
+    "discogs_url": "https://www.discogs.com/release/7579375"
   }
 }
