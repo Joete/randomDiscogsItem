@@ -1,27 +1,22 @@
 {
-  "generated_at": "2026-11-25T14:01:12.668679+00:00",
+  "generated_at": "2026-11-25T19:40:43.934267+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 594348,
-    "discogs_id": 594348,
-    "title": "Nightclubbing",
-    "artist": "Grace Jones",
-    "year": 1981,
-    "cover_image": "https://i.discogs.com/nDxC9IHcHGJylB0B3Y8geYDlJPqkCzFbTJKdQj6W3fE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM0/OC0xNDkyMTU5NDk5/LTgzMTIuanBlZw.jpeg",
-    "thumb": "https://i.discogs.com/otcos6EpwkX3U-jejWqtnmQsx8MC7PN7Qj5ktIpcoq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM0/OC0xNDkyMTU5NDk5/LTgzMTIuanBlZw.jpeg",
+    "id": 853129,
+    "discogs_id": 853129,
+    "title": "Nico",
+    "artist": "Blind Melon",
+    "year": 1996,
+    "cover_image": "https://i.discogs.com/nkqNaewYya-QrNakGETVaupNvUzpSOENzsfIFuHq2Rc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzEy/OS0xMTY3Mzk2Nzkx/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/YzXWAiQD5e5ccb5_kfOPQw3ZRgGq--zmsEfdO7AJ58I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzEy/OS0xMTY3Mzk2Nzkx/LmpwZWc.jpeg",
     "genres": [
-      "Electronic",
-      "Funk / Soul",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Reggae",
-      "Dub",
-      "Disco",
-      "Synth-pop",
-      "Reggae-Pop"
+      "Alternative Rock",
+      "Acoustic"
     ],
-    "label": "Island Records",
-    "discogs_url": "https://www.discogs.com/release/594348"
+    "label": "Capitol Records",
+    "discogs_url": "https://www.discogs.com/release/853129"
   }
 }
