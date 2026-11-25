@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-11-25T00:16:35.056977+00:00",
+  "generated_at": "2026-11-25T14:01:12.668679+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 6530,
-    "discogs_id": 6530,
-    "title": "Mezzanine",
-    "artist": "Massive Attack",
-    "year": 1998,
-    "cover_image": "https://i.discogs.com/t2cOvgvzOqKzSFab55cHspWHl5IgiVpbPtLgyzwYmxI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAt/MTYxNTMwMzUzMi01/NDI0LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/5go27kBMbECg5vxeDtiCCHfy7xcYWdNU8AIOa-9IR6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAt/MTYxNTMwMzUzMi01/NDI0LmpwZWc.jpeg",
+    "id": 594348,
+    "discogs_id": 594348,
+    "title": "Nightclubbing",
+    "artist": "Grace Jones",
+    "year": 1981,
+    "cover_image": "https://i.discogs.com/nDxC9IHcHGJylB0B3Y8geYDlJPqkCzFbTJKdQj6W3fE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM0/OC0xNDkyMTU5NDk5/LTgzMTIuanBlZw.jpeg",
+    "thumb": "https://i.discogs.com/otcos6EpwkX3U-jejWqtnmQsx8MC7PN7Qj5ktIpcoq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM0/OC0xNDkyMTU5NDk5/LTgzMTIuanBlZw.jpeg",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Funk / Soul",
+      "Pop"
     ],
     "styles": [
-      "Leftfield",
-      "Trip Hop",
-      "Downtempo"
+      "Reggae",
+      "Dub",
+      "Disco",
+      "Synth-pop",
+      "Reggae-Pop"
     ],
-    "label": "Circa",
-    "discogs_url": "https://www.discogs.com/release/6530"
+    "label": "Island Records",
+    "discogs_url": "https://www.discogs.com/release/594348"
   }
 }
