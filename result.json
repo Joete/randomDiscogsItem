@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-25T19:40:43.934267+00:00",
+  "generated_at": "2026-11-25T23:56:28.318289+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 853129,
-    "discogs_id": 853129,
-    "title": "Nico",
-    "artist": "Blind Melon",
-    "year": 1996,
-    "cover_image": "https://i.discogs.com/nkqNaewYya-QrNakGETVaupNvUzpSOENzsfIFuHq2Rc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzEy/OS0xMTY3Mzk2Nzkx/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/YzXWAiQD5e5ccb5_kfOPQw3ZRgGq--zmsEfdO7AJ58I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzEy/OS0xMTY3Mzk2Nzkx/LmpwZWc.jpeg",
+    "id": 13510125,
+    "discogs_id": 13510125,
+    "title": "Geil",
+    "artist": "Bruce & Bongo",
+    "year": 1986,
+    "cover_image": "https://i.discogs.com/GL4et1y6wX2SbkkA7v1IoJWeSuOnd0mkytNs_1qC4aE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/MTI1LTE2MDQ0MDg5/MzQtMzE4My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/20t1LX_jAm4QdQAPxomASGNHYcqPJtCbmBD6mAGVVzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/MTI1LTE2MDQ0MDg5/MzQtMzE4My5qcGVn.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "Alternative Rock",
-      "Acoustic"
+      "Disco",
+      "Electro"
     ],
-    "label": "Capitol Records",
-    "discogs_url": "https://www.discogs.com/release/853129"
+    "label": "Rush Records",
+    "discogs_url": "https://www.discogs.com/release/13510125"
   }
 }
