@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-11-24T20:26:28.250262+00:00",
+  "generated_at": "2026-11-25T00:16:35.056977+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 3807436,
-    "discogs_id": 3807436,
-    "title": "K.O.O.K.",
-    "artist": "Tocotronic",
-    "year": 2012,
-    "cover_image": "https://i.discogs.com/J7zm2B76JKtoSPof31_ZsR02MVBQeqYfHy5sF_8syJg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/MzYtMTQzNTYxNTA4/My04ODg4LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/tnZZu_XvpzuPNV-uFZ6eozRko3EhB1EoGXmJ2qjErD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/MzYtMTQzNTYxNTA4/My04ODg4LmpwZWc.jpeg",
+    "id": 6530,
+    "discogs_id": 6530,
+    "title": "Mezzanine",
+    "artist": "Massive Attack",
+    "year": 1998,
+    "cover_image": "https://i.discogs.com/t2cOvgvzOqKzSFab55cHspWHl5IgiVpbPtLgyzwYmxI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAt/MTYxNTMwMzUzMi01/NDI0LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/5go27kBMbECg5vxeDtiCCHfy7xcYWdNU8AIOa-9IR6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAt/MTYxNTMwMzUzMi01/NDI0LmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Electronic"
     ],
     "styles": [
-      "Indie Rock"
+      "Leftfield",
+      "Trip Hop",
+      "Downtempo"
     ],
-    "label": "Buback",
-    "discogs_url": "https://www.discogs.com/release/3807436"
+    "label": "Circa",
+    "discogs_url": "https://www.discogs.com/release/6530"
   }
 }
