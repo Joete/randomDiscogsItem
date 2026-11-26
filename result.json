@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-11-26T13:40:33.982088+00:00",
+  "generated_at": "2026-11-26T19:21:25.867049+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 8790486,
-    "discogs_id": 8790486,
-    "title": "Sonic Nurse",
-    "artist": "Sonic Youth",
-    "year": 2016,
-    "cover_image": "https://i.discogs.com/HutfFzZKxurMpOmVd9GWM6wPWksXA9qV_HSSaP1SBd0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTA0/ODYtMTQ2ODgzMTkx/OS04Njg5LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/LY9yEereGnJs031pHEbMAbgNnHoveQiL1P3z7fg2oZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTA0/ODYtMTQ2ODgzMTkx/OS04Njg5LmpwZWc.jpeg",
+    "id": 2138123,
+    "discogs_id": 2138123,
+    "title": "The Best Of Cat Stevens",
+    "artist": "Cat Stevens",
+    "year": 1973,
+    "cover_image": "https://i.discogs.com/hNYS39_dw8PNgWxGfxjCn4kZuE9QdC1XMjQi91KaaIs/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgx/MjMtMTM1NjU5MjI0/MC0zMzczLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/y49U0imhs7GdkRAIki0zfVV2OR1htFILZ__7AD11e6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgx/MjMtMTM1NjU5MjI0/MC0zMzczLmpwZWc.jpeg",
     "genres": [
-      "Rock"
+      "Rock",
+      "Pop"
     ],
     "styles": [
-      "Alternative Rock",
-      "Indie Rock"
+      "Folk Rock",
+      "Soft Rock",
+      "Pop Rock"
     ],
-    "label": "DGC",
-    "discogs_url": "https://www.discogs.com/release/8790486"
+    "label": "Decca",
+    "discogs_url": "https://www.discogs.com/release/2138123"
   }
 }
