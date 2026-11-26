@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-25T23:56:28.318289+00:00",
+  "generated_at": "2026-11-26T13:40:33.982088+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 13510125,
-    "discogs_id": 13510125,
-    "title": "Geil",
-    "artist": "Bruce & Bongo",
-    "year": 1986,
-    "cover_image": "https://i.discogs.com/GL4et1y6wX2SbkkA7v1IoJWeSuOnd0mkytNs_1qC4aE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/MTI1LTE2MDQ0MDg5/MzQtMzE4My5qcGVn.jpeg",
-    "thumb": "https://i.discogs.com/20t1LX_jAm4QdQAPxomASGNHYcqPJtCbmBD6mAGVVzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/MTI1LTE2MDQ0MDg5/MzQtMzE4My5qcGVn.jpeg",
+    "id": 8790486,
+    "discogs_id": 8790486,
+    "title": "Sonic Nurse",
+    "artist": "Sonic Youth",
+    "year": 2016,
+    "cover_image": "https://i.discogs.com/HutfFzZKxurMpOmVd9GWM6wPWksXA9qV_HSSaP1SBd0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTA0/ODYtMTQ2ODgzMTkx/OS04Njg5LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/LY9yEereGnJs031pHEbMAbgNnHoveQiL1P3z7fg2oZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTA0/ODYtMTQ2ODgzMTkx/OS04Njg5LmpwZWc.jpeg",
     "genres": [
-      "Electronic"
+      "Rock"
     ],
     "styles": [
-      "Disco",
-      "Electro"
+      "Alternative Rock",
+      "Indie Rock"
     ],
-    "label": "Rush Records",
-    "discogs_url": "https://www.discogs.com/release/13510125"
+    "label": "DGC",
+    "discogs_url": "https://www.discogs.com/release/8790486"
   }
 }
