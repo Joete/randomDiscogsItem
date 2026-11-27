@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-11-27T00:14:18.418032+00:00",
+  "generated_at": "2026-11-27T13:37:44.000135+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 379354,
-    "discogs_id": 379354,
-    "title": "Live At The Brixton Academy",
-    "artist": "Faith No More",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/XKRW7X3SANTCyMXg7e_HSW2Ru1bJO7sEm7oJVCYsumU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM1/NC0xMTMyODIyMTY4/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/t3s1e1xdggmjnol2wDs7WU1svCu1eylZcxNoyol-t_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM1/NC0xMTMyODIyMTY4/LmpwZWc.jpeg",
+    "id": 1460942,
+    "discogs_id": 1460942,
+    "title": "Everyone Into Position",
+    "artist": "Oceansize",
+    "year": 2005,
+    "cover_image": "https://i.discogs.com/PObKmqOUHBD-_4hABacbYFyHTS5WGwoTiGuO6sip2Q4/rs:fit/g:sm/q:90/h:500/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA5/NDItMTIyMTQyODU5/MS5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/f_lyDAq5tLKmmE8hn4nFGldB0GZ4-B88rdGhZqrCmGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA5/NDItMTIyMTQyODU5/MS5qcGVn.jpeg",
     "genres": [
       "Rock"
     ],
     "styles": [
-      "Alternative Rock"
+      "Alternative Rock",
+      "Post Rock",
+      "Indie Rock"
     ],
-    "label": "Slash",
-    "discogs_url": "https://www.discogs.com/release/379354"
+    "label": "Beggars Banquet",
+    "discogs_url": "https://www.discogs.com/release/1460942"
   }
 }
