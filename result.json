@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-11-26T19:21:25.867049+00:00",
+  "generated_at": "2026-11-27T00:14:18.418032+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 2138123,
-    "discogs_id": 2138123,
-    "title": "The Best Of Cat Stevens",
-    "artist": "Cat Stevens",
-    "year": 1973,
-    "cover_image": "https://i.discogs.com/hNYS39_dw8PNgWxGfxjCn4kZuE9QdC1XMjQi91KaaIs/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgx/MjMtMTM1NjU5MjI0/MC0zMzczLmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/y49U0imhs7GdkRAIki0zfVV2OR1htFILZ__7AD11e6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgx/MjMtMTM1NjU5MjI0/MC0zMzczLmpwZWc.jpeg",
+    "id": 379354,
+    "discogs_id": 379354,
+    "title": "Live At The Brixton Academy",
+    "artist": "Faith No More",
+    "year": 0,
+    "cover_image": "https://i.discogs.com/XKRW7X3SANTCyMXg7e_HSW2Ru1bJO7sEm7oJVCYsumU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM1/NC0xMTMyODIyMTY4/LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/t3s1e1xdggmjnol2wDs7WU1svCu1eylZcxNoyol-t_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM1/NC0xMTMyODIyMTY4/LmpwZWc.jpeg",
     "genres": [
-      "Rock",
-      "Pop"
+      "Rock"
     ],
     "styles": [
-      "Folk Rock",
-      "Soft Rock",
-      "Pop Rock"
+      "Alternative Rock"
     ],
-    "label": "Decca",
-    "discogs_url": "https://www.discogs.com/release/2138123"
+    "label": "Slash",
+    "discogs_url": "https://www.discogs.com/release/379354"
   }
 }
