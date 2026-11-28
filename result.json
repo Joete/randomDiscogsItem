@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-11-28T12:48:28.095220+00:00",
+  "generated_at": "2026-11-28T17:52:49.914048+00:00",
   "total_in_collection": 1158,
   "result": {
-    "id": 368596,
-    "discogs_id": 368596,
-    "title": "The Wall",
-    "artist": "Pink Floyd",
-    "year": 0,
-    "cover_image": "https://i.discogs.com/BrDnf4BDcKUFXJ7iqg68uqpOBSJbO5kVxYk1M93R9ss/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODU5/Ni0xMTk3NTUyNTQx/LmpwZWc.jpeg",
-    "thumb": "https://i.discogs.com/--PtGQF-ihR9lM-pm_5bnCiafAJIL7JSFVFFNtMiMlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODU5/Ni0xMTk3NTUyNTQx/LmpwZWc.jpeg",
+    "id": 3948617,
+    "discogs_id": 3948617,
+    "title": "Mumps, Etc.",
+    "artist": "Why?",
+    "year": 2012,
+    "cover_image": "https://i.discogs.com/bzWzzl19g-jLUY0UTqcG9m9FU-f-5-utnvQ0bQmIkf4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDg2/MTctMTQ1MDQwMjEz/OC00MjcyLmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/Jyp8wPd6i7NueM66RCrFNfc1YcS_58hiiwP74Z8Nybg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDg2/MTctMTQ1MDQwMjEz/OC00MjcyLmpwZWc.jpeg",
     "genres": [
+      "Hip Hop",
       "Rock"
     ],
     "styles": [
-      "Prog Rock",
-      "Rock Opera"
+      "Leftfield",
+      "Experimental",
+      "Indie Rock"
     ],
-    "label": "Harvest",
-    "discogs_url": "https://www.discogs.com/release/368596"
+    "label": "City Slang",
+    "discogs_url": "https://www.discogs.com/release/3948617"
   }
 }
